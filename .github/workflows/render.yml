@@ -1,0 +1,49 @@
+name: Render Episode
+# يرندر حلقة GuessSync على سيرفرات GitHub (مجاناً). شغّله يدوياً من تبويب Actions.
+on:
+  workflow_dispatch:
+    inputs:
+      composition:
+        description: "Composition id (e.g. E11Quiz)"
+        required: true
+        default: "E11Quiz"
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Chromium system libraries
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 \
+            libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 \
+            libasound2 libpango-1.0-0 libcairo2 libxshmfence1 ffmpeg
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Ensure Remotion browser
+        run: npx remotion browser ensure
+
+      - name: Render (timed)
+        run: |
+          echo "=== render start: $(date) ==="
+          time npx remotion render ${{ github.event.inputs.composition }} out/${{ github.event.inputs.composition }}.mp4 --concurrency=4
+          echo "=== render end: $(date) ==="
+          ls -la out/
+
+      - name: Upload rendered video
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ github.event.inputs.composition }}
+          path: out/${{ github.event.inputs.composition }}.mp4
+          retention-days: 3
