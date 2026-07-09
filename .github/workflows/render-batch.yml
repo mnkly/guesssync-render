@@ -1,0 +1,58 @@
+name: Render Batch
+# يرندر قائمة كومبوزشنز بالتوازي (matrix). كل وظيفة = كومبوزشن واحد.
+# الإدخال: compositions = مصفوفة JSON، مثال: ["E16Quiz","Short-E16-1","ThumbLandmark"]
+# الحد المجاني: ~20 وظيفة بالتوازي. النواتج تُرفع كـartifacts (تُجلب محلياً بـgh run download).
+on:
+  workflow_dispatch:
+    inputs:
+      compositions:
+        description: 'JSON array of composition ids'
+        required: true
+        default: '["E16Quiz"]'
+
+jobs:
+  render:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 320
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        comp: ${{ fromJson(github.event.inputs.compositions) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Chromium libs
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 \
+            libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 \
+            libasound2 libpango-1.0-0 libcairo2 libxshmfence1 ffmpeg
+      - name: Install deps
+        run: npm ci || npm install
+      - name: Ensure browser
+        run: npx remotion browser ensure
+      - name: Render ${{ matrix.comp }}
+        run: |
+          set -e
+          COMP="${{ matrix.comp }}"
+          mkdir -p out
+          if [[ "$COMP" == Thumb* ]]; then
+            echo "=== still: $COMP ==="
+            npx remotion still "$COMP" "out/$COMP.png"
+          else
+            echo "=== video: $COMP ==="
+            time npx remotion render "$COMP" "out/$COMP.mp4" --concurrency=2
+          fi
+          ls -la out/
+      - name: Upload ${{ matrix.comp }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.comp }}
+          path: |
+            out/${{ matrix.comp }}.mp4
+            out/${{ matrix.comp }}.png
+          if-no-files-found: error
+          retention-days: 5
