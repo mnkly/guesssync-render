@@ -37,7 +37,7 @@ jobs:
       - name: Render (timed)
         run: |
           echo "=== render start: $(date) ==="
-          time npx remotion render ${{ github.event.inputs.composition }} out/${{ github.event.inputs.composition }}.mp4 --concurrency=4
+          time npx remotion render ${{ github.event.inputs.composition }} out/${{ github.event.inputs.composition }}.mp4 --concurrency=2
           echo "=== render end: $(date) ==="
           ls -la out/
 
