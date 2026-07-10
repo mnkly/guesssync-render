@@ -1,0 +1,106 @@
+GuessSync E34 - "Guess the Cat Breed" - Image Attributions
+100 real cat photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. Files under CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that requirement.
+Generated 2026-07-10. Format:  slug | name | author | license | source
+==========================================================================================
+persian | Persian | The original uploader was Lajoma at Finnish Wikipedia. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Persialainen.jpg
+siamese | Siamese | Meekahoo | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Siamese_cat_Vaillante.JPG
+mainecoon | Maine Coon | Unknown | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:M%C3%A2le_Black_Silver_Blotched_Tabby.jpeg
+bengal | Bengal | User:Lightburst | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Paintedcats_Red_Star_standing.jpg
+sphynx | Sphynx | Dmitry Makeev | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sphynx_-_cat._img_031.jpg
+britishshorthair | British Shorthair | BritishEmpire | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mystica_from_British_Empire_Cattery.jpg
+ragdoll | Ragdoll | Simone Johnsson | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Ragdoll_from_Gatil_Ragbelas.jpg
+scottishfold | Scottish Fold | Heikki Siltala | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Scottish_Fold_-_CFF_cat_show_Heinola_2008-05-03_IMG_7882.JPG
+russianblue | Russian Blue | Anna Utekhina http://kidsphoto.ru/ | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Russian_blue_kitten_(cropped).jpg
+abyssinian | Abyssinian | Karin Langner-Bahmann | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Gustav_chocolate.jpg
+americanshorthair | American Shorthair | odin_aka_zero-one | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Jewelkatz_Romeo_Of_Stalker-Bars.jpg
+norwegianforest | Norwegian Forest Cat | Gangburgondes | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Dalaja-Doll-norv%C3%A9gien-ambre-blotched-tabby_avec-blanc_2008_(cropped).jpg
+birman | Birman | Kristin Kokkersvold | Copyrighted free use | https://commons.wikimedia.org/wiki/File:Birmanstrofe.jpg
+burmese | Burmese | Heikkisiltala | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:British_burmese_-_Andel_Alois_at_Cat_show.JPG
+munchkin | Munchkin | Sg0668commons | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Longhairedmunchkin.jpg
+turkishangora | Turkish Angora | Ankarakediler | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Turkish_Angora_in_Ankara_Zoo_(AO%C3%87).JPG
+himalayan | Himalayan | Cindy See | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Sonny_Bunny.jpg
+manx | Manx | EliasAlucard at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Manx_Minus_rumpy.jpg
+exoticshorthair | Exotic Shorthair | Tcm1707 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ginger_Exotic_Shorthair.jpg
+savannah | Savannah | Jason Douglas | Public domain | https://commons.wikimedia.org/wiki/File:Savannah_Cat_portrait.jpg
+bombay | Bombay | Pititebilette | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bombay_femelle.JPG
+devonrex | Devon Rex | Anna Belial | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Devon_Rex_Cassini.jpeg
+cornishrex | Cornish Rex | Tomi Tapio K from Helsinki, Finland | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Rex_staredown.jpg
+somali | Somali | Матвеева Ирина Владимировна | Public domain | https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0.jpg
+tonkinese | Tonkinese | Luigi Leahy | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tonkinese_Cat_-_Leo.jpg
+ocicat | Ocicat | Heikki Siltala - catza.net | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Topspot_La_Colombina_(Liina)_OCI_c_24_female_kitten_EX1.JPG
+balinese | Balinese | Mary Desmond | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Old-Style_Balinese_Cat.png
+chartreux | Chartreux | Heikki Siltala - catza.net | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:IC_Blue_Melody_Flipper_CHA_male_EX1_CACIB.jpg
+korat | Korat | Yog-Hurt's_Atlach-Nacha_at_Turok_Cat_Show.JPG: Heikkisiltala GIC_Lucky_Uffe_at_cat_show_Hyvinkää.JPG: Heikkisiltala derivative work: Abujoy (talk) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Face_et_profil_du_korat.JPG
+singapura | Singapura | Straits Singapuras | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Singapura_Cats.jpg
+turkishvan | Turkish Van | Matsu1024 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Turkish_Van_cat_transparent_(cropped).png
+selkirkrex | Selkirk Rex | Original uploader at en.wikipedia (see file page) | CC BY-SA 3.0 | https://en.wikipedia.org/wiki/File:PolloSelkirkRex.jpg
+laperm | LaPerm | Bebopscrx | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Laperm_LH_blacktortie_white.jpg
+americancurl | American Curl | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:American_curl_2.jpg
+japanesebobtail | Japanese Bobtail | ようてい | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:JapaneseBobtailBlueEyedMi-ke.JPG
+egyptianmau | Egyptian Mau | Achet Aton | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:RoyalNefertt_Serket_of_AchetAton.jpg
+siberian | Siberian | Floofymarshmallow | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Samiha%27s_Siberian_cat_Moon_Pie.jpg
+ragamuffin | Ragamuffin | "Iris Preyler-Hamertinger" | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:20050922AmarilloRes.jpg
+orientalshorthair | Oriental Shorthair | Daly69 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Fatale_de_la_l%C3%A9gende_d%27ali.jpg
+snowshoe | Snowshoe | Heikki Siltala | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Hattikatin_Lumipyry.JPG
+pixiebob | Pixie-bob | Nathalie Bent | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Jarnac_Bepacific_feb07.jpg
+toyger | Toyger | Heikki Siltala | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Toyger_-_Cornish_Rex_presentation_show_Riihim%C3%A4ki_2008-11-16_IMG_0101.JPG
+nebelung | Nebelung | Nebelung | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Aleksandr_van_Song_de_Chine.jpg
+cymric | Cymric | Desaix83, d'après le travail d'Heikki Siltala | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Cymric_Fond_Blanc.jpg
+chausie | Chausie | PiBeseth | CC0 | https://commons.wikimedia.org/wiki/File:ChausieA.jpg
+havanabrown | Havana Brown | Havanabrowngirl | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Havana_Brown_Cat_2.jpg
+burmilla | Burmilla | David Johnson [1] | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Male_Burmilla_cat.jpeg
+peterbald | Peterbald | Acracrabe | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Peterbald_blanc,_type_brush.jpg
+donskoy | Donskoy | Nickolas Titkov from Moscow, Russian Federation | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:DSX_World_Premior_RU*Don_Xuk%27s_Login_WOW_(14037189016).jpg
+lykoi | Lykoi | steptacular | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:8-month-old_male_Lykoi.jpg
+khaomanee | Khao Manee | Octavio.hgc | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Khaomanee_cat.jpg
+kurilianbobtail | Kurilian Bobtail | TRUE KURILIANS | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:KURILIAN_BOBTAIL_Maschio_Veika_2011_(cropped).JPG
+americanwirehair | American Wirehair | Heikki Siltala | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:American_Wirehair_-_CFF_cat_show_Heinola_2008-05-04_IMG_8721.JPG
+americanbobtail | American Bobtail | torbakhopper | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:American_bobtail_2.jpg
+colorpointshorthair | Colorpoint Shorthair | Larry Johnson | CC0 | https://commons.wikimedia.org/wiki/File:Chocolate_Tortie_Pt_11636-140.jpg
+europeanshorthair | European Shorthair | Tessa | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:European_Shorthair_EUR_d_22.jpg
+germanrex | German Rex | M.Gerver | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:German_rex_harry_(cropped).jpg
+ukrainianlevkoy | Ukrainian Levkoy | Alena Ivanchuk | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ukrainian_Levkoy_cat.jpg
+serengeti | Serengeti | Shandris at English Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Serengetimalecat.jpg
+cheetoh | Cheetoh | Mcelite | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cheetoh_cat_chilling.png
+highlander | Highlander | DigitalDirt | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Highlander-7.jpg
+thai | Thai | Talar | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%82_%D0%9B%D1%83%D0%BB%D0%B0%D0%BC%D0%B5%D0%B9_%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0,_%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5_WCF,_%D0%BE%D0%BA%D1%80%D0%B0%D1%81_%D0%B1%D0%BB%D1%8E_%D0%BF%D0%BE%D0%B8%D0%BD%D1%82_01_(cropped).jpg
+australianmist | Australian Mist | Regis2007 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Australian_Mist.jpg
+sokoke | Sokoke | Heikki Siltala https://catza.net/ | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Kimburu_Sungura_Sana_of_Moosegrove_SOK_n_22_(cropped).jpg
+arabianmau | Arabian Mau | SolnishkoA | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Arabian_Mau_Kitten_(cropped).jpg
+aegean | Aegean | Sam Holt | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Aegean_Island_Cat.jpg
+brazilianshorthair | Brazilian Shorthair | J.Jazz | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Gato_pelo_curto_brasileiro.JPG
+californiaspangled | California Spangled | Flamingice007sg | Public domain | https://commons.wikimedia.org/wiki/File:Star_Spangled_Cat.jpg
+minuet | Minuet | William Parker | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:White_Gray_Minuet_Cat.png
+mekongbobtail | Mekong Bobtail | Alex Opryatin | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mekong_bobtail_(Thai_bobtail)._Tabby-point..jpg
+ojosazules | Ojos Azules | cats.fandom.com | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ojos_Azules_from_the_USA.jpg
+kanaani | Kanaani | KanaaniStudies | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Kanaani_cat_Haifa_full_body_profile_Brooklyn_2025_(cropped).jpg
+nevamasquerade | Neva Masquerade | Burgerhus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:NevaMasqueradeFiona_(cropped).jpg
+yorkchocolate | York Chocolate | Charlotte1018 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:York_chocolate_cat.jpg
+chantillytiffany | Chantilly-Tiffany | Helgren, Anne. | CC0 | https://commons.wikimedia.org/wiki/File:Chantilly-cat-fancy-1995_(cropped).jpg
+elf | Elf | Kirimiti | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Elf1111111.jpg
+lihua | Dragon Li | Painjet | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cat_named_Pipi.jpg
+bambino | Bambino | Heikki Siltala | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bambino_Sphynx_cat.JPG
+minskin | Minskin | Paulmcsorley | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Minskin_Kitten_Female_blue_tabby_color-pattern.jpg
+genetta | Genetta | Struck, AK., Braun, M., Detering, K.A. et al. | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Genetta_dwarf_cat.jpg
+uralrex | Ural Rex | Nickolas Titkov from Moscow, Russian Federation | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:URX_%D0%90%D0%BC%D1%83%D0%BB%D0%B5%D1%82_%D0%A3%D1%80%D0%B0%D0%BB%D0%BE%D1%87%D0%BA%D0%B0_(5273540645).jpg
+seychellois | Seychellois | Seychellois-Jämsä_show.JPG: Heikki Siltala derivative work: Abujoy (talk) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Seychellois_at_J%C3%A4ms%C3%A4_Cat_show.JPG
+foldex | Foldex | AliciaPSF | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cachorro_de_Gato_FoldEx_(%22Belisario_del_Laberinto%22).JPG
+kinkalow | Kinkalow | Kirimiti | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:American_boy_2_(cropped).jpg
+toybob | Toybob | Nickolas Titkov from Moscow, Russian Federation | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:TOB_Velena-Kutc_(15818956518)_(cropped).jpg
+karelianbobtail | Karelian Bobtail | tomall | CC0 | https://commons.wikimedia.org/wiki/File:KarelianBobtail.jpg
+aphrodite | Aphrodite Giant | Riannacone | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:CyprusShorthair.jpg
+suphalak | Suphalak | Maewboran | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Suphalak_Female_in_Thailand_named_AumDaengManee.jpg
+britishlonghair | British Longhair | BritishEmpire | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mystica_from_British_Empire_Cattery.jpg
+serradepetit | Serrade Petit | Fontaine 2 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Serrade_petit.jpg
+raas | Raas | I Putu Aditya Perdana | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Busok_Tonduk.jpg
+owyheebob | Owyhee Bob | KatGurl | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Lilac_Point_female_Owyhee_Bob_kitten.jpg
+chinchilla | Chinchilla Longhair | Wyndcreste | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Shaded_silver_Persian_Cat_Missionhill_Cosmic_Rainstorm.jpg
+javanese | Javanese | Фотограф:Анна Утехина | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ghislaine_6028.jpg
+orientallonghair | Oriental Longhair | Violetta Belyanskaya | FAL | https://commons.wikimedia.org/wiki/File:Solid_black_Javanese_cat.jpg
+americanringtail | American Ringtail | Suemanley1 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Jupiter_300DPI.jpg
+tiffanie | Tiffanie | Heikki Siltala | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Tiffanie_at_cat_show.jpg
+poodlecat | Poodle Cat | Mary Mark Ockerbloom | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Sophie_the_cat_is_a_rex_cat.jpg
+asianshorthair | Asian | Matt Buck from London, United Kingdom | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:IMGP1134_(51750850378).jpg
+foreignwhite | Foreign White | Cats rule | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Oriental_Shorthair_Blue_Eyed_White_cat_(juvenile).jpg
