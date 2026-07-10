@@ -79,6 +79,9 @@ const E33CFG = { items: EMOJI_TV, facts: EMOJI_TV_FACTS, topicWord: "TV SHOW", t
 const E35CFG = { items: EMOJI_BRANDS, facts: EMOJI_BRAND_FACTS, topicWord: "BRAND", topicPlural: "BRANDS", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "eb-", introVo: "vo-intro-brand", coldSlug: "" };
 const E37CFG = { items: EMOJI_BOOKS, facts: EMOJI_BOOK_FACTS, topicWord: "BOOK", topicPlural: "BOOKS", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "bk-", introVo: "vo-intro-book", coldSlug: "" };
 const E36CFG = { items: FISH, facts: FISH_FACTS, topicWord: "FISH", topicPlural: "FISH", dir: "fish", ext: "jpg", fit: "cover", voPrefix: "fh-", nameField: "name", introVo: "vo-intro-fish", coldSlug: "clownfish" };
+const E43CFG = { items: HORSES, facts: HORSE_FACTS, topicWord: "HORSE BREED", topicPlural: "HORSE BREEDS", dir: "horses", ext: "jpg", fit: "cover", voPrefix: "hr-", nameField: "name", introVo: "vo-intro-horse", coldSlug: "arabian" };
+const E44CFG = { items: GEMS, facts: GEM_FACTS, topicWord: "GEMSTONE", topicPlural: "GEMSTONES", dir: "gems", ext: "jpg", fit: "cover", voPrefix: "gem-", nameField: "name", introVo: "vo-intro-gem", coldSlug: "diamond" };
+const E42CFG = { items: INSTRUMENTS, facts: INSTRUMENT_FACTS, topicWord: "INSTRUMENT", topicPlural: "INSTRUMENTS", dir: "instruments", ext: "jpg", fit: "cover", voPrefix: "mi-", nameField: "name", introVo: "vo-intro-instrument", coldSlug: "piano" };
 const E38CFG = { items: INSECTS, facts: INSECT_FACTS, topicWord: "INSECT", topicPlural: "INSECTS", dir: "insects", ext: "jpg", fit: "cover", voPrefix: "in-", nameField: "name", introVo: "vo-intro-insect", coldSlug: "ladybug" };
 const E39CFG = { items: AIRLINELOGOS, facts: AIRLINELOGO_FACTS, topicWord: "AIRLINE", topicPlural: "AIRLINES", dir: "airlines", ext: "png", fit: "contain", voPrefix: "al-", nameField: "name", introVo: "vo-intro-airline", coldSlug: "emirates" };
 const E40CFG = { items: CLUBBADGES, facts: CLUBBADGE_FACTS, topicWord: "FOOTBALL CLUB", topicPlural: "CLUBS", dir: "clubs", ext: "png", fit: "contain", voPrefix: "fc-", nameField: "name", introVo: "vo-intro-club", coldSlug: "real-madrid" };
@@ -143,6 +146,12 @@ import { EMOJI_BOOKS } from "./Quiz/emojiBooksData";
 import { EMOJI_BOOK_FACTS } from "./Quiz/emojiBookFacts";
 import { FISH } from "./Quiz/fishData";
 import { FISH_FACTS } from "./Quiz/fishFacts";
+import { HORSES } from "./Quiz/horsesData";
+import { HORSE_FACTS } from "./Quiz/horseFacts";
+import { GEMS } from "./Quiz/gemsData";
+import { GEM_FACTS } from "./Quiz/gemFacts";
+import { INSTRUMENTS } from "./Quiz/instrumentsData";
+import { INSTRUMENT_FACTS } from "./Quiz/instrumentFacts";
 import { INSECTS } from "./Quiz/insectsData";
 import { INSECT_FACTS } from "./Quiz/insectFacts";
 import { AIRLINELOGOS } from "./Quiz/airlineLogosData";
@@ -322,6 +331,12 @@ export const RemotionRoot = () => {
       <Composition id="E32Quiz" component={QuizV2} durationInFrames={quizFrames(E32CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E32CFG }} />
       <Composition id="E29Quiz" component={QuizV2} durationInFrames={quizFrames(E29CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E29CFG }} />
       <Composition id="E36Quiz" component={QuizV2} durationInFrames={quizFrames(E36CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E36CFG }} />
+      <Composition id="ThumbHorses" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "horses", grid: ["arabian", "thoroughbred", "?", "clydesdale", "?", "friesian", "?", "appaloosa", "shire"], line1: "CAN YOU NAME ALL", word: "HORSE BREED", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="ThumbGems" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "gems", grid: ["diamond", "ruby", "?", "emerald", "?", "amethyst", "?", "opal", "garnet"], line1: "CAN YOU NAME ALL", word: "GEMSTONE", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E43Quiz" component={QuizV2} durationInFrames={quizFrames(E43CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E43CFG }} />
+      <Composition id="E44Quiz" component={QuizV2} durationInFrames={quizFrames(E44CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E44CFG }} />
+      <Composition id="E42Quiz" component={QuizV2} durationInFrames={quizFrames(E42CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E42CFG }} />
+      <Composition id="ThumbInstruments" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "instruments", grid: ["guitar", "piano", "?", "violin", "?", "saxophone", "?", "trumpet", "harp"], line1: "CAN YOU NAME ALL", word: "INSTRUMENT", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E38Quiz" component={QuizV2} durationInFrames={quizFrames(E38CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E38CFG }} />
       <Composition id="E39Quiz" component={QuizV2} durationInFrames={quizFrames(E39CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E39CFG }} />
       <Composition id="E40Quiz" component={QuizV2} durationInFrames={quizFrames(E40CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E40CFG }} />
@@ -373,6 +388,9 @@ export const RemotionRoot = () => {
         { ep: "E38", items: INSECTS, mode: "insects", title: "Guess the Insect", v2: true },
         { ep: "E39", items: AIRLINELOGOS, mode: "airlines", title: "Guess the Airline Logo", v2: true },
         { ep: "E40", items: CLUBBADGES, mode: "clubbadges", title: "Guess the Football Club Badge", v2: true },
+        { ep: "E42", items: INSTRUMENTS, mode: "instruments", title: "Guess the Musical Instrument", v2: true },
+        { ep: "E43", items: HORSES, mode: "horses", title: "Guess the Horse Breed", v2: true },
+        { ep: "E44", items: GEMS, mode: "gems", title: "Guess the Gemstone", v2: true },
       ].flatMap((e) =>
         [0, 1, 2, 3, 4].map((part) => (
           <Composition key={`${e.ep}-${part}`} id={`Short-${e.ep}-${part + 1}`} component={e.v2 ? ShortV2Quiz : ShortQuiz} durationInFrames={e.v2 ? SHORTV2_FRAMES : SHORT_FRAMES} fps={30} width={1080} height={1920} defaultProps={{ items: e.items, mode: e.mode, title: e.title, part }} />

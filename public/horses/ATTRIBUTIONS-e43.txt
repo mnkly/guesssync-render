@@ -1,0 +1,103 @@
+# GuessSync E43 — Guess the Horse Breed — Photo Attributions (Wikimedia Commons)
+# format: slug | name | author | license | source_url
+
+arabian | Arabian | Ealdgyth | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Halterstandingshotarabianone.jpg
+thoroughbred | Thoroughbred | Carine06 from UK | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Tidal_Bay_(13046633744).jpg
+mustang | Mustang | Ealdgyth | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mustanggelding.jpg
+clydesdale | Clydesdale | Bonnie U. Gruenberg | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Clydesdale_horse_by_Bonnie_Gruenberg.JPG
+shetland | Shetland Pony | Own work | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:289-o-Galant-SWE-71-SH-03.jpg
+appaloosa | Appaloosa | Darrell Dodds (license held by Appaloosas) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:THIEL_619.jpg
+friesian | Friesian | Larissa Allen | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Friesian_Horse_Side_View_3.jpg
+shire | Shire | Anthony Appleyard at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Aa_shirehorse.jpg
+quarterhorse | American Quarter Horse | Rumo | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Roan.jpg
+palomino | Palomino | (a friend of) Kvetina-Marie | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Mare_and_foal_(Kvetina-Marie).jpg
+andalusian | Andalusian | Just chaos | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Andalusian.jpg
+lipizzaner | Lipizzaner | AtjanHop | CC0 | https://commons.wikimedia.org/wiki/File:Lipizzaner_Conversano_Traviata.jpg
+percheron | Percheron | Eponimm | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cheval-percheron-gris_SDA2014_(cropped).jpg
+welshpony | Welsh Pony | Hanna V | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Welshb_shangri-la.JPG
+icelandic | Icelandic Horse | Dagur Brynjólfsson | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:043_S%C3%A6var_fr%C3%A1_Stangarholti.jpg
+haflinger | Haflinger | Matthias Walther | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Haflinger_Westfalensonne_und_Almfee.JPG
+morgan | Morgan | Photo: Anthony Domire JR. | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:ChestnutSilver.jpg
+paint | American Paint Horse | Unknown | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Paint_Horse_REFON.jpg
+belgian | Belgian | Jacquesverlaeken | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Huizingen_Belgian_draft_horse_056.jpg
+hanoverian | Hanoverian | Craig Maccubbin | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Lantinus_and_Lynch.jpg
+connemara | Connemara Pony | Satu Pitkänen | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Connemara_mare.jpg
+gypsyvanner | Gypsy Vanner | Mary E. Graybeal | Public domain | https://commons.wikimedia.org/wiki/File:GypsyMareLeft.jpg
+miniature | Miniature Horse | Just chaos | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Miniature_Horse2.jpg
+standardbred | Standardbred | Izzypie Isabella Marks, AU | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Standardbred_Hunter.jpg
+americansaddlebred | American Saddlebred | Just chaos | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:American_Saddlebred3.jpg
+tennesseewalker | Tennessee Walking Horse | Just chaos | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Tennessee_Walking_Horse2.jpg
+dutchwarmblood | Dutch Warmblood | Remy Overkempe | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Ubility.jpg
+trakehner | Trakehner | Лена | Public domain | https://commons.wikimedia.org/wiki/File:Traken.jpg
+oldenburg | Oldenburg | Martin Bahmann | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bess2.jpg
+holsteiner | Holsteiner | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Holsteiner_Apfelschimmel-2005.jpg
+sellefrancais | Selle Français | The original uploader was Karlyne at French Wikipedia. | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Cheval_selle.JPG
+irishsporthorse | Irish Sport Horse | Wasechun tashunka | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Irish_Sport_Horse_-_Assagart_Lord_Lancer_standing.jpg
+clevelandbay | Cleveland Bay | Paul Berens | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cleveland_Bay_hw.jpg
+suffolkpunch | Suffolk Punch | Rictor Norton & David Allen | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Suffolk_Punch_(18096850783).jpg
+fellpony | Fell Pony | Heather Moreton | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Fellpony.jpg
+dalespony | Dales Pony | Annapennell | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Champion_Dales_Pony.jpg
+highlandpony | Highland Pony | Confuslefu at English Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Gracie-rhs2005.jpg
+newforest | New Forest Pony | CompleteAnonymity | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:White_and_dark_bay_ponies_in_the_New_Forest_(cropped).jpg
+exmoor | Exmoor Pony | Wsupermain2 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Exmoor_PonyWindswept.jpg
+missourifoxtrotter | Missouri Fox Trotter | Kayla Oakes | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Quick_Trigger_Missouri_Fox_Trotter.jpeg
+rockymountain | Rocky Mountain Horse | Andersson LS, Juras R, Ramsey DT, Eason-Butler J, Ewart S, Cothran G, Lindgren G. | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:RockySilverhorse.jpg
+pasofino | Paso Fino | Arsdelicata | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Puerto_rican-Paso-Fino-Horse-chestnut.jpg
+peruvianpaso | Peruvian Paso | Just chaos | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Peruvian_Paso3.jpg
+azteca | Azteca | Just chaos | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Azteca1.jpg
+criollo | Criollo | Luciodec | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Yeguacriolla.jpg
+mangalarga | Mangalarga Marchador | Fábio Vidigal | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Mangalarga_Marchador.jpg
+knabstrupper | Knabstrupper | Melyni at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Danish_Knabstrupper_-_Xantos.jpg
+gelderland | Gelderland | --Xocolatl (talk) 00:53, 1 March 2009 (UTC) | Public domain | https://commons.wikimedia.org/wiki/File:Gelderlander_Viersp%C3%A4nner.jpg
+dartmoor | Dartmoor Pony | DFoidl | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Dartmoorpony.JPG
+hackney | Hackney | Cgoodwin | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hackney_horse.jpg
+lusitano | Lusitano | Lbpetersen | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lusitano_stallion1.jpg
+barb | Barb | Tsaag Valren | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Barbe_bai_fantasia.jpg
+orlovtrotter | Orlov Trotter | Ponyart | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D1%8B%D1%81%D0%B0%D0%BA.jpg
+dolehorse | Døle | HaXXa | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Dole_eating_grass.jpg
+finnhorse | Finnhorse | Johanna Rautio | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Finnhorse_stallion.jpg
+noriker | Noriker | Karl Gruber | CC BY 3.0 at | https://commons.wikimedia.org/wiki/File:Noriker_horse_in_Salzburg_(state)_3336.jpg
+murgese | Murgese | Thyl Engelhardt | CC BY-SA 3.0 de | https://commons.wikimedia.org/wiki/File:Murgese_Donato.jpg
+maremmano | Maremmano | BS Thurner Hof | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Marmemmano6_stehend_Gang.jpg
+boulonnais | Boulonnais | Ib51 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bambou_%C3%A9talon_de_2_ans.jpg
+breton | Breton | Père Igor | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chevaux_trait_breton_Creyssac_(1).JPG
+ardennes | Ardennes | Vassil | Public domain | https://commons.wikimedia.org/wiki/File:Etalon_race_ardennaise_1.jpg
+jutland | Jutland | Malene Thyssen | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Jydske_heste_vorup_enge.jpg
+przewalski | Przewalski’s Horse | Claudia Feh | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Przewalskis_horse_02.jpg
+kathiawari | Kathiawari | Raghvendra99674010 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Kathiawari_2.jpg
+dulmen | Dülmen Pony | Dietmar Rabich | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Merfeld,_Merfelder_Bruch,_D%C3%BClmener_Wildpferde_--_2021_--_9344.jpg
+pottok | Pottok | Lankide Gorritxiki | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pootok_arra_Orbelaunen.JPG
+hucul | Hucul Pony | Karakal | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hucul.JPG
+konik | Konik | Alethe | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Equus_ferus_caballus_(conic)_pony.jpg
+shagya | Shagya Arabian | Véronique Mestre Gibaud (Association française du Cheval Arabe-Shagya) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Etalon-shagya-bai.JPG
+wielkopolski | Wielkopolski | Photo by mzopw | Public domain | https://commons.wikimedia.org/wiki/File:Wielkopolski_horse,_August_2002.jpg
+furioso | Furioso-North Star | JoRe | GFDL | https://commons.wikimedia.org/wiki/File:Furioso-Przedswit_Polish_breed_1.jpg
+nonius | Nonius | Tommy lieven at Hungarian Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Noniusz_mezohegyes.jpg
+kabardian | Kabarda | Helgie12 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:IMG-20200516-WA0002.jpg
+karabakh | Karabakh | Сверчков | Public domain | https://commons.wikimedia.org/wiki/File:Qarabaq_ati.jpg
+budyonny | Budyonny | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Two_year_old_budjonny_stallions_in_russia.jpg
+akhalteke | Akhal-Teke | Artur Baboev - give free of charge right for promouting of Akhal-teke article on Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Dagat-Geli.jpg
+marwari | Marwari | Virendra.kankariya | Public domain | https://commons.wikimedia.org/wiki/File:Humayun,_Marwari_Stallion_of_Virendra_Kankariya.jpg
+falabella | Falabella | Captain E H Eckholdt | Attribution | https://commons.wikimedia.org/wiki/File:FalabellaFestivo.jpg
+fjord | Norwegian Fjord | Plasma at French Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Cheval_fjord_00003.jpg
+camargue | Camargue | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Camargue_Horse_(26645657776).jpg
+sorraia | Sorraia | Selona | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Altamiro,_Purebred_Sorraia_Stallion.jpg
+kladruber | Kladruber | User:Hü | Public domain | https://commons.wikimedia.org/wiki/File:Kladruber.jpg
+nokota | Nokota | Nokota_Horses.jpg: François Marchal derivative work: Dana boomer (talk) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Nokota_Horses_cropped.jpg
+caspian | Caspian | Akearley | CC0 | https://commons.wikimedia.org/wiki/File:Runnymede_Felfel.jpg
+americancreamdraft | American Cream Draft | [https see djejeejeoemei://www.flickr.com/photos/7326810@N08 Just chaos] | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:American_Cream_Draft_Horse.jpg
+galiceno | Galiceño | RMBlaney | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Galice%C3%B1o_Horse,_%22Diosa_de_Oro%22.jpg
+losino | Losino | Discasto | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Caballos_losinos_(30_de_abril_de_2018,_Reserva_y_Centro_de_Interpretaci%C3%B3n_del_Bisonte_Europeo_de_San_Cebri%C3%A1n_de_Mud%C3%A1)_10.jpg
+kinsky | Kinsky | Cocopelli | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Jerome_Kinsky_Zlosyn_2005.jpg
+giara | Giara | Helga Steinreich | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cavallino_della_Giara-cropped_02.jpg
+asturcon | Asturcón | Ramón from Llanera, España | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Asturcon.jpg
+garrano | Garrano | Norberto Esteves | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Garranos_fight.jpg
+misaki | Misaki | Koji Ishii | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Misaki_uma_May_2014_5419_(cropped).jpg
+tokara | Tokara | TANAKA Juuyoh (田中十洋) | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Tokara_Pony_%E5%90%90%E5%99%B6%E5%96%87%E9%A6%AC(%E3%83%88%E3%82%AB%E3%83%A9%E3%81%86%E3%81%BE).jpg
+kiso | Kiso | eiko | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:%E6%9C%A8%E6%9B%BD%E9%A7%92_1.jpg
+yakutian | Yakutian | Maarten Takens from Germany | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:A_Yakutian_horse_(9762345674).jpg
+bhutia | Bhutia | Prasenjit Biswas | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Beauty_on_top.jpg
+pleven | Pleven | Plamen Ivanov | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Pleven_horse_2.jpg
+sableisland | Sable Island | Paul Gierszewski | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Lone_horse.jpg
+banker | Banker | Kevincollins123 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:SpanishMustangsOfCorolla.jpg
+floridacracker | Florida Cracker Horse | Geoff Gallice | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Cracker_horse_1.jpg

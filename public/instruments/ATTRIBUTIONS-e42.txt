@@ -1,0 +1,106 @@
+GuessSync E42 - "Guess the Musical Instrument" - Image Attributions
+100 real instrument photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or similar free licenses. Files under
+CC BY / CC BY-SA require crediting the author + license; the lines below satisfy that.
+Generated 2026-07-10. Format:  slug | name | author | license | source
+
+guitar|Acoustic Guitar|User:Martin Möller Talk|CC BY-SA 2.0 de|https://commons.wikimedia.org/wiki/File:GuitareClassique5.png
+piano|Piano|Gryffindor|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Steinway_Vienna_002.JPG
+violin|Violin|Just plain Bill|CC0|https://commons.wikimedia.org/wiki/File:Violin_VL100.png
+drumkit|Drum Kit|Mostafameraji|CC BY 4.0|https://commons.wikimedia.org/wiki/File:A_drum_kit_made_by_Mapex_Drums_-_Cacon_Photos-_Copyleft_-_Creative_Commons_01.jpg
+flute|Flute|Tubamirum|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Fl%C3%BBte_traversi%C3%A8re.png
+trumpet|Trumpet|Yamaha Corporation|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Yamaha_Trumpet_YTR-8335LA_crop.jpg
+saxophone|Saxophone|Jonathanischoice|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Eight_saxophone_sizes_smaller.png
+cello|Cello|Georg Feitscher|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Cello_front_side.png
+harp|Harp|N.S.M. s.p.a.|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Salvi_harp_Diana.jpg
+accordion|Accordion|Necz0r|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:A_converter_free-bass_piano-accordion_and_a_Russian_bayan.jpg
+trombone|Trombone|Yamaha Corporation|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Yamaha_Tenor_trombone_YSL-891Z_(re-crop).jpg
+clarinet|Clarinet|Leitner &amp; Kraus GmbH, Neustadt/Aisch, Editor/Bearbeiter User:Gisbert K|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Leitner%2BKraus_410_320.png
+harmonica|Harmonica|George Leung|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:16-hole_chrom_10-hole_diatonic.jpg
+tambourine|Tambourine|Sam Howzit|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Clara_Ward%27s_Tambourine_-_Rock_and_Roll_Hall_of_Fame_(2014-12-30_11.49.27_by_Sam_Howzit)_(cropped).jpg
+xylophone|Xylophone|David Adam Kess|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(Xylophone)_Centro_Hist%C3%B3rico_Quito.JPG
+banjo|Banjo|User Bodoklecksel on de.wikipedia|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Banjo.jpg
+ukulele|Ukulele|Lardyfatboy|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:1955_Teasers_%22Hula_Uke%22_plastic_soprano_ukulele.jpg
+bagpipes|Bagpipes|User:Mushummel|Public domain|https://commons.wikimedia.org/wiki/File:Great_Highlands_Bagpipe_001.jpg
+electricguitar|Electric Guitar|Anil Öztas|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Gibson_Les_Paul_Classic_--_2024_--_0429.jpg
+maracas|Maracas|Axel Heymann|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Maracas.jpg
+triangle|Triangle|AnonymousUnknown author|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Triangle_001.jpg
+cymbals|Cymbals|Jdpaschal|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:ZildjianCustomRide.jpg
+recorder|Recorder|Mussklprozz|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:VariousRecorderFlutes.jpg
+bongos|Bongo Drums|http://muzyczny.pl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bongos_Meinl_HB100-NT.jpg
+organ|Pipe Organ|Ermell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Neunkirchen_am_Brand_Kirche_Orgel-20210411-RM-155230.jpg
+doublebass|Double Bass|User:AndrewKepert|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:AGK_bass1_full.jpg
+oboe|Oboe|Fratelli Patricola, Editor/Bearbeiter User:Gisbert K|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Oboe_Patricola_Artista_PT1.jpg
+frenchhorn|French Horn|Yamaha Corporation|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Yamaha_Horn_YHR-667V.tif
+tuba|Tuba|Yamaha Corporation|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Yamaha_Bass_tuba_YFB-822.tif
+viola|Viola|Just plain Bill|Public domain|https://commons.wikimedia.org/wiki/File:Bratsche.jpg
+mandolin|Mandolin|Angelo Mannello|CC0|https://commons.wikimedia.org/wiki/File:Mandolin_MET_DP169023_(2).jpg
+bassguitar|Bass Guitar|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:Fender_Precision_Bass.jpg
+piccolo|Piccolo|User:Caesura|Public domain|https://commons.wikimedia.org/wiki/File:Piccolo.jpg
+bassoon|Bassoon|Gregory F. Maxwell &lt;gmaxwell@gmail.com&gt; PGP:0xB0413BFA|GFDL 1.2|https://commons.wikimedia.org/wiki/File:FoxBassoon.png
+conga|Conga|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Collectie_Nationaal_Museum_van_Wereldculturen_TM-6335-1a_Enkelvellige_tonvormige_buistrom,_onderdeel_van_een_set_Cuba.jpg
+djembe|Djembe|Djembe Art|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Lenke_djembe_from_Mali.jpeg
+marimba|Marimba|Marimbaone|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Marimba_One_4000_Series.jpg
+timpani|Timpani|Reinhold Möller Ermell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Burgwindheim_Pauken-20180909-RM-150632.jpg
+ocarina|Ocarina|0x010C|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2016-01_Ocarina_front.jpg
+kalimba|Kalimba|Gizlog|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Kalimba,_wood.jpg
+castanets|Castanets|Rijksmuseum|CC0|https://commons.wikimedia.org/wiki/File:Castagnetten,_BK-NM-11430-78.jpg
+glockenspiel|Glockenspiel|flamurai|Public domain|https://commons.wikimedia.org/wiki/File:Glockenspiel-malletech.jpg
+steelpan|Steelpan|Aldric B.|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Steelpan.jpeg
+cajon|Cajón|Luislema|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Homemade_caj%C3%B3n.jpg
+panflute|Pan Flute|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Flute_de_pan_MHNT_ETH_AC_NH_31_Sav%C3%A8s.jpg
+lute|Lute|Ching|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Lute_(by_Princess_Ruto,_2013-02-11).jpg
+snaredrum|Snare Drum|Englishteacher68|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pearl_Reference_Snare_drum.jpg
+vibraphone|Vibraphone|Nadja von Massow (nadworks)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Vibes_joelocke_koeln2007.jpg
+didgeridoo|Didgeridoo|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Didgeridoo-grass.jpg
+gong|Gong|Tropenmuseum|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Gong_hangend_in_een_standaard_onderdeel_van_gamelan_Semar_Pagulingan_TMnr_1340-13.jpg
+zither|Zither|Ludwig Gruber|Public domain|https://commons.wikimedia.org/wiki/File:Zither.png
+hammereddulcimer|Hammered Dulcimer|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:Hammered_dulcimer.JPG
+harpsichord|Harpsichord|Gérard Janot|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:ClavecinRuckers%26Taskin.JPG
+cornet|Cornet|Yamaha Corporation|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Yamaha_Cornet_YCR-6330II_crop.png
+flugelhorn|Flugelhorn|Photograph: Yamaha Corporation|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Yamaha_Flugelhorn_YFH-8310Z.jpg
+euphonium|Euphonium|Besson / Buffet Crampon|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:BC_Euphonium_ed1.jpg
+bouzouki|Bouzouki|Unknown|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Bouzouki_tetrachordo.jpg
+erhu|Erhu|Unknown authorUnknown author|CC0|https://commons.wikimedia.org/wiki/File:Erhu_in_the_Mets.jpg
+guzheng|Guzheng|Toglenn|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Guzheng_2020_by_Glenn_Francis.jpg
+pipa|Pipa|Unknown|CC0|https://commons.wikimedia.org/wiki/File:Pipa_MET_DP216710.jpg
+koto|Koto|Original uploader and author was Smgregory at en.wikipedia|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Japanese_Koto.jpg
+shamisen|Shamisen|Creator:Takechi MatsukawaCreator:Wakamura workshop|CC0|https://commons.wikimedia.org/wiki/File:Shamisen_MET_192825.jpg
+tabla|Tabla|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Prop._Tabla.jpg
+sarod|Sarod|Unknown|CC0|https://commons.wikimedia.org/wiki/File:Sarod_MET_DP-14177-002.jpg
+oud|Oud|Creator:Manol (Emmanuel Venios)|CC0|https://commons.wikimedia.org/wiki/File:%C5%AAd_MET_DP340079.jpg
+qanun|Qanun|Unknown|CC0|https://commons.wikimedia.org/wiki/File:Q%C4%81n%C5%ABn_-_MET_89.4.330.jpg
+ney|Ney|Zimbricchio|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Persian_ney_with_6_holes.jpg
+bansuri|Bansuri|Betelgeuse|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Bansuri_bamboo_flute_23inch.jpg
+charango|Charango|Photo taken by Villanueva|Public domain|https://commons.wikimedia.org/wiki/File:Bolivian_charango_001.jpg
+cavaquinho|Cavaquinho|Lionel Scheepmans|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Vea.cavaquinho.png
+autoharp|Autoharp|Alexandre Zindel|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Autoharp_today.jpg
+melodica|Melodica|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:Melodica.jpg
+washboard|Washboard|en:User:Ytrottier|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Glass_washboard.jpg
+concertina|Concertina|Alwayswonder|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:20_key_anglo_concertina.jpg
+mbira|Mbira|Zanzambira at English Wikipedia|Public domain|https://commons.wikimedia.org/wiki/File:Ene_mbira.jpg
+hurdygurdy|Hurdy-gurdy|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Louvet_Drehleier.JPG
+theremin|Theremin|Hutschi|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Etherwave_Theremin_Kit.jpg
+sitar|Sitar|unknown, MET museum|CC0|https://commons.wikimedia.org/wiki/File:Sitar,_late_19th_Century.jpg
+kora|Kora|KannanShanmugamstudio,Main Road,Kollam|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Kora_DSC_0355.JPG
+duduk|Duduk|DudukFromJapan|CC0|https://commons.wikimedia.org/wiki/File:Duduk-view.jpg
+nyckelharpa|Nyckelharpa|Hans Skoglund|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Nyckelharpa_-_SMV_-_N143757_01.tif
+bandoneon|Bandoneón|Unknown|CC BY-SA 2.5|https://commons.wikimedia.org/wiki/File:Bandoneon-curved.jpg
+shakuhachi|Shakuhachi|Tarourashima|Public domain|https://commons.wikimedia.org/wiki/File:Komuso_Buddhist_monk_beggar_Kita-kamakura.jpg
+balalaika|Balalaika|User:MaGz96|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:3_string_prim_balalaika.png
+guqin|Guqin|The original uploader was CharlieHuang at English Wikipedia.|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:ZhongNiShi.jpg
+handpan|Handpan|Pensierarte|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Handpan.jpg
+kantele|Kantele|TheYellowFellow|CC0|https://commons.wikimedia.org/wiki/File:Five_string_kanteles.jpg
+kamancheh|Kamancheh|Unnamed; released by the Metropolitan Museum of Art into the public domain.|CC0|https://commons.wikimedia.org/wiki/File:2_Kam%C4%81nches,_Persia,_ca._1880.jpg
+rebab|Rebab|Rebab tiga tali|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Rebab-Tiga_tali_(cropped).png
+sarangi|Sarangi|Unknown|CC0|https://commons.wikimedia.org/wiki/File:Sarangi_MET_MI6.jpg
+dizi|Dizi|David290|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Diffenent_sizes_of_Dizi.jpg
+sheng|Sheng|Unknown|CC0|https://commons.wikimedia.org/wiki/File:Sheng_MET_DP216617.jpg
+suona|Suona|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:B-Suonas.JPG
+morinkhuur|Morin Khuur|Mizu_Basyo|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Morin_Khuur,_Today%27s_North_Mongolian_Style.jpg
+bandura|Bandura|Julianhayda|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Chernihiv-style_bandura.jpg
+cimbalom|Cimbalom|Xylosmygame|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cimbalom_(from_Emil_Richards_Collection).jpg
+hulusi|Hulusi|F.Schmidtke|Public domain|https://commons.wikimedia.org/wiki/File:Hu_Lu_Si.jpg
+angklung|Angklung|Sulfur at English Wikipedia|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Eight-pitch_Angklung,_Mitchell_Park,_Milwaukee.jpg
+valiha|Valiha|Ji-Elle|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Valiha_de_Madagascar-Mus%C3%A9e_d%27Aquitaine.jpg
+ondesmartenot|Ondes Martenot|30rKs56MaE at Japanese Wikipedia|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Ondes_martenot.jpg

@@ -1,0 +1,104 @@
+# E41 «Guess the Country by Its Shape» — image attributions
+# All silhouettes from mapsicon by Régis Freyd (github.com/djaiss/mapsicon)
+# License: free to use with attribution; resale forbidden.
+# slug|name|author|license|url
+italy|Italy|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/it/1024.png
+united-states|United States|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/us/1024.png
+france|France|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/fr/1024.png
+japan|Japan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/jp/1024.png
+brazil|Brazil|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/br/1024.png
+india|India|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/in/1024.png
+australia|Australia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/au/1024.png
+canada|Canada|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ca/1024.png
+united-kingdom|United Kingdom|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gb/1024.png
+chile|Chile|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cl/1024.png
+egypt|Egypt|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/eg/1024.png
+russia|Russia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ru/1024.png
+china|China|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cn/1024.png
+spain|Spain|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/es/1024.png
+germany|Germany|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/de/1024.png
+mexico|Mexico|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mx/1024.png
+saudi-arabia|Saudi Arabia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sa/1024.png
+south-africa|South Africa|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/za/1024.png
+norway|Norway|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/no/1024.png
+sweden|Sweden|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/se/1024.png
+new-zealand|New Zealand|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/nz/1024.png
+south-korea|South Korea|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kr/1024.png
+turkey|Turkey|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tr/1024.png
+greece|Greece|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gr/1024.png
+indonesia|Indonesia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/id/1024.png
+argentina|Argentina|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ar/1024.png
+portugal|Portugal|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pt/1024.png
+vietnam|Vietnam|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/vn/1024.png
+thailand|Thailand|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/th/1024.png
+poland|Poland|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pl/1024.png
+ukraine|Ukraine|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ua/1024.png
+iran|Iran|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ir/1024.png
+iraq|Iraq|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/iq/1024.png
+afghanistan|Afghanistan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/af/1024.png
+pakistan|Pakistan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pk/1024.png
+nigeria|Nigeria|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ng/1024.png
+kenya|Kenya|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ke/1024.png
+ethiopia|Ethiopia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/et/1024.png
+morocco|Morocco|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ma/1024.png
+algeria|Algeria|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/dz/1024.png
+finland|Finland|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/fi/1024.png
+netherlands|Netherlands|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/nl/1024.png
+cuba|Cuba|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cu/1024.png
+philippines|Philippines|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ph/1024.png
+malaysia|Malaysia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/my/1024.png
+peru|Peru|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pe/1024.png
+colombia|Colombia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/co/1024.png
+venezuela|Venezuela|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ve/1024.png
+iceland|Iceland|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/is/1024.png
+ireland|Ireland|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ie/1024.png
+kazakhstan|Kazakhstan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kz/1024.png
+mongolia|Mongolia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mn/1024.png
+libya|Libya|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ly/1024.png
+sudan|Sudan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sd/1024.png
+angola|Angola|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ao/1024.png
+namibia|Namibia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/na/1024.png
+madagascar|Madagascar|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mg/1024.png
+myanmar|Myanmar|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mm/1024.png
+bangladesh|Bangladesh|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bd/1024.png
+sri-lanka|Sri Lanka|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lk/1024.png
+austria|Austria|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/at/1024.png
+switzerland|Switzerland|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ch/1024.png
+belgium|Belgium|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/be/1024.png
+romania|Romania|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ro/1024.png
+bulgaria|Bulgaria|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bg/1024.png
+denmark|Denmark|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/dk/1024.png
+czechia|Czechia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cz/1024.png
+hungary|Hungary|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/hu/1024.png
+belarus|Belarus|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/by/1024.png
+oman|Oman|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/om/1024.png
+yemen|Yemen|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ye/1024.png
+syria|Syria|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sy/1024.png
+jordan|Jordan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/jo/1024.png
+tunisia|Tunisia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tn/1024.png
+bolivia|Bolivia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bo/1024.png
+paraguay|Paraguay|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/py/1024.png
+uruguay|Uruguay|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/uy/1024.png
+ecuador|Ecuador|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ec/1024.png
+guyana|Guyana|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gy/1024.png
+suriname|Suriname|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sr/1024.png
+laos|Laos|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/la/1024.png
+cambodia|Cambodia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kh/1024.png
+nepal|Nepal|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/np/1024.png
+bhutan|Bhutan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bt/1024.png
+tajikistan|Tajikistan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tj/1024.png
+turkmenistan|Turkmenistan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tm/1024.png
+uzbekistan|Uzbekistan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/uz/1024.png
+kyrgyzstan|Kyrgyzstan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kg/1024.png
+azerbaijan|Azerbaijan|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/az/1024.png
+armenia|Armenia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/am/1024.png
+georgia|Georgia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ge/1024.png
+slovakia|Slovakia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sk/1024.png
+slovenia|Slovenia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/si/1024.png
+croatia|Croatia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/hr/1024.png
+serbia|Serbia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/rs/1024.png
+albania|Albania|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/al/1024.png
+moldova|Moldova|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/md/1024.png
+lithuania|Lithuania|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lt/1024.png
+latvia|Latvia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lv/1024.png
+estonia|Estonia|Régis Freyd (mapsicon)|Free w/ attribution, no resale|https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ee/1024.png

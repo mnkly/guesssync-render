@@ -1,0 +1,100 @@
+diamond|Diamond|Smithsonian Institution|Public domain|https://commons.wikimedia.org/wiki/File:Colorado_Diamond_Crystal,_Freedom_Diamond,_Uncle_Sam_Diamond,_Canary_Diamond.jpg
+ruby|Ruby|Darla Sondrol|CC0|https://commons.wikimedia.org/wiki/File:Ruby_(GeoDIL_number_-_1026).jpg
+emerald|Emerald|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Beryl-Quartz-Emerald-Zambia-33mm_0885.jpg
+sapphire|Sapphire|TheMaharlikan|CC0|https://commons.wikimedia.org/wiki/File:Eye_of_God_Star_Sapphire_Front_View.jpg
+amethyst|Amethyst|Lisa Ann Yount|CC0|https://commons.wikimedia.org/wiki/File:Amethyst_crystals_close.jpg
+quartz|Quartz|Darla Sondrol|CC0|https://commons.wikimedia.org/wiki/File:Rock_Crystal_(GeoDIL_number_-_2523).jpg
+topaz|Topaz|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Bixbyite-Topaz-258621.jpg
+opal|Opal|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Hydrophane_opal_(precious_opal).jpg
+turquoise|Turquoise|Tim Evanson from Washington, D.C., United States of America|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Turquoise_Cerillos_Smithsonian.jpg
+jade|Jade|Shannon Heinle|CC0|https://commons.wikimedia.org/wiki/File:Jadeite_(GeoDIL_number_-_1607).jpg
+garnet|Garnet|IWA|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Rough_Red_Garnet_Gemstone.jpg
+pearl|Pearl|Hannes Grobe/AWI|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Pearl-variety_hg.jpg
+amber|Amber|Anders L. Damgaard - www.amber-inclusions.dk|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Baltic_amber_Coleoptera_Anobiidae_Episernus.JPG
+aquamarine|Aquamarine|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Beryl-Schorl-aquamarine-erongo-meieran.jpg
+onyx|Onyx|Simon Eugster|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Onyx.jpg
+citrine|Citrine|Jennifer A Hogan|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Quartz_Citrine_Crystals_in_Their_Natural_Form.jpg
+peridot|Peridot|Darla Sondrol|CC0|https://commons.wikimedia.org/wiki/File:Peridot_(GeoDIL_number_-_1027).jpg
+rosequartz|Rose Quartz|Darla Sondrol|CC0|https://commons.wikimedia.org/wiki/File:Rose_quartz_(GeoDIL_number_-_2521).jpg
+lapislazuli|Lapis Lazuli|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Lapis_lazuli_(lazuritic_metamorphite)_(Sar-e-Sang_Deposit,_Sakhi_Formation,_Precambrian,_2.4-2.7_Ga_(%3F);_Sar-e-Sang_Mining_District,_Hindu-Kush_Mountains,_Afghanistan)_7_(40672924053).jpg
+malachite|Malachite|TheFurther21|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Botryoidal_malachite_02.jpg
+obsidian|Obsidian|Creator:Mike Davis|CC0|https://commons.wikimedia.org/wiki/File:Snowflake_obsidian_(GeoDIL_number_-_414).jpg
+tigerseye|Tiger's Eye|Shannon Heinle|CC0|https://commons.wikimedia.org/wiki/File:Tiger_eye_(GeoDIL_number_-_702).jpg
+agate|Agate|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Quartz-Chalcedony-229705.jpg
+jasper|Jasper|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Tabu_Tabu_Jasper_(South_Africa)_(41889473312).jpg
+moonstone|Moonstone|Gemsphoto|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Natural_Blue_Moonstone_loose_gemstone.jpg
+tourmaline|Tourmaline|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Quartz-Tourmaline-273112.jpg
+zircon|Zircon|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Zircon-dtn1a.jpg
+spinel|Spinel|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Spinel-tt13c.jpg
+tanzanite|Tanzanite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Zoisite-tanzanite-tanzaniab.jpg
+morganite|Morganite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Beryl-178682.jpg
+kunzite|Kunzite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Kunzite_5.jpg
+carnelian|Carnelian|Royal Institution of Cornwall, Anna Tyacke, 2010-03-18 14:02:59|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Post-medieval_chalcedony_bead_(profile)_(FindID_289981).jpg
+bloodstone|Bloodstone|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Bloodstone_6.jpg
+rhodonite|Rhodonite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Rhodonite-186648.jpg
+sodalite|Sodalite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Sodalite-aegirine-albite_pegmatite,_Ice_River_Complex_BC.jpg
+fluorite|Fluorite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Fluorite-Quartz-238882.jpg
+pyrite|Pyrite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Pyrite-131884.jpg
+hematite|Hematite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Hematite_(Cavradi_Gorge,_Switzerland)_4.jpg
+labradorite|Labradorite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Spectrolite_(gem-quality_labradorite_plagioclase_feldspar).jpg
+sunstone|Sunstone|Ra'ike (see also: de:Benutzer:Ra'ike)|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Oligoclase-Sunstone_from_India2.jpg
+aventurine|Aventurine|Mauro Cateb|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Aventurine_pebbles.jpg
+chrysoprase|Chrysoprase|W.carter|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Chrysoprase_cabochon_1.jpg
+smokyquartz|Smoky Quartz|Rob Lavinsky|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Smoky-quartz-TUCQTZ09-03-arkenstone-irocks.png
+amazonite|Amazonite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Microcline-118775.jpg
+iolite|Iolite|Parent Géry|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cordi%C3%A9rite_var._iolite_4.jpg
+apatite|Apatite|Dexter Perkins|CC0|https://commons.wikimedia.org/wiki/File:Apatite_crystal_(GeoDIL_number_-_23).jpg
+azurite|Azurite|Photo by and (c)2015 Derek Ramsey (Ram-Man)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Azurite_Specimen_China_3.JPG
+chrysocolla|Chrysocolla|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Chrysocolla-230109.jpg
+prehnite|Prehnite|CEphoto, Uwe Aranas|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Geode-with-encrustation-of-quartz-crystals-on-a-base-of-limonite-01.jpg
+chalcedony|Chalcedony|Unknown|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Agate_Chalcedony_GE9323_540427.jpg
+alexandrite|Alexandrite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Chrysoberyl-46847.jpg
+rhodochrosite|Rhodochrosite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Rhodochrosite-Quartz-41397.jpg
+tsavorite|Tsavorite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Grossular-121703.jpg
+demantoid|Demantoid|Moha112100|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Garnet_Andradite_(Demantoid)2.jpg
+sphalerite|Sphalerite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Sphalerite-208783.jpg
+vanadinite|Vanadinite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Vanadinite-v0950a.jpg
+wulfenite|Wulfenite|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Wulfenite_mexique.jpg
+dioptase|Dioptase|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Dioptase-es158a.jpg
+vesuvianite|Vesuvianite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Grossular-Vesuvianite-usa22b.jpg
+epidote|Epidote|Raimond Spekking|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Titanite,_Albite,_Epidote,_Minas_Gerais,_Brazil-8799.jpg
+kyanite|Kyanite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Kyanite_5.jpg
+andalusite|Andalusite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Andalusite-rh1-24b.jpg
+danburite|Danburite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Danburite-219062.jpg
+scapolite|Scapolite|Shannon Heinle|CC0|https://commons.wikimedia.org/wiki/File:Scapolite_(GeoDIL_number_-_2776).jpg
+sphene|Sphene|Shannon Heinle|CC0|https://commons.wikimedia.org/wiki/File:Titanite_(sphene)_(GeoDIL_number_-_259).jpg
+zoisite|Zoisite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Zoisite-33616.jpg
+hackmanite|Hackmanite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Sodalite-Winchite-256916.jpg
+ametrine|Ametrine|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Quartz-67741.jpg
+variscite|Variscite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Variscite-70723.jpg
+charoite|Charoite|Adrian Tync|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Charoite_from_Russia.jpg
+larimar|Larimar|No machine-readable author provided. Vassil assumed (based on copyright claims).|Public domain|https://commons.wikimedia.org/wiki/File:Larimar.jpg
+cerussite|Cerussite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cerussite-pb26a.jpg
+crocoite|Crocoite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Crocoite-282354.jpg
+sugilite|Sugilite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Sugilite-162617.jpg
+painite|Painite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Painite-70635.jpg
+benitoite|Benitoite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Benitoite-tn47a.jpg
+grandidierite|Grandidierite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Grandidierite-169886.jpg
+jeremejevite|Jeremejevite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Jeremejevite-243450.jpg
+taaffeite|Taaffeite|DonGuennie (G-Empire The World Of Gems)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Fotostrecke_Weltraritaeten-_Taaffeit-G-EmpireTheWorldOfGems.jpg
+moldavite|Moldavite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Moldavite_(Miocene,_14.5-14.8_Ma;_Ries_Impact_Crater%27s_tektite_strewn_field,_Bohemia)_3.jpg
+phenakite|Phenakite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Phenakite-ph0901y.jpg
+euclase|Euclase|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Euclase-md93a.jpg
+hambergite|Hambergite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Hambergite-es66c.jpg
+brazilianite|Brazilianite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Brazilianite-60674.jpg
+clinohumite|Clinohumite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Clinohumite-d06-48b.jpg
+pezzottaite|Pezzottaite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Pezzottaite-139742.jpg
+redberyl|Red Beryl|Parent Géry|Public domain|https://commons.wikimedia.org/wiki/File:B%C3%A9ryl_rouge_sur_gangue_de_rhyolite_(Wah-Wah_Mountains_Utah_-_USA).jpg
+axinite|Axinite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Axinite-60191.jpg
+kornerupine|Kornerupine|Nessa Eull|CC0|https://commons.wikimedia.org/wiki/File:Kornerupine_(GeoDIL_number_-_274).jpg
+cavansite|Cavansite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cavansite-pkn3a.jpg
+proustite|Proustite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Proustite-209739.jpg
+vivianite|Vivianite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Vivianite-225075.jpg
+legrandite|Legrandite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Legrandite-52257.jpg
+cuprite|Cuprite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cuprite-41653.jpg
+seraphinite|Seraphinite|Ra'ike (see also: de:Benutzer:Ra'ike)|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Clinochlore_(Seraphinite).jpg
+musgravite|Musgravite|David Hospital|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Magnesiotaaffeite-6N%E2%80%993S.jpg
+poudretteite|Poudretteite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Poudretteite-382458.jpg
+serendibite|Serendibite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Serendibite-mun05-18a.jpg
+sinhalite|Sinhalite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Sinhalite-656999.jpg
+ekanite|Ekanite|Geni|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cut_crystal_of_Ekanite.JPG

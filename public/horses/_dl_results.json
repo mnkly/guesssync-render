@@ -1,0 +1,1405 @@
+[
+ {
+  "slug": "arabian",
+  "file": "Halterstandingshotarabianone.jpg",
+  "attr": {
+   "author": "Ealdgyth",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Halterstandingshotarabianone.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Halterstandingshotarabianone.jpg"
+  },
+  "bytes": 1185764,
+  "skipped": true,
+  "ok": true,
+  "name": "Arabian"
+ },
+ {
+  "slug": "thoroughbred",
+  "file": "Tidal_Bay_(13046633744).jpg",
+  "attr": {
+   "author": "Carine06 from UK",
+   "license": "CC BY-SA 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Tidal_Bay_(13046633744).jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Tidal_Bay_%2813046633744%29.jpg"
+  },
+  "bytes": 1063364,
+  "skipped": false,
+  "ok": true,
+  "name": "Thoroughbred",
+  "replaced": true
+ },
+ {
+  "slug": "mustang",
+  "file": "Mustanggelding.jpg",
+  "attr": {
+   "author": "Ealdgyth",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Mustanggelding.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Mustanggelding.jpg"
+  },
+  "bytes": 4314388,
+  "skipped": true,
+  "ok": true,
+  "name": "Mustang"
+ },
+ {
+  "slug": "clydesdale",
+  "file": "Clydesdale_horse_by_Bonnie_Gruenberg.JPG",
+  "attr": {
+   "author": "Bonnie U. Gruenberg",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Clydesdale_horse_by_Bonnie_Gruenberg.JPG",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Clydesdale_horse_by_Bonnie_Gruenberg.JPG"
+  },
+  "bytes": 2038549,
+  "skipped": true,
+  "ok": true,
+  "name": "Clydesdale"
+ },
+ {
+  "slug": "shetland",
+  "file": "289-o-Galant-SWE-71-SH-03.jpg",
+  "attr": {
+   "author": "Own work",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:289-o-Galant-SWE-71-SH-03.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/289-o-Galant-SWE-71-SH-03.jpg"
+  },
+  "bytes": 3221153,
+  "skipped": true,
+  "ok": true,
+  "name": "Shetland Pony"
+ },
+ {
+  "slug": "appaloosa",
+  "file": "THIEL_619.jpg",
+  "attr": {
+   "author": "Darrell Dodds (license held by Appaloosas)",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:THIEL_619.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/THIEL_619.jpg"
+  },
+  "bytes": 51234,
+  "skipped": true,
+  "ok": true,
+  "name": "Appaloosa"
+ },
+ {
+  "slug": "friesian",
+  "file": "Friesian_Horse_Side_View_3.jpg",
+  "attr": {
+   "author": "Larissa Allen",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Friesian_Horse_Side_View_3.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Friesian_Horse_Side_View_3.jpg"
+  },
+  "bytes": 215585,
+  "skipped": true,
+  "ok": true,
+  "name": "Friesian"
+ },
+ {
+  "slug": "shire",
+  "file": "Aa_shirehorse.jpg",
+  "attr": {
+   "author": "Anthony Appleyard at English Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Aa_shirehorse.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Aa_shirehorse.jpg"
+  },
+  "bytes": 42431,
+  "skipped": true,
+  "ok": true,
+  "name": "Shire"
+ },
+ {
+  "slug": "quarterhorse",
+  "file": "Roan.jpg",
+  "attr": {
+   "author": "Rumo",
+   "license": "CC BY-SA 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Roan.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Roan.jpg"
+  },
+  "bytes": 113992,
+  "skipped": true,
+  "ok": true,
+  "name": "American Quarter Horse"
+ },
+ {
+  "slug": "palomino",
+  "file": "Mare_and_foal_(Kvetina-Marie).jpg",
+  "attr": {
+   "author": "(a friend of) Kvetina-Marie",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Mare_and_foal_(Kvetina-Marie).jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Mare_and_foal_%28Kvetina-Marie%29.jpg"
+  },
+  "bytes": 579905,
+  "skipped": true,
+  "ok": true,
+  "name": "Palomino"
+ },
+ {
+  "slug": "andalusian",
+  "file": "Andalusian.jpg",
+  "attr": {
+   "author": "Just chaos",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Andalusian.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Andalusian.jpg"
+  },
+  "bytes": 119572,
+  "skipped": true,
+  "ok": true,
+  "name": "Andalusian"
+ },
+ {
+  "slug": "lipizzaner",
+  "file": "Lipizzaner_Conversano_Traviata.jpg",
+  "attr": {
+   "author": "AtjanHop",
+   "license": "CC0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Lipizzaner_Conversano_Traviata.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lipizzaner_Conversano_Traviata.jpg"
+  },
+  "bytes": 34040,
+  "skipped": true,
+  "ok": true,
+  "name": "Lipizzaner"
+ },
+ {
+  "slug": "percheron",
+  "file": "Cheval-percheron-gris_SDA2014_(cropped).jpg",
+  "attr": {
+   "author": "Eponimm",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Cheval-percheron-gris_SDA2014_(cropped).jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cheval-percheron-gris_SDA2014_%28cropped%29.jpg"
+  },
+  "bytes": 644685,
+  "skipped": true,
+  "ok": true,
+  "name": "Percheron"
+ },
+ {
+  "slug": "welshpony",
+  "file": "Welshb_shangri-la.JPG",
+  "attr": {
+   "author": "Hanna V",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Welshb_shangri-la.JPG",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Welshb_shangri-la.JPG"
+  },
+  "bytes": 291477,
+  "skipped": true,
+  "ok": true,
+  "name": "Welsh Pony"
+ },
+ {
+  "slug": "icelandic",
+  "file": "043_Sævar_frá_Stangarholti.jpg",
+  "attr": {
+   "author": "Dagur Brynjólfsson",
+   "license": "CC BY-SA 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:043_S%C3%A6var_fr%C3%A1_Stangarholti.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/043_S%C3%A6var_fr%C3%A1_Stangarholti.jpg"
+  },
+  "bytes": 699479,
+  "skipped": true,
+  "ok": true,
+  "name": "Icelandic Horse"
+ },
+ {
+  "slug": "haflinger",
+  "file": "Haflinger_Westfalensonne_und_Almfee.JPG",
+  "attr": {
+   "author": "Matthias Walther",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Haflinger_Westfalensonne_und_Almfee.JPG",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Haflinger_Westfalensonne_und_Almfee.JPG"
+  },
+  "bytes": 1043629,
+  "skipped": true,
+  "ok": true,
+  "name": "Haflinger"
+ },
+ {
+  "slug": "morgan",
+  "file": "ChestnutSilver.jpg",
+  "attr": {
+   "author": "Photo: Anthony Domire JR.",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:ChestnutSilver.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/ChestnutSilver.jpg"
+  },
+  "bytes": 65896,
+  "skipped": true,
+  "ok": true,
+  "name": "Morgan"
+ },
+ {
+  "slug": "paint",
+  "file": "Paint_Horse_REFON.jpg",
+  "attr": {
+   "author": "Unknown",
+   "license": "CC BY 2.5",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Paint_Horse_REFON.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Paint_Horse_REFON.jpg"
+  },
+  "bytes": 1095486,
+  "skipped": true,
+  "ok": true,
+  "name": "American Paint Horse"
+ },
+ {
+  "slug": "belgian",
+  "file": "Huizingen Belgian draft horse 056.jpg",
+  "attr": {
+   "author": "Jacquesverlaeken",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Huizingen_Belgian_draft_horse_056.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Huizingen_Belgian_draft_horse_056.jpg"
+  },
+  "bytes": 2606438,
+  "skipped": true,
+  "ok": true,
+  "name": "Belgian"
+ },
+ {
+  "slug": "hanoverian",
+  "file": "Lantinus_and_Lynch.jpg",
+  "attr": {
+   "author": "Craig Maccubbin",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Lantinus_and_Lynch.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lantinus_and_Lynch.jpg"
+  },
+  "bytes": 3058778,
+  "skipped": true,
+  "ok": true,
+  "name": "Hanoverian"
+ },
+ {
+  "slug": "connemara",
+  "file": "Connemara_mare.jpg",
+  "attr": {
+   "author": "Satu Pitkänen",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Connemara_mare.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Connemara_mare.jpg"
+  },
+  "bytes": 198832,
+  "skipped": true,
+  "ok": true,
+  "name": "Connemara Pony"
+ },
+ {
+  "slug": "gypsyvanner",
+  "file": "GypsyMareLeft.jpg",
+  "attr": {
+   "author": "Mary E. Graybeal",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:GypsyMareLeft.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/GypsyMareLeft.jpg"
+  },
+  "bytes": 928416,
+  "skipped": true,
+  "ok": true,
+  "name": "Gypsy Vanner"
+ },
+ {
+  "slug": "miniature",
+  "file": "Miniature_Horse2.jpg",
+  "attr": {
+   "author": "Just chaos",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Miniature_Horse2.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Miniature_Horse2.jpg"
+  },
+  "bytes": 381419,
+  "skipped": true,
+  "ok": true,
+  "name": "Miniature Horse"
+ },
+ {
+  "slug": "standardbred",
+  "file": "Standardbred_Hunter.jpg",
+  "attr": {
+   "author": "Izzypie Isabella Marks, AU",
+   "license": "CC BY 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Standardbred_Hunter.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Standardbred_Hunter.jpg"
+  },
+  "bytes": 521305,
+  "skipped": true,
+  "ok": true,
+  "name": "Standardbred"
+ },
+ {
+  "slug": "americansaddlebred",
+  "file": "American_Saddlebred3.jpg",
+  "attr": {
+   "author": "Just chaos",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:American_Saddlebred3.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/American_Saddlebred3.jpg"
+  },
+  "bytes": 125675,
+  "skipped": true,
+  "ok": true,
+  "name": "American Saddlebred"
+ },
+ {
+  "slug": "tennesseewalker",
+  "file": "Tennessee_Walking_Horse2.jpg",
+  "attr": {
+   "author": "Just chaos",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Tennessee_Walking_Horse2.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Tennessee_Walking_Horse2.jpg"
+  },
+  "bytes": 915712,
+  "skipped": true,
+  "ok": true,
+  "name": "Tennessee Walking Horse"
+ },
+ {
+  "slug": "dutchwarmblood",
+  "file": "Ubility.jpg",
+  "attr": {
+   "author": "Remy Overkempe",
+   "license": "CC BY-SA 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Ubility.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ubility.jpg"
+  },
+  "bytes": 185547,
+  "skipped": true,
+  "ok": true,
+  "name": "Dutch Warmblood"
+ },
+ {
+  "slug": "trakehner",
+  "file": "Traken.jpg",
+  "attr": {
+   "author": "Лена",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Traken.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Traken.jpg"
+  },
+  "bytes": 260257,
+  "skipped": true,
+  "ok": true,
+  "name": "Trakehner"
+ },
+ {
+  "slug": "oldenburg",
+  "file": "Bess2.jpg",
+  "attr": {
+   "author": "Martin Bahmann",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Bess2.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bess2.jpg"
+  },
+  "bytes": 328614,
+  "skipped": true,
+  "ok": true,
+  "name": "Oldenburg"
+ },
+ {
+  "slug": "holsteiner",
+  "file": "Holsteiner_Apfelschimmel-2005.jpg",
+  "attr": {
+   "author": "Unknown",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Holsteiner_Apfelschimmel-2005.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Holsteiner_Apfelschimmel-2005.jpg"
+  },
+  "bytes": 524192,
+  "skipped": true,
+  "ok": true,
+  "name": "Holsteiner"
+ },
+ {
+  "slug": "sellefrancais",
+  "file": "Cheval_selle.JPG",
+  "attr": {
+   "author": "The original uploader was Karlyne at French Wikipedia.",
+   "license": "CC BY-SA 2.5",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Cheval_selle.JPG",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Cheval_selle.JPG"
+  },
+  "bytes": 932873,
+  "skipped": true,
+  "ok": true,
+  "name": "Selle Français"
+ },
+ {
+  "slug": "irishsporthorse",
+  "file": "Irish_Sport_Horse_-_Assagart_Lord_Lancer_standing.jpg",
+  "attr": {
+   "author": "Wasechun tashunka",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Irish_Sport_Horse_-_Assagart_Lord_Lancer_standing.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Irish_Sport_Horse_-_Assagart_Lord_Lancer_standing.jpg"
+  },
+  "bytes": 1609109,
+  "skipped": true,
+  "ok": true,
+  "name": "Irish Sport Horse"
+ },
+ {
+  "slug": "clevelandbay",
+  "file": "Cleveland_Bay_hw.jpg",
+  "attr": {
+   "author": "Paul Berens",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Cleveland_Bay_hw.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Cleveland_Bay_hw.jpg"
+  },
+  "bytes": 1440030,
+  "skipped": false,
+  "ok": true,
+  "name": "Cleveland Bay",
+  "replaced": true
+ },
+ {
+  "slug": "suffolkpunch",
+  "file": "Suffolk_Punch_(18096850783).jpg",
+  "attr": {
+   "author": "Rictor Norton & David Allen",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Suffolk_Punch_(18096850783).jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Suffolk_Punch_%2818096850783%29.jpg"
+  },
+  "bytes": 265271,
+  "skipped": false,
+  "ok": true,
+  "name": "Suffolk Punch",
+  "replaced": true
+ },
+ {
+  "slug": "fellpony",
+  "file": "Fellpony.jpg",
+  "attr": {
+   "author": "Heather Moreton",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Fellpony.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Fellpony.jpg"
+  },
+  "bytes": 79725,
+  "skipped": true,
+  "ok": true,
+  "name": "Fell Pony"
+ },
+ {
+  "slug": "dalespony",
+  "file": "Champion_Dales_Pony.jpg",
+  "attr": {
+   "author": "Annapennell",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Champion_Dales_Pony.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Champion_Dales_Pony.jpg"
+  },
+  "bytes": 2023627,
+  "skipped": true,
+  "ok": true,
+  "name": "Dales Pony"
+ },
+ {
+  "slug": "highlandpony",
+  "file": "Gracie-rhs2005.jpg",
+  "attr": {
+   "author": "Confuslefu at English Wikipedia",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Gracie-rhs2005.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracie-rhs2005.jpg"
+  },
+  "bytes": 649495,
+  "skipped": true,
+  "ok": true,
+  "name": "Highland Pony"
+ },
+ {
+  "slug": "newforest",
+  "file": "White_and_dark_bay_ponies_in_the_New_Forest_(cropped).jpg",
+  "attr": {
+   "author": "CompleteAnonymity",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:White_and_dark_bay_ponies_in_the_New_Forest_(cropped).jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/White_and_dark_bay_ponies_in_the_New_Forest_%28cropped%29.jpg"
+  },
+  "bytes": 2113634,
+  "skipped": true,
+  "ok": true,
+  "name": "New Forest Pony"
+ },
+ {
+  "slug": "exmoor",
+  "file": "Exmoor_PonyWindswept.jpg",
+  "attr": {
+   "author": "Wsupermain2",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Exmoor_PonyWindswept.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Exmoor_PonyWindswept.jpg"
+  },
+  "bytes": 693662,
+  "skipped": true,
+  "ok": true,
+  "name": "Exmoor Pony"
+ },
+ {
+  "slug": "missourifoxtrotter",
+  "file": "Quick_Trigger_Missouri_Fox_Trotter.jpeg",
+  "attr": {
+   "author": "Kayla Oakes",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Quick_Trigger_Missouri_Fox_Trotter.jpeg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Quick_Trigger_Missouri_Fox_Trotter.jpeg"
+  },
+  "bytes": 231502,
+  "skipped": true,
+  "ok": true,
+  "name": "Missouri Fox Trotter"
+ },
+ {
+  "slug": "rockymountain",
+  "file": "RockySilverhorse.jpg",
+  "attr": {
+   "author": "Andersson LS, Juras R, Ramsey DT, Eason-Butler J, Ewart S, Cothran G, Lindgren G.",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:RockySilverhorse.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/RockySilverhorse.jpg"
+  },
+  "bytes": 366143,
+  "skipped": true,
+  "ok": true,
+  "name": "Rocky Mountain Horse"
+ },
+ {
+  "slug": "pasofino",
+  "file": "Puerto_rican-Paso-Fino-Horse-chestnut.jpg",
+  "attr": {
+   "author": "Arsdelicata",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Puerto_rican-Paso-Fino-Horse-chestnut.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Puerto_rican-Paso-Fino-Horse-chestnut.jpg"
+  },
+  "bytes": 682003,
+  "skipped": true,
+  "ok": true,
+  "name": "Paso Fino"
+ },
+ {
+  "slug": "peruvianpaso",
+  "file": "Peruvian_Paso3.jpg",
+  "attr": {
+   "author": "Just chaos",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Peruvian_Paso3.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Peruvian_Paso3.jpg"
+  },
+  "bytes": 149463,
+  "skipped": true,
+  "ok": true,
+  "name": "Peruvian Paso"
+ },
+ {
+  "slug": "azteca",
+  "file": "Azteca1.jpg",
+  "attr": {
+   "author": "Just chaos",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Azteca1.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Azteca1.jpg"
+  },
+  "bytes": 146696,
+  "skipped": true,
+  "ok": true,
+  "name": "Azteca"
+ },
+ {
+  "slug": "criollo",
+  "file": "Yeguacriolla.jpg",
+  "attr": {
+   "author": "Luciodec",
+   "license": "CC BY 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Yeguacriolla.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Yeguacriolla.jpg"
+  },
+  "bytes": 2289918,
+  "skipped": true,
+  "ok": true,
+  "name": "Criollo"
+ },
+ {
+  "slug": "mangalarga",
+  "file": "Mangalarga_Marchador.jpg",
+  "attr": {
+   "author": "Fábio Vidigal",
+   "license": "CC BY-SA 2.5",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Mangalarga_Marchador.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mangalarga_Marchador.jpg"
+  },
+  "bytes": 3399305,
+  "skipped": true,
+  "ok": true,
+  "name": "Mangalarga Marchador"
+ },
+ {
+  "slug": "knabstrupper",
+  "file": "Danish_Knabstrupper_-_Xantos.jpg",
+  "attr": {
+   "author": "Melyni at English Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Danish_Knabstrupper_-_Xantos.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Danish_Knabstrupper_-_Xantos.jpg"
+  },
+  "bytes": 256871,
+  "skipped": true,
+  "ok": true,
+  "name": "Knabstrupper"
+ },
+ {
+  "slug": "gelderland",
+  "file": "Gelderlander_Vierspänner.jpg",
+  "attr": {
+   "author": "--Xocolatl (talk) 00:53, 1 March 2009 (UTC)",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Gelderlander_Viersp%C3%A4nner.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Gelderlander_Viersp%C3%A4nner.jpg"
+  },
+  "bytes": 842125,
+  "skipped": true,
+  "ok": true,
+  "name": "Gelderland"
+ },
+ {
+  "slug": "dartmoor",
+  "file": "Dartmoorpony.JPG",
+  "attr": {
+   "author": "DFoidl",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Dartmoorpony.JPG",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Dartmoorpony.JPG"
+  },
+  "bytes": 322434,
+  "skipped": true,
+  "ok": true,
+  "name": "Dartmoor Pony"
+ },
+ {
+  "slug": "hackney",
+  "file": "Hackney horse.jpg",
+  "attr": {
+   "author": "Cgoodwin",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Hackney_horse.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Hackney_horse.jpg"
+  },
+  "bytes": 503329,
+  "ok": true,
+  "name": "Hackney"
+ },
+ {
+  "slug": "lusitano",
+  "file": "Lusitano_stallion1.jpg",
+  "attr": {
+   "author": "Lbpetersen",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Lusitano_stallion1.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lusitano_stallion1.jpg"
+  },
+  "bytes": 2177611,
+  "skipped": true,
+  "ok": true,
+  "name": "Lusitano"
+ },
+ {
+  "slug": "barb",
+  "file": "Barbe_bai_fantasia.jpg",
+  "attr": {
+   "author": "Tsaag Valren",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Barbe_bai_fantasia.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Barbe_bai_fantasia.jpg"
+  },
+  "bytes": 4630016,
+  "skipped": true,
+  "ok": true,
+  "name": "Barb"
+ },
+ {
+  "slug": "orlovtrotter",
+  "file": "Орловский_рысак.jpg",
+  "attr": {
+   "author": "Ponyart",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D1%8B%D1%81%D0%B0%D0%BA.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D1%8B%D1%81%D0%B0%D0%BA.jpg"
+  },
+  "bytes": 216461,
+  "skipped": true,
+  "ok": true,
+  "name": "Orlov Trotter"
+ },
+ {
+  "slug": "dolehorse",
+  "file": "Dole_eating_grass.jpg",
+  "attr": {
+   "author": "HaXXa",
+   "license": "CC BY 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Dole_eating_grass.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Dole_eating_grass.jpg"
+  },
+  "bytes": 1754515,
+  "skipped": true,
+  "ok": true,
+  "name": "Døle"
+ },
+ {
+  "slug": "finnhorse",
+  "file": "Finnhorse_stallion.jpg",
+  "attr": {
+   "author": "Johanna Rautio",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Finnhorse_stallion.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Finnhorse_stallion.jpg"
+  },
+  "bytes": 55406,
+  "skipped": true,
+  "ok": true,
+  "name": "Finnhorse"
+ },
+ {
+  "slug": "noriker",
+  "file": "Noriker_horse_in_Salzburg_(state)_3336.jpg",
+  "attr": {
+   "author": "Karl Gruber",
+   "license": "CC BY 3.0 at",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Noriker_horse_in_Salzburg_(state)_3336.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Noriker_horse_in_Salzburg_%28state%29_3336.jpg"
+  },
+  "bytes": 11856861,
+  "skipped": true,
+  "ok": true,
+  "name": "Noriker"
+ },
+ {
+  "slug": "murgese",
+  "file": "Murgese_Donato.jpg",
+  "attr": {
+   "author": "Thyl Engelhardt",
+   "license": "CC BY-SA 3.0 de",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Murgese_Donato.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Murgese_Donato.jpg"
+  },
+  "bytes": 2319743,
+  "skipped": true,
+  "ok": true,
+  "name": "Murgese"
+ },
+ {
+  "slug": "maremmano",
+  "file": "Marmemmano6_stehend_Gang.jpg",
+  "attr": {
+   "author": "BS Thurner Hof",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Marmemmano6_stehend_Gang.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Marmemmano6_stehend_Gang.jpg"
+  },
+  "bytes": 699593,
+  "skipped": true,
+  "ok": true,
+  "name": "Maremmano"
+ },
+ {
+  "slug": "boulonnais",
+  "file": "Bambou_étalon_de_2_ans.jpg",
+  "attr": {
+   "author": "Ib51",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Bambou_%C3%A9talon_de_2_ans.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bambou_%C3%A9talon_de_2_ans.jpg"
+  },
+  "bytes": 49578,
+  "skipped": true,
+  "ok": true,
+  "name": "Boulonnais"
+ },
+ {
+  "slug": "breton",
+  "file": "Chevaux_trait_breton_Creyssac_(1).JPG",
+  "attr": {
+   "author": "Père Igor",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Chevaux_trait_breton_Creyssac_(1).JPG",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Chevaux_trait_breton_Creyssac_%281%29.JPG"
+  },
+  "bytes": 2300435,
+  "skipped": true,
+  "ok": true,
+  "name": "Breton"
+ },
+ {
+  "slug": "ardennes",
+  "file": "Etalon_race_ardennaise_1.jpg",
+  "attr": {
+   "author": "Vassil",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Etalon_race_ardennaise_1.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Etalon_race_ardennaise_1.jpg"
+  },
+  "bytes": 1148434,
+  "skipped": true,
+  "ok": true,
+  "name": "Ardennes"
+ },
+ {
+  "slug": "jutland",
+  "file": "Jydske_heste_vorup_enge.jpg",
+  "attr": {
+   "author": "Malene Thyssen",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Jydske_heste_vorup_enge.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Jydske_heste_vorup_enge.jpg"
+  },
+  "bytes": 1589140,
+  "skipped": true,
+  "ok": true,
+  "name": "Jutland"
+ },
+ {
+  "slug": "przewalski",
+  "file": "Przewalskis_horse_02.jpg",
+  "attr": {
+   "author": "Claudia Feh",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Przewalskis_horse_02.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Przewalskis_horse_02.jpg"
+  },
+  "bytes": 193997,
+  "skipped": true,
+  "ok": true,
+  "name": "Przewalski’s Horse"
+ },
+ {
+  "slug": "kathiawari",
+  "file": "Kathiawari_2.jpg",
+  "attr": {
+   "author": "Raghvendra99674010",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Kathiawari_2.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kathiawari_2.jpg"
+  },
+  "bytes": 246653,
+  "skipped": true,
+  "ok": true,
+  "name": "Kathiawari"
+ },
+ {
+  "slug": "dulmen",
+  "file": "Merfeld,_Merfelder_Bruch,_Dülmener_Wildpferde_--_2021_--_9344.jpg",
+  "attr": {
+   "author": "Dietmar Rabich",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Merfeld,_Merfelder_Bruch,_D%C3%BClmener_Wildpferde_--_2021_--_9344.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Merfeld%2C_Merfelder_Bruch%2C_D%C3%BClmener_Wildpferde_--_2021_--_9344.jpg"
+  },
+  "bytes": 20783385,
+  "skipped": true,
+  "ok": true,
+  "name": "Dülmen Pony"
+ },
+ {
+  "slug": "pottok",
+  "file": "Pootok_arra_Orbelaunen.JPG",
+  "attr": {
+   "author": "Lankide Gorritxiki",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Pootok_arra_Orbelaunen.JPG",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pootok_arra_Orbelaunen.JPG"
+  },
+  "bytes": 1761188,
+  "skipped": true,
+  "ok": true,
+  "name": "Pottok"
+ },
+ {
+  "slug": "hucul",
+  "file": "Hucul.JPG",
+  "attr": {
+   "author": "Karakal",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Hucul.JPG",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Hucul.JPG"
+  },
+  "bytes": 871857,
+  "skipped": true,
+  "ok": true,
+  "name": "Hucul Pony"
+ },
+ {
+  "slug": "konik",
+  "file": "Equus_ferus_caballus_(conic)_pony.jpg",
+  "attr": {
+   "author": "Alethe",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Equus_ferus_caballus_(conic)_pony.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Equus_ferus_caballus_%28conic%29_pony.jpg"
+  },
+  "bytes": 1022821,
+  "skipped": true,
+  "ok": true,
+  "name": "Konik"
+ },
+ {
+  "slug": "shagya",
+  "file": "Etalon-shagya-bai.JPG",
+  "attr": {
+   "author": "Véronique Mestre Gibaud (Association française du Cheval Arabe-Shagya)",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Etalon-shagya-bai.JPG",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Etalon-shagya-bai.JPG"
+  },
+  "bytes": 645788,
+  "skipped": true,
+  "ok": true,
+  "name": "Shagya Arabian"
+ },
+ {
+  "slug": "wielkopolski",
+  "file": "Wielkopolski_horse,_August_2002.jpg",
+  "attr": {
+   "author": "Photo by mzopw",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Wielkopolski_horse,_August_2002.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Wielkopolski_horse%2C_August_2002.jpg"
+  },
+  "bytes": 65344,
+  "skipped": true,
+  "ok": true,
+  "name": "Wielkopolski"
+ },
+ {
+  "slug": "furioso",
+  "file": "Furioso-Przedswit_Polish_breed_1.jpg",
+  "attr": {
+   "author": "JoRe",
+   "license": "GFDL",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Furioso-Przedswit_Polish_breed_1.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Furioso-Przedswit_Polish_breed_1.jpg"
+  },
+  "bytes": 1539084,
+  "skipped": true,
+  "ok": true,
+  "name": "Furioso-North Star"
+ },
+ {
+  "slug": "nonius",
+  "file": "Noniusz_mezohegyes.jpg",
+  "attr": {
+   "author": "Tommy lieven at Hungarian Wikipedia",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Noniusz_mezohegyes.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Noniusz_mezohegyes.jpg"
+  },
+  "bytes": 147234,
+  "skipped": true,
+  "ok": true,
+  "name": "Nonius"
+ },
+ {
+  "slug": "kabardian",
+  "file": "IMG-20200516-WA0002.jpg",
+  "attr": {
+   "author": "Helgie12",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:IMG-20200516-WA0002.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/IMG-20200516-WA0002.jpg"
+  },
+  "bytes": 100264,
+  "skipped": true,
+  "ok": true,
+  "name": "Kabarda"
+ },
+ {
+  "slug": "karabakh",
+  "file": "Qarabaq_ati.jpg",
+  "attr": {
+   "author": "Сверчков",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Qarabaq_ati.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Qarabaq_ati.jpg"
+  },
+  "bytes": 102861,
+  "skipped": true,
+  "ok": true,
+  "name": "Karabakh"
+ },
+ {
+  "slug": "budyonny",
+  "file": "Two_year_old_budjonny_stallions_in_russia.jpg",
+  "attr": {
+   "author": "Unknown",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Two_year_old_budjonny_stallions_in_russia.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Two_year_old_budjonny_stallions_in_russia.jpg"
+  },
+  "bytes": 256821,
+  "skipped": true,
+  "ok": true,
+  "name": "Budyonny"
+ },
+ {
+  "slug": "akhalteke",
+  "file": "Dagat-Geli.jpg",
+  "attr": {
+   "author": "Artur Baboev - give free of charge right for promouting of Akhal-teke article on Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Dagat-Geli.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Dagat-Geli.jpg"
+  },
+  "bytes": 241364,
+  "skipped": true,
+  "ok": true,
+  "name": "Akhal-Teke"
+ },
+ {
+  "slug": "marwari",
+  "file": "Humayun,_Marwari_Stallion_of_Virendra_Kankariya.jpg",
+  "attr": {
+   "author": "Virendra.kankariya",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Humayun,_Marwari_Stallion_of_Virendra_Kankariya.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Humayun%2C_Marwari_Stallion_of_Virendra_Kankariya.jpg"
+  },
+  "bytes": 2417498,
+  "skipped": true,
+  "ok": true,
+  "name": "Marwari"
+ },
+ {
+  "slug": "falabella",
+  "file": "FalabellaFestivo.jpg",
+  "attr": {
+   "author": "Captain E H Eckholdt",
+   "license": "Attribution",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:FalabellaFestivo.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/FalabellaFestivo.jpg"
+  },
+  "bytes": 307668,
+  "skipped": true,
+  "ok": true,
+  "name": "Falabella"
+ },
+ {
+  "slug": "fjord",
+  "file": "Cheval_fjord_00003.jpg",
+  "attr": {
+   "author": "Plasma at French Wikipedia",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Cheval_fjord_00003.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cheval_fjord_00003.jpg"
+  },
+  "bytes": 118572,
+  "skipped": true,
+  "ok": true,
+  "name": "Norwegian Fjord"
+ },
+ {
+  "slug": "camargue",
+  "file": "Camargue_Horse_(26645657776).jpg",
+  "attr": {
+   "author": "Bernard DUPONT from FRANCE",
+   "license": "CC BY-SA 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Camargue_Horse_(26645657776).jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Camargue_Horse_%2826645657776%29.jpg"
+  },
+  "bytes": 13391987,
+  "skipped": true,
+  "ok": true,
+  "name": "Camargue"
+ },
+ {
+  "slug": "sorraia",
+  "file": "Altamiro,_Purebred_Sorraia_Stallion.jpg",
+  "attr": {
+   "author": "Selona",
+   "license": "CC BY 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Altamiro,_Purebred_Sorraia_Stallion.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Altamiro%2C_Purebred_Sorraia_Stallion.jpg"
+  },
+  "bytes": 221974,
+  "skipped": true,
+  "ok": true,
+  "name": "Sorraia"
+ },
+ {
+  "slug": "kladruber",
+  "file": "Kladruber.jpg",
+  "attr": {
+   "author": "User:Hü",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Kladruber.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Kladruber.jpg"
+  },
+  "bytes": 308863,
+  "skipped": true,
+  "ok": true,
+  "name": "Kladruber"
+ },
+ {
+  "slug": "nokota",
+  "file": "Nokota_Horses_cropped.jpg",
+  "attr": {
+   "author": "Nokota_Horses.jpg: François Marchal derivative work: Dana boomer (talk)",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Nokota_Horses_cropped.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg"
+  },
+  "bytes": 78356,
+  "skipped": true,
+  "ok": true,
+  "name": "Nokota"
+ },
+ {
+  "slug": "caspian",
+  "file": "Runnymede_Felfel.jpg",
+  "attr": {
+   "author": "Akearley",
+   "license": "CC0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Runnymede_Felfel.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Runnymede_Felfel.jpg"
+  },
+  "bytes": 135931,
+  "skipped": true,
+  "ok": true,
+  "name": "Caspian"
+ },
+ {
+  "slug": "americancreamdraft",
+  "file": "American_Cream_Draft_Horse.jpg",
+  "attr": {
+   "author": "[https see djejeejeoemei://www.flickr.com/photos/7326810@N08 Just chaos]",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:American_Cream_Draft_Horse.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/American_Cream_Draft_Horse.jpg"
+  },
+  "bytes": 362824,
+  "skipped": true,
+  "ok": true,
+  "name": "American Cream Draft"
+ },
+ {
+  "slug": "galiceno",
+  "file": "Galiceño_Horse,_\"Diosa_de_Oro\".jpg",
+  "attr": {
+   "author": "RMBlaney",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Galice%C3%B1o_Horse,_%22Diosa_de_Oro%22.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Galice%C3%B1o_Horse%2C_%22Diosa_de_Oro%22.jpg"
+  },
+  "bytes": 551536,
+  "skipped": true,
+  "ok": true,
+  "name": "Galiceño"
+ },
+ {
+  "slug": "losino",
+  "file": "Caballos_losinos_(30_de_abril_de_2018,_Reserva_y_Centro_de_Interpretación_del_Bisonte_Europeo_de_San_Cebrián_de_Mudá)_10.jpg",
+  "attr": {
+   "author": "Discasto",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Caballos_losinos_(30_de_abril_de_2018,_Reserva_y_Centro_de_Interpretaci%C3%B3n_del_Bisonte_Europeo_de_San_Cebri%C3%A1n_de_Mud%C3%A1)_10.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Caballos_losinos_%2830_de_abril_de_2018%2C_Reserva_y_Centro_de_Interpretaci%C3%B3n_del_Bisonte_Europeo_de_San_Cebri%C3%A1n_de_Mud%C3%A1%29_10.jpg"
+  },
+  "bytes": 4488754,
+  "skipped": true,
+  "ok": true,
+  "name": "Losino"
+ },
+ {
+  "slug": "retuerta",
+  "file": "Caballos en Doñana - panoramio.jpg",
+  "attr": {
+   "author": "Jon Agüera",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Caballos_en_Do%C3%B1ana_-_panoramio.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Caballos_en_Do%C3%B1ana_-_panoramio.jpg"
+  },
+  "bytes": 1939148,
+  "skipped": true,
+  "ok": true,
+  "name": "Retuerta"
+ },
+ {
+  "slug": "giara",
+  "file": "Cavallino_della_Giara-cropped_02.jpg",
+  "attr": {
+   "author": "Helga Steinreich",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Cavallino_della_Giara-cropped_02.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Cavallino_della_Giara-cropped_02.jpg"
+  },
+  "bytes": 826577,
+  "skipped": true,
+  "ok": true,
+  "name": "Giara"
+ },
+ {
+  "slug": "asturcon",
+  "file": "Asturcon.jpg",
+  "attr": {
+   "author": "Ramón from Llanera, España",
+   "license": "CC BY-SA 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Asturcon.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Asturcon.jpg"
+  },
+  "bytes": 1327748,
+  "skipped": true,
+  "ok": true,
+  "name": "Asturcón"
+ },
+ {
+  "slug": "garrano",
+  "file": "Garranos_fight.jpg",
+  "attr": {
+   "author": "Norberto Esteves",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Garranos_fight.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Garranos_fight.jpg"
+  },
+  "bytes": 13919495,
+  "skipped": true,
+  "ok": true,
+  "name": "Garrano"
+ },
+ {
+  "slug": "misaki",
+  "file": "Misaki_uma_May_2014_5419_(cropped).jpg",
+  "attr": {
+   "author": "Koji Ishii",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Misaki_uma_May_2014_5419_(cropped).jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Misaki_uma_May_2014_5419_%28cropped%29.jpg"
+  },
+  "bytes": 2399076,
+  "skipped": true,
+  "ok": true,
+  "name": "Misaki"
+ },
+ {
+  "slug": "tokara",
+  "file": "Tokara_Pony_吐噶喇馬(トカラうま).jpg",
+  "attr": {
+   "author": "TANAKA Juuyoh (田中十洋)",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Tokara_Pony_%E5%90%90%E5%99%B6%E5%96%87%E9%A6%AC(%E3%83%88%E3%82%AB%E3%83%A9%E3%81%86%E3%81%BE).jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tokara_Pony_%E5%90%90%E5%99%B6%E5%96%87%E9%A6%AC%28%E3%83%88%E3%82%AB%E3%83%A9%E3%81%86%E3%81%BE%29.jpg"
+  },
+  "bytes": 11179209,
+  "skipped": true,
+  "ok": true,
+  "name": "Tokara"
+ },
+ {
+  "slug": "kiso",
+  "file": "木曽駒_1.jpg",
+  "attr": {
+   "author": "eiko",
+   "license": "CC BY-SA 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:%E6%9C%A8%E6%9B%BD%E9%A7%92_1.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%E6%9C%A8%E6%9B%BD%E9%A7%92_1.jpg"
+  },
+  "bytes": 283046,
+  "skipped": true,
+  "ok": true,
+  "name": "Kiso"
+ },
+ {
+  "slug": "yakutian",
+  "file": "A_Yakutian_horse_(9762345674).jpg",
+  "attr": {
+   "author": "Maarten Takens from Germany",
+   "license": "CC BY-SA 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:A_Yakutian_horse_(9762345674).jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_Yakutian_horse_%289762345674%29.jpg"
+  },
+  "bytes": 2742657,
+  "skipped": true,
+  "ok": true,
+  "name": "Yakutian"
+ },
+ {
+  "slug": "bhutia",
+  "file": "Beauty on top.jpg",
+  "attr": {
+   "author": "Prasenjit Biswas",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Beauty_on_top.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Beauty_on_top.jpg"
+  },
+  "bytes": 3518932,
+  "skipped": true,
+  "ok": true,
+  "name": "Bhutia"
+ },
+ {
+  "slug": "manipuri",
+  "file": "Manipur_Pony.jpg",
+  "attr": {
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Manipur_Pony.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manipur_Pony.jpg"
+  },
+  "bytes": 143509,
+  "skipped": true,
+  "ok": true,
+  "name": "Manipuri Pony"
+ },
+ {
+  "slug": "sableisland",
+  "file": "Lone_horse.jpg",
+  "attr": {
+   "author": "Paul Gierszewski",
+   "license": "CC BY-SA 4.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Lone_horse.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Lone_horse.jpg"
+  },
+  "bytes": 5454848,
+  "skipped": false,
+  "ok": true,
+  "name": "Sable Island",
+  "replaced": true
+ },
+ {
+  "slug": "banker",
+  "file": "SpanishMustangsOfCorolla.jpg",
+  "attr": {
+   "author": "Kevincollins123",
+   "license": "CC BY-SA 3.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:SpanishMustangsOfCorolla.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/SpanishMustangsOfCorolla.jpg"
+  },
+  "bytes": 1061234,
+  "skipped": true,
+  "ok": true,
+  "name": "Banker"
+ },
+ {
+  "slug": "floridacracker",
+  "file": "Cracker_horse_1.jpg",
+  "attr": {
+   "author": "Geoff Gallice",
+   "license": "CC BY 2.0",
+   "descUrl": "https://commons.wikimedia.org/wiki/File:Cracker_horse_1.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cracker_horse_1.jpg"
+  },
+  "bytes": 6627886,
+  "skipped": true,
+  "ok": true,
+  "name": "Florida Cracker Horse"
+ }
+]
