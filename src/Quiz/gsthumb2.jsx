@@ -16,6 +16,7 @@ const ASSET = {
   emoji: { dir: "openmoji", ext: "svg", fit: "contain" },
   carlogos: { dir: "carlogos", ext: "png", fit: "contain" },
   dinos: { dir: "dinos", ext: "jpg", fit: "cover" },
+  gaming: { dir: "gaming", ext: "png", fit: "contain" },
   logos: { dir: "logos", ext: "svg", fit: "contain" },
   flags: { dir: "flags", ext: "svg", fit: "contain" },
   capitals: { dir: "flags", ext: "svg", fit: "contain" },

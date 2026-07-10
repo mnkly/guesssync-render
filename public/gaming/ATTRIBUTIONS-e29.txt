@@ -1,0 +1,104 @@
+E29 «Guess the Gaming Logo» — image attributions
+Source: Wikimedia Commons / Wikipedia. Trademark logos used nominatively (logo/wordmark only).
+Format: slug | name | file | author | license | source URL
+--------------------------------------------------------------------------------
+minecraft | Minecraft | Minecraft Logo-en.svg | Mojang Studios | Public domain | https://commons.wikimedia.org/wiki/File:Minecraft_Logo-en.svg
+fortnite | Fortnite | Fortnite logo 2.svg | Epic Games | Public domain | https://commons.wikimedia.org/wiki/File:Fortnite_logo_2.svg
+xbox | Xbox | Xbox One logo wordmark.svg | Microsoft | Public domain | https://commons.wikimedia.org/wiki/File:Xbox_One_logo_wordmark.svg
+playstation | PlayStation | PlayStation logo and wordmark.svg | Sony Interactive Entertainment | Public domain | https://commons.wikimedia.org/wiki/File:PlayStation_logo_and_wordmark.svg
+nintendo | Nintendo | Nintendo logo.svg | Nintendo | Public domain | https://commons.wikimedia.org/wiki/File:Nintendo_logo.svg
+pokemon | Pokémon | International Pokémon logo.svg | Nintendo | Public domain | https://commons.wikimedia.org/wiki/File:International_Pok%C3%A9mon_logo.svg
+supermario | Super Mario | Super Mario logo.svg | Nintendo | Public domain | https://commons.wikimedia.org/wiki/File:Super_Mario_logo.svg
+roblox | Roblox | Roblox Logo 2022.svg | Roblox Corporation | Public domain | https://commons.wikimedia.org/wiki/File:Roblox_Logo_2022.svg
+amongus | Among Us | Among Us Logo.svg | InnerSloth LLC, originally uploaded by User:RiskiMuhammad11 | Public domain | https://commons.wikimedia.org/wiki/File:Among_Us_Logo.svg
+callofduty | Call of Duty | Call of Duty Ghosts logo.svg | Original: Activision/Infinity Ward Derivative work: StomboyCarGeek The original uploader was THeKiLLeR17 at Italian Wiki | Public domain | https://commons.wikimedia.org/wiki/File:Call_of_Duty_Ghosts_logo.svg
+gta | Grand Theft Auto | Grand Theft Auto III logo.svg | Rockstar Games / Take-Two Interactive | Public domain | https://commons.wikimedia.org/wiki/File:Grand_Theft_Auto_III_logo.svg
+fifa | FIFA | FIFA 08 wordmark logo black-red.png | Electronic Arts | Public domain | https://commons.wikimedia.org/wiki/File:FIFA_08_wordmark_logo_black-red.png
+tetris | Tetris | Tetris logo 2019.svg | The Tetris Company | Public domain | https://commons.wikimedia.org/wiki/File:Tetris_logo_2019.svg
+pacman | Pac-Man | Pac man logo.svg | Unknown author Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Pac_man_logo.svg
+sonic | Sonic the Hedgehog | Sonic the Hedgehog logo.svg | Sega | CC0 | https://commons.wikimedia.org/wiki/File:Sonic_the_Hedgehog_logo.svg
+angrybirds | Angry Birds | Angry Birds Rio logo.svg | Rovio Entertainment / 20th Century Studios / Blue Sky Studios | Public domain | https://commons.wikimedia.org/wiki/File:Angry_Birds_Rio_logo.svg
+candycrush | Candy Crush | Candy Crush logo.png | see source page | Fair use | https://en.wikipedia.org/wiki/File:Candy_Crush_logo.png
+thesims | The Sims | The Sims series logo.svg | Maxis | Public domain | https://commons.wikimedia.org/wiki/File:The_Sims_series_logo.svg
+steam | Steam | Steam icon logo.svg | Steam | Public domain | https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg
+zelda | The Legend of Zelda | Thelegendofzelda-logo.svg | nintendo | Public domain | https://commons.wikimedia.org/wiki/File:Thelegendofzelda-logo.svg
+mariokart | Mario Kart | Mario Kart 8 - Monochrome logo (1).svg | Nintendo | Public domain | https://commons.wikimedia.org/wiki/File:Mario_Kart_8_-_Monochrome_logo_(1).svg
+gameboy | Game Boy | Nintendo Game Boy Logo.svg | Nintendo | Public domain | https://commons.wikimedia.org/wiki/File:Nintendo_Game_Boy_Logo.svg
+wii | Wii | Wii.svg | Nintendo | Public domain | https://commons.wikimedia.org/wiki/File:Wii.svg
+subwaysurfers | Subway Surfers | Subway Surfers logo.svg | see source page | Fair use | https://en.wikipedia.org/wiki/File:Subway_Surfers_logo.svg
+templerun | Temple Run | Temple Run logo.png | see source page | Fair use | https://en.wikipedia.org/wiki/File:Temple_Run_logo.png
+halo | Halo | Halo (series) black logo.svg | ™/®Microsoft | Public domain | https://commons.wikimedia.org/wiki/File:Halo_(series)_black_logo.svg
+assassinscreed | Assassin's Creed | Assassin’s Creed II v1 logo.svg | Unknown author Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Assassin%E2%80%99s_Creed_II_v1_logo.svg
+overwatch | Overwatch | Overwatch text logo.svg | Blizzard Entertainment | Public domain | https://commons.wikimedia.org/wiki/File:Overwatch_text_logo.svg
+fallguys | Fall Guys | Fall Guys Logo Wordmark.svg | Mediatonic Limited | Public domain | https://commons.wikimedia.org/wiki/File:Fall_Guys_Logo_Wordmark.svg
+clashofclans | Clash of Clans | Clash of Clans Logo.png | see source page | Fair use | https://en.wikipedia.org/wiki/File:Clash_of_Clans_Logo.png
+doom | Doom | Doom – Game’s logo.svg | id Software; Bethesda Softworks, LLC | Public domain | https://commons.wikimedia.org/wiki/File:Doom_%E2%80%93_Game%E2%80%99s_logo.svg
+streetfighter | Street Fighter | Street Fighter old logo.png | Capcom | Public domain | https://commons.wikimedia.org/wiki/File:Street_Fighter_old_logo.png
+mortalkombat | Mortal Kombat | Mortal Kombat logo.svg | Midway Games | Public domain | https://commons.wikimedia.org/wiki/File:Mortal_Kombat_logo.svg
+counterstrike | Counter-Strike | Counter-Strike 2 logo.svg | Valve Corporation | Public domain | https://commons.wikimedia.org/wiki/File:Counter-Strike_2_logo.svg
+leagueoflegends | League of Legends | League of Legends 2019 vector.svg | Riot Games (Q1060165) | Public domain | https://commons.wikimedia.org/wiki/File:League_of_Legends_2019_vector.svg
+valorant | Valorant | Valorant logo.svg | Riot Games | Public domain | https://commons.wikimedia.org/wiki/File:Valorant_logo.svg
+apexlegends | Apex Legends | Apex Legends logo.png | Respawn Entertainment | CC0 | https://commons.wikimedia.org/wiki/File:Apex_Legends_logo.png
+pubg | PUBG | PUBG Corporation Logo.svg | Krafton Inc. | Public domain | https://commons.wikimedia.org/wiki/File:PUBG_Corporation_Logo.svg
+cyberpunk2077 | Cyberpunk 2077 | Cyberpunk 2077 logo.svg | CD Projekt RED | Public domain | https://commons.wikimedia.org/wiki/File:Cyberpunk_2077_logo.svg
+eldenring | Elden Ring | Elden Ring logo black.svg | various | Public domain | https://commons.wikimedia.org/wiki/File:Elden_Ring_logo_black.svg
+nintendoswitch | Nintendo Switch | Nintendo Switch logo transparent + wordmark.png | Nintendo of Europe Ltd. | Public domain | https://commons.wikimedia.org/wiki/File:Nintendo_Switch_logo_transparent_%2B_wordmark.png
+ea | Electronic Arts | Electronic Arts Logo Purple.svg | Electronic Arts Inc. | Public domain | https://commons.wikimedia.org/wiki/File:Electronic_Arts_Logo_Purple.svg
+ubisoft | Ubisoft | Ubisoft logo.svg | Ubisoft | Public domain | https://commons.wikimedia.org/wiki/File:Ubisoft_logo.svg
+rockstargames | Rockstar Games | Rockstar Games Social Club Logo.svg | Rockstar Games | Public domain | https://commons.wikimedia.org/wiki/File:Rockstar_Games_Social_Club_Logo.svg
+crashbandicoot | Crash Bandicoot | Crash bandicoot logo.png | see source page | Public domain | https://commons.wikimedia.org/wiki/File:Crash_bandicoot_logo.png
+needforspeed | Need for Speed | Need-for-speed-HP-logo.svg | Criterion Games / Electronic Arts | Public domain | https://commons.wikimedia.org/wiki/File:Need-for-speed-HP-logo.svg
+battlefield | Battlefield | Battlefield 6 logo.svg | Electronic Arts / DICE | Trademarked logo (nominative use) | https://commons.wikimedia.org/wiki/File:Battlefield_6_logo.svg
+gearsofwar | Gears of War | Gears of war 4 logo.jpg | gearsofwar.com | Public domain | https://commons.wikimedia.org/wiki/File:Gears_of_war_4_logo.jpg
+worldofwarcraft | World of Warcraft | World of Warcraft Classic logo.png | Blizzard Entertainment, Inc. | Fair use | https://en.wikipedia.org/wiki/File:World_of_Warcraft_Classic_logo.png
+rocketleague | Rocket League | Rocket League logo.svg | Psyonix, Inc. | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Rocket_League_logo.svg
+halflife | Half-Life | Half-Life 2 Logo.svg | Source converted by Fleshgrinder | Public domain | https://commons.wikimedia.org/wiki/File:Half-Life_2_Logo.svg
+portal | Portal | Portal Logo.svg | Valve | Public domain | https://commons.wikimedia.org/wiki/File:Portal_Logo.svg
+darksouls | Dark Souls | Dark Souls logo black with line.svg | various | Public domain | https://commons.wikimedia.org/wiki/File:Dark_Souls_logo_black_with_line.svg
+metroid | Metroid | Metroid Logo 2017.svg | Dominic Roberti | Public domain | https://commons.wikimedia.org/wiki/File:Metroid_Logo_2017.svg
+residentevil | Resident Evil | RESIDENT EVIL 2 LOGO.svg | Markus Below | Public domain | https://commons.wikimedia.org/wiki/File:RESIDENT_EVIL_2_LOGO.svg
+metalgear | Metal Gear | Metal Gear franchise logo.svg | Konami Digital Entertainment | Public domain | https://commons.wikimedia.org/wiki/File:Metal_Gear_franchise_logo.svg
+godofwar | God of War | God of War (Norse) logo.png | see source page | Fair use | https://en.wikipedia.org/wiki/File:God_of_War_(Norse)_logo.png
+thewitcher | The Witcher | ZH The-Witcher-3 Logo-Black-Vector RGB.svg | CD Projekt RED | Public domain | https://commons.wikimedia.org/wiki/File:ZH_The-Witcher-3_Logo-Black-Vector_RGB.svg
+hollowknight | Hollow Knight | Hollow Knight Silksong Logo.svg | DavideMay | Public domain | https://commons.wikimedia.org/wiki/File:Hollow_Knight_Silksong_Logo.svg
+cuphead | Cuphead | Cuphead promo logo ddwtd.png | Studio MDHR | Public domain | https://commons.wikimedia.org/wiki/File:Cuphead_promo_logo_ddwtd.png
+deadcells | Dead Cells | Dead Cells logo.jpg | Motion Twin | Public domain | https://commons.wikimedia.org/wiki/File:Dead_Cells_logo.jpg
+bioshock | BioShock | BioShock-Logo.svg | 2K Games | Public domain | https://commons.wikimedia.org/wiki/File:BioShock-Logo.svg
+farcry | Far Cry | Far Cry 3 - Logo.svg | ™/®Ubisoft | Public domain | https://commons.wikimedia.org/wiki/File:Far_Cry_3_-_Logo.svg
+borderlands | Borderlands | Borderlands 4 Logo.png | Gearbox Software | Public domain | https://commons.wikimedia.org/wiki/File:Borderlands_4_Logo.png
+bloodborne | Bloodborne | Bloodborne logo black.svg | various | Public domain | https://commons.wikimedia.org/wiki/File:Bloodborne_logo_black.svg
+deadbydaylight | Dead by Daylight | Dead by Daylight Logo.png | Behaviour Interactive | Public domain | https://commons.wikimedia.org/wiki/File:Dead_by_Daylight_Logo.png
+rainbowsix | Rainbow Six | Rainbow Six Siege X logo.svg | Ubisoft | Public domain | https://commons.wikimedia.org/wiki/File:Rainbow_Six_Siege_X_logo.svg
+fallout | Fallout | Fallout logo.svg | Bethesda Softworks, LLC | Public domain | https://commons.wikimedia.org/wiki/File:Fallout_logo.svg
+elderscrolls | The Elder Scrolls | The Elder Scrolls Logo.svg | The Elder Scrolls | Public domain | https://commons.wikimedia.org/wiki/File:The_Elder_Scrolls_Logo.svg
+warframe | Warframe | WarframeLogo.png | Digital Extremes | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:WarframeLogo.png
+genshinimpact | Genshin Impact | Genshin Impact logo.svg | ™/® miHoYo | PD | https://en.wikipedia.org/wiki/File:Genshin_Impact_logo.svg
+epicgames | Epic Games | Epic Games logo.svg | Epic Games | Public domain | https://commons.wikimedia.org/wiki/File:Epic_Games_logo.svg
+activision | Activision | Activision.svg | The original uploader was Caesura at English Wikipedia . - Landor Associates | Public domain | https://commons.wikimedia.org/wiki/File:Activision.svg
+blizzard | Blizzard Entertainment | Blizzard Entertainment Logo 2015.svg | Blizzard Entertainment - Stu Rose | Public domain | https://commons.wikimedia.org/wiki/File:Blizzard_Entertainment_Logo_2015.svg
+sega | Sega | Sega logo.svg | SEGA The original uploader was Tkgd2007 at English Wikipedia . | Public domain | https://commons.wikimedia.org/wiki/File:SEGA_logo.svg
+myst | Myst | Myst logo.png | Cyan Worlds | Public domain | https://commons.wikimedia.org/wiki/File:Myst_logo.png
+katamaridamacy | Katamari Damacy | Katamari Damacy logo black.svg | various | Public domain | https://commons.wikimedia.org/wiki/File:Katamari_Damacy_logo_black.svg
+shadowofthecolossus | Shadow of the Colossus | Shadow of the Colossus logo.png | Team Ico | Public domain | https://commons.wikimedia.org/wiki/File:Shadow_of_the_Colossus_logo.png
+journey | Journey | Journey (2012 video game) logo black.svg | various | Public domain | https://commons.wikimedia.org/wiki/File:Journey_(2012_video_game)_logo_black.svg
+limbo | Limbo | LIMBO Logo.svg | Playdead Studios | Public domain | https://commons.wikimedia.org/wiki/File:LIMBO_Logo.svg
+okami | Ōkami | Okami logo black.svg | various | Public domain | https://commons.wikimedia.org/wiki/File:Okami_logo_black.svg
+earthbound | EarthBound | EarthBound Beginnings logo.png | Unknown author Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:EarthBound_Beginnings_logo.png
+chronotrigger | Chrono Trigger | Chrono Trigger Logo.png | Kigsz | Public domain | https://commons.wikimedia.org/wiki/File:Chrono_Trigger_Logo.png
+deusex | Deus Ex | Deus Ex Humam Revolution logo.png | Eidos Montreal &amp; Square Enix | Public domain | https://commons.wikimedia.org/wiki/File:Deus_Ex_Humam_Revolution_logo.png
+discoelysium | Disco Elysium | Disco Elysium logo.png | Dronebogus | CC0 | https://commons.wikimedia.org/wiki/File:Disco_Elysium_logo.png
+fez | Fez | FEZ Logo vector.svg | polytron / gunnar.offel | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:FEZ_Logo_vector.svg
+hades | Hades | Hades logo black.svg | various | Public domain | https://commons.wikimedia.org/wiki/File:Hades_logo_black.svg
+obradinn | Return of the Obra Dinn | Return of the Obra Dinn logo-title.jpg | Lucas Pope (as developer) and 3909 (as publisher) | Fair use | https://en.wikipedia.org/wiki/File:Return_of_the_Obra_Dinn_logo-title.jpg
+papersplease | Papers, Please | Papers Please - Title Logo.png | This is modification of a logo owned by Lucas Pope for Papers, Please. | Public domain | https://commons.wikimedia.org/wiki/File:Papers_Please_-_Title_Logo.png
+babaisyou | Baba Is You | Baba Is You logo black.svg | various | Public domain | https://commons.wikimedia.org/wiki/File:Baba_Is_You_logo_black.svg
+kingdomhearts | Kingdom Hearts | Kingdom Hearts logo.svg | Square Enix + own work (svg) | Public domain | https://commons.wikimedia.org/wiki/File:Kingdom_Hearts_logo.svg
+persona | Persona | Persona 3 Reload logo black.svg | various | Public domain | https://commons.wikimedia.org/wiki/File:Persona_3_Reload_logo_black.svg
+ori | Ori | Ori game logo.svg | Moon Studios | Public domain | https://commons.wikimedia.org/wiki/File:Ori_game_logo.svg
+bastion | Bastion | Bastion logo.png | see source page | Fair use | https://en.wikipedia.org/wiki/File:Bastion_logo.png
+braid | Braid | Braid Logo.jpg | David Hellman | Public domain | https://commons.wikimedia.org/wiki/File:Braid_Logo.jpg
+celeste | Celeste | Celeste Logo.png | Celeste | Public domain | https://commons.wikimedia.org/wiki/File:Celeste_Logo.png
+undertale | Undertale | Undertale logo.jpg | Toby Fox and/or Temmie Chang | Public domain | https://commons.wikimedia.org/wiki/File:Undertale_logo.jpg
+spelunky | Spelunky | Spelunky logo black.svg | various | Public domain | https://commons.wikimedia.org/wiki/File:Spelunky_logo_black.svg
+hearthstone | Hearthstone | Hearthstone 2016 logo.png | Blizzard Entertainment | Fair use | https://en.wikipedia.org/wiki/File:Hearthstone_2016_logo.png
+bethesda | Bethesda | Bethesdasoftworks-logo.svg | ZeniMax Media Inc. | Public domain | https://commons.wikimedia.org/wiki/File:Bethesdasoftworks-logo.svg
