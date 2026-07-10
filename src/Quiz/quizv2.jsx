@@ -157,6 +157,25 @@ const ItemImg = ({ cfg, slug, w, h, revealed, revealAt }) => {
   return <Img src={staticFile(`${cfg.dir}/${slug}.${cfg.ext}`)} style={{ width: w - pad * 2, height: h - pad * 2, objectFit: cfg.fit, borderRadius: cfg.fit === "contain" ? 12 : 22, transform: `scale(${settle})` }} />;
 };
 
+// عرض لغز الإيموجي (E26 وما بعده) — كل إيموجي يُجلب كـ OpenMoji SVG بحسب كود يونيكود.
+const emojiHex = (ch) => [...ch].map((c) => c.codePointAt(0).toString(16).toUpperCase()).join("-");
+const EmojiClue = ({ emojis, w, h, revealed, revealAt }) => {
+  const frame = useCurrentFrame();
+  const chars = [...emojis];
+  const n = chars.length;
+  const settle = revealed
+    ? interpolate(frame, [revealAt, revealAt + 10], [1.07, 1.0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })
+    : interpolate(frame, [0, revealAt], [1.0, 1.07], { extrapolateRight: "clamp" });
+  const size = Math.min((w * 0.9) / Math.max(n, 2), h * 0.52);
+  return (
+    <div style={{ display: "flex", flexWrap: "wrap", gap: Math.round(size * 0.06), alignItems: "center", justifyContent: "center", width: w, height: h, padding: 12, transform: `scale(${settle})` }}>
+      {chars.map((ch, i) => (
+        <Img key={i} src={staticFile(`openmoji/${emojiHex(ch)}.svg`)} style={{ width: size, height: size, objectFit: "contain" }} />
+      ))}
+    </div>
+  );
+};
+
 const Round = ({ item, num, cfg }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -180,7 +199,9 @@ const Round = ({ item, num, cfg }) => {
       <Progress num={num} accent={accent} />
       <div style={{ position: "absolute", top: hasOptions ? 166 : 150, left: 0, right: 0, display: "flex", justifyContent: "center", alignItems: "flex-start" }}>
         <div style={{ transform: `scale(${interpolate(enter, [0, 1], [0.4, 1]) * pop}) translateY(${interpolate(enter, [0, 1], [60, 0]) + floatY}px) rotate(${rot}deg)`, opacity: enter, width: cardW, height: cardH, borderRadius: 30, background: "#fff", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: revealed ? `0 0 70px ${accent}` : "0 24px 60px rgba(0,0,0,0.5)", border: `5px solid ${revealed ? accent : "rgba(255,255,255,0.3)"}`, overflow: "hidden" }}>
-          <ItemImg cfg={cfg} slug={item[cfg.slugKey || "slug"]} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />
+          {cfg.isEmoji
+            ? <EmojiClue emojis={item.emojis} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />
+            : <ItemImg cfg={cfg} slug={item[cfg.slugKey || "slug"]} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />}
         </div>
       </div>
       {hasOptions && (
@@ -248,7 +269,9 @@ const ColdOpen = ({ item, cfg }) => {
       </div>
       <AbsoluteFill style={{ justifyContent: "center", alignItems: "center" }}>
         <div style={{ width: cardW, height: cardH, borderRadius: 30, background: "#fff", overflow: "hidden", border: `6px solid ${revealed ? "#3BE07A" : accent}`, boxShadow: revealed ? "0 0 80px #3BE07A" : "0 24px 60px rgba(0,0,0,0.55)", transform: `scale(${interpolate(s, [0, 1], [0.6, 1])})`, display: "flex", alignItems: "center", justifyContent: "center" }}>
-          <ItemImg cfg={cfg} slug={item[cfg.slugKey || "slug"]} w={cardW} h={cardH} revealed={false} revealAt={9999} />
+          {cfg.isEmoji
+            ? <EmojiClue emojis={item.emojis} w={cardW} h={cardH} revealed={false} revealAt={9999} />
+            : <ItemImg cfg={cfg} slug={item[cfg.slugKey || "slug"]} w={cardW} h={cardH} revealed={false} revealAt={9999} />}
         </div>
       </AbsoluteFill>
       {!revealed && <TimerBar accent={accent} revealAt={rAt} />}

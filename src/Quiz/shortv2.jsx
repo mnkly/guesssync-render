@@ -18,15 +18,15 @@ const LVL = {
 const ST = { hook: 66, round: 190, reveal: 120, outro: 90 };
 const TICKS = [0, 36, 66, 90, 106, 116];
 const ABCD = ["A", "B", "C", "D"];
-const nameOf = (x, mode) => mode === "paintings" ? x.title : mode === "capitals" ? x.capital : (x.name || x.country || x.slug);
+const nameOf = (x, mode) => (mode === "paintings" || mode === "movies") ? x.title : mode === "capitals" ? x.capital : (x.name || x.country || x.slug);
 const buildOptions = (item, all, mode) => {
-  const pool = all.filter((x) => x.level === item.level && (x.slug || x.iso) !== (item.slug || item.iso));
-  const seed = (item.slug || item.iso || item.name).split("").reduce((a, c) => a + c.charCodeAt(0), 0);
-  const picks = [], used = new Set([item.slug || item.iso]);
+  const pool = all.filter((x) => x.level === item.level && (x.slug || x.iso || x.id) !== (item.slug || item.iso || item.id));
+  const seed = (item.slug || item.iso || item.id || item.name || item.title).split("").reduce((a, c) => a + c.charCodeAt(0), 0);
+  const picks = [], used = new Set([item.slug || item.iso || item.id]);
   let k = 1;
   while (picks.length < 3 && k < pool.length * 4) {
     const cand = pool[(seed * 7 + k * 13) % pool.length];
-    const key = cand && (cand.slug || cand.iso);
+    const key = cand && (cand.slug || cand.iso || cand.id);
     if (cand && !used.has(key)) { used.add(key); picks.push(nameOf(cand, mode)); }
     k++;
   }
@@ -103,8 +103,10 @@ const Owl = ({ revealed }) => {
 // كلمة السؤال + بطاقة الدليل حسب النوع
 const Clue = ({ item, mode, revealed, accent }) => {
   const card = { padding: 24, background: "#fff", borderRadius: 40, boxShadow: revealed ? `0 0 90px ${accent}` : "0 30px 70px rgba(0,0,0,0.5)", border: `7px solid ${revealed ? accent : "rgba(255,255,255,0.3)"}`, display: "flex", alignItems: "center", justifyContent: "center" };
+  if (mode === "movies") { const chars = [...item.emojis]; const sz = chars.length <= 2 ? 280 : chars.length === 3 ? 220 : 170; return <div style={{ ...card, width: 640, height: 640, display: "flex", flexWrap: "wrap", gap: 20, alignItems: "center", justifyContent: "center", padding: 36 }}>{chars.map((ch, i) => <Img key={i} src={staticFile(`openmoji/${[...ch].map((c) => c.codePointAt(0).toString(16).toUpperCase()).join("-")}.svg`)} style={{ width: sz, height: sz, objectFit: "contain" }} />)}</div>; }
   if (mode === "shapes") return <div style={{ width: 660, height: 560, WebkitMaskImage: `url(${staticFile(`maps/${item.iso}.svg`)})`, maskImage: `url(${staticFile(`maps/${item.iso}.svg`)})`, WebkitMaskSize: "contain", maskSize: "contain", WebkitMaskRepeat: "no-repeat", maskRepeat: "no-repeat", WebkitMaskPosition: "center", maskPosition: "center", background: revealed ? `linear-gradient(160deg, #FFE888, ${accent})` : "linear-gradient(160deg, #ffffff, #b9cdf0)", filter: revealed ? `drop-shadow(0 0 40px ${accent})` : "drop-shadow(0 12px 30px rgba(0,0,0,0.6))" }} />;
   if (mode === "logos") return <div style={{ ...card, width: 560, height: 560 }}><Img src={staticFile(`logos/${item.slug}.svg`)} style={{ width: 400, height: 400, objectFit: "contain" }} /></div>;
+  if (mode === "carlogos") return <div style={{ ...card, width: 640, height: 540 }}><Img src={staticFile(`carlogos/${item.slug}.png`)} style={{ width: 540, height: 440, objectFit: "contain" }} /></div>;
   if (mode === "clubs") return <div style={{ ...card, width: 560, height: 560 }}><Img src={staticFile(`clubs/${item.slug}.png`)} style={{ width: 440, height: 440, objectFit: "contain" }} /></div>;
   if (mode === "animals") return <div style={{ ...card, width: 620, height: 620 }}><Img src={staticFile(`animals/${item.slug}.png`)} style={{ width: 560, height: 560, objectFit: "cover", borderRadius: 28 }} /></div>;
   if (mode === "foods") return <div style={{ ...card, width: 620, height: 620 }}><Img src={staticFile(`foods/${item.slug}.png`)} style={{ width: 560, height: 560, objectFit: "cover", borderRadius: 28 }} /></div>;
@@ -130,9 +132,9 @@ const Clue = ({ item, mode, revealed, accent }) => {
   return <div style={{ fontFamily: font, fontWeight: 900, fontSize: 92, color: "#fff", textAlign: "center", padding: "0 40px", textShadow: `0 0 40px ${accent}` }}>{item.capital}</div>;
 };
 
-const QWORD = { logos: "GUESS THE LOGO", clubs: "GUESS THE CLUB", animals: "GUESS THE ANIMAL", foods: "GUESS THE FOOD", dogs: "GUESS THE DOG", cars: "GUESS THE CAR", birds: "GUESS THE BIRD", sea: "GUESS THE SEA CREATURE", fruits: "FRUIT OR VEG?", flowers: "GUESS THE FLOWER", butterflies: "GUESS THE BUTTERFLY", snakes: "GUESS THE SNAKE", dinos: "GUESS THE DINOSAUR", paintings: "GUESS THE PAINTING", landmarks: "WHICH COUNTRY?", flags: "GUESS THE COUNTRY", capitals: "GUESS THE CAPITAL", countries: "WHICH COUNTRY?", shapes: "WHAT COUNTRY?" };
-const voFile = (item, mode) => mode === "clubs" ? `sfx/cb-${item.slug}.wav` : mode === "logos" ? `sfx/nm-${item.slug}.wav` : mode === "animals" ? `sfx/an-${item.slug}.wav` : mode === "foods" ? `sfx/fd-${item.slug}.wav` : mode === "dogs" ? `sfx/dg-${item.slug}.wav` : mode === "cars" ? `sfx/cm-${item.slug}.wav` : mode === "birds" ? `sfx/bd-${item.slug}.wav` : mode === "sea" ? `sfx/sc-${item.slug}.wav` : mode === "fruits" ? `sfx/fr-${item.slug}.wav` : mode === "flowers" ? `sfx/fl-${item.slug}.wav` : mode === "butterflies" ? `sfx/bt-${item.slug}.wav` : mode === "snakes" ? `sfx/sn-${item.slug}.wav` : mode === "dinos" ? `sfx/dn-${item.slug}.wav` : mode === "paintings" ? `sfx/pt-${item.slug}.wav` : mode === "capitals" ? `sfx/cp-${item.iso}.wav` : `sfx/fl-${item.iso}.wav`;
-const answer = (item, mode) => mode === "paintings" ? item.title : (mode === "logos" || mode === "clubs" || mode === "animals" || mode === "foods" || mode === "dogs" || mode === "cars" || mode === "birds" || mode === "sea" || mode === "fruits" || mode === "flowers" || mode === "butterflies" || mode === "snakes" || mode === "dinos") ? item.name : mode === "capitals" ? item.capital : item.country || item.name;
+const QWORD = { movies: "GUESS THE MOVIE", carlogos: "GUESS THE CAR", logos: "GUESS THE LOGO", clubs: "GUESS THE CLUB", animals: "GUESS THE ANIMAL", foods: "GUESS THE FOOD", dogs: "GUESS THE DOG", cars: "GUESS THE CAR", birds: "GUESS THE BIRD", sea: "GUESS THE SEA CREATURE", fruits: "FRUIT OR VEG?", flowers: "GUESS THE FLOWER", butterflies: "GUESS THE BUTTERFLY", snakes: "GUESS THE SNAKE", dinos: "GUESS THE DINOSAUR", paintings: "GUESS THE PAINTING", landmarks: "WHICH COUNTRY?", flags: "GUESS THE COUNTRY", capitals: "GUESS THE CAPITAL", countries: "WHICH COUNTRY?", shapes: "WHAT COUNTRY?" };
+const voFile = (item, mode) => mode === "movies" ? `sfx/em-${item.id}.wav` : mode === "carlogos" ? `sfx/cl-${item.slug}.wav` : mode === "clubs" ? `sfx/cb-${item.slug}.wav` : mode === "logos" ? `sfx/nm-${item.slug}.wav` : mode === "animals" ? `sfx/an-${item.slug}.wav` : mode === "foods" ? `sfx/fd-${item.slug}.wav` : mode === "dogs" ? `sfx/dg-${item.slug}.wav` : mode === "cars" ? `sfx/cm-${item.slug}.wav` : mode === "birds" ? `sfx/bd-${item.slug}.wav` : mode === "sea" ? `sfx/sc-${item.slug}.wav` : mode === "fruits" ? `sfx/fr-${item.slug}.wav` : mode === "flowers" ? `sfx/fl-${item.slug}.wav` : mode === "butterflies" ? `sfx/bt-${item.slug}.wav` : mode === "snakes" ? `sfx/sn-${item.slug}.wav` : mode === "dinos" ? `sfx/dn-${item.slug}.wav` : mode === "paintings" ? `sfx/pt-${item.slug}.wav` : mode === "capitals" ? `sfx/cp-${item.iso}.wav` : `sfx/fl-${item.iso}.wav`;
+const answer = (item, mode) => (mode === "paintings" || mode === "movies") ? item.title : (mode === "logos" || mode === "clubs" || mode === "animals" || mode === "foods" || mode === "dogs" || mode === "cars" || mode === "birds" || mode === "sea" || mode === "fruits" || mode === "flowers" || mode === "butterflies" || mode === "snakes" || mode === "dinos" || mode === "carlogos") ? item.name : mode === "capitals" ? item.capital : item.country || item.name;
 
 const Round = ({ item, mode, num, all, total }) => {
   const frame = useCurrentFrame();

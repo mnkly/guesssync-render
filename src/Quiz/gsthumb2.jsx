@@ -13,6 +13,8 @@ const Bg = () => (
 
 // props: mode (topic → asset path/ext/fit), grid (9 slugs/isos; "?" = mystery tile), line1, word, number, year, badge
 const ASSET = {
+  emoji: { dir: "openmoji", ext: "svg", fit: "contain" },
+  carlogos: { dir: "carlogos", ext: "png", fit: "contain" },
   logos: { dir: "logos", ext: "svg", fit: "contain" },
   flags: { dir: "flags", ext: "svg", fit: "contain" },
   capitals: { dir: "flags", ext: "svg", fit: "contain" },
