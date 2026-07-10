@@ -75,7 +75,7 @@ export const CATS = [
   { slug: "minuet", name: "Minuet", level: "hard" },
   { slug: "mekongbobtail", name: "Mekong Bobtail", level: "hard" },
   { slug: "ojosazules", name: "Ojos Azules", level: "hard" },
-  { slug: "kanaani", name: "Kanaani", level: "hard" },
+  { slug: "thaililac", name: "Thai Lilac", level: "hard" },
   { slug: "nevamasquerade", name: "Neva Masquerade", level: "hard" },
   { slug: "yorkchocolate", name: "York Chocolate", level: "hard" },
   { slug: "chantillytiffany", name: "Chantilly-Tiffany", level: "hard" },

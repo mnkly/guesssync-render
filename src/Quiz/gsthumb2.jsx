@@ -17,6 +17,8 @@ const ASSET = {
   carlogos: { dir: "carlogos", ext: "png", fit: "contain" },
   dinos: { dir: "dinos", ext: "jpg", fit: "cover" },
   gaming: { dir: "gaming", ext: "png", fit: "contain" },
+  fish: { dir: "fish", ext: "jpg", fit: "cover" },
+  cats: { dir: "cats", ext: "jpg", fit: "cover" },
   logos: { dir: "logos", ext: "svg", fit: "contain" },
   flags: { dir: "flags", ext: "svg", fit: "contain" },
   capitals: { dir: "flags", ext: "svg", fit: "contain" },
