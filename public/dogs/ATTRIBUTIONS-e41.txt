@@ -1,0 +1,103 @@
+# GuessSync E41 — Guess the Dog Breed — Photo Attributions (Wikimedia Commons)
+# format: slug | name | author | license | source_url
+
+labrador | Labrador Retriever | IDS.photos from Tiverton, UK | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Labrador_on_Quantock_(2175262184).jpg
+goldenretriever | Golden Retriever | Dukedestiny01.jpg: "Janneke Vreugdenhil" derivative work: Anka Friedrich ([[User talk:Ankaaswe Trix Friedrich|talk]]) | Public domain | https://commons.wikimedia.org/wiki/File:Golden_Retriever_Dukedestiny01_drvd.jpg
+germanshepherd | German Shepherd | gomagoti | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:German_Shepherd_-_DSC_0346_(10096362833).jpg
+bulldog | Bulldog | Av3553 at English Wikipedia. | GFDL | https://commons.wikimedia.org/wiki/File:Whitebulldog.jpg
+poodle | Poodle | Tim Wilson from Blaine, MN, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Full_attention_(8067543690).jpg
+beagle | Beagle | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Beagle_600.jpg
+rottweiler | Rottweiler | Dr. Manfred Herrmann Allgemeiner Deutscher Rottweiler-Klub (ADRK) e.V. http://www.ADRK.de | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Rottweiler_standing_facing_left.jpg
+boxer | Boxer | Mood210 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Male_fawn_Boxer_undocked.jpg
+dachshund | Dachshund | Katemil94 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8(%EB%8B%A8%EB%AA%A8%EC%A2%85)_(Dachshund_(Short)).jpg
+chihuahua | Chihuahua | Bonnie van den Born, http://www.bonfoto.nl. The original uploader was Cwazi at Dutch Wikipedia. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chihuahua1_bvdb.jpg
+pug | Pug | Xidrep | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mops-duke-mopszucht-vom-maegdebrunnen.jpg
+husky | Siberian Husky | xJaM (talk · contribs) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Husky_L.jpg
+bordercollie | Border Collie | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Border_Collie_600.jpg
+dalmatian | Dalmatian | Bradlien | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sun_Dog_Dalmatian.jpg
+corgi | Corgi | Dog breed facts | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Welsh_Pembroke_Corgi.jpg
+greatdane | Great Dane | Lilly M | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg
+doberman | Doberman | Miroslav Cacik | Copyrighted free use | https://commons.wikimedia.org/wiki/File:Dobermann_handling.jpg
+shihtzu | Shih Tzu | Canino21 | Public domain | https://commons.wikimedia.org/wiki/File:Shihtzu_(cropped).jpg
+pomeranian | Pomeranian | Blackoranges | Public domain | https://commons.wikimedia.org/wiki/File:Pomeranian.JPG
+yorkshireterrier | Yorkshire Terrier | Svenska Mässan from Sweden | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:(2_version)_Grupp_3,_YORKSHIRETERRIER,_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_(24310212305).jpg
+saintbernard | Saint Bernard | Blanky | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hummel_Vedor_vd_Robandahoeve.jpg
+cockerspaniel | Cocker Spaniel | Fcocker | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg
+bassethound | Basset Hound | Cali1008 | Public domain | https://commons.wikimedia.org/wiki/File:BassetHound_profil.jpg
+jackrussell | Jack Russell Terrier | Plank | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Jack_Russell_Terrier_1.jpg
+maltese | Maltese | Sannse | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Maltese_600.jpg
+australianshepherd | Australian Shepherd | Trickdog-Fina | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Australian_Shepherd_red_bi.JPG
+bernesemountaindog | Bernese Mountain Dog | FriendlyToaster | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:3-BerneseMountainDogInGrass.jpg
+shibainu | Shiba Inu | Takashiba at English Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Taka_Shiba.jpg
+akita | Akita | Canarian | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Japanese_Akita.jpg
+samoyed | Samoyed | No machine-readable author provided. Pleple2000 assumed (based on copyright claims). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Samojed00.jpg
+weimaraner | Weimaraner | Rufus46 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Weimaraner_Freika-2.jpg
+vizsla | Vizsla | Pleple2000 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Wy%C5%BCe%C5%82_w%C4%99gierski_g%C5%82adkow%C5%82osy_500.jpg
+bloodhound | Bloodhound | User:Erland22 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bloodhound_Erland22.jpg
+newfoundland | Newfoundland | Flickr user DanDee Shots | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Newfoundland_dog_Smoky.jpg
+chowchow | Chow Chow | Томасина | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chow-chow_in_Tallinn.JPG
+whippet | Whippet | Canarian | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Whippet_2018_6.jpg
+bullterrier | Bull Terrier | Pixabay User TC-TORRES | CC0 | https://commons.wikimedia.org/wiki/File:Bullterrier-3453301920.jpg
+papillon | Papillon | Gvdmoort | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Outdoor_Continental_Toy_Spaniel_Papillon.jpeg
+bichonfrise | Bichon Frise | Heike Andres | CC BY-SA 3.0 de | https://commons.wikimedia.org/wiki/File:Bichon_Fris%C3%A9_-_studdogbichon.jpg
+malamute | Alaskan Malamute | SCMW | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Alaskan_Malamute.jpg
+canecorso | Cane Corso | Claudio Domiziani | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Cane_corso_temi_1_1024x768x24_(cropped).png
+sharpei | Shar Pei | Yan Mis/&amp;Den Rakov | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Adult_sharpei.jpg
+havanese | Havanese | audrey_sel | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:A_Havanese_judging.jpg
+irishsetter | Irish Setter | Luis Miguel Bugallo Sánchez (Lmbuga Commons)(Lmbuga Galipedia) Publicada por/Publish by: Luis Miguel Bugallo Sánchez | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Can_Setter_dog_GFDL.jpg
+greyhound | Greyhound | Neurodoc | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:GraceTheGreyhound.jpg
+pekingese | Pekingese | SheltieBoy | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1AKC_Pekingese_Dog_Show_2011.jpg
+bullmastiff | Bullmastiff | Fausto Moreno | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bullmastiff_edited.JPG
+staffordshirebullterrier | Staffordshire Bull Terrier | Or Logassi | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg
+wheatenterrier | Wheaten Terrier | Terrierkännaren | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Soft-Coated_Wheaten_Terrier.jpg
+englishsetter | English Setter | Elf at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:EnglishSetter9_fx_wb.jpg
+basenji | Basenji | fugzu | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Basenji_Profile_(loosercrop).jpg
+rhodesianridgeback | Rhodesian Ridgeback | Bonnie van den Born, http://www.bonfoto.nl | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Rhodesian_ridgeback.jpg
+keeshond | Keeshond | dancing with wolves | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Keeshond_Majic_standing_cropped.jpg
+schipperke | Schipperke | No machine-readable author provided. 鏑木對馬守 assumed (based on copyright claims). | Public domain | https://commons.wikimedia.org/wiki/File:Schipperke0001.jpg
+bedlingtonterrier | Bedlington Terrier | David Owsiany | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Boutchie_apres_championnat_004.JPG
+afghanhound | Afghan Hound | Weaveravel | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Afghan_dog_-_cropped.jpg
+saluki | Saluki | r. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Red_Smooth_Saluki.jpg
+borzoi | Borzoi | Pleple2000 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg
+leonberger | Leonberger | Kurre92 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Leonberger_male.jpg
+tibetanmastiff | Tibetan Mastiff | Svenska Mässan from Sweden | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:BIR_Grupp_2-_TIBETANSK_MASTIFF,_Legenda_Tibeta_Temudzhin_(23938629470).jpg
+kuvasz | Kuvasz | Erdelyi kopo | Public domain | https://commons.wikimedia.org/wiki/File:Kuvasz_named_Kan.jpg
+briard | Briard | Birgit Balzer, Deutschland (uploaded by Caronna 17:00, 10 Feb 2005 (UTC)) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Briard_fauve.JPG
+beauceron | Beauceron | Stefan Schmitz | CC BY-SA 3.0 de | https://commons.wikimedia.org/wiki/File:BeauceronStand.jpg
+belgianmalinois | Belgian Malinois | Svenska Mässan from Sweden | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Grupp_1,_BELGISK_VALLHUND,_MALINOIS,_Krokasmedens_Epic_(24014622180).jpg
+anatolianshepherd | Anatolian Shepherd | Kangalshepherddog | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Kangal_front_on.jpg
+doguedebordeaux | Dogue de Bordeaux | Canarian | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:French_Mastiff_female_4.jpg
+neapolitanmastiff | Neapolitan Mastiff | Mastino Napoletano Passionaria | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2016_02_13_JONC%27KA_position_3b_(2).png
+puli | Puli | Original uploader was Elf at en.wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:PuliBlack_wb.jpg
+komondor | Komondor | Nikki68 at Russian Wikipedia | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Komondor_delvin.jpg
+norwegianelkhound | Norwegian Elkhound | HawkNightingale175 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Elkhound2020_(cropped).jpg
+finnishspitz | Finnish Spitz | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Finnish_Spitz_600.jpg
+lagottoromagnolo | Lagotto Romagnolo | Entheta | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bellalagotto4.jpg
+wirefoxterrier | Wire Fox Terrier | Simona Nováková, owner | Public domain | https://commons.wikimedia.org/wiki/File:Elias1%C4%8Derven2006.jpg
+cairnterrier | Cairn Terrier | Rockytopscott | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Cairn_terrier.jpg
+portuguesewaterdog | Portuguese Water Dog | Silke Hollje-Schumacher | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:C%C3%A3o_de_agua_Portugu%C3%AAs_2.jpg
+azawakh | Azawakh | Cristian.vantu | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bistrita_2015_(22).jpg
+xoloitzcuintli | Xoloitzcuintli | Svenska Mässan from Sweden | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:BIR_Grupp_5-_MEXIKANSK_NAKENHUND,_Lokal_Hero%E2%80%99s_King_Og_Hart%E2%80%99s_Istas_(23607403303).jpg
+bergamasco | Bergamasco Shepherd | Luigi Guidobono Cavalchini (Josephine06) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Ortensia_di_Valle_Scrivia.jpg
+mudi | Mudi | Vulpes at Dutch Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Hondenras_Mudi.jpg
+otterhound | Otterhound | Canarian | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Otterh1.jpg
+sussexspaniel | Sussex Spaniel | Pleple2000 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Sussex_spaniel_t43.jpg
+skyeterrier | Skye Terrier | Pleple2000 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Skye_terrier_800.jpg
+sealyhamterrier | Sealyham Terrier | Dr. Sabine Schumann | Public domain | https://commons.wikimedia.org/wiki/File:SealyhamTerrier01.jpg
+ceskyterrier | Cesky Terrier | Pleple2000 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Terier_czeski_suka_2009_pl2.jpg
+kooikerhondje | Kooikerhondje | Unknown | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Kooiker03.jpg
+stabyhoun | Stabyhoun | Canarian | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Staby-black1.jpg
+lowchen | Lowchen | Jk9dat | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Adult_Lowchen_Gaiting.jpg
+thairidgeback | Thai Ridgeback | HiSa Hiller, Schweiz | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Thai-Ridgeback.jpg
+peruvianincaorchid | Peruvian Inca Orchid | No machine-readable author provided. Brunobarreto~commonswiki assumed (based on copyright claims). | Public domain | https://commons.wikimedia.org/wiki/File:PHDStandardStanding_-_Perro_Sin_Pelo_del_Per%C3%BA.jpg
+norwegianlundehund | Norwegian Lundehund | Karen Elise Dahlmo | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lundehund-2003.jpg
+chinook | Chinook | Unknown | Copyrighted free use | https://commons.wikimedia.org/wiki/File:Mountan_Laurel_Ajax_the_Chinook_dog.jpg
+cirnecodelletna | Cirneco dell'Etna | de:Benutzer:Jan Eduard, contrast Pleple2000 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cirneco_dell_Etna_611.jpg
+pumi | Pumi | No machine-readable author provided. Caronna assumed (based on copyright claims). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pumi_2.jpg
+lancashireheeler | Lancashire Heeler | Svenska Mässan from Sweden | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Grupp_1,_LANCASHIRE_HEELER,_NO_UCH_NO_V-14_NO_V-15_SE_UCH_St%C3%A5hlskyttens_Longed_For_Antony_(24284065606).jpg
+braccoitaliano | Bracco Italiano | Mohawk28 at German Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bracco_Italiano_(cropped).jpg
+grandbassetgriffonvendeen | Grand Basset Griffon Vendeen | Walbharri | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:GrandBassettGriffonVend%C3%A9en.jpg
+pyreneanshepherd | Pyrenean Shepherd | No machine-readable author provided. KeJa~commonswiki assumed (based on copyright claims). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Berger-des-Pyrenees_Ellea_800x600.jpg
+swedishvallhund | Swedish Vallhund | TS Eriksson | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:V%C3%A4stg%C3%B6taspets_hane_5_%C3%A5r.jpg
+carolinadog | Carolina Dog | Tomc1977 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Dakota,_the_Dixie_Dingo_(or_Carolina_Dog).jpg
+finnishlapphund | Finnish Lapphund | Apdevries [2] | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Finnish_Lapphund_Glenchess_Revontuli.jpg

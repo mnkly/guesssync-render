@@ -4,7 +4,9 @@
 // Note: When using the Node.JS APIs, the config file doesn't apply. Instead, pass options directly to the APIs
 
 import { Config } from "@remotion/cli/config";
-import { enableTailwind } from '@remotion/tailwind-v4';
+
+// Tailwind removed from the build: all components use inline styles, and the
+// @tailwindcss v4 webpack plugin crashes bundling (RangeError: Invalid code point)
+// when scanning data files with special characters. Not needed for rendering.
 
 Config.setVideoImageFormat("jpeg");
-Config.overrideWebpackConfig(enableTailwind);

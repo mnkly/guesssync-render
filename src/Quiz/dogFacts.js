@@ -68,7 +68,7 @@ export const DOG_FACTS = {
   "beauceron": "A French herder with double dewclaws on each hind leg",
   "belgianmalinois": "A Belgian herder now widely used by military and police",
   "anatolianshepherd": "A Turkish breed that guards livestock from wolves",
-  "doguedebordeaux": "A French mastiff with the largest head of any dog",
+  "doguedebordeaux": "A French mastiff with the largest head relative to its body",
   "neapolitanmastiff": "An Italian guard dog descended from Roman war dogs",
   "puli": "A Hungarian herder with a coat of long natural dreadlocks",
   "komondor": "A Hungarian guardian with a heavy corded 'mop' coat",

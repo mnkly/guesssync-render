@@ -1,0 +1,104 @@
+# E40 «Guess the Football Club Badge» — crest attributions
+# Source: Wikipedia/Wikimedia club-infobox crests (badge/logo only). Club crests are
+# trademarks used nominatively for identification; PD/textlogo & fair-use crests only.
+# Format: slug|name|author|license|url
+real-madrid|Real Madrid|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Real%20Madrid%20CF
+barcelona|FC Barcelona|FC Barcelona|PD|https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg
+manchester-united|Manchester United|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Manchester%20United%20F.C.
+liverpool|Liverpool|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Liverpool%20F.C.
+bayern-munich|Bayern Munich|FC Bayern Munich|Public domain|https://commons.wikimedia.org/wiki/File:FC_Bayern_M%C3%BCnchen_logo_(2024).svg
+juventus|Juventus|Interbrand – Global Brand Consultancy / Juventus Football Club SpA|Public domain|https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg
+paris-saint-germain|Paris Saint-Germain|Paris Saint-Germain Football Club|PD|https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg
+manchester-city|Manchester City|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Manchester%20City%20F.C.
+chelsea|Chelsea|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Chelsea%20F.C.
+arsenal|Arsenal|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Arsenal%20F.C.
+ac-milan|AC Milan|A.C. Milan Uploaded by Vargklo at en.wikipedia|Public domain|https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg
+inter-milan|Inter Milan|FC Internazionale Milano S.p.A. / Bureau Borsche|Public domain|https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg
+borussia-dortmund|Borussia Dortmund|Lispir (Lispir)|Public domain|https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg
+ajax|Ajax|AFC Ajax|Public domain|https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991,_2025-).png
+boca-juniors|Boca Juniors|Estudio Shakespear|Public domain|https://commons.wikimedia.org/wiki/File:Boca_Juniors_logo18.svg
+tottenham-hotspur|Tottenham Hotspur|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Tottenham%20Hotspur%20F.C.
+atletico-madrid|Atlético Madrid|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Atl%C3%A9tico%20Madrid
+napoli|Napoli|Logo: SSC Napoli S.p.A. Upload: The White Lion|Public domain|https://commons.wikimedia.org/wiki/File:SSC_Napoli_2025_(white_and_azure).svg
+roma|AS Roma|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/AS%20Roma
+flamengo|Flamengo|Clube de Regatas do Flamengo|Public domain|https://commons.wikimedia.org/wiki/File:Clube_de_Regatas_do_Flamengo_logo.svg
+river-plate|River Plate|Club Atlético River Plate|Public domain|https://commons.wikimedia.org/wiki/File:Club_Atl%C3%A9tico_River_Plate_logo.svg
+porto|FC Porto|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/FC%20Porto
+benfica|Benfica|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/S.L.%20Benfica
+olympique-marseille|Olympique de Marseille|Olympique de Marseille|Public domain|https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg
+sevilla|Sevilla|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Sevilla%20FC
+celtic|Celtic|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Celtic%20F.C.
+rangers|Rangers|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Rangers%20F.C.
+galatasaray|Galatasaray|Isaozler|CC0|https://commons.wikimedia.org/wiki/File:Galatasaray_S.K._Logo_2026_5-stars.svg
+fenerbahce|Fenerbahçe|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Fenerbah%C3%A7e%20S.K.%20(football)
+besiktas|Beşiktaş|Unknown authorUnknown author|Public domain|https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg
+olympique-lyonnais|Olympique Lyonnais|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Olympique%20Lyonnais
+rb-leipzig|RB Leipzig|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/RB%20Leipzig
+bayer-leverkusen|Bayer Leverkusen|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Bayer%2004%20Leverkusen
+sporting-cp|Sporting CP|Sporting CP|Public domain|https://commons.wikimedia.org/wiki/File:Sporting_Clube_de_Portugal_2026.svg
+psv-eindhoven|PSV Eindhoven|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/PSV%20Eindhoven
+lazio|Lazio|TThaarup|CC0|https://commons.wikimedia.org/wiki/File:Lazio_through_the_ages_2025.jpg
+fiorentina|Fiorentina|FutureBrand Creative Agency / ACF Fiorentina S.r.l. a socio unico|Public domain|https://commons.wikimedia.org/wiki/File:ACF_Fiorentina_-_logo_(Italy,_2022).svg
+athletic-bilbao|Athletic Bilbao|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Athletic%20Bilbao
+villarreal|Villarreal|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Villarreal%20CF
+valencia|Valencia|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Valencia%20CF
+santos|Santos|Santos F.C.|Public domain|https://commons.wikimedia.org/wiki/File:Santos_Futebol_Clube_logo_(with_stars_and_crown).png
+palmeiras|Palmeiras|Sociedade Esportiva Palmeiras|Public domain|https://commons.wikimedia.org/wiki/File:SE_Palmeiras_2025_crest.png
+al-hilal|Al Hilal|Cergun62|Public domain|https://commons.wikimedia.org/wiki/File:Al_Hilal_SFC_Logo.svg
+al-ahly|Al Ahly|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Al%20Ahly%20SC
+newcastle-united|Newcastle United|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Newcastle%20United%20F.C.
+leeds-united|Leeds United|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:Leeds_United_F.C._logo.svg
+wolverhampton|Wolverhampton Wanderers|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:Wolverhampton_Wanderers_FC_crest.svg
+leicester-city|Leicester City|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:Leicester_City_crest.svg
+club-america|Club América|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:Club_Am%C3%A9rica_crest.svg
+al-nassr|Al Nassr|Al Nassr FC|Public domain|https://commons.wikimedia.org/wiki/File:Nassr_FC_Logo.svg
+borussia-monchengladbach|Borussia Mönchengladbach|Borussia Mönchengladbach|Public domain|https://commons.wikimedia.org/wiki/File:Borussia_M%C3%B6nchengladbach_logo.svg
+real-betis|Real Betis|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Real%20Betis
+real-sociedad|Real Sociedad|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Real%20Sociedad
+eintracht-frankfurt|Eintracht Frankfurt|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Eintracht%20Frankfurt
+atalanta|Atalanta|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Atalanta%20BC
+torino|Torino|Marco Segato from Racconigi, Italy|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_in_Turin,_2007,_Torino_v_Pe%C3%B1arol.jpg
+lille|Lille OSC|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Lille%20OSC
+as-monaco|AS Monaco|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/AS%20Monaco%20FC
+olympiacos|Olympiacos|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Olympiacos%20F.C.
+club-brugge|Club Brugge|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Club%20Brugge%20KV
+gremio|Grêmio|Grêmio Foot-Ball Porto Alegrense|Public domain|https://commons.wikimedia.org/wiki/File:Gremio_logo.svg
+independiente|Independiente|Unknown authorUnknown author|Public domain|https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Independiente.svg
+corinthians|Corinthians|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Sport%20Club%20Corinthians%20Paulista
+red-bull-salzburg|Red Bull Salzburg|club crest (trademark)|Fair use / trademark|
+zamalek|Zamalek|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:Zamalek_SC_logo.svg
+wydad-casablanca|Wydad Casablanca|Wydad AC|Public domain|https://commons.wikimedia.org/wiki/File:Wydad_Athletic_Club_logo.svg
+al-ittihad|Al-Ittihad|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:Al-Ittihad_Club_(Jeddah)_logo.svg
+botafogo|Botafogo|Botafogo de Futebol e Regatas|Public domain|https://commons.wikimedia.org/wiki/File:Botafogo_de_Futebol_e_Regatas_logo.svg
+internacional|Internacional|Sport Club Internacional|Public domain|https://commons.wikimedia.org/wiki/File:Sport_Club_Internacional_logo.svg
+vasco-da-gama|Vasco da Gama|club crest (trademark)|Fair use / trademark|
+racing-club|Racing Club|Departamento de Marketing de Racing Club|Public domain|https://commons.wikimedia.org/wiki/File:Escudo_de_Racing_Club_(2014).svg
+atletico-mineiro|Atlético Mineiro|Clube Atlético Mineiro|Public domain|https://commons.wikimedia.org/wiki/File:Logo_of_Clube_Atl%C3%A9tico_Mineiro.svg
+monterrey|Monterrey|Club Deportivo Monterrey A.C. (Club de Fútbol Monterrey)|Public domain|https://commons.wikimedia.org/wiki/File:Club_de_F%C3%BAtbol_Monterrey_logo.svg
+persepolis|Persepolis|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:FC_Persepolis_Official_Logo.svg
+nacional|Club Nacional|Club Nacional de Football|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Club_Nacional_de_Football.png
+ludogorets-razgrad|Ludogorets Razgrad|PFC Ludogorets Razgrad|see file page|https://commons.wikimedia.org/wiki/File:Ludogorets-razgrad-2025-logo.png
+molde-fk|Molde FK|Unknown authorUnknown author|Public domain|https://commons.wikimedia.org/wiki/File:Molde_Fotball_Logo.svg
+hjk-helsinki|HJK Helsinki|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Helsingin%20Jalkapalloklubi
+qarabag|Qarabağ FK|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Qaraba%C4%9F%20FK
+malmo-ff|Malmö FF|Malmö FF|Public domain|https://commons.wikimedia.org/wiki/File:Malmo_FF_logo.svg
+cfr-cluj|CFR Cluj|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/CFR%20Cluj
+slovan-bratislava|Slovan Bratislava|ŠK Slovan Bratislava|Public domain|https://commons.wikimedia.org/wiki/File:SK_Slovan_Bratislava_logo.svg
+lech-poznan|Lech Poznań|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Lech%20Pozna%C5%84
+buriram-united|Buriram United|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Buriram%20United%20F.C.
+melbourne-victory|Melbourne Victory|Melbourne Victory Football Club|PD|https://en.wikipedia.org/wiki/File:Melbourne_Victory.svg
+mamelodi-sundowns|Mamelodi Sundowns|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Mamelodi%20Sundowns%20F.C.
+esperance-tunis|Espérance de Tunis|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Esp%C3%A9rance%20de%20Tunis
+colo-colo|Colo-Colo|club crest (trademark)|Fair use / trademark|https://en.wikipedia.org/wiki/Colo-Colo
+ldu-quito|LDU Quito|Liga Deportiva Universitaria|Public domain|https://commons.wikimedia.org/wiki/File:Liga_de_Quito_deportiva.png
+tigres-uanl|Tigres UANL|club crest (trademark)|Fair use / trademark|
+estudiantes|Estudiantes|Unknown authorUnknown author|Public domain|https://commons.wikimedia.org/wiki/File:Estudiantes_de_la_Plata_crest_(2025)_cropped.svg
+young-boys|Young Boys|BSC Young Boys|Public domain|https://commons.wikimedia.org/wiki/File:BSC_Young_Boys.svg
+rosenborg|Rosenborg BK|Rosenborg Ballklub|Public domain|https://commons.wikimedia.org/wiki/File:Rosenborg_logo_RGB.svg
+fc-copenhagen|FC Copenhagen|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:FC_Copenhagen_logo.svg
+orlando-pirates|Orlando Pirates|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:Orlando_Pirates_FC_logo.svg
+al-sadd|Al Sadd|Al Sadd SC|PD|https://en.wikipedia.org/wiki/File:Al_Sadd_SC_logo.svg
+yokohama-f-marinos|Yokohama F. Marinos|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:Yokohama_F_Marinos_logo.svg
+ulsan-hyundai|Ulsan HD|club (uploader unknown)|Fair use|https://en.wikipedia.org/wiki/File:Ulsan_Hyundai_FC.svg
+tp-mazembe|TP Mazembe|club crest (trademark)|Fair use / trademark|
+barcelona-sc|Barcelona SC|Barcelona S.C.|CC0|https://commons.wikimedia.org/wiki/File:Escudo_oficial_del_Barcelona_Sporting_Club.png

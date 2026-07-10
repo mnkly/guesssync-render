@@ -117,7 +117,7 @@ const LogoRound = ({ logo, num }) => {
       <Ring accent={accent} />
       <AbsoluteFill style={{ justifyContent: "center", alignItems: "center" }}>
         <div style={{ transform: `scale(${interpolate(enter, [0, 1], [0.4, 1]) * pop}) translateY(${interpolate(enter, [0, 1], [80, 0]) + floatY}px) rotate(${rot}deg)`, opacity: enter, width: 360, height: 360, borderRadius: 34, background: "#fff", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: revealed ? `0 0 80px ${accent}` : "0 30px 70px rgba(0,0,0,0.5)", border: `5px solid ${revealed ? accent : "rgba(255,255,255,0.3)"}` }}>
-          <Img src={staticFile(`dogs/${logo.slug}.png`)} style={{ width: 330, height: 330, objectFit: "cover", borderRadius: 24 }} />
+          <Img src={staticFile(`dogs/${logo.slug}.jpg`)} style={{ width: 330, height: 330, objectFit: "cover", borderRadius: 24 }} />
         </div>
       </AbsoluteFill>
       <AbsoluteFill style={{ background: "#fff", opacity: flash, pointerEvents: "none" }} />

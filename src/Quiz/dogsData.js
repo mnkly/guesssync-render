@@ -1,5 +1,5 @@
-// «Guess the Dog Breed» — GuessSync · E15 · 100 سلالة (25/مستوى) · صور Higgsfield (خلفية بيضاء)
-// مصنّفة بصعوبة حقيقية: سهل (لابرادور/بيغل) ← مستحيل (Azawakh/Xoloitzcuintli/Kooikerhondje). صوت dg-<slug>.wav "It's a <name>!"
+// «Guess the Dog Breed» — GuessSync · E41 · 100 سلالة (25/مستوى) · صور حقيقية من Wikimedia Commons
+// مصنّفة بصعوبة حقيقية (شهرة عالمية): سهل (Labrador/Beagle) ← مستحيل (Azawakh/Mudi/Kooikerhondje/Otterhound).
 export const DOGS = [
   // EASY (25)
   { slug: "labrador", name: "Labrador Retriever", level: "easy" },
