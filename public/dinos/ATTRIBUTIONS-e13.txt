@@ -1,0 +1,110 @@
+GuessSync E13 - "Guess the Dinosaur" - Image Attributions
+100 life-restoration (paleoart) images sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, or CC BY-SA. Files under CC BY / CC BY-SA
+require crediting the author + license; the lines below satisfy that requirement.
+Generated 2026-07-10. Format:  slug | answer | author | license | source
+==========================================================================================
+
+tyrannosaurus-rex | Tyrannosaurus Rex | Nobu Tamura | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ATyrannosaurus%20rex%20Reconstruction%20by%20Nobu%20Tamura.jpg
+triceratops | Triceratops | Connor Ashbridge | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AJuvenile%20reconstruction%20of%20Triceratops.png
+stegosaurus | Stegosaurus | Fred Wierum | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AStegosaurus%20stenops%20Life%20Reconstruction.png
+velociraptor | Velociraptor | Fred Wierum | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AVelociraptor%20Restoration.png
+brachiosaurus | Brachiosaurus | User Firsfron on en.wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3ABrachiosaurus%20Animatronic%20model%20NHM2.jpg
+spinosaurus | Spinosaurus | Connor Ashbridge | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3ASpinosaurus%20aegyptiacus%20life%20reconstruction.png
+ankylosaurus | Ankylosaurus | Emily Willoughby (e.deinonychus@gmail.com, http://emilywilloughby.com) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3AAnkylosaurus%20magniventris%20reconstruction.png
+diplodocus | Diplodocus | Nobu Tamura (http://spinops.blogspot.com) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3ADiplodocus%20BW.jpg
+parasaurolophus | Parasaurolophus | Connor Ashbridge | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ALife%20reconstruction%20of%20Parasaurolophus%20walkeri.png
+pteranodon | Pteranodon | NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3APteranodon%20NT.jpg
+brontosaurus | Brontosaurus | Nobu Tamura email:nobu.tamura@yahoo.com http://spinops.blogspot.com/ | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ABrontosaurus%20NT%20small.jpg
+apatosaurus | Apatosaurus | Leotrex444 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AReconstrucion%20de%20Apatosaurus.jpg
+allosaurus | Allosaurus | Fred Wierum | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3AAllosaurus%20Life%20Restoration.jpg
+pachycephalosaurus | Pachycephalosaurus | Fred Wierum | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3APachycephalosaurus%20Reconstruction.jpg
+iguanodon | Iguanodon | Sauroarchive | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3AIguanodon%20paleoart%202025.png
+mosasaurus | Mosasaurus | Jonagold2000 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AMosasaurus%20hoffmanni%20life.jpg
+archaeopteryx | Archaeopteryx | TB0815 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3AArchaeopteryx%20reconstruction%20model%20by%20Sebastian%20Brandt%20and%20Marco%20Fischer.jpg
+dilophosaurus | Dilophosaurus | Connor Ashbridge | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3ALife%20reconstruction%20of%20Dilophosaurus%20wetherilli.png
+gallimimus | Gallimimus | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3AGallimimus%20Restoration.png
+compsognathus | Compsognathus | Dinosaur Zoo | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3ACompsognathus%20digital%20clay%20reconstruction.png
+megalodon | Megalodon | Dunkleosteus77 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AMegalodon%20restoration.png
+woolly-mammoth | Woolly Mammoth | Othenio Abel | Public domain | https://commons.wikimedia.org/wiki/File%3AWoolly%20mammoth%20reconstruction%2C%20from%20Abel%2C%20O.%20(1919).%20Die%20St%C3%A4mme%20der%20Wirbeltiere.jpg
+smilodon | Sabre-toothed Cat | Charles R. Knight (1903) | Public domain | https://commons.wikimedia.org/wiki/File%3ASmilodon%20Knight.jpg
+quetzalcoatlus | Quetzalcoatlus | Mark Witton and Darren Naish | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3ALife%20restoration%20of%20a%20group%20of%20giant%20azhdarchids%2C%20Quetzalcoatlus%20northropi%2C%20foraging%20on%20a%20Cretaceous%20fern%20prairie.png
+carnotaurus | Carnotaurus | Lida Xing and Yi Liu | CC BY 2.5 | https://commons.wikimedia.org/wiki/File%3ACarnotaurus%20life%20restoration%20(mirrored).jpg
+giganotosaurus | Giganotosaurus | Nobu Tamura (http://spinops.blogspot.com) | CC BY 2.5 | https://commons.wikimedia.org/wiki/File%3AGiganotosaurus%20BW.jpg
+therizinosaurus | Therizinosaurus | Danny Cicchetti | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3ATherizinosaurus%20life%20restoration.jpg
+deinonychus | Deinonychus | Fred Wierum | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ADeinonychus%20Restoration.png
+utahraptor | Utahraptor | Fred Wierum | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AUtahraptor%20Restoration.png
+styracosaurus | Styracosaurus | Nobu Tamura (http://spinops.blogspot.com) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3AStyracosaurus%20BW%20transparent.png
+kentrosaurus | Kentrosaurus | Dotname2469 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3AKentrosaurus%20digital%20clay%20reconstruction.png
+plesiosaurus | Plesiosaurus | Nobu Tamura (http://spinops.blogspot.com) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3APlesiosaurus%20BW.jpg
+ichthyosaurus | Ichthyosaurus | Nobu Tamura (http://spinops.blogspot.com) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3AIchthyosaurus%20BW.jpg
+baryonyx | Baryonyx | Connor Ashbridge | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ALife%20reconstruction%20of%20Baryonyx%20walkeri.png
+coelophysis | Coelophysis | User Firsfron on en.wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3ACoelophysis%20Animatronics%20model%20NHM2.jpg
+oviraptor | Oviraptor | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3AOviraptor%20Restoration.png
+protoceratops | Protoceratops | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3AProtoceratops%20andrewsi%20Restoration.png
+maiasaura | Maiasaura | Nobu Tamura (http://spinops.blogspot.com) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3AMaiasaura%20BW.jpg
+troodon | Troodon | Conty | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ATroodon%20or%20Stenonychosaurus%20(update).png
+elasmosaurus | Elasmosaurus | Nobu Tamura (spinops.blogspot.com) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Elasmosaurus%20NT.jpg
+pliosaurus | Pliosaurus | Mario Lanzas | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3APliosaurus%20restoration%202019.jpg
+dimetrodon | Dimetrodon | TB0815 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3ADimetrodon%20teutonis%20life%20restoration%20by%20Sebastian%20Brandt%20(Reco-Brandt).jpg
+microraptor | Microraptor | Fred Wierum | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AMicroraptor%20Restoration.png
+ornithomimus | Ornithomimus | Cornhead | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3AOrnithomimus%20restoration%20made%20by%20user%20cornhead.png
+edmontosaurus | Edmontosaurus | Connor Ashbridge | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ALife%20reconstruction%20of%20Edmontosaurus%20regalis.png
+corythosaurus | Corythosaurus | Connor Ashbridge | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ALife%20reconstruction%20of%20Corythosaurus%20casuarius.png
+pachyrhinosaurus | Pachyrhinosaurus | Nobu Tamura (http://spinops.blogspot.com) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3APachyrhinosaurus%20BW.jpg
+mononykus | Mononykus | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3AMononykus%20Restoration.png
+dreadnoughtus | Dreadnoughtus | Nobu Tamura email:nobu.tamura@yahoo.com http://spinops.blogspot.com/ | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ADreadnoughtus%20NT%20small.jpg
+argentinosaurus | Argentinosaurus | Dinosaur Zoo | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3AArgentinosaurus%20digital%20clay%20reconstruction.png
+carcharodontosaurus | Carcharodontosaurus | Fred Wierum | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ACarcharodontosaurus.png
+suchomimus | Suchomimus | Connor Ashbridge | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ALife%20reconstruction%20of%20Suchomimus%20tenerensis.png
+concavenator | Concavenator | Mariolanzas | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AConcavenator%20reconstruction.png
+cryolophosaurus | Cryolophosaurus | Fabio pastori | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ALife%20Restoration%20of%20Cryolophosaurus%20ellioti%20pair.jpg
+amargasaurus | Amargasaurus | Novoklimov | CC0 | https://commons.wikimedia.org/wiki/File%3AAmargasaurus%20life%20restoration.jpg
+nigersaurus | Nigersaurus | Matt Martyniuk (Dinoguy2) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ANigersaurus%20model%20aus.jpg
+sauropelta | Sauropelta | Emily Willoughby | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3ASauropelta%20reconstruction.png
+einiosaurus | Einiosaurus | Nobu Tamura | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3AEiniosaurus%20BW.jpg
+nasutoceratops | Nasutoceratops | TotalDino | CC0 | https://commons.wikimedia.org/wiki/File%3ANasutoceratops%20TD.png
+yutyrannus | Yutyrannus | Alopesc | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AYutyrannus%20huali%20reconstruction.jpg
+guanlong | Guanlong | FigmentJedi | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3ATyrannosaurs-%20Meet%20the%20Family%20-%20Guanlong%20Model.jpg
+sinosauropteryx | Sinosauropteryx | Ghedoghedo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ASinosauropteryx%20model.jpg
+majungasaurus | Majungasaurus | Петр Меньшиков | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AMajungasaurus%203D%20model.jpg
+psittacosaurus | Psittacosaurus | PaleoEquii | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3APsittacosaurus%20mongoliensis%20reconstruction.jpg
+kosmoceratops | Kosmoceratops | Nobu Tamura | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AKosmoceratops%20NT%20small.jpg
+acrocanthosaurus | Acrocanthosaurus | Mariolanzas | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AAcrocanthosaurus%20restoration.jpg
+mapusaurus | Mapusaurus | KoprX | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AMapusaurus%20Roseae%20restoration.png
+ouranosaurus | Ouranosaurus | Audrey.m.horn | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AOuranosaurus%20nigeriensis%20restoration.png
+gigantoraptor | Gigantoraptor | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3AGigantoraptor%20Restoration.png
+dracorex | Dracorex | Nobu Tamura (http://spinops.blogspot.com) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3ADracorex%20BW.jpg
+tarbosaurus | Tarbosaurus | GgfHghf | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ATarbosaurus%20Restorationadssasasdda.png
+kronosaurus | Kronosaurus | Nobu Tamura http://paleoexhibit.blogspot.com/ http://spinops.blogspot.com/ http://www.palaeocritti.com | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3AKronosaurus2%20NT.jpg
+deinosuchus | Deinosuchus | Andrey Atuchin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ADeinosuchus%20illustration%20Andrey%20Atuchin.jpg
+sarcosuchus | Sarcosuchus | User:ArthurWeasley | CC BY 2.5 | https://commons.wikimedia.org/wiki/File%3ASarcosuchus%20BW.jpg
+helicoprion | Helicoprion | Creator: Dmitry Bogdanov | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3AHelicoprion%20bessonovi1DB.jpg
+deinocheirus | Deinocheirus | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3ADeinocheirus%20Restoration.png
+shuvuuia | Shuvuuia | FunkMonk | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3AShuvuuia.jpg
+epidexipteryx | Epidexipteryx | Nobu Tamura | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3AEpidexipteryx%20NT.jpg
+anzu | Anzu | GabrieMacrothorax | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AAnzu%20wyliei%20paleoart.jpg
+kaprosuchus | Kaprosuchus | LiterallyMiguel | CC0 | https://commons.wikimedia.org/wiki/File%3AKaprosuchus.png
+beipiaosaurus | Beipiaosaurus | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3ABeipiaosaurus%20Restoration.png
+tanystropheus | Tanystropheus | Nobu Tamura email:nobu.tamura@yahoo.com http://spinops.blogspot.com/ | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3ATanystropheus%20NT%20small.jpg
+incisivosaurus | Incisivosaurus | Tomopteryx | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3AIncisivosaurus%20(pencil%202013).png
+halszkaraptor | Halszkaraptor | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3AHalszkaraptor%20Restoration.png
+balaur | Balaur | Emily Willoughby | CC0 | https://commons.wikimedia.org/wiki/File%3ABalaur%20life%20restoration%20(white%20background).jpg
+austroraptor | Austroraptor | Fred Wierum | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AAustroraptor%20Restoration.png
+yi-qi | Yi Qi | Emily Willoughby, (e.deinonychus@gmail.com, emilywilloughby.com) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AYi%20qi%20restoration.jpg
+kulindadromeus | Kulindadromeus | Nobu Tamura email:nobu.tamura@yahoo.com http://spinops.blogspot.com/ | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AKulindadromeus%20NT%20small.jpg
+falcarius | Falcarius | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3AFalcarius%20Restoration.png
+nothronychus | Nothronychus | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3ANothronychus%20graffami%20Restoration.png
+khaan | Khaan | Dinoguy2 (Matt Martyniuk) | CC BY 2.5 | https://commons.wikimedia.org/wiki/File%3AKhaan%20mckennai%20profile1.jpg
+masiakasaurus | Masiakasaurus | User created page with UploadWizard | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AMasiakasaurus%20BW.jpg
+bajadasaurus | Bajadasaurus | Slate Weasel | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3ABajadasaurus%20SW.png
+qianzhousaurus | Qianzhousaurus | PaleoGeekSquared | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File%3AQianzhousaurus%20sinensis%20by%20PaleoGeek.png
+erlikosaurus | Erlikosaurus | PaleoNeolitic | CC BY 4.0 | https://commons.wikimedia.org/wiki/File%3AErlikosaurus%20Restoration.png
+alvarezsaurus | Alvarezsaurus | User:Karkemish | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3AAlvarezsaurus%20calvoi.jpg
+concavenator-jr-eoraptor | Eoraptor | Conty | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3AEoraptor%20resto.%2001.png
+yamaceratops | Yamaceratops | Nobu Tamura (https://spinops.blogspot.com) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File%3AYamaceratops%20BW.jpg
+linhenykus | Linhenykus | Nobu Tamura | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3ALinhenykus%20NT.jpg
+sinornithosaurus | Sinornithosaurus | D. Gordon E. Robertson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File%3ASinornithosaurus%20millenii%20reconstruction.jpg
+
+==========================================================================================
+Total: 100 images. Missing: 0
