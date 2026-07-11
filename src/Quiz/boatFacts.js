@@ -30,7 +30,7 @@ export const BOAT_FACTS = {
   "trimaran": "Has one main hull flanked by two smaller outer hulls",
   "barge": "A flat freight boat for canals and inland rivers",
   "schooner": "A sailing ship with two or more fore-and-aft masts",
-  "clipper": "A fast 1800s sailing ship built for the tea trade",
+  "clipper": "A fast 1800s sailing ship famed for the tea trade",
   "icebreaker": "A strong ship that smashes a path through sea ice",
   "containership": "Carries stacked steel boxes of cargo across oceans",
   "bulkcarrier": "Ships loose cargo like grain, coal and ore in bulk",

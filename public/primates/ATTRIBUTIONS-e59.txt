@@ -1,0 +1,112 @@
+GuessSync E59 — «Guess the Primate» — Image Attributions
+All images from Wikimedia Commons / Wikipedia. 100 primate species.
+Format: slug — Name | Author | License | Source
+=======================================================================
+
+[EASY]
+chimpanzee — Chimpanzee | Giles Laurent | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg
+gorilla — Gorilla | Brocken Inaglory | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Male_gorilla_in_SF_zoo.jpg
+orangutan — Orangutan | Nanosanchez | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tanjung_Puting30477.jpg
+baboon — Baboon | Muhammad Mahdi Karim | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Olive_baboon_Ngorongoro.jpg
+mandrill — Mandrill | Katma0601 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Mandrill_Albert_September_2015_Zoo_Berlin_(2).jpg
+ringtailedlemur — Ring-tailed Lemur | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ring-tailed_lemur_(Lemur_catta).jpg
+gibbon — Gibbon | User:MatthiasKabel | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Hylobates_lar_pair_of_white_and_black_01.jpg
+rhesusmacaque — Rhesus Macaque | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Rhesus_macaque_(Macaca_mulatta_mulatta),_male,_Gokarna.jpg
+capuchin — Capuchin Monkey | David M. Jensen (Storkk) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Capuchin_Costa_Rica.jpg
+spidermonkey — Spider Monkey | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Geoffroy%27s_spider_monkey_(Ateles_geoffroyi_yucatanensis)_male_Peten.jpg
+marmoset — Marmoset | Raimond Spekking | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Wei%C3%9Fb%C3%BCschelaffe_(Callithrix_jacchus).jpg
+howlermonkey — Howler Monkey | Dr. Ariel Rodriguez-Vargas | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Panamanian_Male_Adult_Howler_Monkey.jpg
+proboscismonkey — Proboscis Monkey | David Dennis | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Proboscis_Monkey_in_Borneo.jpg
+tarsier — Tarsier | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Philippine_tarsier_(Carlito_syrichta_fraterculus)_Bohol.jpg
+bonobo — Bonobo | natataek | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Apeldoorn_Apenheul_zoo_Bonobo.jpg
+japanesemacaque — Japanese Macaque | Rocktendo &amp; Adam Gman | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Japanese_Snow_Monkey_(Macaque)_Mother_Grooms_Her_Young.jpg
+squirrelmonkey — Squirrel Monkey | ggallice (Geoff Gallice) | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Mono_ardilla_-_Saimiri_sciureus.jpg
+vervetmonkey — Vervet Monkey | Diego Delso | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cercopiteco_verde_(Chlorocebus_pygerythrus),_parque_nacional_del_lago_Nakuru,_Kenia,_2024-05-18,_DD_77.jpg
+goldenliontamarin — Golden Lion Tamarin | Daderot | CC0 | https://commons.wikimedia.org/wiki/File:Leontopithecus_rosalia_-_Copenhagen_Zoo_-_DSC09082.JPG
+gelada — Gelada | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Gelada_(Theropithecus_gelada_gelada)_male_2.jpg
+colobus — Colobus Monkey | en:User:Cburnett | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mantled_Guereza.jpg
+slowloris — Slow Loris | David Haring / Duke Lemur Center | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Nycticebus_coucang_004.jpg
+barbarymacaque — Barbary Macaque | Vitold Muratov | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Macaca_sylvanus.Mother_and_baby.jpg
+emperortamarin — Emperor Tamarin | Brocken Inaglory | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tamarin_portrait.JPG
+graylangur — Gray Langur | Rajeev minj | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Northern_plains_gray_langur.jpg
+
+[MEDIUM]
+siamang — Siamang | Rufus46 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Siamang_Tierpark_Hellabrunn-4.jpg
+patasmonkey — Patas Monkey | Sanjay Acharya | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Patas_Monkey.jpg
+debrazzamonkey — De Brazza's Monkey | su neko | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:De_Brazza%27s_Monkey.jpg
+crabeatingmacaque — Crab-eating Macaque | Deerpeter | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ubud_Monkey_Family.jpg
+pigtailedmacaque — Pig-tailed Macaque | Mvshreeram | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Southern_Pig-tailed_Macaque_-_Shreeram_MV.jpg
+liontailedmacaque — Lion-tailed Macaque | Chris huh | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lion-tailed_Macaque_in_Bristol_Zoo.jpg
+bonnetmacaque — Bonnet Macaque | Shagil Muzhappilangad | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Rhesus_Macaque_in_Andhra_Pradesh,_India.jpeg
+chacmababoon — Chacma Baboon | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Chacma_Baboon_(Papio_ursinus)_(16824823063).jpg
+hamadryasbaboon — Hamadryas Baboon | Manuel González Olaechea y Franco | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Papio_hamadryas_pair.jpg
+drill — Drill | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Male_Drill_(Mandrillus_leucophaeus)_(7609817756).jpg
+cottontoptamarin — Cotton-top Tamarin | Chensiyuan | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:1_cotton_top_tamarin.jpg
+pygmymarmoset — Pygmy Marmoset | Malene Thyssen (User Malene) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Dv%C3%A6rgsilkeabe_Callithrix_pygmaea.jpg
+woollymonkey — Woolly Monkey | Hans Hillewaert | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lagothrix_lagotricha_(male).jpg
+whitefacedsaki — White-faced Saki | Jik jik | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pithecia_pithecia_ZOO_Plzen.jpg
+nightmonkey — Night Monkey | Stavenn | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Stavenn_Aotus_trivirgatus_00.jpg
+titimonkey — Titi Monkey | Tony Hisgett | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Coppery_Titi_2.jpg
+redruffedlemur — Red Ruffed Lemur | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Red_ruffed_lemur_(Varecia_rubra).jpg
+ruffedlemur — Black-and-white Ruffed Lemur | Chensiyuan | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:1_black_and_white_ruffed_lemur.jpg
+mouselemur — Mouse Lemur | Diego Delso | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:L%C3%A9mur_rat%C3%B3n_gris_(Microcebus_murinus),_Parque_Nacional_de_Lokobe,_Nosy_Be,_Madagascar,_2025-09-21,_DD_83.jpg
+brownlemur — Brown Lemur | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Common_brown_lemur_(Eulemur_fulvus)_male.jpg
+goldensnubnosed — Golden Snub-nosed Monkey | Giovanni Mari | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Golden_Snub-nosed_Monkeys,_Qinling_Mountains_-_China.jpg
+duskyleaf — Dusky Leaf Monkey | Pavel Kirillov from St.Petersburg, Russia | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Dusky_leaf_monkey_(8050982300).jpg
+sootymangabey — Sooty Mangabey | Justin Philbois | CC0 | https://commons.wikimedia.org/wiki/File:Cercocebus_atys_219636002.jpg
+whitecheekedgibbon — White-cheeked Gibbon | Hasekamp at Dutch Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Witwanggibbon_M.jpg
+bluemonkey — Blue Monkey | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Blue_monkey_(Cercopithecus_mitis_stuhlmanni).jpg
+
+[HARD]
+coquerelssifaka — Coquerel's Sifaka | Olivier Lejade | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Propithecus_coquereli_02.jpg
+verreauxsifaka — Verreaux's Sifaka | JialiangGao www.peace-on-earth.org | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Verreauxs_Sifika_Kirindy_Madagascar.jpg
+crownedlemur — Crowned Lemur | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Crowned_lemur_(Eulemur_coronatus)_male.jpg
+redbelliedlemur — Red-bellied Lemur | Rachel Kramer | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Eulemur_rubriventer_001.jpg
+blacklemur — Black Lemur | VisitingMadagascar | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Black_Lemur_Lemur.jpg
+bamboolemur — Bamboo Lemur | Rachel Kramer | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hapalemur_aureus_001.jpg
+sportivelemur — Sportive Lemur | Brendansoloughlin | CC0 | https://commons.wikimedia.org/wiki/File:Lepilemur_mustelinus.jpg
+dwarflemur — Dwarf Lemur | Petra Lahann | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Cheirogaleus-medius.jpg
+greatergalago — Greater Galago | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Thick-tailed_Bushbaby_(Otolemur_crassicaudatus)_(17322632725).jpg
+pygmyslowloris — Pygmy Slow Loris | David Haring / Duke Lemur Center | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Nycticebus_pygmaeus_004.jpg
+slenderloris — Slender Loris | Kalyan Varma (Kalyanvarma) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Slender_Loris.jpg
+potto — Potto | Ltshears | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:PottoCincyZoo.jpg
+spectraltarsier — Spectral Tarsier | Sakurai Midori | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tarsius_tarsier_Tandurusa_zoo.JPG
+blacksnubnosed — Black Snub-nosed Monkey | Rod Waddington from Kergunyah, Australia | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Black_Snub-nosed_Monkey_(44489823001).jpg
+francoislangur — François' Langur | Ltshears | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:FrancoisLangur2_CincinnatiZoo.jpg
+purplefacedlangur — Purple-faced Langur | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Purple-faced_langur_(Semnopithecus_vetulus_vetulus).jpg
+nilgirilangur — Nilgiri Langur | N.A.Nazeer | CC BY-SA 2.5 in | https://commons.wikimedia.org/wiki/File:Nilgiri_langur_(1)_by_N._A._Naseer.jpg
+silveredlangur — Silvered Langur | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Silvered_Leaf_Monkey_(Trachypithecus_cristatus)_(8125672881).jpg
+cappedlangur — Capped Langur | Dibyendu Ash | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:%27tenebricus%27_Capped_Langur_from_Manas.jpg
+goldenlangur — Golden Langur | The original uploader was Amartyabag at English Wikipedia. | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Golden_langur.jpg
+graycheekedmangabey — Gray-cheeked Mangabey | Marie de Carne | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Grey-cheeked_Mangabey.JPG
+redcappedmangabey — Red-capped Mangabey | Rufus46 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Rotscheitelmangabe_Cercocebus_torquatus_Tierpark_Hellabrunn-1.jpg
+moustachedguenon — Moustached Guenon | Peggy Motsch | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cercopithecus_cephus.JPG
+monamonkey — Mona Monkey | Rosa Pineda | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Mona_monkey_-_Grand_Etang_Lake_-_Grenada_-_2.jpg
+dianamonkey — Diana Monkey | Abujoy | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:La_Bourbansais_04.jpg
+
+[IMPOSSIBLE]
+ayeaye — Aye-aye | nomis-simon | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Wild_aye_aye.jpg
+indri — Indri | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Indri_(Indri_indri).jpg
+redshankeddouc — Red-shanked Douc | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Red-shanked_douc_langur_(Pygathrix_nemaeus)_female_and_juvenile_Son_Tra.jpg
+uakari — Bald Uakari | Giovanni Mari | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Cacajao_calvus_Solimoes_river.jpg
+tonkinsnubnosed — Tonkin Snub-nosed Monkey | Quyet Le | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Tonkin_snub-nosed_monkeys_(Rhinopithecus_avunculus).jpg
+kipunji — Kipunji | Zina Deretsky, National Science Foundation | Public domain | https://commons.wikimedia.org/wiki/File:Kipunji_walking_h.jpg
+angwantibo — Angwantibo | Joseph Wolf | Public domain | https://commons.wikimedia.org/wiki/File:ArctocebusCalabarensisWolf.jpg
+pygmytarsier — Pygmy Tarsier | . Ray in Manila | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Philippine_Tarsier,_Bohol_-_Flickr_-_._Ray_in_Manila.jpg
+muriqui — Muriqui | Bart vanDorp | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Brachyteles_hypoxanthus.jpg
+goldenheadedtamarin — Golden-headed Lion Tamarin | Ltshears | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Golden-headed_Lion_Tamarin_095.jpg
+piedtamarin — Pied Tamarin | Whaldener Endo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Saguinus_bicolor_Parque_do_Mindu.jpg
+geoffroystamarin — Geoffroy's Tamarin | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Geoffroy%27s_tamarin_(Saguinus_geoffroyi)_2.jpg
+silverymarmoset — Silvery Marmoset | Postdlf | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Callithrix_argentata_at_the_Bronx_Zoo_03.jpg
+goeldismonkey — Goeldi's Monkey | Malene Thyssen (User Malene) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Springtamarin_(Callimico_goeldii).jpg
+beardedsaki — Bearded Saki | Miguelrangeljr | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chiropotes_satanas_(black_bearded_saki).jpg
+hamlynsmonkey — Hamlyn's Monkey | No machine-readable author provided. JoJan assumed (based on copyright claims). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cercopithecus_hamlyni.jpg
+lhoestsmonkey — L'Hoest's Monkey | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:L%27Hoest%27s_monkey_(Cercopithecus_lhoesti).jpg
+talapoin — Talapoin | Хомелка | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Miopithecus_ogouensis_in_Prague_Zoo_01.JPG
+allensswampmonkey — Allen's Swamp Monkey | Grendelkhan | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Allens_swamp_monkey.jpg
+rolowaymonkey — Roloway Monkey | Hans Hillewaert | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cercopithecus_roloway.jpg
+redcolobus — Red Colobus | This photo was taken by Anton Zelenov. Please credit this with : Photo : Anton Zelenov in the immediate vicinity of the image. If you use one of my photos, please email me (account needed) or leave me a short message on my discussion page. It would be greatly appreciated. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Piliocolobus_kirkii_7.jpg
+simakobu — Simakobu | National Museum of Natural History, Smithsonian Institution (W. Abbott) | CC0 | https://commons.wikimedia.org/wiki/File:NMNH-usnm_121690_Simias_concolor_xray_lateral.jpg
+mentawaimacaque — Mentawai Macaque | ZOOVANCHO180 | CC0 | https://commons.wikimedia.org/wiki/File:Foto_de_Macaco_de_Siberut.png
+celebescrestedmacaque — Celebes Crested Macaque | Tim Strater from Rotterdam, Nederland | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Kuifmakaak_(8721744168).jpg
+diademedsifaka — Diademed Sifaka | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Diademed_sifaka_(Propithecus_diadema).jpg

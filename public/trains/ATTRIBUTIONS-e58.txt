@@ -1,0 +1,106 @@
+GuessSync E58 - "Guess the Train" - Image Attributions
+100 real train/locomotive photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or similar free licenses. Files under
+CC BY / CC BY-SA require crediting the author + license; the lines below satisfy that.
+Generated 2026-07-11. Format:  slug | name | author | license | source
+==========================================================================================
+steamlocomotive | Steam Locomotive | Charlie Jackson | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:GWR_0-6-0PT_Steam_Locomotive_(33970113855).jpg
+bullettrain | Bullet Train (Shinkansen) | Calvinkulit | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Side_view_of_N700-7000_series_train.jpg
+subwaytrain | Subway Train | Mtattrain | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:MTA_NYC_Subway_A_train_arriving_at_168th_St.jpg
+freighttrain | Freight Train | Kabelleger / David Gubler | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:CN_8015,_5690_and_5517_Hinton_-_Jasper.jpg
+monorail | Monorail | Baycrest | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Chongqing_Rail_Transit_Line_3_Monorail_Train_near_Xuetangwan_Station.jpg
+tram | Tram / Streetcar | ŠJů (cs:ŠJů) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Muzeum_MHD,_tramvaje_T3_8084_a_6149,_zep%C5%99edu.jpg
+diesellocomotive | Diesel Locomotive | Andrey Kurmelyov | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:%D0%A7%D0%9C%D0%AD3-2908,_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0,_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%BD_%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_-_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA-%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9_(Trainpix_138895).jpg
+highspeedtrain | High-Speed Train | MaedaAkihiko | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:N700a-Mt.Fuji.jpg
+cablecar | Cable Car | jjron | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:11_Cable_Car_on_Powell_St_crop,_SF,_CA,_jjron_25.03.2012.jpg
+doubledeckertrain | Double-Decker Train | Mtlfiredude at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:AMTLucienLallier.jpg
+cargtrain | Passenger Rail Car | Matthew Neleigh Gummigoof at en.wikipedia | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Auto_Train_lounge.jpg
+toytrain | Miniature Railway | David Hillas | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Miniature_Railway_in_Grosvenor_Park_,Chester_-_geograph.org.uk_-_6376648.jpg
+coaltrain | Coal Train | Jack Corn | Public domain | https://commons.wikimedia.org/wiki/File:CLOSEUP_OF_A_RAILROAD_ENGINE_AND_COAL_CARS_LOADED_FOR_SHIPMENT_TO_CUSTOMERS_AT_THE_DANVILLE,_WEST_VIRGINIA,_NEAR..._-_NARA_-_556408.jpg
+electrictrain | Electric Multiple Unit | PEPSI697 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Siemens_Nexas_789M_Frankston_to_Williamstown_service_via_Flinders_Street_at_Seaford_railway_station_Platform_1_(28_January_2026).jpg
+lightrail | Light Rail | Pi.1415926535 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Gold_Line_train_on_East_1st_Street,_July_2017.JPG
+tanktrain | Tank Car Train | Catherine C. Beaucham | Public domain | https://commons.wikimedia.org/wiki/File:Tank_cars_in_railyard.jpg
+cabooseend | Caboose | Sean Lamb (User:Slambo) | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:BN_caboose,_Eola_Yard,_1993.jpg
+commutertrain | Commuter Train | VVVF | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tobu_7800_Hikifune_Station.jpg
+funicular | Funicular | Detroit Publishing Company | Public domain | https://commons.wikimedia.org/wiki/File:Mount_Tom_Railroad_incline,_colorized.jpg
+sleepertrain | Sleeper Train | The Pullman Company, Chicago-imprint on lower left front of photo. | Public domain | https://commons.wikimedia.org/wiki/File:Pullman_sleeping_car_circa_1860s.JPG
+railbus | Railbus | A.Savin | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Eifelquerbahn-Ulmen_(cropped).jpg
+containertrain | Container Train | Lee Ann Ratledge | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Intermodal_Freight_Containers_on_Flat_Cars_-_Knoxville,_Tennessee_-_November_8,_2014.jpg
+steamtender | Steam Train with Tender | Warren LeMay | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Great_Northern_Railway_Steam_Engine_No._2584_side_view_of_cab_and_tender,_Havre_Train_Station,_Havre,_MT_-_September_2021.jpg
+railtrolley | Trolley | railfan 44 | Public domain | https://commons.wikimedia.org/wiki/File:STE_2110_(PCC)_a_AZCAPOTZALCO_AVENIDA_HIDAGO_car_crossing_INSURGENTES_on_Puente_Alvarado_in_Mexico_City,_D.F.,_Mexico_on_September_8,_1966_(22624725055).jpg
+modernmetro | Modern Metro Train | Takeshi Aida from Hong Kong, Hong Kong | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Seoul_Metro_2000_(3rd-gen),_Line_2,_Sindaebang_(20240406)_(54220761783).jpg
+tgv | TGV | Nelso Silva | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:SNCF_TGV_Duplex_2N2_4718_(8464339495).jpg
+eurostar | Eurostar | Florian Pépellin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Croisement_Thalys-Eurostar_Neige_en_Savoie_(f%C3%A9vrier_2023).JPG
+maglev | Maglev | Saruno Hirobano | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:L0-950.jpg
+amtrak | Amtrak | Leo W. Persick Jr. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:GE_Dash_8-32BWH.jpg
+transsiberian | Trans-Siberian Railway | No machine-readable author provided. Woudloper assumed (based on copyright claims). | Public domain | https://commons.wikimedia.org/wiki/File:Rossija_train.jpg
+orientexpress | Orient Express | Tomáš Ságner | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mierosz%C3%B3w,_Orient_Express_(VSOE),_16._7._2007_(a).jpg
+ice | ICE (InterCity Express) | Sebastian Terfloth User:Sese_Ingolstadt | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:ICE_3_Oberhaider-Wald-Tunnel.jpg
+acela | Acela | Fan Railer | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Acela_Express_Rahway.jpg
+thalys | Thalys | Rob Dammers | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Hoofddorp_Thalys_TGV-PBA_4534_trein_9340_Paris-Nord_-_Flickr_-_Rob_Dammers.jpg
+japanshinkansen | Shinkansen N700 | Mitsuki-2368 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:JRC_N700_series_Z28.jpg
+class66 | Class 66 | Murgatroyd49 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:66534_on_container_train.jpg
+unionpacific | Union Pacific Locomotive | H. Michael Miley from Schaumburg, USA | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Union_Pacific_6936_2_(9648592364).jpg
+docklands | Docklands Light Railway | mattbuck (category) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:London_MMB_%C2%ABJ4_Docklands_Light_Railway_(Marsh_Wall)_60.jpg
+cablecarsf | San Francisco Cable Car | Pi.1415926535 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cable_car_19_on_Hyde_Street,_July_2023.JPG
+glacierexpress | Glacier Express | Daniel Schwen | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:CH_Landwasser_2.jpg
+eurotunnelshuttle | Eurotunnel Shuttle | Iain Cameron | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Eurotunnel_train_2019-07-05.jpg
+renfeave | Renfe AVE | Fedekuki | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:AVE_serie_100_de_RENFE_(corrected).jpg
+frecciarossa | Frecciarossa | Gisorr650 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Frecciarossa_1000_nuova_livrea.jpg
+class37 | Class 37 | Steve Jones | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:5191693456_59e928f289_Steve_Jones.jpg
+budd | Budd Rail Diesel Car | Roger Puta | Public domain | https://commons.wikimedia.org/wiki/File:Reading_Company_Budd_Rail_Diesel_Car_no_9163_and_other_RDCs,_Reading_Terminal,_September_1964_(22262585688).jpg
+ge44 | GE Diesel Switcher | bubba73 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Central_of_Georgia_Railroad-_Savannah_Shops_and_Terminal_Facilities_(08).jpg
+railjet | Railjet | Liberaler Humanist | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:RJ_596_near_Pfarrwerfen,_13.12.2016.jpg
+pendolino | Pendolino | Moliva | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Trenitalia_ETR_600_02_FR_8527_Brescia_20230320.jpg
+sprintertrain | Sprinter | Vanmanyo | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:LNWR_Class_150_at_Bedford.jpg
+electrostar | Electrostar | mattbuck (category) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Battersea_Park_railway_station_MMB_30_377605.jpg
+eurostare320 | Eurostar e320 (Velaro) | Florian Pépellin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Eurostar_sp%C3%A9cial_Alpes-Paris_suite_COVID-19_le_16_mars_2020_en_Savoie.JPG
+class43hst | InterCity 125 (HST) | Geof Sheppard | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:St_Philip%27s_Marsh_-_GWR_43002_Sir_Kenneth_Grange.JPG
+gg1 | PRR GG1 | Association of American Railroads (railroad trade organization)-photo is from the Pennsylvania Railroad. | Public domain | https://commons.wikimedia.org/wiki/File:The_Congressional_Pennsylvania_Railroad.JPG
+emdf7 | EMD F7 | Roger Puta | Public domain | https://commons.wikimedia.org/wiki/File:ATSF_309_(Flickr_22322834666).jpg
+emdsd40 | EMD SD40-2 | S.L. Dixon | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:MRL_250.jpg
+aln668 | ALn 668 | Gabriele Fontana | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Firenze_-_deposito_locomotive_-_ALn_668.1020_-_22-08-1985.jpg
+class91 | British Rail Class 91 | kitmasterbloke | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:91127_%22Neville_Hill%22_Potters_Bar_090923_09.04_KX-Leeds.jpg
+class55deltic | Class 55 Deltic | Terry Fougler | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:55006_at_Finsbury_Park_Depot_on_03_July_1977_(crop).jpg
+shinkansen0 | Shinkansen 0 Series | ナダテ at Japanese Wikipedia (Nadate) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Shinkansen_Series0_R67_JNRcolor.jpg
+shinkansene5 | Shinkansen E5 | MaedaAkihiko | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Series-E5-U15_Yamabiko-50.jpg
+tgvsudest | TGV Sud-Est | joost j. bakker from ijmuiden, the netherlands | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:TGV_Train_%C3%A0_Grande_Vitesse.jpg
+velaro | Siemens Velaro | Nickteeuwen | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:ICE3neo_db_driebergenzeist_20240719.jpg
+class150sprinter | Class 150 | UK bus Image | CC0 | https://commons.wikimedia.org/wiki/File:ALT_156413.jpg
+gp38 | EMD GP38-2 | Augy8400 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:BNSF_2273_Lincoln,_NE_3-13-14.jpg
+dash9 | GE Dash 9 | Tequask | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:BNSF_4839-4485_In_Oregon_(cropped).jpg
+es44ac | GE ES44AC | Mark Levisay | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:D75_9372-1_(cropped).jpg
+class90 | British Rail Class 90 | Andrewrabbott | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Freightliner_90047_at_Edinburgh_Waverley.jpg
+khekt | Shinkansen 500 Series | Mitsuki-2368 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:JRW-500-nozomi.jpg
+e233 | JR E233 Series | Shokawasharyo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:JRE_E233Series.jpg
+etr500 | ETR 500 | Gisorr650 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:ETR.500_Frecciarossa_nuova_livrea.jpg
+duewag | Duewag Stadtbahn | Zarlok06 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Duewag_GT8.jpg
+class802 | Class 802 Azuma | Superalbs | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Great_Western_Railway_Class_802_(802010)_at_Par.jpg
+talgo | Talgo 350 | Samson Ng . D201@EAL | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:S-102_Trainset.jpg
+kihatsu | JNR KiHa Railcar | Abasaa | Public domain | https://commons.wikimedia.org/wiki/File:Kiha_82_Diesel_Railcar.JPG
+italoagv | Italo AGV | Wiki05 | Public domain | https://commons.wikimedia.org/wiki/File:AGV_Innotrans_2008.JPG
+flyingscotsman | Flying Scotsman | ARG_Flickr | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Shropshire_Scotsman.jpg
+mallard | Mallard | PTG Dudva | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Number_4468_Mallard_in_York.jpg
+bigboy | Big Boy 4014 | Association of American Railroads (railroad trade association)/photo by Union Pacific Railroad. | Public domain | https://commons.wikimedia.org/wiki/File:Union_Pacific_Big_Boy_4000_1941.JPG
+rocket | Stephenson's Rocket | BWard 1997 | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Stephenson%27s_Rocket_Replica_National_Railway_Museum.jpg
+cityoftruro | City of Truro | Ashley Dace | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:GWR_3440_City_of_Truro_-_geograph.org.uk_-_1479746.jpg
+eveningstar | Evening Star | Tony Hisgett from Birmingham, UK | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Evening_Star_(5441415938).jpg
+tornado60163 | Tornado (60163) | Alan Wilson from Stilton, Peterborough, Cambs, UK | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:LNER_Class_A1_4-6-2_No60163_%27Tornado%27_(29903372180).jpg
+gwrking | GWR King Class | The Basingstoker | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:6024_King_Edward_I_at_The_Didcot_Railway_Centre_in_June_1994.jpg
+castleclass | GWR Castle Class | BWard 1997 | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:GWR_4079_Pendennis_Castle_Didcot_Railway_Centre_4th_March_2023.jpg
+dukeofgloucester | Duke of Gloucester | Hugh Llewelyn | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Hugh_llewelyn_71000_(5363551073).jpg
+olivermore | LMS Coronation Class | Agence de presse Meurisse | Public domain | https://commons.wikimedia.org/wiki/File:Coronation_scot_BNF.jpg
+challenger | Union Pacific Challenger | born1945 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Union_Pacific_Steam_Locomotive_3814_fetter_challenger.jpg
+gs4 | SP GS-4 Daylight | Sam Churchill | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:4449_Steam_train_IMG_3355b.jpg
+lnera4 | LNER Class A4 | Ben Brooksbank | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Up_Capitals_Limited_express_on_the_ECML_at_Wymondley,_south_of_Hitchin_2282866.jpg
+jubilee | LMS Jubilee Class | jimd2007 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:LMS_Jubilee_class_steam_locomotive_5690_Leander.jpg
+kriegslok | DRB Class 52 Kriegslok | Total number of my uploaded files: 1111 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:52_4867_HEF_Hafenbahn_Frankfurt_21092008.JPG
+br01 | DRG Class 01 | Eva K. / Eva K. | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:01118_Koenigstein.jpg
+shay | Shay Geared Locomotive | Gordon Leggett | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2003-05-16_Cass_RR_Shay_Engine,_Cass,_WV_USA.jpg
+garratt | Beyer-Garratt | 1930's Railway Circle (members Frank Garrison, Frank Holland, Bill Schutz and others) | Public domain | https://commons.wikimedia.org/wiki/File:Class_GE_2269_(2-8-2%2B2-8-2).jpg
+class9f | BR Standard Class 9F | ETH Zurich (Ans_05373-0343.tif) | CC0 | https://commons.wikimedia.org/wiki/File:Ans_05373-0343.tif
+gg1prr | PRR K4s | Ad Meskens | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:PRR_3750.JPG
+milwaukeehiawatha | Milwaukee Road Hiawatha | Turner-Richards Studio, Tacoma, photographer | Public domain | https://commons.wikimedia.org/wiki/File:Olympian_Hiawatha_streamliner_2_1947.JPG
+ganz | Ganz Motor Coach | The STB | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bifurcaci%C3%B3_Riera_Blanca_1.jpg
+crampton | Crampton Locomotive | Calips | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Locomotive_Crampton_80_02.JPG
+dewitt | DeWitt Clinton | Terry Robinson | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:1831_DeWitt_Clinton_locomotive_at_the_Henry_Ford_Museum_-_October_2015.jpg
