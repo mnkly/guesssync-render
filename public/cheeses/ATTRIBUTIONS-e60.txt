@@ -1,0 +1,106 @@
+GuessSync E60 — «Guess the Cheese» — image attributions
+Source: Wikimedia Commons. Each line: slug | cheese | author | license | source URL
+======================================================================
+
+cheddar | Cheddar | J.P.Lon | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Somerset-Cheddar.jpg
+mozzarella | Mozzarella | Popo le Chien | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mozzarella_di_bufala3.jpg
+parmesan | Parmesan | Dominik Hundhammer | GFDL / CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Kaasmerk_Parmigiano_reggiano_piece.jpg
+brie | Brie | Coyau | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Brie_01.jpg
+gouda | Gouda | No machine-readable author provided. Alpha.prim~commonswiki assumed (based on copyright claims). | Public domain | https://commons.wikimedia.org/wiki/File:Chesses_gouda_affinage.JPG
+feta | Feta | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Feta_Greece_2.jpg
+emmental | Swiss (Emmental) | Peachyeung316 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:A_slice_of_Emmental_Cheese.jpg
+bluecheese | Blue Cheese | Myrabella | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bleu_de_Gex.jpg
+camembert | Camembert | Coyau | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Camembert_de_Normandie_(AOP)_10.jpg
+creamcheese | Cream Cheese | Famartin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2021-02-15_12_50_00_A_sample_of_Philadelphia_Cream_Cheese_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg
+ricotta | Ricotta | 8w9d | CC0 | https://commons.wikimedia.org/wiki/File:Ricotta_fresca_(Wiki_Loves_Sicilia).jpg
+cottagecheese | Cottage Cheese | FASTILY (TALK) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cottagecheese200px.jpg
+halloumi | Halloumi | Rainer Zenz | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Halloumi-1.jpg
+gruyere | Gruyère | Hubertl | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2015-01-25_Le_Gruy%C3%A8re_AOP_Bio_-_Der_Schweizer_-_WikiLovesCheese_Vienna_-_hu_-_7876.jpg
+provolone | Provolone | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Provolone_Dolce.jpg
+montereyjack | Monterey Jack | Frank Schulenburg | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Vella_Cheese_Young_Jack_(cropped).jpg
+mascarpone | Mascarpone | Ramagliolo9 at Italian Wikipedia | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Mascarpone_2.jpg
+colby | Colby | Jeff the quiet | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Colby_Cheese.jpg
+edam | Edam | Retired electrician | CC0 | https://commons.wikimedia.org/wiki/File:%D0%A1%D1%8B%D1%80_%D0%AD%D0%B4%D0%B0%D0%BC_%D0%98%D1%87%D0%B0%D0%BB%D0%BA%D0%B8_(Edamer_cheese,_Ichalki)_Oct_2025.jpg
+pepperjack | Pepper Jack | Daniel Olsen (talk) | CC BY 1.0 | https://commons.wikimedia.org/wiki/File:Pepperjack_Cheese.jpg
+paneer | Paneer | Ian Brown | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Homemade_Paneer_Block_Fromage_Cheese_India.jpg
+burrata | Burrata | snowpea&bokchoi | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Fiore_di_Nonno_Burrata_cheese.jpg
+roquefort | Roquefort | Thesupermat | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Wikicheese_-_Roquefort_-_20150417_-_002.jpg
+manchego | Manchego | cyclonebill | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Manchego.jpg
+gorgonzola | Gorgonzola | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Gorgonzola_1.jpg
+havarti | Havarti | Ulaek | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cream_havarti_on_bread.jpg
+muenster | Muenster | No machine-readable author provided. Brion VIBBER assumed (based on copyright claims). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Block_of_Muenster_cheese.jpg
+fontina | Fontina | U9POI57 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Fetta_di_Fontina_DOP.jpg
+pecorinoromano | Pecorino Romano | Jon Sullivan | Public domain | https://commons.wikimedia.org/wiki/File:Pecorino_romano_cheese.jpg
+comte | Comté | Myrabella | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Comte_AOP.jpg
+jarlsberg | Jarlsberg | Holly Cheng | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Jarlsberg_cheese.jpg
+wensleydale | Wensleydale | Jon Sullivan | Public domain | https://commons.wikimedia.org/wiki/File:Wensleydale_cheese_2.jpg
+redleicester | Red Leicester | Jon Sullivan | Public domain | https://commons.wikimedia.org/wiki/File:Red_Leicester.jpg
+doublegloucester | Double Gloucester | Jon Sullivan | Public domain | https://commons.wikimedia.org/wiki/File:Cheese_24_bg_051306.jpg
+asiago | Asiago | Shabicht | CC0 | https://commons.wikimedia.org/wiki/File:Asiago_cheese_1.jpg
+taleggio | Taleggio | FakirNL | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Taleggio_Cheese.jpg
+granapadano | Grana Padano | Claudia Castaldi | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Grana_Padano_DOP.jpg
+reblochon | Reblochon | Myrabella | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Reblochon_AOC.jpg
+morbier | Morbier | Pierre-Yves Beaudouin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Morbier_(fromage)_01.jpg
+cheshire | Cheshire | The original uploader was Y6y6y6 at English Wikipedia. Later versions were uploaded by Iain at en.wikipedia. | Public domain | https://commons.wikimedia.org/wiki/File:Cheshire_Cheese.jpg
+caerphilly | Caerphilly | Jon Sullivan | Public domain | https://commons.wikimedia.org/wiki/File:Caerphilly_cheese.jpg
+stilton | Stilton | Coyau | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Blue_Stilton_08.jpg
+boursin | Boursin | Jon Sullivan | Public domain | https://commons.wikimedia.org/wiki/File:Boursin_cheese.jpg
+quesofresco | Queso Fresco | Geoff | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Queso_fresco.JPG
+oaxaca | Oaxaca | Javier Lastras | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:01_Queso_Mexicano_Oaxaca.jpg
+cotija | Cotija | Legado Mexicano | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Queso_Cotija_El_Legado.jpg
+raclette | Raclette | Ka23 13 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Raclette_20090716_180126.jpg
+portsalut | Port Salut | Jon Sullivan | Public domain | https://commons.wikimedia.org/wiki/File:Port_Salut_cheese.jpg
+labneh | Labneh | Contrapunctus-1 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Za%27atar_with_labneh_manakish_at_Agasi,_Lajpat_Nagar,_Delhi_(2025-08-13).jpg
+quark | Quark | SKopp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Skimmed_milk_quark_on_spoon.jpg
+beaufort | Beaufort | Coyau | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Beaufort_(fromage)_01.jpg
+cantal | Cantal | Coyau | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cantal_06.jpg
+saintnectaire | Saint-Nectaire | Homer Ectus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Saint-Nectaire.jpg
+tommedesavoie | Tomme de Savoie | Coyau | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:WikiCheese_-_Tomme_de_Savoie_-_20150619_-_002.jpg
+ossauiraty | Ossau-Iraty | Kubigula | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ossau-Iraty.jpg
+livarot | Livarot | Coyau | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Livarot_(fromage)_11.jpg
+pontleveque | Pont-l'Évêque | LAGRIC | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Fromage_pont_l%27%C3%A9v%C3%AAque_(petit).JPG
+chaource | Chaource | Coyau | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chaource_(fromage)_09.jpg
+banon | Banon | Coyau | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Banon_02.jpg
+sellessurcher | Selles-sur-Cher | Myrabella | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Selles-sur-cher_1.jpg
+crottin | Crottin de Chavignol | Markus Lindholm | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Crottin_de_Chavignol.jpg
+valencay | Valençay | Pierre-Yves Beaudouin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Valen%C3%A7ay_04.jpg
+gjetost | Gjetost (Brunost) | color line | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Brunost_-_Brown_cheese.jpg
+idiazabal | Idiazábal | Xavigivax | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Queso_Idiaz%C3%A1bal.jpg
+cabrales | Cabrales | PDPhoto.org | Public domain | https://commons.wikimedia.org/wiki/File:Cabrales_blue_Cheese.jpg
+mahon | Mahón | Slastic | Public domain | https://commons.wikimedia.org/wiki/File:Formatge_Ma%C3%B3_artes%C3%A0.jpg
+tetilla | Tetilla | Tamorlan | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Queso_tetilla-Mercado.jpg
+caciocavallo | Caciocavallo | Photograph by Mike Peel (www.mikepeel.net). | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Caciocavallo_Pugliese.jpg
+scamorza | Scamorza | Yozh | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Scamorza_sicilian.jpg
+robiola | Robiola | Andrea Marchisio | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Robiola_di_Roccaverano.jpg
+pecorinosardo | Pecorino Sardo | The original uploader was Frankie816 at English Wikipedia. | Public domain | https://commons.wikimedia.org/wiki/File:Pecorino_Sardo_Cheese.jpg
+belpaese | Bel Paese | Jon Sullivan | Copyrighted free use | https://commons.wikimedia.org/wiki/File:Bel_Paese_Cheese.jpg
+limburger | Limburger | Jon Sullivan | Public domain | https://commons.wikimedia.org/wiki/File:Cheese_27_bg_051806.jpg
+tilsit | Tilsit | Jon Sullivan | Public domain | https://commons.wikimedia.org/wiki/File:Tilsit_cheese.jpg
+appenzeller | Appenzeller | PDPhoto.org | Public domain | https://commons.wikimedia.org/wiki/File:Appenzeller_(cheese).jpg
+casumarzu | Casu Marzu | Shardan | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Casu_Marzu_cheese.jpg
+vacherin | Vacherin Mont d'Or | Zubro | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Vacherin_du_haut_Doubs.jpg
+tetedemoine | Tête de Moine | Mr Thinktank | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:00_Rosette.T%C3%AAte_de_Moine.jpg
+mimolette | Mimolette | Jastrow at French Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Mimolette_vieille_etuvee.jpg
+stinkingbishop | Stinking Bishop | Jon Sullivan | Public domain | https://commons.wikimedia.org/wiki/File:Stinking_Bishop_cheese.jpg
+leipajuusto | Leipäjuusto | Teemu Rajala | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Leip%C3%A4juusto_cheese_with_cloudberry_jam.jpg
+sulguni | Sulguni | Georgian Recipes at Georgia About | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Discs-of-sulguni-cheese.jpg
+bandel | Bandel | Rangan Datta Wiki | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bandel_Cheese,_Kolkata,_West_Bengal_1.jpg
+rubing | Rubing | Pratyeka | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Rubing_Goats_Cheese_of_Yunnan_China.jpg
+oscypek | Oscypek | Pawel Swiegoda (Paberu) | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Oscypki.jpg
+bryndza | Bryndza | Maciarka | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bryndza_cheese.jpg
+korbacik | Korbáčik | Mariuszjbie | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:%C3%9Aden%C3%BD_korb%C3%A1%C4%8Dik_(Slovakia).jpg
+nabulsi | Nabulsi | 白と赤茶 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nabulsi_cheese_sold_in_brine.jpg
+shanklish | Shanklish | Charles Haynes from Sydney, Australia | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Shanklish.jpg
+chechil | Chechil | E4024 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Turkish_cheeses_Dil_and_Civil.jpg
+graviera | Graviera | Ossony | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Naxos_Gravi%C3%A9ra.jpg
+anari | Anari | Zlerman | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Anari_Limassol.jpg
+vastedda | Vastedda | Lele1989 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Vastedda.jpg
+olomouc | Olomoucké Tvarůžky | Chmee2 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Olomouck%C3%A9_tvar%C5%AF%C5%BEky_(3).jpg
+fossa | Formaggio di Fossa | Zeugma fr (talk) (Antoine FLEURY-GOBERT) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Formaggio_di_fossa.jpg
+puzzone | Puzzone di Moena | Ferruccio Zanone from Biella, Italia | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Puzzone_di_Moena_(32843526186).jpg
+bitto | Bitto | Assaggio_bitto.jpg: Fabio derivative work: Luigi Chiesa (talk) | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Bitto_cheese.jpg
+castelmagno | Castelmagno | Marco Plassio | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Castelmagno_(formaggio).jpg
+gamalost | Gamalost | Quick fix | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Gamalost-NorwegianOldCheese.jpg
+harzer | Harzer | Elke Wetzig | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Harzer_K%C3%A4se_13_WikiCheese_Lokal_K.jpg
+
+Total: 100/100 attributed.

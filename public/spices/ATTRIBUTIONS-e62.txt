@@ -1,0 +1,112 @@
+GuessSync E62 — «Guess the Herb or Spice» — Image Attributions
+All images from Wikimedia Commons. 100 herbs & spices.
+Format: slug — Name | Author | License | Source
+=======================================================================
+
+[EASY]
+basil — Basil | Paul Goyette | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Basil%20leaves.jpg
+oregano — Oregano | Miansari66 | Public domain | https://commons.wikimedia.org/wiki/File:Oregano%20dried.JPG
+cinnamon — Cinnamon | Gnu-Bricoleur | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Pile%20of%20cinnamon%20sticks.jpg
+blackpepper — Black Pepper | Misterneedlemouse | CC0 | https://commons.wikimedia.org/wiki/File:Tellicherry%20Black%20Peppercorns.jpg
+ginger — Ginger | HaJunkiyada | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Liat%20Portal%20for%20Foodie%20Disorder%20-%20Fresh%20Ginger%20Root.jpg
+rosemary — Rosemary | T137 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Rosmarinus%20officinalis%20(1).jpg
+thyme — Thyme | Evan-Amos | CC0 | https://commons.wikimedia.org/wiki/File:Thyme-Bundle.jpg
+parsley — Parsley | HaJunkiyada | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Liat%20Portal%20for%20Foodie%20Disorder%20-%20Parsley.jpg
+mint — Mint | Forest and Kim Starr | CC BY 3.0 us | https://commons.wikimedia.org/wiki/File:Starr-080608-7435-Mentha%20spicata-leaves-Water%20plant%20Sand%20Island-Midway%20Atoll%20(41264499822).jpg
+cumin — Cumin | Sanjay Acharya | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Seeds%20of%20Cumin.jpg
+paprika — Paprika | Ljiljana Sundać | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Aleva%20paprika.jpg
+turmeric — Turmeric | Simon A. Eugster | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Curcuma%20longa%20roots.jpg
+nutmeg — Nutmeg | Terrence Coombes | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nutmeg%20ready.jpg
+cloves — Cloves | Challiyan | CC0 | https://commons.wikimedia.org/wiki/File:Cloves%20from%20india.jpg
+bayleaf — Bay Leaf | Fumikas Sagisavas | CC0 | https://commons.wikimedia.org/wiki/File:Dried%20bay%20leaves%20(20240502).jpg
+chili — Chili | Sabina Bajracharya | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Capsicum%20annuum-Red%20Chilli%20Pepper%2001.jpg
+vanilla — Vanilla | B.navez | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Vanilla%206beans.JPG
+saffron — Saffron | Rainer Zenz | Public domain | https://commons.wikimedia.org/wiki/File:Iran%20saffron%20threads.jpg
+cardamom — Cardamom | Prathyush Thomas | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Cardamom%20pods%20-%20Green%20BNC.jpg
+coriander — Coriander | Sanjay Acharya | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Coriander%20Seeds.jpg
+dill — Dill | SA, The Green Ark Bostanie | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Dill%20herbs.jpg
+garlic — Garlic | Ivar Leidus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Garlic%20bulbs%20and%20cloves.jpg
+sage — Sage | Flocci Nivis | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:20260614%20Salvia%20officinalis%2002.jpg
+chives — Chives | MAKY.OREL | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Herb%20garden%20or%20flowerbed%20-%20edible%20plants%20for%20cooking.jpg
+cayenne — Cayenne Pepper | User:Andrew Dalby | CC0 | https://commons.wikimedia.org/wiki/File:Cayenne%20pepper%201.JPG
+
+[MEDIUM]
+fennel — Fennel Seed | Holly Cheng | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Fennel%20seed.jpg
+mustardseed — Mustard Seed | Sanjay Acharya | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Black-mustard-seeds.jpg
+fenugreek — Fenugreek | Subhashish Panigrahi | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Washed%20fenugreek%20leaves%20for%20cooking%20methi-chadachadi.jpg
+tarragon — Tarragon | Joanna Boisse | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Artemisia%20dracunculus%202997%206393.jpg
+marjoram — Marjoram | Jeffery Martin | CC0 | https://commons.wikimedia.org/wiki/File:Marjoram%20in%20a%20plastic%20bin.jpg
+caraway — Caraway | Slick | CC0 | https://commons.wikimedia.org/wiki/File:K%C3%BCmmel%202012-07-08-9523.jpg
+allspice — Allspice | Ryan Snyder | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Allspice%20Berries%20(2426054523).jpg
+anise — Anise | A1online2020 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:AniseedPlant%20%D8%A8%D8%B0%D8%B1%20%D8%A7%D9%84%D9%8A%D8%A7%D9%86%D8%B3%D9%88%D9%86.jpg
+staranise — Star Anise | Sanjay Acharya | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Dried%20Star%20Anise%20Fruit%20Seeds.jpg
+whitepepper — White Pepper | Fumikas Sagisavas | CC0 | https://commons.wikimedia.org/wiki/File:White%20peppercorns.jpg
+cilantro — Cilantro | Kpsudeep | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bunches%20of%20coriander%20leaves.jpg
+lemongrass — Lemongrass | Stephanie cheks | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cymbopogon%20citratus%20(%20Lemon%20grass).jpg
+poppyseed — Poppy Seed | Odedr | Public domain | https://commons.wikimedia.org/wiki/File:Poppy%20seeds.jpg
+sesame — Sesame Seed | Sanjay ach | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Sa%20white%20sesame%20seeds.jpg
+juniper — Juniper Berry | W.carter | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Blue%20and%20green%20juniper%20berries%20in%20a%20branch%20in%20Norrkila%202.jpg
+peppermint — Peppermint | Joshua T Polito | CC0 | https://commons.wikimedia.org/wiki/File:Peppermint%20leaves%20with%20scale.jpg
+chamomile — Chamomile | kallerna | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Kamomillasaunio_(Matricaria_recutita).JPG
+horseradish — Horseradish | Kritzolina | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Gem%C3%BCsestand%20am%20Viktualienmarkt%20M%C3%BCnchen%2004.jpg
+wasabi — Wasabi | hfordsa from Tsukiji Fish Market in Tsukiji, Tokyo | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Wasabi%20by%20malias%20in%20Tsukiji%20Fish%20Market.jpg
+chervil — Chervil | Schlaghecken Josef | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Kerbel%20(Anthriscus%20cerefolium)%20mit%20Echter%20Mehltau%20(Erysiphe%20heraclei)%20Befall%2C%20Schlaghecken.jpg
+savory — Savory | Photo by David J. Stang | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Satureja%20hortensis%201zz.jpg
+curryleaf — Curry Leaf | Flocci Nivis | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:20260317%20Murraya%20koenigii%2002.jpg
+cubeb — Cubeb Pepper | Miansari66 | Public domain | https://commons.wikimedia.org/wiki/File:Cubeb.JPG
+mace — Mace | Terrence Coombes | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nutmeg%20ready.jpg
+screwpine — Pandan | Salmiah La Suma | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pandanus%20amaryllifolius%2C%20locally%20known%20as%20'daun%20pandan'%20in%20Indonesia.jpg
+
+[HARD]
+sumac — Sumac | Miansari66 | Public domain | https://commons.wikimedia.org/wiki/File:Sumak%20powder.JPG
+zaatar — Za'atar | Fshadid | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Closeup_image_of_za'atar%2C_a_blend_of_origanum_syriacum_(hyssop%2C_sumac%2C_sesame_seeds_and_salt.jpg
+galangal — Galangal | Liza Daly (ld31337) | Public domain | https://commons.wikimedia.org/wiki/File:Galangal.jpg
+nigella — Nigella | Roger Culos | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Nigella%20sativa%20MHNT.BOT.2015.34.22.jpg
+amchoor — Amchoor | Miansari66 | Public domain | https://commons.wikimedia.org/wiki/File:Dried%20Mango%20Slices.JPG
+ajwain — Ajwain | Mon Œil | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Ajowan.jpg
+annatto — Annatto | Ryan Snyder | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Achiote%20Powder%20Annatto%20Seeds%20(4422836316).jpg
+epazote — Epazote | Forest and Kim Starr | CC BY 3.0 us | https://commons.wikimedia.org/wiki/File:Starr-100503-5784-Dysphania%20ambrosioides-leaves-Kula-Maui%20(24919177662).jpg
+sichuanpepper — Sichuan Pepper | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Poivre%20fond%20blanc.jpg
+kaffirlime — Kaffir Lime Leaf | Fatrabbit | Public domain | https://commons.wikimedia.org/wiki/File:Citrus%20hystrix%20leaf.jpg
+lovage — Lovage | Emilian Robert Vicol from Com. Balanesti, Romania | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Lovage-Flavor-Food%2013078-480x360%20(4905066694).jpg
+hyssop — Hyssop | WayneRay | Public domain | https://commons.wikimedia.org/wiki/File:Agastace%20foeniculum%20WPC.jpg
+borage — Borage | Jengod | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Blue%20borage%20flowers%202526205868%206b35bbac29%20b.jpg
+angelica — Angelica | Agnes Monkelbaan | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Engelwortel%20(Angelica%20archangelica).%20Locatie%2C%20Broeresleat.%20S%C3%BAdwest-Frysl%C3%A2n.%2012-08-2020.%20(actm.)%2002.jpg
+sorrel — Sorrel | ceridwen | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Wild%20sorrel%20(Rumex%20acetosa)%20-%20geograph.org.uk%20-%20915938.jpg
+rue — Rue | Forest and Kim Starr | CC BY 3.0 us | https://commons.wikimedia.org/wiki/File:Starr-120403-4108-Ruta%20graveolens-leaves-Kula-Maui%20(24770751639).jpg
+safflower — Safflower | Unknown | Copyrighted free use | https://commons.wikimedia.org/wiki/File:Safflower.jpg
+grainsofparadise — Grains of Paradise | Lemmikkipuu | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Aframomum%20melegueta.jpg
+longpepper — Long Pepper | yeowatzup | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Souk%20Al%20Milh%2C%20Sana%2C%20Yemen%20(4324865585).jpg
+asafoetida — Asafoetida | Tricholome | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Asafoetida%20resin%20(Iran).jpg
+mahleb — Mahleb | Leslie Seaton | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Mahleb%20Grinder.jpg
+sansho — Sansho | Chameleon (talk · contribs) | Public domain | https://commons.wikimedia.org/wiki/File:%E8%8A%B1%E6%A4%92%20Zanthoxylum.jpg
+urfabiber — Urfa Biber | E4024 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Urfa%20pepper%20isot.jpg
+alepposorpepper — Aleppo Pepper | Badagnani | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Aleppopepper.jpg
+greencardamom — Black Cardamom | CNEcija12345 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Black%20cardamom%20pods.jpg
+
+[IMPOSSIBLE]
+grainsofselim — Grains of Selim | Unknown | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Xylopiaaethiopica.jpg
+tonkabean — Tonka Bean | Mecredis / Fred Benenson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tonka%20Beans.jpg
+wattleseed — Wattleseed | division, CSIRO | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:CSIRO%20ScienceImage%203155%20Roasted%20and%20Ground%20Seeds%20of%20the%20Elegant%20Wattle%20Acacia%20victoriae.jpg
+salep — Salep | Kerbla Edzerdla | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Knabenkraut%20(256621249).jpeg
+kokum — Kokum | Vivo78 | CC0 | https://commons.wikimedia.org/wiki/File:Dried%20Kokum%20rinds%20(dried%20outer%20skin%20of%20the%20Kokum%20fruit)%20used%20in%20Dried%20Baby%20Shrimp%20(Jawla)%20Curry.jpg
+candlenut — Candlenut | Forest and Kim Starr | CC BY 3.0 us | https://commons.wikimedia.org/wiki/File:Starr-070215-4558-Aleurites%20moluccana-green%20nuts-Waihee-Maui%20(24856309396).jpg
+voatsiperifery — Voatsiperifery Pepper | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Piper%20borbonense%20(Wild%20Voatsiperifery%20Pepper)%20Fianarantsoa%20Madagascar.jpg
+andaliman — Andaliman | Jubbuh | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Andaliman.jpg
+mastic — Mastic | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mastic.jpg
+akudjura — Akudjura | Melburnian | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Solanum%20centrale.jpg
+pinkpepper — Pink Peppercorn | Netherzone | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pink%20Peppercorns%20-%20Schinus%20molle.jpg
+grainsofparadiseblack — Alligator Pepper | Shaddiii | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Grains%20of%20paradise%20(Aframomum%20melegueta).jpg
+nagkesar — Nagkesar | Earlysalad | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mesua%20ferrea%20flower.jpg
+kalpasi — Kalpasi | https://cooking.stackexchange.com/users/4257/pll | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Kalpaasi%20black%20stone%20flower.jpg
+anardana — Anardana | Miansari66 | Public domain | https://commons.wikimedia.org/wiki/File:Anardana.JPG
+zedoary — Zedoary | Yercaud-elango | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Curcuma%20zedoaria-4-bsi-yercaud-salem-India.jpg
+quassia — Quassia | Mokkie | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bitter%20wood%20(Quassia%20amara).jpg
+calamus — Calamus | H. Zell | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Acorus%20calamus%20002.JPG
+spikenard — Spikenard | Plantagenet | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nardostachys%20jatamansi%20rosettes%20cultivated%20outdoors%20in%20Yaroslavl%20Oblast.jpg
+orris — Orris Root | Lucien Mahin | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Sousbinne%20souw%C3%A9.jpg
+blacklime — Black Lime (Loomi) | Theinfo | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Loomi%20at%20market%20in%20Bahrain.JPG
+fingerroot — Fingerroot | Kembangraps | Public domain | https://commons.wikimedia.org/wiki/File:Temu%20kunci.png
+winteredsavory — Culantro | Mokkie | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Culantro%20(Eryngium%20foetidum)%207.jpg
+hoja — Hoja Santa | Crista Castellanos | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cacao%20criollo%20hoja%20detalle%20colombia%20slowfod%20guajira%20crista%20castellanos.jpg
+boldo — Boldo | Dick Culbert from Gibsons, B.C., Canada | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Peumus%20boldus%2C%20fruit%20(8655729366).jpg

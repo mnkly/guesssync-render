@@ -1,0 +1,106 @@
+GuessSync E63 - "Guess the Cactus or Succulent" - Image Attributions
+100 real cactus & succulent photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. Files under CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that requirement.
+Generated 2026-07-11. Format:  slug | name | author | license | source
+==========================================================================================
+saguaro|Saguaro|Tomascastelazo|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Carnegiea_gigantea_or_Sahuaro_or_Saguaro.jpg
+pricklypear|Prickly Pear|Nabunje Leticia|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Spiny_Prickly_Pear_Cactus.jpg
+aloevera|Aloe Vera|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Aloe_vera_Lanzarote.jpg
+barrelcactus|Barrel Cactus|John Owens (talk)|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Ferocactus_wislizeni_(Fishhook_Barrel_Cactus)_fruit.jpg
+christmascactus|Christmas Cactus|Agnes Monkelbaan|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Schlumbergera_(actm)_01.jpg
+jadeplant|Jade Plant|W.carter|CC0|https://commons.wikimedia.org/wiki/File:Among_the_branches_of_a_potted_jade_plant.jpg
+agave|Agave|Jim Evans|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Variegated_Century_Plant_--_Agave_americana_%27Marginata%27.jpg
+echeveria|Echeveria|Diego Delso|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Rosa_de_alabastro_(Echeveria_elegans),_jard%C3%ADn_del_molino,_Sierra_de_San_Felipe,_Set%C3%BAbal,_Portugal,_2012-05-11,_DD_01.JPG
+snakeplant|Snake Plant|Vivekkhushrang|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Dracaena_trifasciata_the_snake_plant_flower.jpg
+goldenbarrel|Golden Barrel Cactus|Diego Delso|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Asiento_de_suegra_(Echinocactus_grusonii),_Jard%C3%ADn_Bot%C3%A1nico,_M%C3%BAnich,_Alemania,_2013-09-08,_DD_02.JPG
+bunnyear|Bunny Ear Cactus|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Opuntia_microdasys_var_angelwings.jpg
+oldmancactus|Old Man Cactus|Rhododendrites|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cephalocereus_senilis_(70349).jpg
+cholla|Cholla|Brocken Inaglory|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Echinocereus_engelmannii_and_Cylindropuntia_bigelovii_at_Joshua_Tree_NP.jpg
+organpipe|Organ Pipe Cactus|Tomas Castelazo|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Glandulicereus_thurberi_sonora.jpg
+sanpedro|San Pedro Cactus|2User:Photohound derivative work: Succu (talk)|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Echinopsis-pachanoi-habit_cropped.jpg
+hensandchicks|Hens and Chicks|Paul Harrison|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Hens_and_Chicks_Sempervivum_tectorum_UBC_Gardens_1.jpg
+zebrahaworthia|Zebra Haworthia|Mokkie|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Zebra_Plant_%27Big_Band%27_(Haworthia_attenuata_%27Big_Band%27).jpg
+stringofpearls|String of Pearls|NasserHalaweh|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Asteraceae_Curio_rowleyanus_1.jpg
+aeonium|Aeonium|Yercaud-elango|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Aeonium_arboreum-yercaud-salem-India.JPG
+kalanchoe|Kalanchoe|Carol VanHook|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:29_100_Pink_Bouquet_..._Kalanchoe_blossfeldiana_%27Kerinci%27_(49847010852).jpg
+pincushioncactus|Pincushion Cactus|Rationalobserver|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mammillaria_spinosissima_by_RO.jpg
+burrostail|Burro's Tail|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(MHNT)_Sedum_morganianum.jpg
+pandaplant|Panda Plant|fabooj|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Kalanchoe_tomentosa_Panda_Plant_(fabooj).jpg
+crownofthorns|Crown of Thorns|Vengolis|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Euphorbia_milii_2915.jpg
+mooncactus|Moon Cactus|Timothy A. Gonsalves|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Top_Chin_Cactus_Ooty_Jun25_A7CR_05768-856_zsp.jpg
+gasteria|Gasteria|Daderot|Public domain|https://commons.wikimedia.org/wiki/File:Matthaei_Botanical_Gardens_-_IMG_8970.JPG
+beavertail|Beavertail Cactus|Bernard Gagnon|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Beavertail_Cactus.jpg
+pencilcactus|Pencil Cactus|Salil Kumar Mukherjee|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pencil_Cactus_(Euphorbia_tirucalli).jpg
+desertrose|Desert Rose|This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Double_Petal_Flower_Side_Front_Adenium_Obesum_Graft_Apr22_D72_23135-151_ZS_Pr.jpg
+stringofhearts|String of Hearts|Forest and Kim Starr|CC BY 3.0 us|https://commons.wikimedia.org/wiki/File:Starr-110218-1576-Ceropegia_woodii-leaves-Ulana_St_Makawao-Maui_(24780926810).jpg
+stringofbananas|String of Bananas|Laredawg|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Flower_of_String_of_Bananas_Succulent.jpg
+ghostplant|Ghost Plant|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(MHNT)_Graptopetalum_paraguayense_-_leaves.jpg
+flapjack|Flapjack Plant|Leonora Enking from West Sussex, England|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Kalanchoe_thyrsiflora_(K._tetraphylla)_(14019895008).jpg
+mexicanfencepost|Mexican Fence Post Cactus|Photo by David J. Stang|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pachycereus_marginatus_3zz.jpg
+torchcactus|Torch Cactus|el cajon yacht club|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Golden_Torch_Cactus_flower_bud.jpg
+rattailcactus|Rat Tail Cactus|阿橋 HQ|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BA%BA%E6%8E%8C-%E9%BC%A0%E5%B0%BE%E6%8E%8C_Disocactus_flagelliformis_-%E4%B8%8A%E6%B5%B7%E8%BE%B0%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_Shanghai_Chenshan_Botanical_Garden-_(17133750539).jpg
+queenofthenight|Queen of the Night|Gon ksg|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Epiphyllum_Oxypetalum_(Queen_of_the_night)_JPN1.jpg
+eastercactus|Easter Cactus|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:Hatiora_gaertneri.jpg
+mistletoecactus|Mistletoe Cactus|Dick Culbert from Gibsons, B.C., Canada|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Rhipsalis_baccifera,_the_Mistletoe_Cactus_(9328589901).jpg
+dragonfruit|Dragon Fruit Cactus|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Hylocereus_undatus_004.JPG
+claretcup|Claret Cup Cactus|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Echinocereus_triglochidiatus_(claret-cup_cactus)_2_(23781094070).jpg
+hedgehogcactus|Hedgehog Cactus|Jarek Tuszyński|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Joshua_Tree_National_Park_-_Hedgehog_Cactus_(Echinocereus_engelmannii)_-_05.JPG
+totempole|Totem Pole Cactus|Cody Hough|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Totem_Pole_Cactus.JPG
+blueagave|Blue Agave|Tomascastelazo|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Agave_field_in_Jalisco,_Mexico.jpg
+foxtailagave|Foxtail Agave|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Agave_attenuata_001.JPG
+tigerjaws|Tiger Jaws|John Rusk from Berkeley, CA, United States of America|CC BY 2.0|https://commons.wikimedia.org/wiki/File:J20171015-0006%E2%80%94Faucaria_tigrina%E2%80%94DxO_(37733101116).jpg
+moonstones|Moonstones|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(MHNT)_Pachyphytum_oviferum_-_Habitus.jpg
+bearpaw|Bear Paw Succulent|Anne Jea.|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cotyledon_tomentosa_(small)_01.jpg
+elephantbush|Elephant Bush|Claire H. from New York City, USA|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Portulacaria_afra_2.jpg
+pigsear|Pig's Ear|el cajon yacht club|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Cotyledon_orbiculata_pig%27s_ear_succulent_flower_buds.jpg
+bishopscap|Bishop's Cap Cactus|Diego Delso|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Astrophytum_myriostigma,_Jard%C3%ADn_Bot%C3%A1nico_de_M%C3%BAnich,_Alemania,_2013-01-27,_DD_01.JPG
+sanddollar|Sand Dollar Cactus|Dave Whitinger|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Silver_Dollar_Cactus,_Texas_Star_Cactus,_Sand_Dollar_Cactus,_Sea_Urchin_Cactus_(Astrophytum_asterias).jpg
+braincactus|Brain Cactus|Photo by David J. Stang|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mammillaria_elongata_Cristata_0zz.jpg
+peanutcactus|Peanut Cactus|Le.Loup.Gris|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Echinopsis_chamaecereus_in_bloom.jpg
+ladyfinger|Lady Finger Cactus|Cliff from Arlington, Virginia, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Lady_Finger_Cactus_(Mammillaria_elongata)_(3104102828)_(2).jpg
+powderpuff|Powder Puff Cactus|Rhododendrites|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mammillaria_bocasana_var._multilanata_(70378).jpg
+feathercactus|Feather Cactus|Peter A. Mansfeld|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Mammillaria_plumosa_pm.jpg
+silvertorch|Silver Torch Cactus|Michael Gäbler|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Cleistocactus_strausii_(Heese)_Backeb.jpg
+monkeytail|Monkey Tail Cactus|Dornenwolf from Deutschland|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Cleistocactus_colademononis_(4974876280).jpg
+fairycastle|Fairy Castle Cactus|Yercaud-elango|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Acanthocereus_tetragonus_Cv.Fairy_Castle-2-R.M.Nagar-bengaluru-India.jpg
+bluetorch|Blue Torch Cactus|Cactus Island Nursery|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pilosocereus_pachycladus_with_buds_forming.jpg
+crestedeuphorbia|Crested Euphorbia|Photo by David J. Stang|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Euphorbia_lactea_Cristata_2zz.jpg
+africanmilktree|African Milk Tree|EvanBaldonado|CC BY 4.0|https://commons.wikimedia.org/wiki/File:African_milk_tree_(Euphorbia_trigona).jpg
+medusahead|Medusa's Head Euphorbia|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Euphorbia_caput-medusae_01.JPG
+tigeraloe|Tiger Aloe|Karelj|Public domain|https://commons.wikimedia.org/wiki/File:Aloe_variegata_2.jpg
+spiralaloe|Spiral Aloe|LavaLampBamboo|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Aloe_polyphylla_spiral_aloe_Kew_Gardens.jpg
+treealoe|Tree Aloe|NasserHalaweh|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Asphodelaceae_Aloidendron_barberae_2.jpg
+torchaloe|Torch Aloe|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Aloe_arborescens_01.JPG
+propellerplant|Propeller Plant|Mokkie|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Propeller_Plant_(Crassula_falcata).jpg
+watchchain|Watch Chain Crassula|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(MHNT)_Crassula_muscosa_-_Serres_du_Museum_de_Toulouse.jpg
+babynecklace|Baby's Necklace|cultivar413|CC BY 2.0|https://commons.wikimedia.org/wiki/File:201016_085_San_Diego_Botanic_Gdn_-_Undersea_Succulent_Garden,_Crassula_perforata_String_of_Buttons.jpg
+calicokitten|Calico Kitten|Krzysztof Ziarnek, Kenraiz|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Crassula_pellucida_kz03.jpg
+rubynecklace|Ruby Necklace|Yercaud-elango|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Othonna_capensis_-2-selvapuram-coimbatore-Indi.jpg
+splitrock|Split Rock|Hectonichus|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Aizoaceae_-_Pleiospilos_nelii.JPG
+crinkleleaf|Crinkle Leaf Plant|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(MHNT)_Adromischus_cristatus.jpg
+lithops|Lithops|This image is a work by Wikipedia and Wikimedia Commons user Jarosław Kruk (Jrkruk). When reusing, please credit me as author: Jarosław Roland Kruk / Wikipedia, licence: CC-BY-SA-3.0 If you use my image on your website, please send me an email with webpage adress. If you use my image in your book, please send me one copy to my home adres, which I will provide by email. Contact me at: jaroslaw.kruko2.pl More of my work can be found in my personal gallery. pl en +/− pl en +/−|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:JKRUK_20180524_PALMIARNIA_GLIWICE_LITOPS_DSC_3560.jpg
+baseballplant|Baseball Plant|Dick Culbert from Gibsons, B.C., Canada|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Euphorbia_obesa--_the_Baseball_Plant_(26661162145).jpg
+peyote|Peyote|YubKooka|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lophophora_williamsii_Peyote.jpg
+livingrock|Living Rock Cactus|C T Johansson|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Ariocarpus_fissuratus-IMG_4228.jpg
+stringofdolphins|String of Dolphins|Meganesia|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dolphinplant.jpg
+babytoes|Baby Toes|Krzysztof Ziarnek, Kenraiz|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Fenestraria_rhopalophylla_subsp._aurantiaca_kz01.jpg
+conophytum|Conophytum|Gregory "Slobirdr" Smith|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Conophytum_flavum.jpg
+titanopsis|Titanopsis|photographed by Ivan I. Boldyrev|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Titanopsis_calcarea_1_IB.jpg
+dinteranthus|Dinteranthus|Anatoly Mikhaltsov|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dinteranthus_microspermus.jpg
+avonia|Avonia|Abu Shawka|CC0|https://commons.wikimedia.org/wiki/File:Avonia_papyracea_-_goose_turds_plant.jpg
+gorgonshead|Gorgon's Head Euphorbia|Jean-Jacques MILAN|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Euphorbia_flanaganii_1.jpg
+corncobcactus|Corncob Cactus|Daderot|Public domain|https://commons.wikimedia.org/wiki/File:Euphorbia_mammillaris_-_Gaiser_Conservatory_(Manito_Park)_-_IMG_7010.JPG
+blossfeldia|Blossfeldia|Salicyna|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Blossfeldia_liliputana_2016-04-28_9021b.jpg
+discocactus|Discocactus|PierreBraun|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Discocactus_horstii_Buin._%26_Bred.jpg
+turbinicarpus|Turbinicarpus|Dornenwolf from Deutschland|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Turbinicarpus_roseiflorus_(6985907948).jpg
+strombocactus|Strombocactus|Peter A. Mansfeld|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Strombocactus_disciformis_disciformis_pm.JPG
+aztekium|Aztekium|Bkealer|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Aztekium-ritteri-morphology.jpg
+leuchtenbergia|Agave Cactus|Photo by David J. Stang|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Leuchtenbergia_principis_0zz.jpg
+copiapoa|Copiapoa|Yastay|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Copiapoa_dealbaa_Desierto_florido_2011_Carrizal_Bajo_03.jpg
+obregonia|Artichoke Cactus|Michael Wolf|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Obregonia_denegrii.jpg
+pelecyphora|Hatchet Cactus|Michael Wolf|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Pelecyphora_aselliformis_20020511.jpg
+frailea|Frailea|Christer Johansson|CC BY-SA 2.5|https://commons.wikimedia.org/wiki/File:Frailea_pumila1000.jpg
+euphorbiahorrida|African Milk Barrel|Cliff from Arlington, Virginia, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:African_Milk-Barrel_(Euphorbia_horrida)_(3103259217).jpg
+anacampseros|Anacampseros|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(MHNT)_Anacampseros_rufescens_%27sunris%27.jpg
+tylecodon|Butter Tree|Marco Schmidt[1]|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Tylecodon_paniculatum_MS_9570.jpg

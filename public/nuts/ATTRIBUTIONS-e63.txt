@@ -1,0 +1,114 @@
+GuessSync E63 — «Guess the Nut or Seed» — Image Attributions
+100 real nut / seed / legume photos sourced from Wikimedia Commons / Wikipedia.
+Images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that.
+Format: slug — Name | Author | License | Source
+===========================================================================
+
+[EASY]
+almond — Almond | Ivar Leidus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Almonds%20-%20in%20shell%2C%20shell%20cracked%20open%2C%20shelled%2C%20blanched.jpg
+walnut — Walnut | Potkettle | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Whole%20walnut%20kernel%20and%20shell.jpg
+peanut — Peanut | Ivar Leidus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Peanuts%20(Arachis%20hypogaea)%20-%20in%20shell%2C%20shell%20cracked%20open%2C%20shelled%2C%20peeled.jpg
+cashew — Cashew | Ranjithkumar Murugesan | CC0 | https://commons.wikimedia.org/wiki/File:CASHEW%20NUTS.jpg
+pistachio — Pistachio | Hedi Aghlara | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Kernel%20Pistachio.JPG
+hazelnut — Hazelnut | William Ismael | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Hazelnuts%20without%20shell.jpg
+pecan — Pecan | Scott Bauer | Public domain | https://commons.wikimedia.org/wiki/File:Pecans.jpg
+sunflowerseed — Sunflower Seed | Kritzolina | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sunflower%20with%20seeds%2002.jpg
+pumpkinseed — Pumpkin Seed | Daniel Schwen | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Pumpkin%20Seeds%20macro%201.jpg
+chestnut — Chestnut | Dominicus Johannes Bergsma | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Afgevallen%20kastanje%20van%20een%20Tamme%20kastanje%20(Castanea%20sativa)%2017-10-2021%20(d.j.b.)%2001.jpg
+coconut — Coconut | Ivar Leidus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Coconuts%20-%20single%20and%20cracked%20open.jpg
+pinenut — Pine Nut | Quadell | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pine%20nuts.jpg
+macadamia — Macadamia | စာကလေး SarKaLay | CC0 | https://commons.wikimedia.org/wiki/File:Macadamia%20nuts.jpg
+brazilnut — Brazil Nut | רנדום | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bertholletia%20excelsa%20seeds%20closeup.jpg
+chiaseed — Chia Seed | Magister Mathematicae | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Semillas%20de%20Ch%C3%ADa.jpg
+flaxseed — Flax Seed | Bdevel (talk · contribs) | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Flax%20seeds.jpg
+sesameseed — Sesame Seed | Sanjay ach | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Sa%20white%20sesame%20seeds.jpg
+lentil — Lentil | User:Justinc | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:3%20types%20of%20lentil.jpg
+chickpea — Chickpea | Danielrosehill | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Dried%20chickpeas%20for%20sale%20-%20market%20in%20Israel.jpg
+kidneybean — Kidney Bean | Bean appreciator | CC0 | https://commons.wikimedia.org/wiki/File:Red%20kidney%20beans%202024-11-27.jpg
+soybean — Soybean | Unknown | Public domain | https://commons.wikimedia.org/wiki/File:Soybean.USDA.jpg
+blackbean — Black Bean | Sanjay Acharya | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Black%20Turtle%20Bean.jpg
+greenpea — Green Pea | Jorge Royan | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:India%20-%20Varanasi%20green%20peas%20-%202714.jpg
+pomegranateseed — Pomegranate Seed | Ivar Leidus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pomegranate%20arils.jpg
+poppyseed — Poppy Seed | Odedr | Public domain | https://commons.wikimedia.org/wiki/File:Poppy%20seeds.jpg
+
+[MEDIUM]
+pintobean — Pinto Bean | Sanjay Acharya | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pinto%20Beans%20Seeds.jpg
+navybean — Navy Bean | Rasbak | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Phaseolus%20vulgaris%20white%20beans%2C%20witte%20boon.jpg
+limabean — Lima Bean | Filo gèn' | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Phaseolus%20lunatus%20(Seeds).jpg
+blackeyedpea — Black-eyed Pea | Toby Hudson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:BlackEyedPeas.JPG
+cannellinibean — Cannellini Bean | Valereee | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Dried%20sorana%20beans.jpg
+mungbean — Mung Bean | Sanjay Acharya | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Green%20Mung%20Beans.jpg
+favabean — Fava Bean | Miansari66 | CC0 | https://commons.wikimedia.org/wiki/File:Fava%20Beans%20Dried.JPG
+edamame — Edamame | HaJunkiyada | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Liat%20Portal%20for%20Foodie%20Disorder%20-%20Edamame%20with%20Walnuts.jpg
+splitpea — Split Pea | Liji Jinaraj from San Francisco, USA | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Split%20peas%20(3145708237).jpg
+hempseed — Hemp Seed | MPart4 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hemp%20seeds%20protein.jpg
+quinoa — Quinoa | Roger Culos | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chenopodium%20quinoa%20-red%20faro-%20MHNT.BOT.2007.43.66.jpg
+buckwheat — Buckwheat | Andrey Korzun | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Buckwheat%20and%20products%20from%20it%2001.jpg
+cacaobean — Cacao Bean | Roger Culos | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Theobroma%20cacao%20MHNT.BOT.2004.0.204.jpg
+coffeebean — Coffee Bean | MarkSweep | Public domain | https://commons.wikimedia.org/wiki/File:Roasted%20coffee%20beans.jpg
+adzukibean — Adzuki Bean | Sanjay Acharya | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Azuki%20Beans.jpg
+cranberrybean — Cranberry Bean | Tiia Monto | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Rosecoco%20beans.jpg
+waterchestnut — Water Chestnut | FacetsOfNonStickPans | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Water%20chestnut%20roasted%202022.jpg
+amaranth — Amaranth | Jacopo Werther | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Amaranth%20grain.jpg
+millet — Millet | Sengai Podhuvan | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Food%20grain%20pearl%20millet%201.jpg
+watermelonseed — Watermelon Seed | Salil Kumar Mukherjee | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Watermelon%20Seeds.jpg
+acorn — Acorn | Ivar Leidus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Quercus%20robur%20acorn%20-%20Keila.jpg
+greatnorthernbean — Great Northern Bean | Roger Culos | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Phaseolus%20vulgaris%20MHNT.BOT.2016.24.73.jpg
+blackwalnut — Black Walnut | Leslie Seaton from Seattle, WA, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Black%20Walnut%20Fruit%20(5177983492).jpg
+butternut — Butternut | Nekrasov.ig | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Juglans%20cinerea%20006%20Nekrasov.jpg
+sorghum — Sorghum | Salil Kumar Mukherjee | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:A%20plate%20of%20sorghum%20grain.jpg
+
+[HARD]
+pilinut — Pili Nut | Lance Catedral from Quezon City, Metro Manila, Philippines | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Pili%20nut%20(Canarium%20ovatum).jpg
+beechnut — Beechnut | Dominicus Johannes Bergsma | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Opengebarsten%20vrucht%20van%20beuk%20(Fagus%20sylvatica)%20(d.j.b.)%2002.jpg
+chinquapin — Chinquapin | Summit Metro Parks | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Castanea%20pumila%20leaves%20and%20seeds.jpg
+hickorynut — Hickory Nut | Adam S. Keck | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hickory%20nuts%20in%20afternoon%20light%202022.jpg
+gevuina — Gevuina | Dick Culbert from Gibsons, B.C., Canada | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Gevuina%20avellana%20(8674344356).jpg
+bambaragroundnut — Bambara Groundnut | Crop Trust | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Traditional%20deshelling%20of%20Bambara%20groundnut%2C%20Singida%2C%20Tanzania.jpg
+wingedbean — Winged Bean | David E Mead | CC0 | https://commons.wikimedia.org/wiki/File:Winged%20bean%20pods.jpg
+lupinibean — Lupini Bean | Dedda71 | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Carrube%20e%20lupini.jpg
+ricebean — Rice Bean | Samuel Wong | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:%E8%B5%A4%E5%B0%8F%E8%B1%86.jpg
+mothbean — Moth Bean | Lalitstar at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Matki.JPG
+teparybean — Tepary Bean | Tracey Slotta | Public domain | https://commons.wikimedia.org/wiki/File:Phaseolusacutifolius.jpg
+hyacinthbean — Hyacinth Bean | Forest and Kim Starr | CC BY 3.0 us | https://commons.wikimedia.org/wiki/File:Starr-121108-0713-Lablab%20purpureus-seeds-Pali%20o%20Waipio-Maui%20(24569152723).jpg
+jackbean — Jack Bean | Roger Culos | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Canavalia%20ensiformis%20MHNT.BOT.2013.22.55.jpg
+yardlongbean — Yardlong Bean | David | Public domain | https://commons.wikimedia.org/wiki/File:Long%20Bean.JPG
+maramabean — Marama Bean | NoodleToo (talk) | Public domain | https://commons.wikimedia.org/wiki/File:Tylosema%20esculenta%20seed%20in%20pod.PNG
+guarbean — Guar Bean | Ton Rulkens from Mozambique | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Guar%20seeds%20(7856427394).jpg
+carob — Carob | muffinn from Worcester, UK | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Fuseta%20-%20carob%20pods%20(13401253445).jpg
+jobstears — Job's Tears | Lionel Allorge | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Seeds%20of%20Coix%20lacryma-jobi.jpg
+perillaseed — Perilla Seed | ally j | CC0 | https://commons.wikimedia.org/wiki/File:Perilla%20seeds.jpg
+nigerseed — Niger Seed | Gaurav Dhwaj Khadka | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Niger%20Seed.jpg
+safflowerseed — Safflower Seed | Roger Culos | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Carthamus%20tinctorius%20MHNT.BOT.2011.3.34.jpg
+camelinaseed — Camelina Seed | Marie PORTAS | CC BY-SA 2.0 fr | https://commons.wikimedia.org/wiki/File:Camelina%20sativa%20fruit%20seed%20(1).jpg
+cottonseed — Cottonseed | Vikas Suroshe | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Seeds%20of%20cotton.jpg
+grasspea — Grass Pea | Quaaludes | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lathyrus%20sativus%20seeds.JPG
+bittervetch — Bitter Vetch | Tracey Slotta, USDA-NRCS PLANTS Database | Public domain | https://commons.wikimedia.org/wiki/File:Vier81%20001%20php.jpg
+
+[IMPOSSIBLE]
+tigernut — Tiger Nut | Adimora chidinma | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tiger%20nuts%201.jpg
+kolanut — Kola Nut | Benoît Prieur | CC0 | https://commons.wikimedia.org/wiki/File:Grand%20Frais%20(Beynost)%20noix%20de%20cola%20de%20C%C3%B4te%20d'Ivoire%20(ao%C3%BBt%202023).jpg
+ginkgonut — Ginkgo Nut | Fumikas Sagisavas | CC0 | https://commons.wikimedia.org/wiki/File:Peeled%20ginkgo%20nuts.jpg
+barunut — Baru Nut | Marciana Lopes | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Castanha%20de%20Baru.jpg
+sachainchi — Sacha Inchi | Michael Hermann | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Plukenetia%20volubilis%20(Sacha%20Inchi)%20Euphorbiaceae%20Peru.png
+candlenut — Candlenut | Andri Kesenja 01 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Kemiri%20atau%20damo.jpg
+breadnut — Breadnut | Janhendrix | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Brosimum%20alicastrum%20Fruit%20OpenwithSeed%20MeridaMX.jpg
+marula — Marula | Martin Hipangwa | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sun%20drying%20Marula%20nuts%20in%20Ohangwena%20constituency.jpg
+mongongonut — Mongongo Nut | Roger Culos | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Schinziophyton%20rautanenii%20MHNT.BOT.2025.25.31.jpg
+paradisenut — Paradise Nut | Alex Popovkin, Bahia, Brazil from Brazil (top left), Nando cunha (bottom left), Alex Popovkin, Bahia, Brazil from Brazil (right), montage by RoRo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Lecythis_fruit_compose.jpg
+souarinut — Souari Nut | Unknown | Public domain | https://commons.wikimedia.org/wiki/File:Caryocar%20nuciferum%20-%20Lemaire.JPG
+watercaltrop — Water Caltrop | Okapi at German Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Trapa%20natans%20nut.jpg
+ogbono — Ogbono | GodwinPaya | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ogbono%20seeds.jpg
+karuka — Karuka | LISYE IRIANA ZEBUA Departement of Biology, Faculty of Mathematic and Natural Science, Cenderawasih University, Kampus Baru, UNCEN, Waena, Jayapura, Papua VITA PURNAMASARI Departement of Biology, Faculty of Mathematic and Natural Science, Cenderawasih University, Kampus Baru, UNCEN, Waena, Jayapura, Papua | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Pandanus%20julianettii%20nuts.png
+yehebnut — Yeheb Nut | Hooker, W.J., Hooker, J.D., Icones Plantarum [Hooker’s] Icones plantarum], vol. 29: t. 2839 (1907) [M. Smith] | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:435951bd4f95c55ce7bfcb5617e0752e41ac8992%20271px.jpg
+malabarchestnut — Malabar Chestnut | Honmingjun | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Pachira%20aquatica%20Seed.jpg
+jackfruitseed — Jackfruit Seed | Gharouni | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Jackfruit%20seeds.jpg
+lotusseed — Lotus Seed | Basile Morin | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Lotus%20fruit%20seeds.jpg
+foxnut — Foxnut | FacetsOfNonStickPans | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Foxnut%20Makhana%20-%20Nawada%20District%20-%20Bihar%20-%201.jpg
+detarium — Detarium | Roger Culos | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Detarium%20senegalense%20MHNT.BOT.2016.24.69.jpg
+velvetbean — Velvet Bean | Tracey Slotta @ USDA-NRCS PLANTS Database | Public domain | https://commons.wikimedia.org/wiki/File:Mucuna-pruriens-seeds.jpg
+africanlocustbean — African Locust Bean | Achiri Bitamsimli | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Dawadawa%20seeds.jpg
+swordbean — Sword Bean | KENPEI | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Canavalia_gladiata2.jpg
+gacseed — Gac Seed | Omar hoftun | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Momordica%20cochinchinensis%20seeds%2C%20by%20Omar%20Hoftun.jpg
+coquitonut — Coquito Nut | Karelj | Public domain | https://commons.wikimedia.org/wiki/File:Jubaea%20chilensis%20seeds.jpg
