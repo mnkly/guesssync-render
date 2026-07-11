@@ -1,6 +1,6 @@
 // «Guess the Nut or Seed» — GuessSync · E63 · 100 items (25/tier) · real photos from Wikimedia Commons
 // Nuts + edible seeds + legumes. Difficulty = global name recognition:
-// easy (Almond/Peanut) ← impossible (Yeheb Nut/Mongongo/Gac Seed). NEW topic, distinct from E62 herbs/spices.
+// easy (Almond/Peanut) ← impossible (Argan Nut/Mongongo/Gac Seed). NEW topic, distinct from E62 herbs/spices.
 export const NUTS = [
   // EASY (25) — household-name nuts, seeds & legumes
   { slug: "almond", name: "Almond", level: "easy" },
@@ -91,11 +91,11 @@ export const NUTS = [
   { slug: "marula", name: "Marula", level: "impossible" },
   { slug: "mongongonut", name: "Mongongo Nut", level: "impossible" },
   { slug: "paradisenut", name: "Paradise Nut", level: "impossible" },
-  { slug: "souarinut", name: "Souari Nut", level: "impossible" },
+  { slug: "sheanut", name: "Shea Nut", level: "impossible" },
   { slug: "watercaltrop", name: "Water Caltrop", level: "impossible" },
   { slug: "ogbono", name: "Ogbono", level: "impossible" },
   { slug: "karuka", name: "Karuka", level: "impossible" },
-  { slug: "yehebnut", name: "Yeheb Nut", level: "impossible" },
+  { slug: "argannut", name: "Argan Nut", level: "impossible" },
   { slug: "malabarchestnut", name: "Malabar Chestnut", level: "impossible" },
   { slug: "jackfruitseed", name: "Jackfruit Seed", level: "impossible" },
   { slug: "lotusseed", name: "Lotus Seed", level: "impossible" },

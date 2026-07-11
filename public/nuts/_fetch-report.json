@@ -1105,17 +1105,17 @@
     "source": "https://commons.wikimedia.org/wiki/File:Lecythis_fruit_compose.jpg"
   },
   {
-    "slug": "souarinut",
-    "name": "Souari Nut",
+    "slug": "sheanut",
+    "name": "Shea Nut",
     "level": "impossible",
     "ok": true,
-    "bytes": 47125,
-    "w": 401,
-    "h": 550,
-    "file": "Caryocar nuciferum - Lemaire.JPG",
-    "author": "Unknown",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Caryocar%20nuciferum%20-%20Lemaire.JPG"
+    "bytes": 392420,
+    "w": 1400,
+    "h": 933,
+    "file": "Shea Nuts Drying Under the Sun.jpg",
+    "author": "Suglo20",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shea%20Nuts%20Drying%20Under%20the%20Sun.jpg"
   },
   {
     "slug": "watercaltrop",
@@ -1157,17 +1157,17 @@
     "source": "https://commons.wikimedia.org/wiki/File:Pandanus%20julianettii%20nuts.png"
   },
   {
-    "slug": "yehebnut",
-    "name": "Yeheb Nut",
+    "slug": "argannut",
+    "name": "Argan Nut",
     "level": "impossible",
     "ok": true,
-    "bytes": 24362,
-    "w": 271,
-    "h": 400,
-    "file": "435951bd4f95c55ce7bfcb5617e0752e41ac8992 271px.jpg",
-    "author": "Hooker, W.J., Hooker, J.D., Icones Plantarum [Hooker’s] Icones plantarum], vol. 29: t. 2839 (1907) [M. Smith]",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:435951bd4f95c55ce7bfcb5617e0752e41ac8992%20271px.jpg"
+    "bytes": 441966,
+    "w": 1400,
+    "h": 1050,
+    "file": "Argan seeds.jpg",
+    "author": "Pixabay",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Argan%20seeds.jpg"
   },
   {
     "slug": "malabarchestnut",

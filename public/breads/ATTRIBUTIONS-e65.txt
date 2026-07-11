@@ -1,6 +1,106 @@
-baguette|Baguette|Mila Atkovska|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%BE_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%80%D0%B0%D0%BD_%D0%B0%D1%98%D0%B2%D0%B0%D1%80.jpg
+GuessSync E65 - "Guess the Bread" - Image Attributions
+100 real bread photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. Files under CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that requirement.
+Generated 2026-07-11. Format:  slug | name | author | license | source
+==========================================================================================
+baguette|Baguette|jules / stonesoup|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Baguettes_-_stonesoup.jpg
 ciabatta|Ciabatta|Vincent Talleu|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Ciabatta_cut.JPG
 sourdough|Sourdough|Shisma|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Herculaneum_loaf_2.jpg
 pita|Pita|Satdeep Gill|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Homemade_hummus_and_pita_03.jpg
 naan|Naan|Ravi Dwivedi|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Naan_baked_in_Tandoor.jpg
 bagel|Bagel|Willis Lam|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Plain_Bagel_from_Noah%27s_Bagel_(15652697666).jpg
+pretzel|Pretzel|Sundar1|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:BrezelnSalz02_(cropped).JPG
+focaccia|Focaccia|Kurtkaiser|CC0|https://commons.wikimedia.org/wiki/File:Focaccia_Bread_2.jpg
+brioche|Brioche|Opsylac|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Brioche_tress%C3%A9e.jpg
+ryebread|Rye Bread|Dirk Schneider (ds-foto)|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Roggenbrot-Laib_Loaf-rye-bread.JPG
+cornbread|Cornbread|Sherurcij at English Wikipedia|Attribution|https://commons.wikimedia.org/wiki/File:Skillet_cornbread_1.jpg
+tortilla|Tortilla|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:NCI_flour_tortillas.jpg
+whiteloaf|White Loaf|ElinorD|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:White_bread.jpg
+croissant|Croissant|DromoTetteh|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:PLAIN_CROISSANT.jpg
+flatbread|Flatbread|Shisma|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Flatbread_on_counter.jpg
+roti|Roti|Ralbahitha|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Roti,_the_flat_bread.jpg
+dinnerroll|Dinner Roll|hawaiianfoodrecipe|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Hawaiian_sweet_bread_rolls.jpg
+wholewheat|Whole Wheat Bread|Veganbaking.net|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Vegan_no-knead_whole_wheat_bread_loaf,_sliced,_September_2010.jpg
+garlicbread|Garlic Bread|Infrogmation|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Garlic_bread_baguettes_2.jpg
+breadstick|Breadstick|Sander van der Wel from Netherlands|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Soepstengels_(3871017999).jpg
+englishmuffin|English Muffin|Maproom|CC0|https://commons.wikimedia.org/wiki/File:Tesco_muffins.jpg
+burgerbun|Burger Bun|Ewan Munro from London, UK|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Hamburger_-_Patty_and_Bun,_London.jpg
+multigrain|Multigrain Bread|Eviatar Bach|CC0|https://commons.wikimedia.org/wiki/File:Yudane_bread.JPG
+crumpet|Crumpet|Andy Li|CC0|https://commons.wikimedia.org/wiki/File:Giant_cheese_rarebit_crumpet_-_M%26S_Caf%C3%A9_2023-12-28.jpg
+matzo|Matzo|Yoninah|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Shmura_Matzo.jpg
+bao|Bao Bun|J. Samuel Burner|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Nangua_Baozi_(chinese_dumplings).jpg
+paindecampagne|Pain de Campagne|Zantastik|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Boule_de_campagne_01.jpg
+sodabread|Soda Bread|Jim Lukach|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Irish_soda_bread_(25292114472).jpg
+fougasse|Fougasse|https://www.flickr.com/photos/70253321@N00/|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Fougasse_1.jpg
+kaiserroll|Kaiser Roll|Haeferl|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Kaisersemmeln.jpg
+boule|Boule|Lehightrails|CC0|https://commons.wikimedia.org/wiki/File:French_Boule_Bread.jpg
+chapati|Chapati|The original uploader was Christian Köhler at German Wikipedia.|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Chapati.jpg
+paratha|Paratha|No machine-readable author provided. Onef9day assumed (based on copyright claims).|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Aloo_Paratha_North_Indian.jpg
+puri|Puri|Nivedita Walunj|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Fried_Indian_Bread_-_Puri.jpg
+grissini|Grissini|kochtopf|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Grissini.jpg
+simit|Simit|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Simit-2x.JPG
+pide|Pide|Caroline Ford|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Turkish_pide_bread_from_london.jpg
+roticanai|Roti Canai|AssFeder|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Making_Roti_Canai.jpg
+arepa|Arepa|Carneird|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Arepas.jpg
+pupusa|Pupusa|Ll1324|CC0|https://commons.wikimedia.org/wiki/File:Pupusas_olocuilta_el_salvador_2012.jpg
+bolillo|Bolillo|Koffermejia|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bolillo_en_la_mesa.jpg
+shokupan|Milk Bread|Joy|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Braided_Hokkaido_milk_bread.jpg
+melonpan|Melonpan|Sakurai Midori|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Melonpan.jpg
+paodequeijo|Pão de Queijo|Acfariac|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pao_de_queijo_brasil.jpg
+frybread|Frybread|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Frybread.jpg
+subroll|Sub Roll|Andy Li|CC0|https://commons.wikimedia.org/wiki/File:The_EDNA_-_Meat_._Bread_._Wine_2024-04-03.jpg
+mantou|Mantou|Fumikas Sagisavas|CC0|https://commons.wikimedia.org/wiki/File:Black_rice_and_multigrain_steamed_buns.jpg
+bing|Bing|ZhengZhou|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Sesame_Shaobing.jpg
+ekmek|Ekmek|Mardetanha|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Etli_ekmek_in_Konya_turkey_By_Mardetanha_(2).JPG
+semolinabread|Semolina Bread|DinaBenedettoFerrandina|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pane_di_Semola_Rimacinata.jpg
+pumpernickel|Pumpernickel|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Pumpernickel.jpg
+challah|Challah|Aviv Hod|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Challah_Bread_Six_Braid_1.JPG
+zopf|Zopf|w:en:User:Smerdis|Public domain|https://commons.wikimedia.org/wiki/File:Zopf.jpg
+rugbrod|Rugbrød|cyclonebill|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Rugbr%C3%B8d,_bolle,_frikadeller,_spegep%C3%B8lse,_camembert_og_%C3%B8l.jpg
+bannock|Bannock|Lou Sander|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:BannockBeremeal.jpg
+damper|Damper|Finbar.concaig|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Wattleseed_Damper_(cropped).jpg
+johnnycake|Johnnycake|Shockingly Tasty's photostream|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Jonnycakes_01.jpg
+bialy|Bialy|x-eyedblonde|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Bialy.jpg
+ficelle|Ficelle|Nono64|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:FicellePainFran%C3%A7ais.jpg
+panecarasau|Pane Carasau|Francesc Fort|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pane_Guttiau.jpg
+michetta|Michetta|NederlandsNederlands (talk)|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Michetta_(pane)1.JPG
+broa|Broa|EcoTrilhaPortugalTours|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Broa_portuguesa.jpg
+vetkoek|Vetkoek|NJR ZA|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Vetkoek_with_mince-001.jpg
+sangak|Sangak|Abolfazl Arabjavadi|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Sangak_Bread_04.jpg
+taftan|Taftan|www.theedinburghblog.co.uk|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Taftan_nan_01.jpg
+rotijala|Roti Jala|Popo le Chien|CC0|https://commons.wikimedia.org/wiki/File:Roti_jala_penang.JPG
+kulcha|Kulcha|Jason Lam|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Kulcha,_Indian_stuffed_bread.jpg
+bhatura|Bhatura|[https://www.flickr.com/people/12261156@N00 Michael Cot�] from Austin, Texas, Texas|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Bhatura.jpg
+sheermal|Sheermal|Mkavani75|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Sheermal_bread_made_in_Iran.jpg
+gozleme|Gözleme|Maderibeyza|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:G%C3%B6zleme.JPG
+khachapuri|Khachapuri|Vyacheslav Argenberg|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Old_Tbilisi,_Georgian_khachapuri,_Georgia.jpg
+somun|Somun|BiHVolim|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Sarajevski_somun.JPG
+pogaca|Pogača|Biso|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Traditional_Bulgarian_Pugacha.jpg
+altamura|Pane di Altamura|Francesco Paolo Fumarola|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Forno_a_legna_(Altamura).jpg
+yufka|Yufka|Adem Durdu|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Yufka_ekmek.jpg
+injera|Injera|Edsel Little|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Injera_from_ivory_teff.jpg
+lavash|Lavash|Gaeser|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Lavash.jpg
+pandesal|Pandesal|Jessartcam|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pinoy_Pandesal.jpg
+barbari|Barbari|IDangerMouse|Public domain|https://commons.wikimedia.org/wiki/File:Iranian_Bread_1.JPG
+borodinsky|Borodinsky|Saboteur|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Borodinoer_Brot,_borordinsky_bread,_%D0%B1%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%BB%D0%B5%D0%B1_II.jpg
+bammy|Bammy|Jongleur100|Public domain|https://commons.wikimedia.org/wiki/File:Bammies.jpg
+rieska|Rieska|Hellahulla (Hellahulla)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Rye_and_Potato_rieska_-_1.JPG
+vanocka|Vánočka|Ludek|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Vanocka.jpg
+kalach|Kalach|Лобачев Владимир|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Lob_NARkult_09.JPG
+coppiaferrarese|Coppia Ferrarese|The original uploader was Andycowboy at Italian Wikipedia.|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Coppia-ferrarese.jpg
+kaak|Ka'ak|Zivya|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Beigale_yerushalmi.JPG
+manakish|Manakish|Ewan Munro from London, UK|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Omnia,_Park_Royal,_London_(3434493860).jpg
+markook|Markook|Gaurav Dhwaj Khadka|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Khubz.jpg
+kisra|Kisra|Mohamed Elfatih Hamadien|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Kisra_maker.jpeg
+aishbaladi|Aish Baladi|H. Hakan Atik|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Breakfast_in_Cairo.jpg
+matnakash|Matnakash|A.Savin|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Matnakash_bread_Mos06-13.jpg
+shotispuri|Shotis Puri|ႧႤႧႰႨ ႾႠႰႨ|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Shoti.jpg
+obinon|Obi Non|Benjamin Goetzinger|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Uzbek_bread,_obi_non,_lepyoshka.jpg
+bazlama|Bazlama|E4024|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bazlama_and_butter.jpg
+rewena|Rewena Bread|Groot42|CC0|https://commons.wikimedia.org/wiki/File:Rewena.jpg
+selroti|Selroti|SristiAwasthi21|CC0|https://commons.wikimedia.org/wiki/File:Sel_Roti_(Traditional_Nepali_Rice_Bread).jpg
+paximadi|Paximadi|Xoristzatziki|Public domain|https://commons.wikimedia.org/wiki/File:%CE%A0%CE%B1%CE%BE%CE%B9%CE%BC%CE%AC%CE%B4%CE%B9%CE%B1_2.jpg
+freselle|Freselle|DinaBenedettoFerrandina|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Friselle.jpg
+vortbrod|Vörtbröd|Paul.Carroll|CC BY 2.0|https://commons.wikimedia.org/wiki/File:V%C3%B6rtbr%C3%B6d.jpg
+cozonac|Cozonac|L.Kenzel|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cozonac2.JPG

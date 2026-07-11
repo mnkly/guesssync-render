@@ -1,22 +1,24 @@
 margarita|Margarita|Evan Swigart from Chicago, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Margarita_with_lime_in_a_margarita_glass_-_Evan_Swigart.jpg
-mojito|Mojito|Personal Creations|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Rum_Day_Mojito_instructions_shaker_sugar_lime_juice_mint_leaves_glass_ice_cubes_(18675336852).jpg
-martini|Martini|Rjcastillo|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:C%C3%B3ctel_de_caf%C3%A9_en_copa_martini_2.jpg
+mojito|Mojito|Mike Fleming from London, England|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Homemade_mojito.jpg
+martini|Martini|Ken30684|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Classic_martini_by_Ken30684.jpg
 cosmopolitan|Cosmopolitan|TheCulinaryGeek from Chicago, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Cosmopolitan_(5076906532).jpg
 pinacolada|Piña Colada|User Barmix on de.wikipedia|Public domain|https://commons.wikimedia.org/wiki/File:Pi%C3%B1a_Colada.jpg
 daiquiri|Daiquiri|Will Shenton|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Classic_Daiquiri_in_Cocktail_Glass.jpg
 bloodymary|Bloody Mary|R. Love|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Caesar_cocktail.jpg
 oldfashioned|Old Fashioned|File:Rum, Manhattan, Tequila Old Fashioned.jpg: Cocktailmarler derivative work: Jocian|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Rum,_Manhattan,_Tequila_Old_Fashioned_(1).jpg
-longislandicedtea|Long Island Iced Tea|Eva Rinaldi|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Zeta_Bar_Presents_Coney_Island_(7948726648).jpg
+longislandicedtea|Long Island Iced Tea|Alisdair McDiarmid from Glasgow, United Kingdom|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Long_Island_Iced_Tea_with_Lemon_and_Straw.jpg
 negroni|Negroni|Geoff Peters from Vancouver, BC, Canada|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Negroni_served_in_Vancouver_BC.jpg
 manhattan|Manhattan|Tallertallguy|CC0|https://commons.wikimedia.org/wiki/File:Burning_Manhattan_Cocktail.png
+maitai|Mai Tai|Kevdo|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mai_Tai_at_Trader_Vic%27s_Emeryville.jpg
 whiskeysour|Whiskey Sour|Ilikefood|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Whiskey_sour_in_coupe_glass_with_garnishes.jpg
 moscowmule|Moscow Mule|edseloh|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Moscow_Mule.jpg
 gintonic|Gin and Tonic|NotFromUtrecht|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Gin_and_Tonic_with_ingredients.jpg
+tequilasunrise|Tequila Sunrise|TheCulinaryGeek from Chicago, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Tequila_Sunrise_(5084102035).jpg
 sexonthebeach|Sex on the Beach|By Stuart Webster from Southampton, England (Sex on the Beach) [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) or CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Sex_on_the_beach.png
 screwdriver|Screwdriver|Gregory Karastergios|CC0|https://commons.wikimedia.org/wiki/File:A_screwdriver_drink_with_ice.jpg
 mimosa|Mimosa|Shixart1985|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Champagne_flutes_filled_with_a_vibrant_orange_mimosa_are_artfully_arranged_at_a_stylish_event.jpg
 bellini|Bellini|John Phelan|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Bellini_Cipriani,_Macaroni_Grill,_Dunwoody_GA.jpg
-sangria|Sangria|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:Charlie%27s_Cafe_Exceptionale_Fireside_Cocktail_Snacks_Lounge_and_Sangria_Tent_Card_-_DPLA_-_83061434c0aefb634bd4713a61aef9e7_(page_1).jpg
+sangria|Sangria|Ruth Hartnup from Vancouver, Canada|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Pitcher_of_sangria.jpg
 cubalibre|Cuba Libre|Martin Belam (currybet)|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Cuba_Libre.jpg
 espressomartini|Espresso Martini|AlphaLemur|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Espresso_Martini_on_a_bar.jpg
 aperolspritz|Aperol Spritz|Massimiliano Piazza|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Time_For_Spritz_(149400761).jpeg
@@ -24,38 +26,75 @@ tomcollins|Tom Collins|cyclonebill|CC BY-SA 2.0|https://commons.wikimedia.org/wi
 caipirinha|Caipirinha|Schermann|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Caipirinha_Cl%C3%A1ssica_02.JPG
 paloma|Paloma|Andy Li|CC0|https://commons.wikimedia.org/wiki/File:Paloma_Spritz_-_Purezza_2024-12-17.jpg
 french75|French 75|https://www.flickr.com/people/garyjwood/|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:French_75.jpg
-darkandstormy|Dark 'n' Stormy|User:Gordito1869 and User:GXBltd|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Representation_of_Mule_type_drinks.jpg
+darkandstormy|Dark 'n' Stormy|Quinn Dombrowski|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Dark_and_stormy_at_Hula%27s_Island_Grill.jpg
 whiterussian|White Russian|Tsungam|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:White_Russian_-_2015-04-02_(3).jpg
-blackrussian|Black Russian|Frank and Frances Carpenter Collection|Public domain|https://commons.wikimedia.org/wiki/File:Group_of_Russian_peasants_posed_at_an_outdoor_table_LCCN2001705716.jpg
+blackrussian|Black Russian|Will Shenton|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Black_Russian.jpg
 mintjulep|Mint Julep|Jami430|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mint_julep_at_Revel_in_New_Orleans.jpg
 singaporesling|Singapore Sling|Achim Schleuning (E-Mail: comander02_de@yahoo.de)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Singapore_Sling_Ingredients.JPG
+amarettosour|Amaretto Sour|Edsel Little|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:VTR_amaretto_sour.jpg
+kirroyale|Kir Royale|Stuart Webster from Southampton, England|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Kir_cocktail.jpg
 gimlet|Gimlet|The Delicious Life|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Gimlet_cocktail.jpg
-robroy|Rob Roy|Kent Wang|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Rob_Roy_-_The_Aviary.jpg
+robroy|Rob Roy|TheCulinaryGeek|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Rob_Roy_Cocktail.jpg
 sidecar|Sidecar|Melissa Doroquez / cropped by User:McLeod|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Sidecar_cocktail.jpg
 piscosour|Pisco Sour|young shanahan|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Pisco_Sour_in_Lima.jpg
-zombie|Zombie|Bart Everson|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Tales_of_the_Cocktail_-_Death_in_the_South_Pacific.jpg
+zombie|Zombie|Matthias Friedlein (www.augustine-bar.de)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Zombie_Cocktail.jpg
 bluehawaiian|Blue Hawaiian|Monoukotori at English Wikipedia|Public domain|https://commons.wikimedia.org/wiki/File:Bluehawaiian.jpg
 grasshopper|Grasshopper|TexasDex|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Grasshopper_cocktail.jpg
 mudslide|Mudslide|Bruce The Deus|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mudslide_cocktail_with_chocolate_-_tumbler_(Italy,_2023).png
-hurricane|Hurricane|Jan Lehnen|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Glas34_(cropped).jpg
+hurricane|Hurricane|Vrlobo888 at English Wikipedia|Public domain|https://commons.wikimedia.org/wiki/File:Hurricane_cocktail.jpg
+irishcoffee|Irish Coffee|Marler|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Irish_Coffee.jpg
 americano|Americano|Conrad and Peter|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Americano_cocktail_at_Nightwood_Restaurant.jpg
 ginfizz|Gin Fizz|Stuart Webster|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Ramos_Fizz.jpg
+appletini|Appletini|Jessica Merz from Novato, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Appletini.jpg
 bramble|Bramble|Erich Wagner (www.eventografie.de)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bramble_Cocktail2.jpg
 midorisour|Midori Sour|Luigi Manzo|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Japanese_slipper_(cropped).jpg
 boulevardier|Boulevardier|Edsel Little|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:VTR_Happy_Hour_-_Boulevardier.jpg
+penicillin|Penicillin|Edsel Little|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:The_Spotted_Owl_-_Penicillin.jpg
+beesknees|Bee's Knees|Will Shenton|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Bee%27s_Knees.jpg
 cloverclub|Clover Club|WxMom|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Pink_Lady_with_a_twist_of_lime,_in_a_cocktail_glass.jpg
 junglebird|Jungle Bird|Atlantis Tiki Bar|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Jungle_Bird.jpg
+paperplane|Paper Plane|Missvain|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg
 martinez|Martinez|Will Shenton|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Martinez_Cocktail.jpg
+southside|Southside|davidgiesberg|CC BY 2.0|https://commons.wikimedia.org/wiki/File:The_Southside_-_kind_of_a_gin_mojito.jpg
 brandyalexander|Brandy Alexander|Will Shenton|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Brandy_Alexander_on_the_Rocks.jpg
-rustynail|Rusty Nail|Clint Budd from About 15 miles North of Swansea, Wales|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Rusty_Nail_-_Flickr_-_Clint_Budd.jpg
+rustynail|Rusty Nail|John Phelan|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Rusty_Nail_at_Sparta_Restaurant,_Bedford_MA.jpg
+godfather|Godfather|Stuart Webster from Southampton, England|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Godfather_cocktail.jpg
+bloodandsand|Blood and Sand|Edsel Little|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:VTR_-_Blood_and_Sand.jpg
 jackrose|Jack Rose|Ralf Roletschek|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0259.jpg
+marypickford|Mary Pickford|Will Shenton|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Mary_Pickford_Cocktail.jpg
+hemingwaydaiquiri|Hemingway Daiquiri|Will Shenton|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Classic_Daiquiri_in_Cocktail_Glass.jpg
+planterspunch|Planter's Punch|Achim Schleuning (E-Mail: comander02_de@yahoo.de)|CC BY-SA 3.0 de|https://commons.wikimedia.org/wiki/File:Planters_Punch_1.jpg
+sherrycobbler|Sherry Cobbler|BanjoZebra|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Sherry_cobbler.jpg
+tuxedo|Tuxedo|BanjoZebra|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Tuxedo_No._2_cocktail.jpg
 bijou|Bijou|Chris Palmer from San Diego|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Bijou_Cocktail.jpg
-vesper|Vesper|Trelane|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Vesper_Martini_(corrected).jpg
+whiskeysmash|Whiskey Smash|goodiesfirst|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Woodberry_kitchen_whiskey_smash.jpg
+vesper|Vesper|TabascoMan77 (talk)|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Vesper_Cocktail.jpg
+elpresidente|El Presidente|Cocktailmarler|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:El_Presidente_Cocktail.jpg
+stinger|Stinger|Will Shenton|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Stinger_Cocktail.jpg
+rememberthemaine|Remember the Maine|Adrian Scottow|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Remember_the_Maine_-_Cocktail.jpg
 betweenthesheets|Between the Sheets|Zach|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Between_The_Sheets_Cocktail.jpg
+sazerac|Sazerac|Gtandersson|CC BY 4.0|https://commons.wikimedia.org/wiki/File:SazeracCocktail.jpg
 aviation|Aviation|Bskinner112 at English Wikipedia|Public domain|https://commons.wikimedia.org/wiki/File:Aviation_Cocktail.jpg
+lastword|Last Word|Don LaVange|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:The_Last_Word_cocktail_raised.jpg
+corpsereviver|Corpse Reviver No. 2|Will Shenton|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Corpse_Reviver_2.jpg
 vieuxcarre|Vieux Carré|Adrian Scottow|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Vieux_Carre_Cocktail.jpg
 hankypanky|Hanky Panky|Tim Sackton from Somerville, MA|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Hanky_Panky_cocktail.jpg
 ramosginfizz|Ramos Gin Fizz|Ralf Roletschek|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0078.jpg
+chartreuseswizzle|Chartreuse Swizzle|Ospalh|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Schnapsglas_gr%C3%BCner_Chartreuse.jpg
+bronx|Bronx|Stuart Webster|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Bronx_(cocktail).jpg
+newyorksour|New York Sour|Erich Wagner (www.eventografie.de)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:New_York_Sour.jpg
 sufferingbastard|Suffering Bastard|Will Shenton|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Suffering_Bastard_Cocktail.jpg
+queensparkswizzle|Queen's Park Swizzle|Krista|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Trader_vic%27s_queens_park_swizzle.jpg
+bluelagoon|Blue Lagoon|John Phelan|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Blue_Lagoon_at_the_Mandarin_Oriental,_Washington_DC.jpg
+frenchconnection|French Connection|Arnaud 25|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:French_Connection_(cocktail).jpg
+brooklyn|Brooklyn|Arnaud 25|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Brooklyn_(cocktail).jpg
 widowskiss|Widow's Kiss|CocktailStevee|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Widows_Kiss_in_Coupe.jpg
 cornandoil|Corn 'n' Oil|Craig Hermann|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Falernum.jpg
+trinidadsour|Trinidad Sour|Edsel Little|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:VTR_-_Trinidad_Sour_(18045674468).jpg
+nakedandfamous|Naked and Famous|Rascalisimo|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Naked_and_Famous_cocktail.jpg
+champagnecocktail|Champagne Cocktail|Ewan Munro from London, UK|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Champagne_cocktail_-_Portal,_Clerkenwell,_London_(4356768748)_(cropped).jpg
+casino|Casino|Adrian Scottow from London, England|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Casino_Cocktail_(9120690108).jpg
+seelbach|Seelbach|Matthias Friedlein (www.augustine-bar.de)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Seelbach_(cocktail).png
+capecod|Cape Codder|John Phelan|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cape_Codder,_Tommy_Doyles_Irish_Pub,_Hyannis_MA.jpg
+ginbasilsmash|Gin Basil Smash|Erich Wagner (www.eventografie.de)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Gin_Basil_Smash.jpg
+airmail|Air Mail|Matthias Friedlein (www.augustine-bar.de)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Air_Mail_Cocktail.png

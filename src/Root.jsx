@@ -79,6 +79,11 @@ const E33CFG = { items: EMOJI_TV, facts: EMOJI_TV_FACTS, topicWord: "TV SHOW", t
 const E35CFG = { items: EMOJI_BRANDS, facts: EMOJI_BRAND_FACTS, topicWord: "BRAND", topicPlural: "BRANDS", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "eb-", introVo: "vo-intro-brand", coldSlug: "" };
 const E37CFG = { items: EMOJI_BOOKS, facts: EMOJI_BOOK_FACTS, topicWord: "BOOK", topicPlural: "BOOKS", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "bk-", introVo: "vo-intro-book", coldSlug: "" };
 const E36CFG = { items: FISH, facts: FISH_FACTS, topicWord: "FISH", topicPlural: "FISH", dir: "fish", ext: "jpg", fit: "cover", voPrefix: "fh-", nameField: "name", introVo: "vo-intro-fish", coldSlug: "clownfish" };
+const E64CFG = { items: COCKTAILS, facts: COCKTAIL_FACTS, topicWord: "COCKTAIL", topicPlural: "COCKTAILS", dir: "cocktails", ext: "jpg", fit: "cover", voPrefix: "ck-", nameField: "name", introVo: "vo-intro-cocktail", coldSlug: "margarita" };
+const E65CFG = { items: BREADS, facts: BREAD_FACTS, topicWord: "BREAD", topicPlural: "BREADS", dir: "breads", ext: "jpg", fit: "cover", voPrefix: "br-", nameField: "name", introVo: "vo-intro-bread", coldSlug: "baguette" };
+const E62CFG = { items: NUTS, facts: NUT_FACTS, topicWord: "NUT OR SEED", topicPlural: "NUTS & SEEDS", dir: "nuts", ext: "jpg", fit: "cover", voPrefix: "nt-", nameField: "name", introVo: "vo-intro-nut", coldSlug: "almond" };
+const E63CFG = { items: CACTI, facts: CACTUS_FACTS, topicWord: "CACTUS OR SUCCULENT", topicPlural: "CACTI & SUCCULENTS", dir: "cacti", ext: "jpg", fit: "cover", voPrefix: "cx-", nameField: "name", introVo: "vo-intro-cactus", coldSlug: "saguaro" };
+const E61CFG = { items: DESSERTS, facts: DESSERT_FACTS, topicWord: "DESSERT", topicPlural: "DESSERTS", dir: "desserts", ext: "jpg", fit: "cover", voPrefix: "ds-", nameField: "name", introVo: "vo-intro-dessert", coldSlug: "chocolatecake" };
 const E53CFG = { items: KITCHEN, facts: KITCHEN_FACTS, topicWord: "KITCHEN UTENSIL", topicPlural: "KITCHEN UTENSILS", dir: "kitchen", ext: "jpg", fit: "cover", voPrefix: "kt-", nameField: "name", introVo: "vo-intro-kitchen", coldSlug: "whisk" };
 const E60CFG = { items: SPICES, facts: SPICE_FACTS, topicWord: "HERB OR SPICE", topicPlural: "HERBS & SPICES", dir: "spices", ext: "jpg", fit: "cover", voPrefix: "sc-", nameField: "name", introVo: "vo-intro-spice", coldSlug: "basil" };
 const E41CFG = { items: PASTA, facts: PASTA_FACTS, topicWord: "PASTA", topicPlural: "PASTA", dir: "pasta", ext: "jpg", fit: "cover", voPrefix: "pa-", nameField: "name", introVo: "vo-intro-pasta", coldSlug: "spaghetti" };
@@ -164,6 +169,16 @@ import { EMOJI_BOOKS } from "./Quiz/emojiBooksData";
 import { EMOJI_BOOK_FACTS } from "./Quiz/emojiBookFacts";
 import { FISH } from "./Quiz/fishData";
 import { FISH_FACTS } from "./Quiz/fishFacts";
+import { COCKTAILS } from "./Quiz/cocktailsData";
+import { COCKTAIL_FACTS } from "./Quiz/cocktailFacts";
+import { BREADS } from "./Quiz/breadsData";
+import { BREAD_FACTS } from "./Quiz/breadFacts";
+import { NUTS } from "./Quiz/nutsData";
+import { NUT_FACTS } from "./Quiz/nutFacts";
+import { CACTI } from "./Quiz/cactiData";
+import { CACTUS_FACTS } from "./Quiz/cactusFacts";
+import { DESSERTS } from "./Quiz/dessertsData";
+import { DESSERT_FACTS } from "./Quiz/dessertFacts";
 import { KITCHEN } from "./Quiz/kitchenData";
 import { KITCHEN_FACTS } from "./Quiz/kitchenFacts";
 import { SPICES } from "./Quiz/spicesData";
@@ -296,6 +311,7 @@ export const RemotionRoot = () => {
       <Composition id="ThumbEmojiCountry" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F5FC", "1F5FD", "?", "1F428", "?", "1F418", "?", "1F3EF", "1F42A"], line1: "CAN YOU NAME ALL", word: "EMOJI?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbGaming" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "gaming", grid: ["minecraft", "xbox", "?", "playstation", "?", "nintendo", "?", "pokemon", "fortnite"], line1: "CAN YOU NAME ALL", word: "GAME?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbFish" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "fish", grid: ["clownfish", "great-white-shark", "?", "pufferfish", "?", "seahorse", "?", "swordfish", "piranha"], line1: "CAN YOU NAME ALL", word: "FISH", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="ThumbNuts" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "nuts", grid: ["almond", "peanut", "?", "walnut", "?", "cashew", "?", "pistachio", "coconut"], line1: "CAN YOU NAME ALL", word: "NUT", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbKitchen" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "kitchen", grid: ["whisk", "spatula", "?", "ladle", "?", "grater", "?", "rollingpin", "tongs"], line1: "CAN YOU NAME ALL", word: "KITCHEN UTENSIL", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbSpices" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "spices", grid: ["basil", "cinnamon", "?", "blackpepper", "?", "ginger", "?", "rosemary", "oregano"], line1: "CAN YOU NAME ALL", word: "HERBS & SPICES", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbShells" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "shells", grid: ["scallop", "queenconch", "?", "nautilus", "?", "tigercowrie", "?", "sanddollar", "giantclam"], line1: "CAN YOU NAME ALL", word: "SEASHELL", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
@@ -382,6 +398,15 @@ export const RemotionRoot = () => {
       <Composition id="E32Quiz" component={QuizV2} durationInFrames={quizFrames(E32CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E32CFG }} />
       <Composition id="E29Quiz" component={QuizV2} durationInFrames={quizFrames(E29CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E29CFG }} />
       <Composition id="E36Quiz" component={QuizV2} durationInFrames={quizFrames(E36CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E36CFG }} />
+      <Composition id="E64Quiz" component={QuizV2} durationInFrames={quizFrames(E64CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E64CFG }} />
+      <Composition id="ThumbCocktails" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "cocktails", grid: ["margarita", "mojito", "?", "martini", "?", "cosmopolitan", "?", "negroni", "manhattan"], line1: "CAN YOU NAME ALL", word: "COCKTAIL", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E65Quiz" component={QuizV2} durationInFrames={quizFrames(E65CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E65CFG }} />
+      <Composition id="ThumbBreads" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "breads", grid: ["baguette", "bagel", "?", "croissant", "?", "pretzel", "?", "naan", "pita"], line1: "CAN YOU NAME ALL", word: "BREAD", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E62Quiz" component={QuizV2} durationInFrames={quizFrames(E62CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E62CFG }} />
+      <Composition id="E61Quiz" component={QuizV2} durationInFrames={quizFrames(E61CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E61CFG }} />
+      <Composition id="E63Quiz" component={QuizV2} durationInFrames={quizFrames(E63CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E63CFG }} />
+      <Composition id="ThumbCacti" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "cacti", grid: ["saguaro", "aloevera", "?", "barrelcactus", "?", "jadeplant", "?", "agave", "echeveria"], line1: "CAN YOU NAME ALL", word: "CACTUS", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="ThumbDesserts" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "desserts", grid: ["chocolatecake", "icecream", "?", "donut", "?", "cheesecake", "?", "macaron", "cupcake"], line1: "CAN YOU NAME ALL", word: "DESSERT", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E53Quiz" component={QuizV2} durationInFrames={quizFrames(E53CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E53CFG }} />
       <Composition id="E60Quiz" component={QuizV2} durationInFrames={quizFrames(E60CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E60CFG }} />
       <Composition id="E41Quiz" component={QuizV2} durationInFrames={quizFrames(E41CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E41CFG }} />
@@ -457,6 +482,11 @@ export const RemotionRoot = () => {
         { ep: "E32", items: EMOJI_COUNTRIES, mode: "ecountries", title: "Guess the Country by Emoji", v2: true },
         { ep: "E29", items: GAMINGLOGOS, mode: "gaming", title: "Guess the Gaming Logo", v2: true },
         { ep: "E36", items: FISH, mode: "fish", title: "Guess the Fish", v2: true },
+        { ep: "E64", items: COCKTAILS, mode: "cocktails", title: "Guess the Cocktail", v2: true },
+        { ep: "E65", items: BREADS, mode: "breads", title: "Guess the Bread", v2: true },
+        { ep: "E62", items: NUTS, mode: "nuts", title: "Guess the Nut or Seed", v2: true },
+        { ep: "E63", items: CACTI, mode: "cacti", title: "Guess the Cactus or Succulent", v2: true },
+        { ep: "E61", items: DESSERTS, mode: "desserts", title: "Guess the Dessert", v2: true },
         { ep: "E53", items: KITCHEN, mode: "kitchen", title: "Guess the Kitchen Utensil", v2: true },
         { ep: "E60", items: SPICES, mode: "spices", title: "Guess the Herb or Spice", v2: true },
         { ep: "E41", items: PASTA, mode: "pasta", title: "Guess the Pasta", v2: true },
