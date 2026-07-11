@@ -1,0 +1,106 @@
+GuessSync E48 - "Guess the Tool" - Image Attributions
+100 real tool photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, or CC BY-SA. Files under CC BY / CC BY-SA
+require crediting the author + license; the lines below satisfy that requirement.
+Generated 2026-07-11. Format:  slug | name | author | license | source
+============================================================================================
+hammer | Hammer | Evan-Amos | Public domain | https://commons.wikimedia.org/wiki/File:Claw-hammer.jpg
+screwdriver | Screwdriver | Fcb981 at English Wikipedia | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Screw_Driver_display.jpg
+wrench | Wrench | Theresemk | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Adjustablewrenches.jpg
+pliers | Pliers | Honmingjun | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lineman%27s_Plier.jpg
+handsaw | Handsaw | Mnemosine | Public domain | https://commons.wikimedia.org/wiki/File:Pily_platnice.jpg
+drill | Power Drill | Reff55 | Public domain | https://commons.wikimedia.org/wiki/File:Tool_Manager_Photo.jpg
+tapemeasure | Tape Measure | Klein Tools | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tape_Measure_25%27_Klein_Tools.jpg
+spiritlevel | Spirit Level | aTarom | Public domain | https://commons.wikimedia.org/wiki/File:DetalleNivelDeBurbuja.jpg
+chisel | Chisel | Bullenwächter | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Neolithic_chisels_4100-2700_BC.jpg
+axe | Axe | タクナワン | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Felling_axe.jpg
+shovel | Shovel | SvenPek | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Skovl.jpg
+wheelbarrow | Wheelbarrow | Ildar Sagdejev (Specious) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2008-07-15_Construction_wheelbarrow_at_Duke.jpg
+paintbrush | Paintbrush | Krestavilis at English Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Paintbrushes.jpg
+ladder | Ladder | Wikideas1 | CC0 | https://commons.wikimedia.org/wiki/File:Ladder.webp
+clamp | Clamp | 12akd | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tools60.jpg
+anglegrinder | Angle Grinder | Unknown | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:AngleGrinder.jpg
+nailgun | Nail Gun | Boatbuilder | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Nail_gun_008.jpg
+scissors | Scissors | Doggerelblogger | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Standard_household_scissors.jpg
+utilityknife | Utility Knife | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Aaknife2.jpg
+pickaxe | Pickaxe | Hyena~commonswiki | Public domain | https://commons.wikimedia.org/wiki/File:Pickaxe.jpg
+rake | Rake | Stephencdickson | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Garden_rake_made_from_turned_pear_tree_wood,_made_1560,_Rustkammer_Museum,_Dresden.jpg
+sledgehammer | Sledgehammer | Shakespeare at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Sledgehammers-1.jpg
+hacksaw | Hacksaw | No machine-readable author provided. Charlie123 assumed (based on copyright claims). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hacksaw.jpg
+chainsaw | Chainsaw | kallerna | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chainsaw.JPG
+pitchfork | Pitchfork | 4028mdk09 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Heugabel.JPG
+allenkey | Allen Key | Leon Brooks | Public domain | https://commons.wikimedia.org/wiki/File:Set_of_eight_hex_allen_keys_on_ring_on_table.jpg
+socketwrench | Socket Wrench | Kae | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Socket_wrench_and_sockets.JPG
+benchvise | Bench Vise | Pittigrilli | CC0 | https://commons.wikimedia.org/wiki/File:Medium-sized_bench_vise_(engineer%27s_vise,_metalworking_vise)_on_display_in_hardware_store,_without_lever.jpg
+file | File | Blind cyclist | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:File_(tool).jpg
+wirestripper | Wire Stripper | Nevit Dilmen (talk) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tool_1530843.jpg
+staplegun | Staple Gun | Evan-Amos | Public domain | https://commons.wikimedia.org/wiki/File:Tool-heavy-stapler.jpg
+caulkinggun | Caulking Gun | D-Platoon | CC BY-SA 3.0 de | https://commons.wikimedia.org/wiki/File:Kartuschenpistole.jpg
+puttyknife | Putty Knife | Simon Speed | CC0 | https://commons.wikimedia.org/wiki/File:PuttyKnife.JPG
+trowel | Trowel | Mike Lupinacci | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Masons_trowel.jpg
+pipewrench | Pipe Wrench | J.C. Fields (Talk) (Uploads) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ridgid_10%22_pipe_wrench.jpg
+boltcutter | Bolt Cutter | Wikideas1 | CC0 | https://commons.wikimedia.org/wiki/File:Bolt_cutter.webp
+crowbar | Crowbar | 15RCH | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pince_monseigneur.jpg
+jigsaw | Jigsaw | Артём В. | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Jigsaw_AccuMaster.jpg
+circularsaw | Circular Saw | Unknown | Public domain | https://commons.wikimedia.org/wiki/File:USMC-02963.jpg
+orbitalsander | Orbital Sander | Dave Pape | Public domain | https://commons.wikimedia.org/wiki/File:Random_orbit_sander.jpg
+woodrouter | Wood Router | photographed by James M Corey | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Wood_router_jmc_2005_03_12.jpg
+handplane | Hand Plane | Jameslwoodward | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:JackPlane3.jpg
+mallet | Mallet | MartinMerinsky | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Rubber_mallets.jpg
+torquewrench | Torque Wrench | No machine-readable author provided. Heron2 assumed (based on copyright claims). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Click-torque-wrench.jpg
+studfinder | Stud Finder | Widar23 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bosch_GMS_120.jpg
+plumbbob | Plumb Bob | Jim Thomas | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Plumb_bob.jpg
+heatgun | Heat Gun | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Verfstripper.jpg
+solderingiron | Soldering Iron | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Soldering_gun.jpg
+hedgetrimmer | Hedge Trimmer | Mark Hunter | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Cordless_electric_hedge_trimmer.jpg
+leafblower | Leaf Blower | Browning031 at English Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Stihlblowers.jpg
+impactwrench | Impact Wrench | Bushytails at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Impact_wrench_01.jpg
+speedsquare | Speed Square | Norvell IP | Public domain | https://commons.wikimedia.org/wiki/File:Swanson_Speed_Square_by_NIP.JPG
+copingsaw | Coping Saw | Pitoutom | Public domain | https://commons.wikimedia.org/wiki/File:Coping_saw_2.jpg
+mitersaw | Miter Saw | Ewen Roberts modified by Luigi Chiesa | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Mitre_saw_white.jpg
+tablesaw | Table Saw | Comfr | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:SawStop.jpg
+beltsander | Belt Sander | Luigi Zanasi | CC BY-SA 2.0 ca | https://commons.wikimedia.org/wiki/File:Belt_sander_bosch.jpg
+rotarytool | Rotary Tool | Sciencefreak109 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cordless_Rotary_Tool.jpg
+rivetgun | Rivet Gun | Kcida10 | CC0 | https://commons.wikimedia.org/wiki/File:Pop_rivet_gun.jpeg
+multimeter | Multimeter | KZang | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:YX360TRF(Sanwa).JPG
+wirebrush | Wire Brush | Martink | Public domain | https://commons.wikimedia.org/wiki/File:Staalbostels_Roterend.JPG
+pipecutter | Pipe Cutter | Jonas Bergsten | Public domain | https://commons.wikimedia.org/wiki/File:Pipecutter_20050728_001.jpg
+tinsnips | Tin Snips | The Condor at Italian Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Snips.jpg
+centerpunch | Center Punch | Txikillana | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Grabatu_tresnak_puntzoia_1.jpg
+nailset | Nail Set | Allant | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:PIN_PUNCH.JPG
+countersink | Countersink | Martink at Dutch Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Verzinkboor.jpg
+holesaw | Hole Saw | Edenblijker | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:TCT_Tungsten_Carbide_Hole_saw_with_arbor.jpg
+deburringtool | Deburring Tool | Sarang | Public domain | https://commons.wikimedia.org/wiki/File:Pressfittings_deburring_tool.jpg
+drainsnake | Drain Snake | Pgdp123 | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Handheld-Drain-Auger.png
+benchgrinder | Bench Grinder | Артём В. | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bench_Grinder.jpg
+drawknife | Drawknife | Simon A. Eugster | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:ZiehmesserTop.jpeg
+combinationsquare | Combination Square | Kyle Van Horn | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Combination_square.jpg
+feelergauge | Feeler Gauge | Qurren | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Thickness_gauge.jpg
+caliper | Caliper | Simon A. Eugster | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Caliper_detail_view.jpeg
+rasp | Rasp | Simon A. Eugster | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Raspel_Baiter.jpg
+awl | Awl | The original uploader was SilentC at English Wikipedia. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Scratchawl.jpg
+spokeshave | Spokeshave | Simon A. Eugster | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Spokeshaves_standard_and_rounded.jpg
+adze | Adze | Rafael.amen | Public domain | https://commons.wikimedia.org/wiki/File:TroughAdze.jpg
+froe | Froe | Nienetwiler | CC BY 2.5 ch | https://commons.wikimedia.org/wiki/File:Schindelmesser-1900.jpg
+burnisher | Burnisher | Mauro Cateb | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Jewellery_burnisher.jpg
+fid | Fid | G. Allen Morris III | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Swedish_fid.png
+reamer | Reamer | Unknown | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:ReamerHandTaperPin.jpg
+bastardfile | Bastard File | Blind cyclist | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:File_(tool).jpg
+markinggauge | Marking Gauge | Luigi Zanasi | CC BY-SA 2.0 ca | https://commons.wikimedia.org/wiki/File:Marking_gauges.jpg
+cabinetscraper | Cabinet Scraper | Just plain Bill | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Card_scraper.JPG
+bitbrace | Bit Brace | M_H.DE | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bohrwinde_und_Schraubendreherklinge.jpg
+augerbit | Auger Bit | not researched | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Auger_(AM_2015.34.30-2).jpg
+riffler | Riffler | Alupus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Kleine_Riffelraspeln.JPG
+bradawl | Bradawl | Kenneth Allen | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Tools_of_the_trade,_Belleek_Pottery_-_geograph.org.uk_-_885757.jpg
+gimlet | Gimlet | Wikipedia user Saintswithin | Public domain | https://commons.wikimedia.org/wiki/File:Gimlet_-_tool.jpg
+routerplane | Router Plane | Alexmadon | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Veritas_router_plane.jpg
+beamcompass | Beam Compass | Craxd1 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Beam_Compass.jpg
+catspaw | Cat's Paw | Ll1324 | CC0 | https://commons.wikimedia.org/wiki/File:Catspaw_(Tool_nail_puller).jpg
+slick | Slick | Slick_(Tool).tif: Sjsh derivative work: Andy Dingley (talk) | CC0 | https://commons.wikimedia.org/wiki/File:Slick_(Tool).jpg
+twybil | Twybil | No machine-readable author provided. B Askholm assumed (based on copyright claims). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Stik-_og_kryds%C3%B8kse.jpg
+nailheader | Nail Header | Unknown | Public domain | https://commons.wikimedia.org/wiki/File:Nail_and_Bolt_Header_Bar_Made_by_a_Lower_Missouri_River_Valley_Blacksmith_-_DPLA_-_d8fd25c71f14493ad904e6eec8a109ad_(page_1).jpg
+mouldingplane | Moulding Plane | Timtrent at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Moulding_planes.jpg
+slidingbevel | Sliding Bevel | Luke Milburn | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Bevel_gauge.jpg
+veneerhammer | Veneer Hammer | Gixie | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Martellina_002.png
+sawset | Saw Set | Luigi Zanasi | CC BY-SA 2.0 ca | https://commons.wikimedia.org/wiki/File:Saw_set.jpg
+millerfalls | Hand Drill | tmib_seattle | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Two_Speed_Breast_Drill.jpg

@@ -1,0 +1,999 @@
+[
+  {
+    "slug": "whisk",
+    "src": "wiki:Whisk",
+    "file": "Schneebesen1.JPG",
+    "size": 42412,
+    "artist": "No machine-readable author provided. Peng assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Schneebesen1.JPG",
+    "width": 500
+  },
+  {
+    "slug": "spatula",
+    "src": "commons:kitchen spatula",
+    "file": "Degskrapor.png",
+    "size": 154043,
+    "artist": "Micke",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Degskrapor.png",
+    "width": 1544
+  },
+  {
+    "slug": "ladle",
+    "src": "wiki:Ladle (spoon)",
+    "file": "Greek_-_Ladle_-_Walters_57909.jpg",
+    "size": 27768,
+    "artist": "Anonymous (Greece)Unknown author",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Greek_-_Ladle_-_Walters_57909.jpg",
+    "width": 1052
+  },
+  {
+    "slug": "grater",
+    "src": "wiki:Grater",
+    "file": "Kuechenreibe_(fcm).jpg",
+    "size": 131182,
+    "artist": "Photograph: Frank C. Müller, Baden-Baden",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Kuechenreibe_(fcm).jpg",
+    "width": 2196
+  },
+  {
+    "slug": "peeler",
+    "src": "wiki:Peeler",
+    "file": "Peeler_01_Pengo.jpg",
+    "size": 49771,
+    "artist": "Pengo",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Peeler_01_Pengo.jpg",
+    "width": 3000
+  },
+  {
+    "slug": "rollingpin",
+    "src": "fix:wooden rolling pin",
+    "file": "Wooden rolling pin isolated on white backgrounds.jpg",
+    "size": 21586,
+    "artist": "Jonatan Svensson Glad",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Wooden_rolling_pin_isolated_on_white_backgrounds.jpg",
+    "width": 5156
+  },
+  {
+    "slug": "colander",
+    "src": "wiki:Colander",
+    "file": "Geëmailleerd_vergiet_-_INDUS_V08877.jpg",
+    "size": 62415,
+    "artist": "Unknown",
+    "license": "CC0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Ge%C3%ABmailleerd_vergiet_-_INDUS_V08877.jpg",
+    "width": 6000
+  },
+  {
+    "slug": "tongs",
+    "src": "wiki:Tongs",
+    "file": "Kitchen-tongs.png",
+    "size": 28017,
+    "artist": "Sac86738 at English Wikipedia",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Kitchen-tongs.png",
+    "width": 1504
+  },
+  {
+    "slug": "canopener",
+    "src": "wiki:Can opener",
+    "file": "Kitchen-Modern-Can-Opener.jpg",
+    "size": 68282,
+    "artist": "Evan-Amos",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Kitchen-Modern-Can-Opener.jpg",
+    "width": 3000
+  },
+  {
+    "slug": "measuringcup",
+    "src": "wiki:Measuring cup",
+    "file": "Simple_Measuring_Cup.jpg",
+    "size": 88978,
+    "artist": "No machine-readable author provided. Batty~commonswiki assumed (based on copyright claims).",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Simple_Measuring_Cup.jpg",
+    "width": 1020
+  },
+  {
+    "slug": "woodenspoon",
+    "src": "wiki:Wooden spoon",
+    "file": "Cuiller_en_bois_-_échelle.jpg",
+    "size": 33781,
+    "artist": "Clément Bucco-Lechat",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Cuiller_en_bois_-_%C3%A9chelle.jpg",
+    "width": 3995
+  },
+  {
+    "slug": "sieve",
+    "src": "wiki:Sieve",
+    "file": "Laboratory_sieves_BMK.jpg",
+    "size": 144122,
+    "artist": "User:BMK",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Laboratory_sieves_BMK.jpg",
+    "width": 1200
+  },
+  {
+    "slug": "corkscrew",
+    "src": "wiki:Corkscrew",
+    "file": "Corkscrews_December_2014-1.jpg",
+    "size": 103824,
+    "artist": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Corkscrews_December_2014-1.jpg",
+    "width": 4858
+  },
+  {
+    "slug": "cuttingboard",
+    "src": "wiki:Cutting board",
+    "file": "Chopping_Board.jpg",
+    "size": 167599,
+    "artist": "Donovan Govan.",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Chopping_Board.jpg",
+    "width": 2087
+  },
+  {
+    "slug": "chefsknife",
+    "src": "wiki:Chef's knife",
+    "file": "Chef's_knife.jpg",
+    "size": 94478,
+    "artist": "ProjectManhattan",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Chef%27s_knife.jpg",
+    "width": 2121
+  },
+  {
+    "slug": "potatomasher",
+    "src": "wiki:Potato masher",
+    "file": "Kitchen-Potato-Masher.jpg",
+    "size": 28101,
+    "artist": "Evan-Amos",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Kitchen-Potato-Masher.jpg",
+    "width": 1400
+  },
+  {
+    "slug": "slottedspoon",
+    "src": "wiki:Slotted spoon",
+    "file": "Typical_slotted_spoons.JPG",
+    "size": 224789,
+    "artist": "Mfrisk",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Typical_slotted_spoons.JPG",
+    "width": 1287
+  },
+  {
+    "slug": "pizzacutter",
+    "src": "wiki:Pizza cutter",
+    "file": "Pizza-slicer.jpg",
+    "size": 31776,
+    "artist": "Evan-Amos",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Pizza-slicer.jpg",
+    "width": 3000
+  },
+  {
+    "slug": "fryingpan",
+    "src": "wiki:Frying pan",
+    "file": "Pfanne_(Edelstahl).jpg",
+    "size": 31567,
+    "artist": "Unknown",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Pfanne_(Edelstahl).jpg",
+    "width": 520
+  },
+  {
+    "slug": "saucepan",
+    "src": "wiki:Cookware and bakeware",
+    "file": "Pans_(113563802).jpg",
+    "size": 109387,
+    "artist": "Tracy Hunter from Kabul,, Afghanistan",
+    "license": "CC BY 2.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Pans_(113563802).jpg",
+    "width": 768
+  },
+  {
+    "slug": "kettle",
+    "src": "wiki:Kettle",
+    "file": "Bernadotte_Wasserkessel.jpg",
+    "size": 101039,
+    "artist": "Holger Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Bernadotte_Wasserkessel.jpg",
+    "width": 2049
+  },
+  {
+    "slug": "mixingbowl",
+    "src": "commons:mixing bowl kitchen",
+    "file": "Mixing Bowl.jpg",
+    "size": 249481,
+    "artist": "Donovan Govan.",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Mixing_Bowl.jpg",
+    "width": 1923
+  },
+  {
+    "slug": "icecreamscoop",
+    "src": "wiki:Ice cream scoop",
+    "file": "Kitchen-Scooper-Large.jpg",
+    "size": 51882,
+    "artist": "Evan-Amos",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Kitchen-Scooper-Large.jpg",
+    "width": 3300
+  },
+  {
+    "slug": "bottleopener",
+    "src": "wiki:Bottle opener",
+    "file": "Kronkorken.gif",
+    "size": 24279,
+    "artist": "Joho345",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Kronkorken.gif",
+    "width": 432
+  },
+  {
+    "slug": "cheeseslicer",
+    "src": "fix:cheese slicer",
+    "file": "SmallEdamCheese.jpg",
+    "size": 92065,
+    "artist": "Yvwv",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:SmallEdamCheese.jpg",
+    "width": 2816
+  },
+  {
+    "slug": "garlicpress",
+    "src": "wiki:Garlic press",
+    "file": "Garlic_Press_and_Garlic.jpg",
+    "size": 63489,
+    "artist": "Lee Kindness",
+    "license": "CC BY 2.5",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Garlic_Press_and_Garlic.jpg",
+    "width": 800
+  },
+  {
+    "slug": "eggbeater",
+    "src": "fix3:Schneebesen",
+    "file": "Schneebesen -- 2022 -- 9745.jpg",
+    "size": 73845,
+    "artist": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Schneebesen_--_2022_--_9745.jpg"
+  },
+  {
+    "slug": "meattenderizer",
+    "src": "wiki:Meat tenderiser",
+    "file": "Flatten_pork_steaks-01.jpg",
+    "size": 145806,
+    "artist": "dumbledad",
+    "license": "CC BY 2.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Flatten_pork_steaks-01.jpg",
+    "width": 3280
+  },
+  {
+    "slug": "bastingbrush",
+    "src": "fix:pastry brush",
+    "file": "Kitchen-Silicone-Brush.jpg",
+    "size": 28106,
+    "artist": "Evan-Amos",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Kitchen-Silicone-Brush.jpg",
+    "width": 3100
+  },
+  {
+    "slug": "kitchenshears",
+    "src": "wiki:Kitchen shears",
+    "file": "Standard_household_scissors.jpg",
+    "size": 40907,
+    "artist": "Doggerelblogger",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Standard_household_scissors.jpg",
+    "width": 1800
+  },
+  {
+    "slug": "saladspinner",
+    "src": "wiki:Salad spinner",
+    "file": "Slacentrifuge.jpg",
+    "size": 134924,
+    "artist": "Lymantria",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Slacentrifuge.jpg",
+    "width": 3200
+  },
+  {
+    "slug": "funnel",
+    "src": "wiki:Funnel",
+    "file": "Kitchen_Funnel.jpg",
+    "size": 57202,
+    "artist": "Donovan Govan.",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Kitchen_Funnel.jpg",
+    "width": 1587
+  },
+  {
+    "slug": "measuringspoons",
+    "src": "wiki:Measuring spoon",
+    "file": "Metric_Volume_Measuring_Vessels_Frontsides-In_use.jpg",
+    "size": 185481,
+    "artist": "carol",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Metric_Volume_Measuring_Vessels_Frontsides-In_use.jpg",
+    "width": 1600
+  },
+  {
+    "slug": "muffintin",
+    "src": "fix:muffin tin",
+    "file": "Muffins in oven.jpg",
+    "size": 104356,
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Muffins_in_oven.jpg",
+    "width": 800
+  },
+  {
+    "slug": "bakingsheet",
+    "src": "pick",
+    "file": "Vollrath Cookie Sheet (4858589805).jpg",
+    "size": 40664,
+    "artist": "Veganbaking.net from USA",
+    "license": "CC BY-SA 2.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Vollrath_Cookie_Sheet_(4858589805).jpg",
+    "width": 0
+  },
+  {
+    "slug": "wok",
+    "src": "wiki:Wok",
+    "file": "Wok_cooking.jpg",
+    "size": 111449,
+    "artist": "Wok to Walk International, S.L.",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Wok_cooking.jpg",
+    "width": 1024
+  },
+  {
+    "slug": "dutchoven",
+    "src": "commons:dutch oven pot",
+    "file": "Cocotte-2.jpg",
+    "size": 22572,
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Cocotte-2.jpg",
+    "width": 500
+  },
+  {
+    "slug": "steamerbasket",
+    "src": "fix:bamboo steamer basket",
+    "file": "Steamers.jpg",
+    "size": 44981,
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Steamers.jpg",
+    "width": 640
+  },
+  {
+    "slug": "cookiecutter",
+    "src": "fix:cookie cutters set",
+    "file": "Cutter, pastry (set) (AM 2015.4.1-1).jpg",
+    "size": 51304,
+    "artist": "not researched",
+    "license": "CC BY 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Cutter,_pastry_(set)_(AM_2015.4.1-1).jpg",
+    "width": 5031
+  },
+  {
+    "slug": "icecubetray",
+    "src": "fix:ice cube tray plastic",
+    "file": "Ice cube tray.jpg",
+    "size": 52258,
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Ice_cube_tray.jpg",
+    "width": 480
+  },
+  {
+    "slug": "nutcracker",
+    "src": "wiki:Nutcracker",
+    "file": "Benutzung_eines_Nussknackers.gif",
+    "size": 27762,
+    "artist": "Joho345",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Benutzung_eines_Nussknackers.gif",
+    "width": 442
+  },
+  {
+    "slug": "applecorer",
+    "src": "wiki:Apple corer",
+    "file": "Apple_Corer.jpg",
+    "size": 48609,
+    "artist": "MBatthish",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Apple_Corer.jpg",
+    "width": 1894
+  },
+  {
+    "slug": "eggslicer",
+    "src": "wiki:Egg slicer",
+    "file": "Eierschneider.jpg",
+    "size": 130207,
+    "artist": "de:user:Rainer Zenz",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Eierschneider.jpg",
+    "width": 1027
+  },
+  {
+    "slug": "citrusreamer",
+    "src": "fix:lemon reamer",
+    "file": "Lemon reamer.jpg",
+    "size": 136968,
+    "artist": "Wikidemon",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Lemon_reamer.jpg",
+    "width": 2272
+  },
+  {
+    "slug": "peppermill",
+    "src": "fix:pepper mill wooden",
+    "file": "Woodturning-15-Peppermills-gje.jpg",
+    "size": 152630,
+    "artist": "Gerd Eichmann",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Woodturning-15-Peppermills-gje.jpg",
+    "width": 2724
+  },
+  {
+    "slug": "splatterscreen",
+    "src": "pick",
+    "file": "Splatter guard on frying pan.JPG",
+    "size": 133057,
+    "artist": "TheLewisRepublic",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Splatter_guard_on_frying_pan.JPG",
+    "width": 0
+  },
+  {
+    "slug": "kitchenscale",
+    "src": "fix2:digital kitchen scale",
+    "file": "Scale and Weights.JPG",
+    "size": 130571,
+    "artist": "竹筍弟弟",
+    "license": "Copyrighted free use",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Scale_and_Weights.JPG",
+    "width": 1280
+  },
+  {
+    "slug": "mortarandpestle",
+    "src": "wiki:Mortar and pestle",
+    "file": "White-Mortar-and-Pestle.jpg",
+    "size": 86361,
+    "artist": "Evan-Amos",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:White-Mortar-and-Pestle.jpg",
+    "width": 2900
+  },
+  {
+    "slug": "pastryblender",
+    "src": "wiki:Pastry blender",
+    "file": "Kitchen-Dough-Blender.jpg",
+    "size": 71893,
+    "artist": "Evan-Amos",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Kitchen-Dough-Blender.jpg",
+    "width": 2600
+  },
+  {
+    "slug": "grillpan",
+    "src": "fix2:grill pan cast iron",
+    "file": "Grillpanna.jpg",
+    "size": 78663,
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Grillpanna.jpg",
+    "width": 1209
+  },
+  {
+    "slug": "mandoline",
+    "src": "wiki:Mandoline",
+    "file": "Cooking_Mandolin_with_Carrot.jpg",
+    "size": 88233,
+    "artist": "No machine-readable author provided. Alex Sims assumed (based on copyright claims).",
+    "license": "CC BY-SA 2.5",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Cooking_Mandolin_with_Carrot.jpg",
+    "width": 2592
+  },
+  {
+    "slug": "potatoricer",
+    "src": "fix:potato ricer tool",
+    "file": "Potato-ricer.jpg",
+    "size": 111567,
+    "artist": "No machine-readable author provided. Wikibofh~commonswiki assumed (based on copyright claims).",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Potato-ricer.jpg",
+    "width": 1868
+  },
+  {
+    "slug": "melonballer",
+    "src": "fix:melon baller tool",
+    "file": "WatermelonBaller.JPG",
+    "size": 88515,
+    "artist": "Vicki Nunn",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:WatermelonBaller.JPG",
+    "width": 601
+  },
+  {
+    "slug": "cherrypitter",
+    "src": "wiki:Cherry pitter",
+    "file": "Cherry-pitter-2.jpg",
+    "size": 64769,
+    "artist": "Una Smith",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Cherry-pitter-2.jpg",
+    "width": 787
+  },
+  {
+    "slug": "zester",
+    "src": "wiki:Zester",
+    "file": "Zesting_an_orange.jpg",
+    "size": 150703,
+    "artist": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Zesting_an_orange.jpg",
+    "width": 1690
+  },
+  {
+    "slug": "pipingbag",
+    "src": "wiki:Pastry bag",
+    "file": "Plastic_pastry_bag.JPG",
+    "size": 61163,
+    "artist": "No machine-readable author provided. Polyparadigm~commonswiki assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Plastic_pastry_bag.JPG",
+    "width": 909
+  },
+  {
+    "slug": "benchscraper",
+    "src": "wiki:Dough scraper",
+    "file": "Degskrapor.png",
+    "size": 154043,
+    "artist": "Micke",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Degskrapor.png",
+    "width": 1544
+  },
+  {
+    "slug": "fishscaler",
+    "src": "wiki:Fish scaler",
+    "file": "Urokotori.FishScaler.jpg",
+    "size": 26839,
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Urokotori.FishScaler.jpg",
+    "width": 500
+  },
+  {
+    "slug": "kitchentorch",
+    "src": "fix3:butane torch",
+    "file": "Small butane torch.jpg",
+    "size": 42320,
+    "artist": "User:Omegatron",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Small_butane_torch.jpg"
+  },
+  {
+    "slug": "juliennepeeler",
+    "src": "fix:julienne peeler",
+    "file": "Rasoir à julienne Castor 01.jpg",
+    "size": 56102,
+    "artist": "Coyau",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Rasoir_%C3%A0_julienne_Castor_01.jpg",
+    "width": 4285
+  },
+  {
+    "slug": "eggseparator",
+    "src": "fix:egg yolk separator",
+    "file": "Egg separator.jpg",
+    "size": 75084,
+    "artist": "Kimon Berlin",
+    "license": "CC BY-SA 2.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Egg_separator.jpg",
+    "width": 2364
+  },
+  {
+    "slug": "avocadoslicer",
+    "src": "wiki:Avocado",
+    "file": "Persea_americana_fruit_2.JPG",
+    "size": 192773,
+    "artist": "B.navez",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Persea_americana_fruit_2.JPG",
+    "width": 2592
+  },
+  {
+    "slug": "herbscissors",
+    "src": "fix:herb scissors",
+    "file": "Herb Scissors (37375462302).jpg",
+    "size": 184732,
+    "artist": "Rolf Dietrich Brecher from Germany",
+    "license": "CC BY-SA 2.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Herb_Scissors_(37375462302).jpg",
+    "width": 4290
+  },
+  {
+    "slug": "oysterknife",
+    "src": "fix:oyster knife shucking",
+    "file": "Oyster knife DSC09237.jpg",
+    "size": 35712,
+    "artist": "Unknown",
+    "license": "CC BY-SA 1.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Oyster_knife_DSC09237.jpg",
+    "width": 1424
+  },
+  {
+    "slug": "meatthermometer",
+    "src": "wiki:Meat thermometer",
+    "file": "Meat_thermometer.jpg",
+    "size": 41800,
+    "artist": "Bev Sykes from Davis, CA, USA",
+    "license": "CC BY 2.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Meat_thermometer.jpg",
+    "width": 418
+  },
+  {
+    "slug": "turkeybaster",
+    "src": "direct",
+    "file": "Baster.jpg",
+    "size": 4262,
+    "artist": "Alcinoe at English Wikibooks",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Baster.jpg",
+    "width": 255
+  },
+  {
+    "slug": "spiderstrainer",
+    "src": "fix:wire skimmer strainer",
+    "file": "DFC 4207 Golden-fried savory fritters sizzling in a large pan freshly scooped with a wire skimmer.jpg",
+    "size": 183624,
+    "artist": "PattayaPatrol",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:DFC_4207_Golden-fried_savory_fritters_sizzling_in_a_large_pan_freshly_scooped_with_a_wire_skimmer.jpg",
+    "width": 5568
+  },
+  {
+    "slug": "roastingrack",
+    "src": "wiki:Roasting pan",
+    "file": "Large_roasting_pan_with_rack.jpg",
+    "size": 71575,
+    "artist": "OttawaAC",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Large_roasting_pan_with_rack.jpg",
+    "width": 730
+  },
+  {
+    "slug": "raviolicutter",
+    "src": "pick",
+    "file": "Degsporre.JPG",
+    "size": 94156,
+    "artist": "Dnor",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Degsporre.JPG",
+    "width": 0
+  },
+  {
+    "slug": "grapefruitspoon",
+    "src": "fix:grapefruit spoon serrated",
+    "file": "Grapefruit spoon.jpg",
+    "size": 24409,
+    "artist": "The Epopt at en.wikipedia",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Grapefruit_spoon.jpg",
+    "width": 656
+  },
+  {
+    "slug": "doughdocker",
+    "src": "wiki:Pastry",
+    "file": "Making_puff_pastry_(butter_and_Water_dough_)_5.jpg",
+    "size": 62467,
+    "artist": "Roozitaa",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Making_puff_pastry_(butter_and_Water_dough_)_5.jpg",
+    "width": 5184
+  },
+  {
+    "slug": "pizzapeel",
+    "src": "direct",
+    "file": "Pizza shovel peel.jpg",
+    "size": 4831,
+    "artist": "Tracy Hansen",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Pizza_shovel_peel.jpg",
+    "width": 100
+  },
+  {
+    "slug": "caketester",
+    "src": "wiki:Skewer",
+    "file": "Wooden_skewers.jpg",
+    "size": 157567,
+    "artist": "Hans Braxmeier",
+    "license": "CC0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Wooden_skewers.jpg",
+    "width": 3264
+  },
+  {
+    "slug": "boningknife",
+    "src": "commons:boning knife",
+    "file": "Hendi Ausbeinmesser 2016-08-22 (1).jpg",
+    "size": 16321,
+    "artist": "Tsungam",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Hendi_Ausbeinmesser_2016-08-22_(1).jpg",
+    "width": 5999
+  },
+  {
+    "slug": "cleaver",
+    "src": "wiki:Cleaver",
+    "file": "Couperet_à_débiter_les_lapins_04.jpg",
+    "size": 29954,
+    "artist": "Coyau",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Couperet_%C3%A0_d%C3%A9biter_les_lapins_04.jpg",
+    "width": 5179
+  },
+  {
+    "slug": "spurtle",
+    "src": "commons:spurtle porridge",
+    "file": "Spurtle.jpg",
+    "size": 25643,
+    "artist": "Burn the asylum",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Spurtle.jpg",
+    "width": 268
+  },
+  {
+    "slug": "chinois",
+    "src": "wiki:Chinois",
+    "file": "Chinoise.jpg",
+    "size": 85279,
+    "artist": "Sashafklein (talk) (Uploads)",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Chinoise.jpg",
+    "width": 3008
+  },
+  {
+    "slug": "tamis",
+    "src": "wiki:Tamis",
+    "file": "Tamises_metalicos.JPG",
+    "size": 125508,
+    "artist": "João Carvalho",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Tamises_metalicos.JPG",
+    "width": 2608
+  },
+  {
+    "slug": "aebleskiverpan",
+    "src": "fix:aebleskiver pan",
+    "file": "Aebleskiver.jpg",
+    "size": 57453,
+    "artist": "JoachimK",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Aebleskiver.jpg",
+    "width": 800
+  },
+  {
+    "slug": "buttercurler",
+    "src": "fix:butter curler tool",
+    "file": "Butter curler.jpg",
+    "size": 30571,
+    "artist": "Glane23",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Butter_curler.jpg",
+    "width": 4016
+  },
+  {
+    "slug": "mezzaluna",
+    "src": "wiki:Mezzaluna",
+    "file": "Cucina_032.jpg",
+    "size": 243613,
+    "artist": "Kagor",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Cucina_032.jpg",
+    "width": 1600
+  },
+  {
+    "slug": "channelknife",
+    "src": "fix3:channel knife",
+    "file": "Channel Excavation - DPLA - 23a5e100c2174882fcfc04fb95259534.jpg",
+    "size": 190436,
+    "artist": "Department of the Interior. U.S. Fish and Wildlife Service. National Conservation Training Center. 10/1997-8888",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Channel_Excavation_-_DPLA_-_23a5e100c2174882fcfc04fb95259534.jpg"
+  },
+  {
+    "slug": "cannolitube",
+    "src": "wiki:Cannoli",
+    "file": "Cannoli_siciliani_al_Caffè_Impero,_ad_Alcamo.jpg",
+    "size": 208521,
+    "artist": "Ensahequ",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Cannoli_siciliani_al_Caff%C3%A8_Impero,_ad_Alcamo.jpg",
+    "width": 2675
+  },
+  {
+    "slug": "madeleinepan",
+    "src": "fix:madeleine pan mould",
+    "file": "Madeleines pan.jpg",
+    "size": 135371,
+    "artist": "Absinthe",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Madeleines_pan.jpg",
+    "width": 1211
+  },
+  {
+    "slug": "spatzlemaker",
+    "src": "fix2:Spätzlepresse",
+    "file": "Spätzlepresse1.jpg",
+    "size": 192384,
+    "artist": "Stefan-Xp",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Sp%C3%A4tzlepresse1.jpg",
+    "width": 2592
+  },
+  {
+    "slug": "nutmeggrater",
+    "src": "fix:nutmeg grater",
+    "file": "Nutmeg Grater MET DP233275.jpg",
+    "size": 36536,
+    "artist": "Unknown",
+    "license": "CC0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Nutmeg_Grater_MET_DP233275.jpg",
+    "width": 2817
+  },
+  {
+    "slug": "breadlame",
+    "src": "wiki:Lame (kitchen tool)",
+    "file": "Lame-breadslahing.jpg",
+    "size": 53411,
+    "artist": "User:Nleamy",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Lame-breadslahing.jpg",
+    "width": 1792
+  },
+  {
+    "slug": "couscoussier",
+    "src": "wiki:Couscoussier",
+    "file": "Couscoussier.jpg",
+    "size": 83102,
+    "artist": "Catskingloves",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Couscoussier.jpg",
+    "width": 636
+  },
+  {
+    "slug": "tagine",
+    "src": "wiki:Tajine",
+    "file": "Tajine-marocain-un-plat-varie-et-sain_(cropped).jpg",
+    "size": 241092,
+    "artist": "BBouchra00",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Tajine-marocain-un-plat-varie-et-sain_(cropped).jpg",
+    "width": 737
+  },
+  {
+    "slug": "escargottongs",
+    "src": "fix:snail tongs",
+    "file": "You know you are in French restaurant when there is a snail fork and snail tongs on your napkin.jpg",
+    "size": 171356,
+    "artist": "Kgbo",
+    "license": "CC BY-SA 4.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:You_know_you_are_in_French_restaurant_when_there_is_a_snail_fork_and_snail_tongs_on_your_napkin.jpg",
+    "width": 2713
+  },
+  {
+    "slug": "butterpaddles",
+    "src": "fix2:scotch hands butter",
+    "file": "ButterPatsBedfordMuseum.JPG",
+    "size": 99838,
+    "artist": "Simon Speed",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:ButterPatsBedfordMuseum.JPG",
+    "width": 1248
+  },
+  {
+    "slug": "krumkakeiron",
+    "src": "fix2:krumkakejern",
+    "file": "Krumkake iron with lion.jpg",
+    "size": 195927,
+    "artist": "Roede",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Krumkake_iron_with_lion.jpg",
+    "width": 1234
+  },
+  {
+    "slug": "pizzelleiron",
+    "src": "fix:pizzelle iron",
+    "file": "Waffle Maker.jpg",
+    "size": 194635,
+    "artist": "Donovan Govan.",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Waffle_Maker.jpg",
+    "width": 1128
+  },
+  {
+    "slug": "dariolemould",
+    "src": "wiki:Dariole",
+    "file": "Dariole_Molds.jpg",
+    "size": 26621,
+    "artist": "Cooks &amp; Kitchens",
+    "license": "CC BY 2.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Dariole_Molds.jpg",
+    "width": 709
+  },
+  {
+    "slug": "lardingneedle",
+    "src": "wiki:Larding",
+    "file": "Tourtiere_Lard.jpg",
+    "size": 133903,
+    "artist": "Dominic Genest",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Tourtiere_Lard.jpg",
+    "width": 1024
+  },
+  {
+    "slug": "trussingneedle",
+    "src": "fix:trussing needle",
+    "file": "Trussing Needle 0.jpg",
+    "size": 38395,
+    "artist": "Ll1324",
+    "license": "CC0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Trussing_Needle_0.jpg",
+    "width": 3967
+  },
+  {
+    "slug": "comal",
+    "src": "wiki:Comal (cookware)",
+    "file": "Comal2.jpg",
+    "size": 175041,
+    "artist": "Glane23",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Comal2.jpg",
+    "width": 2039
+  },
+  {
+    "slug": "molcajete",
+    "src": "wiki:Molcajete",
+    "file": "Molcajete_y_tejolote.jpg",
+    "size": 168357,
+    "artist": "Kostasplus KONSTANTINOS TROVAS",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Molcajete_y_tejolote.jpg",
+    "width": 4713
+  },
+  {
+    "slug": "suribachi",
+    "src": "wiki:Suribachi",
+    "file": "Suribachi.MortarPestle.jpg",
+    "size": 22768,
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Suribachi.MortarPestle.jpg",
+    "width": 640
+  },
+  {
+    "slug": "foodmill",
+    "src": "wiki:Food mill",
+    "file": "Food_Mill.jpg",
+    "size": 42311,
+    "artist": "Rickwakenyc at English Wikipedia",
+    "license": "Public domain",
+    "descUrl": "https://commons.wikimedia.org/wiki/File:Food_Mill.jpg",
+    "width": 500
+  }
+]

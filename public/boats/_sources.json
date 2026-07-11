@@ -1,0 +1,602 @@
+{
+  "jetski": {
+    "file": "File:Couple_of_teenagers_riding_a_jetski_splashing_on_the_Mekong_in_Laos.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACouple_of_teenagers_riding_a_jetski_splashing_on_the_Mekong_in_Laos.jpg"
+  },
+  "cargoship": {
+    "file": "File:Cargo_Ship_Puerto_Cortes.jpg",
+    "author": "Luis Alfredo Romero",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACargo_Ship_Puerto_Cortes.jpg"
+  },
+  "fishingtrawler": {
+    "file": "File:Trawler_Skagen_harbour.jpg",
+    "author": "skagman",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ATrawler_Skagen_harbour.jpg"
+  },
+  "pirateship": {
+    "file": "File:Francis-drake-galleon-southwark-london-uk.jpg",
+    "author": "Jose L. Marin",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3AFrancis-drake-galleon-southwark-london-uk.jpg"
+  },
+  "raft": {
+    "file": "File:Bamboo raft 20221019 134124.jpg",
+    "author": "CaptJayRuffins",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABamboo_raft_20221019_134124.jpg"
+  },
+  "houseboat": {
+    "file": "File:LakeUnionHouseboat.jpg",
+    "author": "Waqcku at English Wikipedia",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ALakeUnionHouseboat.jpg"
+  },
+  "pontoonboat": {
+    "file": "File:Pontoon_boat.jpg",
+    "author": "The original uploader was Ke4roh at English Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APontoon_boat.jpg"
+  },
+  "paddlesteamer": {
+    "file": "File:SteamboatBenCampbellb.jpg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASteamboatBenCampbellb.jpg"
+  },
+  "icebreaker": {
+    "file": "File:120106-G-IA651-272_(6668116881).jpg",
+    "author": "U.S. Department of Defense Current Photos",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3A120106-G-IA651-272_(6668116881).jpg"
+  },
+  "bulkcarrier": {
+    "file": "File:Sabrina_I_cropped.jpg",
+    "author": "Nsandel at English Wikipedia",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASabrina_I_cropped.jpg"
+  },
+  "destroyer": {
+    "file": "File:HMAS_Hobart_(DDG_39)_participating_in_the_International_Fleet_Review_2022.jpg",
+    "author": "https://www.mod.go.jp/msdf/index.html 海上自衛隊",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHMAS_Hobart_(DDG_39)_participating_in_the_International_Fleet_Review_2022.jpg"
+  },
+  "dragonboat": {
+    "file": "File:Ribnitzer Hafenfest, Ribnitz-Damgarten ( 1060949).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ARibnitzer_Hafenfest%2C_Ribnitz-Damgarten_(_1060949).jpg"
+  },
+  "outriggercanoe": {
+    "file": "File:Samudra_Raksa_dari_depan,_dengan_layar_terkembang_seperti_sayap_angsa.jpg",
+    "author": "Phillip Beale (photograph)Yusi Avianto Pareanom (book)Publisher: Kementerian Kebudayaan dan Pariwisata (Ministry of Culture and Tourism)",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASamudra_Raksa_dari_depan%2C_dengan_layar_terkembang_seperti_sayap_angsa.jpg"
+  },
+  "windsurfer": {
+    "file": "File:Hood_river_windsurfers_20060701_0759.jpeg",
+    "author": "EncMstr",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHood_river_windsurfers_20060701_0759.jpeg"
+  },
+  "cabincruiser": {
+    "file": "File:Our_Haven2.jpg",
+    "author": "The original uploader was Magpie5456 at English Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AOur_Haven2.jpg"
+  },
+  "rib": {
+    "file": "File:Falmouth_irb_02.jpg",
+    "author": "Dyvroeth at English Wikipedia",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3AFalmouth_irb_02.jpg"
+  },
+  "bassboat": {
+    "file": "File:Bassboat1.jpg",
+    "author": "Dennis Brown",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABassboat1.jpg"
+  },
+  "paddleboard": {
+    "file": "File:Jérémy-Massière_stand-up-paddle_biscarrosse-2.JPG",
+    "author": "A.belloc",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AJ%C3%A9r%C3%A9my-Massi%C3%A8re_stand-up-paddle_biscarrosse-2.JPG"
+  },
+  "pedalo": {
+    "file": "File:Waterbike_on_Lake_St._Clair_(1963).jpg",
+    "author": "GarlandFamily",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AWaterbike_on_Lake_St._Clair_(1963).jpg"
+  },
+  "narrowboat": {
+    "file": "File:Bugsworth_058069.jpg",
+    "author": "RHaworth",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABugsworth_058069.jpg"
+  },
+  "cutter": {
+    "file": "File:WMEC_Harriet_Lane.jpg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AWMEC_Harriet_Lane.jpg"
+  },
+  "riverboat": {
+    "file": "File:Amadagio on the Danube side view.jpg",
+    "author": "High Contrast",
+    "license": "CC BY 3.0 de",
+    "url": "https://commons.wikimedia.org/wiki/File%3AAmadagio_on_the_Danube_side_view.jpg"
+  },
+  "whaleboat": {
+    "file": "File:Whaleboat from USS Midway (CV-41) during a race in 1979.jpg",
+    "author": "U.S. Navy",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AWhaleboat_from_USS_Midway_(CV-41)_during_a_race_in_1979.jpg"
+  },
+  "dredger": {
+    "file": "File:Pallieter Hopper Dredger R04.jpg",
+    "author": "Marc Ryckaert",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APallieter_Hopper_Dredger_R04.jpg"
+  },
+  "junk": {
+    "file": "File:Guangzhou,_Chinese_Boats_by_Lai_Afong,_cа_1880.jpg",
+    "author": "Lai Afong",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AGuangzhou%2C_Chinese_Boats_by_Lai_Afong%2C_c%D0%B0_1880.jpg"
+  },
+  "yawl": {
+    "file": "File:Chubasco_photo_Don_Ramey_Logan.jpg",
+    "author": "Don Ramey Logan",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AChubasco_photo_Don_Ramey_Logan.jpg"
+  },
+  "coracle": {
+    "file": "File:Coracles_River_Teifi.jpg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACoracles_River_Teifi.jpg"
+  },
+  "punt": {
+    "file": "File:CambridgePunt.jpg",
+    "author": "Renata (talk)",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACambridgePunt.jpg"
+  },
+  "scow": {
+    "file": "File:Sailing_Scow_In_New_Zealand.jpg",
+    "author": "The National Library of New Zealand (Alexander Turnbull Library) states specifically that the author is unknown. See relevance of this below.",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASailing_Scow_In_New_Zealand.jpg"
+  },
+  "skiff": {
+    "file": "File:Rowing Skiff at Cromarty Harbour - geograph.org.uk - 6983630.jpg",
+    "author": "Jennifer Petrie",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ARowing_Skiff_at_Cromarty_Harbour_-_geograph.org.uk_-_6983630.jpg"
+  },
+  "jonboat": {
+    "file": "File:Jon boat, 2023.jpg",
+    "author": "JJonahJackalope",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AJon_boat%2C_2023.jpg"
+  },
+  "wherry": {
+    "file": "File:Wherry01.JPG",
+    "author": "Motmit",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AWherry01.JPG"
+  },
+  "cog": {
+    "file": "File:Ubena_von_Bremen_Kiel2007_1_(cropped).jpg",
+    "author": "VollwertBIT",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3AUbena_von_Bremen_Kiel2007_1_(cropped).jpg"
+  },
+  "longship": {
+    "file": "File:VIKING LONGSHIP \"SEA STALLION\" ARRIVES IN DUBLIN (1116712951).jpg",
+    "author": "William Murphy from Dublin, Ireland",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AVIKING_LONGSHIP_%22SEA_STALLION%22_ARRIVES_IN_DUBLIN_(1116712951).jpg"
+  },
+  "catboat": {
+    "file": "File:Catboat (Roscoff)-cd01.jpg",
+    "author": "Christian Duprez",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACatboat_(Roscoff)-cd01.jpg"
+  },
+  "hydrofoil": {
+    "file": "File:Kometa.jpg",
+    "author": "Ojj! 600",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AKometa.jpg"
+  },
+  "fireboat": {
+    "file": "File:LFB_fireboat.JPG",
+    "author": "Iridescenti",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ALFB_fireboat.JPG"
+  },
+  "pilotboat": {
+    "file": "File:Pilot_boat_in_Victoria,_British_Columbia.jpg",
+    "author": "Cullen328",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APilot_boat_in_Victoria%2C_British_Columbia.jpg"
+  },
+  "shipoftheline": {
+    "file": "File:Victory Portsmouth um 1900.jpg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AVictory_Portsmouth_um_1900.jpg"
+  },
+  "galley": {
+    "file": "File:Real Galley Replica Barcelona.jpg",
+    "author": "David Merrett from Daventry, England.",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AReal_Galley_Replica_Barcelona.jpg"
+  },
+  "sternwheeler": {
+    "file": "File:SteamboatBenCampbellb.jpg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASteamboatBenCampbellb.jpg"
+  },
+  "trawleryacht": {
+    "file": "File:Colvic trawler yacht moored in York Sep24 01.jpg",
+    "author": "Malcolmxl5",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AColvic_trawler_yacht_moored_in_York_Sep24_01.jpg"
+  },
+  "gig": {
+    "file": "File:Rashleigh, a gig outside the boathouse, Charlestown, Cornwall - October 2024.jpg",
+    "author": "Mutney",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ARashleigh%2C_a_gig_outside_the_boathouse%2C_Charlestown%2C_Cornwall_-_October_2024.jpg"
+  },
+  "dhow": {
+    "file": "File:Dhow_znz.jpg",
+    "author": "Muhammad Mahdi Karim",
+    "license": "GFDL 1.2",
+    "url": "https://commons.wikimedia.org/wiki/File%3ADhow_znz.jpg"
+  },
+  "felucca": {
+    "file": "File:Felucca_R02.jpg",
+    "author": "Marc Ryckaert (MJJR)",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AFelucca_R02.jpg"
+  },
+  "pirogue": {
+    "file": "File:Madagascar_-_Traditional_fishing_pirogue.jpg",
+    "author": "WRI Staff",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AMadagascar_-_Traditional_fishing_pirogue.jpg"
+  },
+  "caravel": {
+    "file": "File:LaPinta.jpg",
+    "author": "Miguel Ángel \"fotógrafo\"",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3ALaPinta.jpg"
+  },
+  "dhoni": {
+    "file": "File:Maldives (15382979832).jpg",
+    "author": "Laika ac from UK",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AMaldives_(15382979832).jpg"
+  },
+  "umiak": {
+    "file": "File:Umiaq_skin_boat.jpg",
+    "author": "Floyd Davidson",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AUmiaq_skin_boat.jpg"
+  },
+  "currach": {
+    "file": "File:TwoFishermenIn_CurrachIreland1986.jpg",
+    "author": "Eddi Laumanns aka RX-Guru",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ATwoFishermenIn_CurrachIreland1986.jpg"
+  },
+  "jangada": {
+    "file": "File:Jangada-Tibau.jpg",
+    "author": "Patrick - Patrick",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AJangada-Tibau.jpg"
+  },
+  "reedboat": {
+    "file": "File:Pérou les uros du lac Titicaca (5).jpg",
+    "author": "PIERRE ANDRE LECLERCQ",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AP%C3%A9rou_les_uros_du_lac_Titicaca_(5).jpg"
+  },
+  "proa": {
+    "file": "File:Proa1.jpg",
+    "author": "Unknown photographer",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AProa1.jpg"
+  },
+  "waka": {
+    "file": "File:Ngatokimatawhaorua.jpg",
+    "author": "Steve",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ANgatokimatawhaorua.jpg"
+  },
+  "sandolo": {
+    "file": "File:(Venise)_-_Sandolo.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3A(Venise)_-_Sandolo.jpg"
+  },
+  "bragozzo": {
+    "file": "File:Bragozzo.jpg",
+    "author": "Arosio Stefano",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABragozzo.jpg"
+  },
+  "moliceiro": {
+    "file": "File:Canal in Aveiro 12.jpg",
+    "author": "John Samuel",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACanal_in_Aveiro_12.jpg"
+  },
+  "baghlah": {
+    "file": "File:Baghlah sailing ship.jpg",
+    "author": "Aliparsa",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABaghlah_sailing_ship.jpg"
+  },
+  "caballito": {
+    "file": "File:Huanchaco.jpg",
+    "author": "Melissa Thereliz from Trujillo, Perú",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHuanchaco.jpg"
+  },
+  "mokoro": {
+    "file": "File:Makoros2.jpg",
+    "author": "JackyR",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3AMakoros2.jpg"
+  },
+  "shikara": {
+    "file": "File:Shikara_-_Sukhna_Lake_-_Chandigarh_2016-08-07_(edit).jpg",
+    "author": "Original: Biswarup Ganguly Derivative work: UnpetitproleX",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AShikara_-_Sukhna_Lake_-_Chandigarh_2016-08-07_(edit).jpg"
+  },
+  "sailboat": {
+    "file": "File:Sailing on Lake Constance (1X7A0062).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASailing_on_Lake_Constance_(1X7A0062).jpg"
+  },
+  "cruiseship": {
+    "file": "File:Icon_of_the_Seas_Puerto_Rico_2025_(cropped).jpg",
+    "author": "Corey Seeman",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Icon_of_the_Seas_Puerto_Rico_2025_(cropped).jpg"
+  },
+  "submarine": {
+    "file": "File:US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg",
+    "author": "U.S. Navy photo by General Dynamics Electric Boat",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg"
+  },
+  "kayak": {
+    "file": "File:Mohammad_Abubakar_Durrani_with_Kayak_paddlers_Pakistan_in_snow_training_2012_(Hanna_Lake).jpg",
+    "author": "Simon KB",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mohammad_Abubakar_Durrani_with_Kayak_paddlers_Pakistan_in_snow_training_2012_(Hanna_Lake).jpg"
+  },
+  "canoe": {
+    "file": "File:Morris-canoe-600.jpg",
+    "author": "Motorrad-67 at English Wikipedia",
+    "license": "Attribution",
+    "url": "https://commons.wikimedia.org/wiki/File:Morris-canoe-600.jpg"
+  },
+  "yacht": {
+    "file": "File:Bavaria_Cruiser_45.jpg",
+    "author": "Justin Leighton",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bavaria_Cruiser_45.jpg"
+  },
+  "ferry": {
+    "file": "File:Stena Line Ferry - geograph.org.uk - 3019437.jpg",
+    "author": "Billy McCrorie",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AStena_Line_Ferry_-_geograph.org.uk_-_3019437.jpg"
+  },
+  "aircraftcarrier": {
+    "file": "File:Fleet_5_nations.jpg",
+    "author": "U.S. Navy/PH3 Alta I. Cutler",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Fleet_5_nations.jpg"
+  },
+  "tugboat": {
+    "file": "File:Tugboat Svitzer Redhead in Fremantle Harbour, July 2023 01.jpg",
+    "author": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ATugboat_Svitzer_Redhead_in_Fremantle_Harbour%2C_July_2023_01.jpg"
+  },
+  "gondola": {
+    "file": "File:Gondola_Ride.jpg",
+    "author": "Njsmith3",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gondola_Ride.jpg"
+  },
+  "speedboat": {
+    "file": "File:Motorboat_at_Kankaria_lake.JPG",
+    "author": "Kondicherry",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Motorboat_at_Kankaria_lake.JPG"
+  },
+  "rowboat": {
+    "file": "File:Rowboat in Aswan, March 2023.jpg",
+    "author": "Votpuske",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ARowboat_in_Aswan%2C_March_2023.jpg"
+  },
+  "catamaran": {
+    "file": "File:Bladef16-1up.jpg",
+    "author": "Jupiter405",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bladef16-1up.jpg"
+  },
+  "lifeboat": {
+    "file": "File:Lifeboat.17-31.underway.arp.jpg",
+    "author": "Adrian Pingstone (User:Arpingstone)",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Lifeboat.17-31.underway.arp.jpg"
+  },
+  "oiltanker": {
+    "file": "File:Supertanker_AbQaiq.jpg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Supertanker_AbQaiq.jpg"
+  },
+  "hovercraft": {
+    "file": "File:Formel1_hovercraft.jpg",
+    "author": "Thomas Philipp",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Formel1_hovercraft.jpg"
+  },
+  "inflatableboat": {
+    "file": "File:Zodiac_on_the_beach.jpg",
+    "author": "Rootology",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Zodiac_on_the_beach.jpg"
+  },
+  "trimaran": {
+    "file": "File:BMW_Oracle_BOR90.JPG",
+    "author": "Limeydal",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:BMW_Oracle_BOR90.JPG"
+  },
+  "barge": {
+    "file": "File:Barge_on_River_Thames,_London_-_Dec_2009.jpg",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Barge_on_River_Thames%2C_London_-_Dec_2009.jpg"
+  },
+  "schooner": {
+    "file": "File:Lewis_R._French_NHL.jpg",
+    "author": "Raphodon",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lewis_R._French_NHL.jpg"
+  },
+  "clipper": {
+    "file": "File:Cutty Sark (January 2024) 04.jpg",
+    "author": "DiscoA340",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACutty_Sark_(January_2024)_04.jpg"
+  },
+  "containership": {
+    "file": "File:MAERSK_MC_KINNEY_MÖLLER_&_MARSEILLE_MAERSK_(48694054418).jpg",
+    "author": "kees torn",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:MAERSK_MC_KINNEY_M%C3%96LLER_%26_MARSEILLE_MAERSK_(48694054418).jpg"
+  },
+  "frigate": {
+    "file": "File:USS Constitution 3.jpg",
+    "author": "CurlingMan13",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AUSS_Constitution_3.jpg"
+  },
+  "battleship": {
+    "file": "File:BB61_USS_Iowa_BB61_broadside_USN.jpg",
+    "author": "PH1 Jeff Hilton",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:BB61_USS_Iowa_BB61_broadside_USN.jpg"
+  },
+  "airboat": {
+    "file": "File:Air_boat.jpg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Air_boat.jpg"
+  },
+  "dukw": {
+    "file": "File:DUKW.image2.army.jpg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:DUKW.image2.army.jpg"
+  },
+  "brigantine": {
+    "file": "File:Brest2012 - Parade Douarnenez 91.jpg",
+    "author": "Ph. Saget",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABrest2012_-_Parade_Douarnenez_91.jpg"
+  },
+  "brig": {
+    "file": "File:Brig Niagara 1913 edit.jpg",
+    "author": "Library of Congress Prints and Photographs Division",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABrig_Niagara_1913_edit.jpg"
+  },
+  "ketch": {
+    "file": "File:Swan65_Desperado_GBR1665_2011_Euros2.jpg",
+    "author": "Yachty4000",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Swan65_Desperado_GBR1665_2011_Euros2.jpg"
+  },
+  "sloop": {
+    "file": "File:C55_Kiel2007.jpg",
+    "author": "VollwertBIT",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:C55_Kiel2007.jpg"
+  },
+  "carrack": {
+    "file": "File:Nao Victoria (ship, 1992), Sète cf04.jpg",
+    "author": "Christian Ferrer",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ANao_Victoria_(ship%2C_1992)%2C_S%C3%A8te_cf04.jpg"
+  },
+  "trireme": {
+    "file": "File:Greek_Galleys.jpg",
+    "author": "Tungsten",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Greek_Galleys.jpg"
+  },
+  "sampan": {
+    "file": "File:YangtzeSampan.jpg",
+    "author": "The original uploader was Leonard G. at English Wikipedia.",
+    "license": "CC SA 1.0",
+    "url": "https://commons.wikimedia.org/wiki/File:YangtzeSampan.jpg"
+  },
+  "xebec": {
+    "file": "File:Scale model of a 24-gun xebec-MnM 13 MG 13-IMG 1399.JPG",
+    "author": "Rama",
+    "license": "CC BY-SA 3.0 fr",
+    "url": "https://commons.wikimedia.org/wiki/File%3AScale_model_of_a_24-gun_xebec-MnM_13_MG_13-IMG_1399.JPG"
+  },
+  "sambuk": {
+    "file": "File:Dhau.jpg",
+    "author": "Dr. Hecker",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Dhau.jpg"
+  },
+  "vinta": {
+    "file": "File:Regatta2017.jpg",
+    "author": "Jojo Lacerona",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Regatta2017.jpg"
+  },
+  "bangka": {
+    "file": "File:LONELY_OUTRIGGER.jpg",
+    "author": "Michael",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LONELY_OUTRIGGER.jpg"
+  },
+  "jukung": {
+    "file": "File:Balinese_jukung.jpg",
+    "author": "User:Markkeatinge",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Balinese_jukung.jpg"
+  },
+  "tongkang": {
+    "file": "File:COLLECTIE_TROPENMUSEUM_Een_Chinese_Tongkang_voor_een_laadsteiger_op_het_eiland_Mendol_bij_Bengkalis_Sumatra's_Oostkust_TMnr_10010601.jpg",
+    "author": "Wereldmuseum Amsterdam",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Een_Chinese_Tongkang_voor_een_laadsteiger_op_het_eiland_Mendol_bij_Bengkalis_Sumatra's_Oostkust_TMnr_10010601.jpg"
+  }
+}

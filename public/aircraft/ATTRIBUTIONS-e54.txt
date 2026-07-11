@@ -1,0 +1,105 @@
+# GuessSync E54 «Guess the Aircraft» — image attributions (Wikimedia Commons)
+# All photos sourced from the aircraft's English Wikipedia lead image (Wikimedia Commons).
+# Licenses are public-domain / CC0 / CC-BY / CC-BY-SA. Retrieved 2026-07-11.
+# slug | name | author | license | url
+
+boeing747 | Boeing 747 | Iberia Airlines | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:B-747_Iberia.jpg
+a380 | Airbus A380 | Maarten Visser from Capelle aan den IJssel, Nederland | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:A6-EDY_A380_Emirates_31_jan_2013_jfk_(8442269364)_(cropped).jpg
+concorde | Concorde | Eduard Marmet | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg
+boeing737 | Boeing 737 | File:South African Airlink Boeing 737-200 Smith.jpg: Montague Smith derivative work: Altair78 | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg
+cessna172 | Cessna 172 | Peter Bakema | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Cessna_172S_Skyhawk_SP,_Private_JP6817606.jpg
+spitfire | Supermarine Spitfire | Airwolfhound | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Spitfire_-_Season_Premiere_Airshow_2018_(cropped).jpg
+f16 | F-16 Fighting Falcon | Master Sgt. Andy Dunaway | Public domain | https://commons.wikimedia.org/wiki/File:F-16_June_2008.jpg
+apache | AH-64 Apache | "Photo Courtesy of U.S. Army" - by Tech. Sgt. Andy Dunaway | Public domain | https://commons.wikimedia.org/wiki/File:AH-64D_Apache_Longbow.jpg
+boeing777 | Boeing 777 | Aero Icarus from Zürich, Switzerland | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Cathay_Pacific_Boeing_777-200;_B-HNL@HKG.jpg
+f22 | F-22 Raptor | F-22_Raptor.JPG: Master Sgt. Andy Dunaway | Public domain | https://commons.wikimedia.org/wiki/File:F-22_Raptor_edit1_(cropped).jpg
+sr71 | SR-71 Blackbird | USAF / Judson Brohmer | Public domain | https://commons.wikimedia.org/wiki/File:Lockheed_SR-71_Blackbird.jpg
+c130 | C-130 Hercules | U.S. Air Force photo by Tech. Sgt. Howard Blair | Public domain | https://commons.wikimedia.org/wiki/File:Lockheed_C-130_Hercules.jpg
+chinook | CH-47 Chinook | Sgt. Steven Galimore | CC0 | https://commons.wikimedia.org/wiki/File:CH-47_assigned_to_3rd_General_Support_Aviation_Battalion,_82nd_Combat_Aviation_Brigade.jpg
+fokkerdr1 | Fokker Dr.I | Collectie Van Beek | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Fokker_Dr.I_driedekker_2161_026221.jpg
+f18 | F/A-18 Hornet | US Air Force | Public domain | https://commons.wikimedia.org/wiki/File:FA-18C_desert_refueling.jpg
+b2spirit | B-2 Spirit | Royal Air Force | OGL v1.0 | https://commons.wikimedia.org/wiki/File:RAF_F-35B_integration_flying_training_with_USAF_B-2_30092019_-_4.jpg
+a320 | Airbus A320 | Pedro Aragão | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Airbus_A320-214,_Airbus_Industrie_JP7617615.jpg
+boeing787 | Boeing 787 Dreamliner | pjs2005 from Hampshire, UK | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Boeing_787_N1015B_ANA_Airlines_(27611880663)_(cropped).jpg
+f35 | F-35 Lightning II | U.S. Air Force photo by Master Sgt. Donald R. Allen | Public domain | https://commons.wikimedia.org/wiki/File:F-35A_flight_(cropped).jpg
+f14 | F-14 Tomcat | U.S. Navy photo | Public domain | https://commons.wikimedia.org/wiki/File:US_Navy_051105-F-5480T-005_An_F-14D_Tomcat_conducts_a_mission_over_the_Persian_Gulf-region.jpg
+b52 | B-52 Stratofortress | Airman 1st Class Victor J. Caputo | Public domain | https://commons.wikimedia.org/wiki/File:B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_(cropped).jpg
+p51 | P-51 Mustang | USAAF/361st FG Association (via Al Richards) | Public domain | https://commons.wikimedia.org/wiki/File:P-51-361.jpg
+blackhawk | UH-60 Black Hawk | 147th Aviation Regiment | Public domain | https://commons.wikimedia.org/wiki/File:National-Guard-UH-60-Black-Hawk-operations-at-Fort-McCoy.jpg
+wrightflyer | Wright Flyer | John T. Daniels | Public domain | https://commons.wikimedia.org/wiki/File:First_flight2.jpg
+bf109 | Messerschmitt Bf 109 | Hebenstreit | CC BY-SA 3.0 de | https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-662-6659-37,_Flugzeug_Messerschmitt_Me_109.jpg
+a350 | Airbus A350 | Steve Lynes | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:EGLF_-_Airbus_A350-941_-_F-WZNW.jpg
+boeing767 | Boeing 767 | Delta_Air_Lines_B767-300_N130DL.jpg: Richard Snyder from San Jose, CA, United States of America derivative work: Altair78 (talk) | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Delta_Air_Lines_B767-332_N130DL.jpg
+boeing757 | Boeing 757 | 4300streetcar | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Delta_757-200_N713TW_on_final_approach_to_Boston_Dec_2024_2.jpg
+boeing727 | Boeing 727 | Iberia Airlines | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:B-727_Iberia_(cropped).jpg
+a330 | Airbus A330 | Masakatsu Ukon | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Turkish_Airlines,_Airbus_A330-300_TC-JNL_NRT_(23708073592).jpg
+a340 | Airbus A340 | MarcelX42 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Frankfurt_Airport_Lufthansa_Airbus_A340-313_D-AIGY_(DSC02566).jpg
+md80 | McDonnell Douglas MD-80 | AKS.9955 | CC0 | https://commons.wikimedia.org/wiki/File:MD83_Aircraft_of_TezJet.jpg
+e190 | Embraer E190 | Richard Vandervord | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:KLM_Cityhopper_-_Embraer_190LR_-_AN2571563.jpg
+crj | Bombardier CRJ | Mark Harkin | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:EC-JTU_(8544702097).jpg
+cessna152 | Cessna 152 | MilborneOne | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:G-BRNE-Cessna152.jpg
+pipercherokee | Piper PA-28 Cherokee | Mike Burdett | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:G-AVRZ_Piper_PA-28-180_Cherokee_C_at_Northrepps.jpg
+a10 | A-10 Thunderbolt II | Master Sgt. William Greer, U.S. Air Force | Public domain | https://commons.wikimedia.org/wiki/File:Fairchild_Republic_A-10_Thunderbolt_II_-_32156159151.jpg
+f15 | F-15 Eagle | Airman 1st Class Matthew Seefeldt | Public domain | https://commons.wikimedia.org/wiki/File:F-15C_Eagle_from_the_44th_Fighter_Squadron_flies_during_a_routine_training_exercise_April_15,_2019.jpg
+f4phantom | F-4 Phantom II | USAF | Public domain | https://commons.wikimedia.org/wiki/File:QF-4_Holloman_AFB.jpg
+mig29 | MiG-29 | Artem Katranzhi from Bakashikha, Russia | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:VVS_100th_IMG_0691_(7727464290)_(cropped).jpg
+su27 | Sukhoi Su-27 | Dmitriy Pichugin | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Sukhoi_Su-27SKM_at_MAKS-2005_airshow.jpg
+typhoon | Eurofighter Typhoon | Chris Lofting | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:RAF_Eurofighter_EF-2000_Typhoon_F2_Lofting-1.jpg
+rafale | Dassault Rafale | Tim Felce (Airwolfhound) | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Rafale_-_RIAT_2009_(3751416421).jpg
+gripen | Saab Gripen | Tuomo Salonen / SIMFinnish Aviation Museum | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Saab_JAS_39_Gripen_at_Kaivopuisto_Air_Show,_June_2017_(altered)_copy.jpg
+b1lancer | B-1 Lancer | USAF | Public domain | https://commons.wikimedia.org/wiki/File:B-1B_air_refueling.jpg
+v22osprey | V-22 Osprey | FOX 52 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:MV-22_mcas_Miramar_2014.JPG
+harrier | AV-8B Harrier II | Aldo Bidini | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Boeing_AV-8B_Harrier_II,_Italy_-_Navy_JP7306232.jpg
+mi24 | Mil Mi-24 Hind | File:Mi24CP (modified).jpg: Cezary Piwowarskimodified by FOX 52 derivative work: Georgfotoart | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Mi24CP_(modified)_b.jpg
+huey | Bell UH-1 Huey | Airwolfhound from Hertfordshire, UK | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:UH1_Huey_-_Fly_Navy_2017_(26938005897).jpg
+lancaster | Avro Lancaster | Cpl Phil Major ABIPP | OGL v1.0 | https://commons.wikimedia.org/wiki/File:Battle_of_Britain_Memorial_flight_Avro_Lancaster_(cropped).jpg
+boeing707 | Boeing 707 | Mike Freer | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Boeing_707-321B_Pan_Am_Freer.jpg
+dc3 | Douglas DC-3 | Towpilot | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Douglas_DC-3,_SE-CFP.jpg
+dc10 | McDonnell Douglas DC-10 | Danielkang7744 at English Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Continental_Airlines_DC-10.jpg
+l1011 | Lockheed L-1011 TriStar | Árpád Gordos | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Lockheed_L-1011-385-1-15_TriStar_250,_Hewa_Bora_Airways_AN0302242.jpg
+md11 | McDonnell Douglas MD-11 | Björn Strey | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-11P_KLM_PH-KCC.jpg
+tu154 | Tupolev Tu-154 | Aktug Ates | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Tupolev_Tu-154M,_Iran_Air_Tours_JP6511800.jpg
+il76 | Ilyushin Il-76 | Ministry of Defence (Russia) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Il-76MD-90A_RF-78653.jpg
+an124 | Antonov An-124 | Alex Beltyukov | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2_%D0%90%D0%BD-124_9773054055093,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP2297.jpg
+an225 | Antonov An-225 Mriya | Myroslav Kaplun | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Antonov_Design_Bureau_Antonov_An-225_Mriya_at_Leipzig_Halle_(EDDP-LEJ).jpg
+a220 | Airbus A220 | Romain COUPY | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Airbus_A220-300.jpg
+erj145 | Embraer ERJ-145 | Aldo Bidini | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Embraer_ERJ-145LU,_Air_France_(Regional_Compagnie_Aerienne)_JP6914566.jpg
+atr72 | ATR 72 | Ken Fielding | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:F-WWEZ_(948)_ATR.72-212A(500)_FlyFireFly_TLS_30AUG11_(6097869500)_(cropped).jpg
+dash8 | De Havilland Dash 8 | MarcelX42 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hamburg_Airport_Wider%C3%B8e_Bombardier_DHC-8-402Q_LN-WDR_(DSC08713).jpg
+sr22 | Cirrus SR22 | Alan Lebeda | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Cirrus_SR-22_G3_GTS_AN1594917.jpg
+bonanza | Beechcraft Bonanza | Bill Larkins | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Beech_Bonanza_Takeoff_(5517383917).jpg
+f117 | F-117 Nighthawk | Staff Sgt. Aaron Allmon II | Public domain | https://commons.wikimedia.org/wiki/File:F-117_Nighthawk_Front.jpg
+mig21 | MiG-21 | Gojanovic123456789 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Croatian_MiG-21_(cropped).jpg
+mig15 | MiG-15 | slezo | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:MiG-15_(52544074366).jpg
+su25 | Sukhoi Su-25 | Fedor Leukhin | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Sukhoi_Su-25_of_the_Russian_Air_Force_landing_at_Vladivostok_(8683076150).jpg
+tornado | Panavia Tornado | Corporal Mike Jones | OGL v1.0 | https://commons.wikimedia.org/wiki/File:RAF_Tornado_GR4_MOD_45155233.jpg
+jaguar | SEPECAT Jaguar | TSGT Mike Buytas, USAF photo DF-SD-05-05511 | Public domain | https://commons.wikimedia.org/wiki/File:French_Jaguar_A_of_EC_1-7_Provence_in_flight_over_the_Adriatic_Sea,_8_April_2003_(DF-SD-05-05511).jpg
+mirage2000 | Dassault Mirage 2000 | SRA GREG L. DAVIS, USAF | Public domain | https://commons.wikimedia.org/wiki/File:Mirage_2000C_in-flight_2_(cropped).jpg
+f5 | Northrop F-5 | Peng Chen | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:J-3005.jpg
+vulcan | Avro Vulcan | Alastair Barbour | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:XH558_(G-VLCN)_Avro_Vulcan_-_Last_Flight_over_Farnborough_(cropped).jpg
+u2 | Lockheed U-2 | United States Department of the Air Force | Public domain | https://commons.wikimedia.org/wiki/File:Usaf.u2.750pix.jpg
+b36 | Convair B-36 Peacemaker | U.S. Air Force photo | Public domain | https://commons.wikimedia.org/wiki/File:Convair_B-36_Peacemaker.jpg
+convair990 | Convair 990 Coronado | San Diego Air &amp; Space Museum Archives | Public domain | https://commons.wikimedia.org/wiki/File:Swissair_Convair_990_in_flight.jpg
+vc10 | Vickers VC10 | Chris Lofting | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:RAF_Vickers_VC10_K3_over_the_North_Sea_Lofting.jpg
+trident | Hawker Siddeley Trident | clipperarctic | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:British_Airways_Trident3B_(7107744185).jpg
+bac111 | BAC One-Eleven | Aero Icarus from Zürich, Switzerland | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:TAROM_BAC_1-11-500;_YR-BCI@ZRH;02.10.1995_(8353902456).jpg
+tu144 | Tupolev Tu-144 | clipperarctic | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Tupolev_TU-144_(6060104119).jpg
+caravelle | Sud Aviation Caravelle | Ralf Manteufel | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Sud_SE-210_Caravelle_III,_F-BHRS,_Air_France_Manteufel-1.jpg
+britannia | Bristol Britannia | RuthAS | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Bristol_175_Britannia_312_G-AOVT_BOAC_Ringway_04.08.62_edited-3.jpg
+saab340 | Saab 340 | Ronnie Robertson | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Saab_340_G-LGNC_IMG_3425_(11712072893).jpg
+fokkerf27 | Fokker F27 Friendship | US Army | Public domain | https://commons.wikimedia.org/wiki/File:Fokker_F27_Friendship_US_Army_Golden_Knight.jpg
+victor | Handley Page Victor | Mike Freer - Touchdown-aviation | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Handley_Page_HP-80_Victor_K2,_UK_-_Air_Force_AN1926561.jpg
+lightning | English Electric Lightning | Mike Freer - Touchdown-aviation | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:English_Electric_Lightning_F6,_UK_-_Air_Force_AN2260192.jpg
+meteor | Gloster Meteor | Chris Phutully | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Gloster_Meteor_Centenary_of_Military_Aviation_2014_(cropped).jpg
+comet | De Havilland Comet | BEA_De_Havilland_DH-106_Comet_4B_Manteufel.jpg: Ralf Manteufel derivative work: Altair78 (talk) | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg
+b57 | Martin B-57 Canberra | United States Air Force | Public domain | https://commons.wikimedia.org/wiki/File:Martin_B-57E_55-4241_4577_DSES.jpg
+f105 | Republic F-105 Thunderchief | USAF | Public domain | https://commons.wikimedia.org/wiki/File:Republic_F-105D-30-RE_(SN_62-4234)_in_flight_with_full_bomb_load_060901-F-1234S-013.jpg
+f106 | Convair F-106 Delta Dart | Staff Sgt. John K. McDowell | Public domain | https://commons.wikimedia.org/wiki/File:F-106A_Chase_Dart.JPEG
+a5vigilante | North American A-5 Vigilante | NASA Dryden Flight Research Center | Public domain | https://commons.wikimedia.org/wiki/File:A-5_Vigilante_ECN-231.jpg
+f9fpanther | Grumman F9F Panther | U.S. Navy | Public domain | https://commons.wikimedia.org/wiki/File:Grumman_F9F-2_Panther_of_VF-112_in_flight,_circa_in_1951_(1564-78).jpg
+bv141 | Blohm & Voss BV 141 | Stöcker | CC BY-SA 3.0 de | https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1980-117-01,_Aufkl%C3%A4rungsflugzeug_Blohm_-_Vo%C3%9F_BV_141.jpg
+dox | Dornier Do X | Unknown author | CC BY-SA 3.0 de | https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-12963,_Flugboot_%22Do_X%22.jpg
+saroprincess | Saunders-Roe Princess | RuthAS | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Saro_Princess_G-ALUN_Farnborough_1953.jpg
+yb49 | Northrop YB-49 | (Photographer not named) | Public domain | https://commons.wikimedia.org/wiki/File:YB49-2_300.jpg
+caproni60 | Caproni Ca.60 | Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:CaproniCa.60.jpg
+spruntgoose | Hughes H-4 Hercules | SDASM Archives | Public domain | https://commons.wikimedia.org/wiki/File:H-4_Hercules_2.jpg

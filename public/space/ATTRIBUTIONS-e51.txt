@@ -1,0 +1,106 @@
+GuessSync E51 - "Guess the Space Object" - Image Attributions
+100 real astronomy images sourced from NASA (public domain) and ESA/ESO/Wikimedia Commons.
+NASA imagery is PUBLIC DOMAIN (no attribution legally required; credited anyway).
+ESA/ESO/Commons files may be Public Domain, CC0, CC BY, or CC BY-SA - the lines below credit author + license.
+Generated 2026-07-11. Format:  slug | name | author | license | source
+==========================================================================================
+sun | The Sun | Matúš Motlo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg
+moon | The Moon | Gregory H. Revera | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg
+earth | Earth | EUMETSAT | Attribution | https://commons.wikimedia.org/wiki/File:Meteosat-12-fci-march-equinox-2025-noon.jpg
+mars | Mars | Kevin Gill from Los Angeles, CA, United States | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png
+jupiter | Jupiter | NASA/STSCI (S.T.A.R.S) | Public domain | https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png
+saturn | Saturn | NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic | Public domain | https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png
+venus | Venus | NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington | Public domain | https://commons.wikimedia.org/wiki/File:Venus_2_Approach_Image.jpg
+mercury | Mercury | NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington | Public domain | https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg
+uranus | Uranus | Ardenau4 | CC0 | https://commons.wikimedia.org/wiki/File:Uranus_Voyager2_color_calibrated.png
+neptune | Neptune | NASA / Voyager 2 / PDS / OPUS / Ardenau4 | CC0 | https://commons.wikimedia.org/wiki/File:Neptune_Voyager2_color_calibrated.png
+pluto | Pluto | NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute/Alex Parker | Public domain | https://commons.wikimedia.org/wiki/File:Pluto_in_True_Color_-_High-Res.png
+milkyway | The Milky Way | ESO/Y. Beletsky | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:ESO-VLT-Laser-phot-33a-07.jpg
+solar-eclipse | Solar Eclipse | Luc Viatour | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Solar_eclipse_1999_4.jpg
+iss | International Space Station | NASA | Public domain | https://commons.wikimedia.org/wiki/File:The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg
+hubble | Hubble Space Telescope | NASA | Public domain | https://commons.wikimedia.org/wiki/File:STS-109-HST-s109e5700.jpg
+james-webb | James Webb Space Telescope | NASA | Public domain | https://commons.wikimedia.org/wiki/File:JWST_spacecraft_model_3.png
+space-shuttle | Space Shuttle | NASA; edited by jjron (tilt corrected) | Public domain | https://commons.wikimedia.org/wiki/File:STS120LaunchHiRes-edit1.jpg
+halleys-comet | Halley's Comet | NASA/W. Liller | Public domain | https://commons.wikimedia.org/wiki/File:Lspn_comet_halley.jpg
+andromeda-galaxy | Andromeda Galaxy | Brody Wesner | CC0 | https://commons.wikimedia.org/wiki/File:Andromeda_Galaxy_2025.png
+orion-nebula | Orion Nebula | NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team | Public domain | https://commons.wikimedia.org/wiki/File:Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg
+great-red-spot | Great Red Spot | Kevin Gill from Los Angeles, CA, United States | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Jupiter_-_Great_Red_Spot_-_PJ7-60_61_62_-_Balanced_(49803032983).png
+moon-landing | Apollo Moon Landing | Neil A. Armstrong | Public domain | https://commons.wikimedia.org/wiki/File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg
+aurora | Aurora (from space) | United States Air Force photo by Senior Airman Joshua Strang | Public domain | https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg
+saturn-v | Saturn V Rocket | NASA | Public domain | https://commons.wikimedia.org/wiki/File:Apollo_11_Launch_-_GPN-2000-000630.jpg
+voyager | Voyager Probe | NASA | Public domain | https://commons.wikimedia.org/wiki/File:Voyager_Spacecraft_During_Vibration_Testing_-_GPN-2003-000008.jpg
+titan | Titan (moon of Saturn) | NASA/JPL-Caltech/SSI/Kevin M. Gill | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Titan_in_true_color_by_Kevin_M._Gill.jpg
+europa | Europa (moon of Jupiter) | NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Europa_-_Perijove_45_(cropped).png
+io | Io (moon of Jupiter) | NASA / JPL / University of Arizona | Public domain | https://commons.wikimedia.org/wiki/File:Io_highest_resolution_true_color.jpg
+ganymede | Ganymede (moon of Jupiter) | NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Ganymede_-_Perijove_34_Composite.png
+callisto | Callisto (moon of Jupiter) | zelario12 | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Callisto_VGR2_C2060635_OGB.png
+phobos | Phobos (moon of Mars) | NASA / JPL-Caltech / University of Arizona | Public domain | https://commons.wikimedia.org/wiki/File:Phobos_colour_2008.jpg
+enceladus | Enceladus (moon of Saturn) | National Aeronautics and Space Administration (NASA) / Jet Propulsion Laboratory (JPL) | Public domain | https://commons.wikimedia.org/wiki/File:PIA17202_-_Approaching_Enceladus.jpg
+triton | Triton (moon of Neptune) | Michael T. Bland, U.S. Geological Survey (USGS) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Triton-usgs23-with-frame.jpg
+whirlpool-galaxy | Whirlpool Galaxy | NASA and European Space Agency | Public domain | https://commons.wikimedia.org/wiki/File:Messier51_sRGB.jpg
+sombrero-galaxy | Sombrero Galaxy | ESA/Hubble &amp; NASA, K. Noll | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Sombrero_Galaxy_(heic2506a).jpg
+pinwheel-galaxy | Pinwheel Galaxy | Credit: Image: European Space Agency &amp; NASA Acknowledgements: Project Investigators for the original Hubble data: K.D. Kuntz (GSFC), F. Bresolin (University of Hawaii), J. Trauger (JPL), J. Mould (NOAO), and Y.-H. Chu (University of Illinois, Urbana) Image processing: Davide De Martin (ESA/Hubble) CFHT image: Canada-France-Hawaii Telescope/J.-C. Cuillandre/Coelum NOAO image: George Jacoby, Bruce Bohannan, Mark Hanna/NOAO/AURA/NSF | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:M101_hires_STScI-PRC2006-10a.jpg
+triangulum-galaxy | Triangulum Galaxy | ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg
+ring-nebula | Ring Nebula | ESA/Webb, NASA, CSA, M. Barlow, N. Cox, R. Wesson | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Webb_captures_detailed_beauty_of_Ring_Nebula_(NIRCam_image)_(weic2320b).jpg
+crab-nebula | Crab Nebula | NASA, ESA, J. Hester and A. Loll (Arizona State University) | Public domain | https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg
+eagle-nebula | Eagle Nebula | ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Eagle_Nebula_from_ESO.jpg
+horsehead-nebula | Horsehead Nebula | ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Nebulosa_testa_di_cavallo_con_SPECULOOS.jpg
+pillars-of-creation | Pillars of Creation | Credit: NASA, Jeff Hester, and Paul Scowen (Arizona State University) | Public domain | https://commons.wikimedia.org/wiki/File:Eagle_nebula_pillars.jpg
+pleiades | The Pleiades | NASA, ESA, AURA/Caltech, Palomar Observatory The science team consists of: D. Soderblom and E. Nelan (STScI), F. Benedict and B. Arthur (U. Texas), and B. Jones (Lick Obs.) | Public domain | https://commons.wikimedia.org/wiki/File:Pleiades_large.jpg
+curiosity-rover | Curiosity Rover | NASA | Public domain | https://commons.wikimedia.org/wiki/File:Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg
+perseverance-rover | Perseverance Rover | NASA/JPL-Caltech/MSSS | Attribution | https://commons.wikimedia.org/wiki/File:PIA26574-Mars-PerseveranceRover-Selfie-20250510.jpg
+cassini | Cassini Spacecraft | Unknown authorUnknown author | Public domain | https://commons.wikimedia.org/wiki/File:Cassini-Huygens_is_installed_to_the_payload_adapter.jpg
+comet-neowise | Comet NEOWISE | SimgDe | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Comet_2020_F3_(NEOWISE)_on_Jul_14_2020_aligned_to_stars.jpg
+comet-hale-bopp | Comet Hale-Bopp | E. Kolmhofer, H. Raab; Johannes-Kepler-Observatory, Linz, Austria (https://sternwarte.at) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Comet_Hale-Bopp_1995O1.jpg
+olympus-mons | Olympus Mons | ESA/DLR/FUBerlin/AndreaLuck | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Olympus_Mons_-_ESA_Mars_Express_-_Flickr_-_Andrea_Luck.png
+carina-nebula | Carina Nebula | Harel Boren | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Carina_Nebula_by_Harel_Boren_(151851961,_modified).jpg
+deimos | Deimos (moon of Mars) | NASA/JPL/University of Arizona | Public domain | https://commons.wikimedia.org/wiki/File:NASA-Deimos-MarsMoon-20090221.jpg
+mimas | Mimas (moon of Saturn) | NASA / JPL / Space Science Institute | Public domain | https://commons.wikimedia.org/wiki/File:Mimas_Masked.jpg
+iapetus | Iapetus (moon of Saturn) | NASA / JPL / SSI / Gordan Ugarkovic | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Iapetus_trailing_natural_color.jpg
+rhea | Rhea (moon of Saturn) | NASA/JPL/Space Science Institute | Public domain | https://commons.wikimedia.org/wiki/File:PIA07763_Rhea_full_globe5.jpg
+miranda | Miranda (moon of Uranus) | zelario12 | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Miranda_mosaic_in_color_-_Voyager_2.png
+ceres | Ceres (dwarf planet) | Justin Cowart | Public domain | https://commons.wikimedia.org/wiki/File:Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg
+vesta | 4 Vesta (asteroid) | NASA / JPL / MPS / DLR / IDA / Björn Jónsson | Public domain | https://commons.wikimedia.org/wiki/File:Vesta_in_natural_color.jpg
+bennu | 101955 Bennu (asteroid) | NASA/Goddard/University of Arizona | Public domain | https://commons.wikimedia.org/wiki/File:Bennu_mosaic_OSIRIS-REx_(square).png
+ryugu | 162173 Ryugu (asteroid) | Meli thev | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Ryugu_colored.jpg
+comet-67p | Comet 67P | ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Comet_67P_True_color.jpg
+centaurus-a | Centaurus A | ESO/WFI (Optical); MPIfR/ESO/APEX/A.Weiss et al. (Submillimetre); NASA/CXC/CfA/R.Kraft et al. (X-ray) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:ESO_Centaurus_A_LABOCA.jpg
+cartwheel-galaxy | Cartwheel Galaxy | ESA/Hubble &amp; NASA | Public domain | https://commons.wikimedia.org/wiki/File:Cartwheel_Galaxy.jpg
+black-eye-galaxy | Black Eye Galaxy | Judy Schmidt from USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:NGC_4826_-_HST.png
+large-magellanic-cloud | Large Magellanic Cloud | ESO/VMC Survey | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:The_Large_Magellanic_Cloud_revealed_by_VISTA.jpg
+small-magellanic-cloud | Small Magellanic Cloud | ESA/Hubble and Digitized Sky Survey 2 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Small_Magellanic_Cloud_(Digitized_Sky_Survey_2).jpg
+cats-eye-nebula | Cat's Eye Nebula | ESA/Hubble &amp; NASA, Z. Tsvetanov | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Looking_at_the_Cat%E2%80%99s_Eye_Nebula_with_Hubble_(potm2602b).jpg
+helix-nebula | Helix Nebula | The HST data are from proposal 9700. Processed images may be obtained from the Helix MAST web site. The Hubble Helix Team includes M. Meixner, H.E. Bond, G. Chapman (STScI), Y.-H. Chu (U. Illinois, Urbana-Champaign), P. Cox (Institut d'Astrophysique Spatiale, France), W. Crothers, L.M. Frattare, R.Gilliland (STScI), M. Guerrero R. Gruendl (U. Illinois, Urbana-Champaign), F. Hamilton, (STScI), R.Hook (STScI/ESO), P. Huggins (New York Univ.), I. Jordan, C.D. Keyes, A. Koekemoer (STScI), K.Kwitter (Williams College), Z.G. Levay, P.R. McCullough, M. Mutchler, K. Noll (STScI), C.R. O'Dell (Vanderbilt University), N. Panagia, M. Reinhart, M. Robberto, K. Sahu, D. Soderblom, L. Stanghellini, C. Tyler, J. Valenti, A. Welty, R. Williams (STScI). The CTIO data were taken by C.R. O'Dell (Vanderbilt University) and L.M. Frattare (STScI). The science team includes C.R. O'Dell (Vanderbilt University), P.R. McCullough and M. Meixner (STScI). Credit: NASA, ESA, and C.R. O'Dell (Vanderbilt University) News Release Number: STScI-2004-32 | Public domain | https://commons.wikimedia.org/wiki/File:NGC7293_(2004).jpg
+lagoon-nebula | Lagoon Nebula | ESO/VPHAS+ team | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:VST_images_the_Lagoon_Nebula.jpg
+tarantula-nebula | Tarantula Nebula | NASA, ESA, CSA, STScI, Webb ERO Production Team | Public domain | https://commons.wikimedia.org/wiki/File:Tarantula_Nebula_by_JWST.jpg
+veil-nebula | Veil Nebula | Ken Crawford | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Veil_Nebula_-_NGC6960.jpg
+rosette-nebula | Rosette Nebula | Siderevs nuncivs | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:SHO_Final_with_copyright.jpg
+omega-centauri | Omega Centauri | Chuck Ayoub | CC0 | https://commons.wikimedia.org/wiki/File:Omega_Centauri_Stars.png
+hercules-cluster | Hercules Globular Cluster (M13) | Chuck Ayoub | CC0 | https://commons.wikimedia.org/wiki/File:M13-Globular-Cluster.png
+betelgeuse | Betelgeuse | ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Betelgeuse_captured_by_ALMA.jpg
+valles-marineris | Valles Marineris | NASA / USGS (see PIA04304 catalog page) | Public domain | https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris.jpeg
+itokawa | 25143 Itokawa (asteroid) | JAXA | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Asteroid_(25143)_Itokawa_seen_in_close-up_(eso1405c).jpg
+eros | 433 Eros (asteroid) | NASA/JPL/JHUAPL | Public domain | https://commons.wikimedia.org/wiki/File:Eros_-_PIA02923_(color).jpg
+dione | Dione (moon of Saturn) | NASA | Public domain | https://commons.wikimedia.org/wiki/File:Dione_in_natural_light.jpg
+tethys | Tethys (moon of Saturn) | NASA / JPL-Caltech / SSI / Gordan Ugarkovic | Public domain | https://commons.wikimedia.org/wiki/File:Global_view_of_Tethys_from_Cassini.jpg
+hyperion | Hyperion (moon of Saturn) | NASA / JPL / SSI / Gordan Ugarkovic | Public domain | https://commons.wikimedia.org/wiki/File:Hyperion_true.jpg
+hoags-object | Hoag's Object | NASA and The Hubble Heritage Team (STScI/AURA); Acknowledgment: Ray A. Lucas (STScI/AURA) | Public domain | https://commons.wikimedia.org/wiki/File:Hoag%27s_object.jpg
+antennae-galaxies | Antennae Galaxies | ESA/Hubble &amp; NASA | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Antennae_Galaxies_reloaded.jpg
+cigar-galaxy | Cigar Galaxy (M82) | NASA, ESA, and The Hubble Heritage Team (STScI/AURA) | Public domain | https://commons.wikimedia.org/wiki/File:M82_HST_ACS_2006-14-a-large_web.jpg
+bodes-galaxy | Bode's Galaxy (M81) | NASA, ESA and the Hubble Heritage Team (STScI/AURA) | Public domain | https://commons.wikimedia.org/wiki/File:Messier_81_HST.jpg
+needle-galaxy | Needle Galaxy | Ken Crawford | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Needle_Galaxy_4565.jpeg
+sunflower-galaxy | Sunflower Galaxy | NASA/ESA - The Hubble Legacy Archive (HLA): Space Telescope Science Institute (STScI), the Space Telescope European Coordinating Facility (ST-ECF), and the Canadian Astronomy Data Centre (CADC) - zoranknez (Aladin software) | Public domain | https://commons.wikimedia.org/wiki/File:M63_(NGC_5055).jpg
+butterfly-nebula | Butterfly Nebula (NGC 6302) | NASA, ESA and the Hubble SM4 ERO Team | Public domain | https://commons.wikimedia.org/wiki/File:NGC_6302_Hubble_2009.full.jpg
+ant-nebula | Ant Nebula | NASA, ESA &amp; the Hubble Heritage Team (STScI/AURA). Acknowledgment: R. Sahai (Jet Propulsion Lab), B. Balick (University of Washington | Public domain | https://commons.wikimedia.org/wiki/File:Ant_Nebula.jpg
+boomerang-nebula | Boomerang Nebula | ESA/NASA | Public domain | https://commons.wikimedia.org/wiki/File:Boomerang_nebula.jpg
+owl-nebula | Owl Nebula | NOIRLab / NSF / AURA | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Noao-m97.tif
+dumbbell-nebula | Dumbbell Nebula | Alpha Zhang (AstroBin: shyzhang127) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Messier_27_(1).jpg
+red-spider-nebula | Red Spider Nebula | European Space Agency | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:The_Red_Spider_Nebula,_caught_by_Webb_ESA513806.jpg
+47-tucanae | 47 Tucanae | Credit: NASA, ESA, and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration Acknowledgment: J. Mack (STScI) and G. Piotto (University of Padova, Italy) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Heic1510a.tif
+new-horizons | New Horizons Spacecraft | National Aeronautics and Space Administration (NASA), Applied Physics Laboratory | Public domain | https://commons.wikimedia.org/wiki/File:New_Horizons_spacecraft_model_1.png
+parker-solar-probe | Parker Solar Probe | National Aeronautics and Space Administration (NASA) | Public domain | https://commons.wikimedia.org/wiki/File:Parker_Solar_Probe_spacecraft_model.png
+juno | Juno Spacecraft | National Aeronautics and Space Administration (NASA) | Public domain | https://commons.wikimedia.org/wiki/File:Juno_spacecraft_model_1.png
+sputnik | Sputnik 1 | Andrey Butko | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg
+tycho-crater | Tycho Crater | NASA | Public domain | https://commons.wikimedia.org/wiki/File:Tycho_LRO.png
+eskimo-nebula | Eskimo Nebula | NASA, ESA, Andrew Fruchter (STScI), and the ERO team (STScI + ST-ECF) | Public domain | https://commons.wikimedia.org/wiki/File:Ngc2392.jpg
+ngc1300 | NGC 1300 (barred spiral) | NASA, ESA, and The Hubble Heritage Team STScI/AURA) | Public domain | https://commons.wikimedia.org/wiki/File:Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg

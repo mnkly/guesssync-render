@@ -1,8 +1,8 @@
-// E22 — one-line "did-you-know" fact per butterfly/moth, shown on the reveal. Verified true, <70 chars.
+// E49 — one-line "did-you-know" fact per butterfly/moth, shown on the reveal. Verified true, <70 chars.
 export const BUTTERFLY_FACTS = {
   "monarch": "Migrates up to 3,000 miles to Mexico each year.",
   "blue-morpho": "Wings have no blue pigment - just light-bending scales.",
-  "painted-lady": "Found on every continent except Antarctica.",
+  "painted-lady": "The world's most widespread butterfly species.",
   "red-admiral": "Bold enough to land on people to sip sweat.",
   "peacock-butterfly": "Flashes four eyespots to startle hungry birds.",
   "old-world-swallowtail": "Caterpillar shoots out a smelly orange horn.",

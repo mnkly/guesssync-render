@@ -1,0 +1,38 @@
+{
+  "whaleboat": {
+    "file": "File:Whaleboat from USS Midway (CV-41) during a race in 1979.jpg",
+    "author": "U.S. Navy",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AWhaleboat_from_USS_Midway_(CV-41)_during_a_race_in_1979.jpg",
+    "w": 720,
+    "h": 507,
+    "kb": 230
+  },
+  "catboat": {
+    "file": "File:Catboat (Roscoff)-cd01.jpg",
+    "author": "Christian Duprez",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACatboat_(Roscoff)-cd01.jpg",
+    "w": 4500,
+    "h": 3200,
+    "kb": 297
+  },
+  "longship": {
+    "file": "File:VIKING LONGSHIP \"SEA STALLION\" ARRIVES IN DUBLIN (1116712951).jpg",
+    "author": "William Murphy from Dublin, Ireland",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AVIKING_LONGSHIP_%22SEA_STALLION%22_ARRIVES_IN_DUBLIN_(1116712951).jpg",
+    "w": 2048,
+    "h": 1365,
+    "kb": 293
+  },
+  "waka": {
+    "file": "File:Ngatokimatawhaorua.jpg",
+    "author": "Steve",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ANgatokimatawhaorua.jpg",
+    "w": 2369,
+    "h": 1755,
+    "kb": 345
+  }
+}

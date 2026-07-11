@@ -1,0 +1,100 @@
+soccer|Soccer|Rick Dikeman|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg
+basketball|Basketball|Avi Ohayon|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_Dunk_by_Hapoel_Jerusalem.jpg
+tennis|Tennis|Sport the library|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:281000_-_Wheelchair_tennis_David_Hall_forehand_-_3b_-_2000_Sydney_match_photo.jpg
+golf|Golf|Zach Dischner|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Swing_Away!_(4683150851).jpg
+baseball|Baseball|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:Baseball_pitch_release.jpg
+cricket|Cricket|Clément Bucco-Lechat|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:PCAPH_vs_CERN_CC_-_20140911_58.jpg
+volleyball|Volleyball|U.S. Army USAGA by Dani Johnson|Public domain|https://commons.wikimedia.org/wiki/File:Ramstein_spikes_Aviano_to_win_IMCOM-E_Varsity_Volleyball_Tournament_(7116171).jpg
+swimming|Swimming|WO1 Clive Smith|OGL v1.0|https://commons.wikimedia.org/wiki/File:Army_Swimmer_MOD_45155944.jpg
+boxing|Boxing|Wayne Short|Public domain|https://commons.wikimedia.org/wiki/File:Boxing080905_photoshop.jpg
+cycling|Cycling|Peter Trimming from Croydon, England|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Olympic_Games_2012_-_Men%27s_Road_Race_(7663272188).jpg
+skiing|Skiing|NM i Trysil|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Iver_Bjerkestrand_giant_slalom_Norway_2011.jpg
+tabletennis|Table Tennis|Tradicije|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Aleksa_Dimitrijevic_table_tennis_action_vs_Borac_2024.jpg
+badminton|Badminton|BugWarp|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mix_Relay_Badminton_2018_YOG_Theta_vs_Zeta_Match_5_01.jpg
+rugby|Rugby|State Library of Queensland, Australia|Public domain|https://commons.wikimedia.org/wiki/File:Making_a_tackle_in_a_game_of_Rugby,_Brisbane_(4461848078).jpg
+americanfootball|American Football|Nipgrabslabber|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Tacklemcgahon.jpg
+icehockey|Ice Hockey|Canada Hky|CC BY 3.0|https://commons.wikimedia.org/wiki/File:JacobJosefssonAction.JPG
+bowling|Bowling|Staff Sgt. Shane Hughes|Public domain|https://commons.wikimedia.org/wiki/File:ANG_Bowling_Tournament_(2)_3390218.jpg
+archery|Archery|J. Rachel Spencer|Public domain|https://commons.wikimedia.org/wiki/File:U.S._Marine_Corps_Staff_Sgt._Joey_Smith_takes_a_shot_during_warmups_before_competing_in_the_compound_category_of_the_archery_competition_at_the_Warrior_Games_May_12,_2010,_at_the_Olympic_training_center_in_100512-F-KR851-003.jpg
+skateboarding|Skateboarding|Krzysztof Popławski|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Zawody_w_skateboardingu_Street_of_Mediateka,_Zag%C5%82%C4%99biowska_Mediateka,_ulica_Ko%C5%9Bcielna,_Sosnowiec,_22_czerwca_2024_01.jpg
+surfing|Surfing|Brigittebourger Brigitte Bourger|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:La_horde_-_Surfers_riding_a_wave_in_Paea,_Tahiti.jpg
+gymnastics|Gymnastics|Pierre-Yves Beaudouin|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2015_European_Artistic_Gymnastics_Championships_-_Balance_beam_-_Claire_Martin_01.jpg
+wrestling|Wrestling|U.S. Army|CC BY 2.0|https://commons.wikimedia.org/wiki/File:U.S._Army_World_Class_Athlete_Program_wrestler_Sgt._Iris_Smith_(right)_defeats_Chinas_Lijun_Yang.jpg
+karate|Karate|Martin Rulsch , Wikimedia Commons|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:K1PL_Berlin_2018-09-16_Female_Kata_108.jpg
+weightlifting|Weightlifting|Marcus Cyron|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Weightlifting_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Boys%27_56_kg_151.jpg
+running|Running|Sport the library|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_finish_line_from_above_-_3b_-_2000_Sydney_race_photo.jpg
+fencing|Fencing|George E. Koronaios|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Parrying_in_Epee_fencing_during_a_bout_at_Athenaikos_Fencing_Club.jpg
+rowing|Rowing|Simrun Basuita|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Winner_S_Embrace_(255752449).jpeg
+judo|Judo|Alfredo Fontana|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Kata_Guruma_01.jpg
+taekwondo|Taekwondo|Benjamin Bellamy|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Taekwondo_Jumping_Side_Kick_at_Sunset,_Houlgate_Beach_-_02.jpg
+snowboarding|Snowboarding|Sören from Germany|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Snowboarder_in_flight_(Tannheim,_Austria).jpg
+diving|Diving|Sandro Halank , Wikimedia Commons|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:2018-02-16_platform_female_semi-finals_(IDHM_Rostock_2018)_by_Sandro_Halank%E2%80%93073.jpg
+handball|Handball|Carlos Delgado|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Albert_Rocas_Selecci%C3%B3n_2013.jpg
+fieldhockey|Field Hockey|DarDarCH|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2019_Men%27s_EuroHockey_Championship_II_-_09.jpg
+horseracing|Horse Racing|Nadaraikon|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Danon_Platina_Asahi_Hai_Futurity_Stakes_2014_(IMG1).jpg
+motocross|Motocross|User:Fir0002|GFDL 1.2|https://commons.wikimedia.org/wiki/File:Motorbike_rider_mono.jpg
+autoracing|Auto Racing|FOTO:Fortepan — ID 125475 : Adományozó/Donor: Urbán Tamás.|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Maserati_8CM.jpg
+sailing|Sailing|State Library of Queensland, Australia|No restrictions|https://commons.wikimedia.org/wiki/File:Dinghy_racing_on_the_Brisbane_River_(4442615592).jpg
+rockclimbing|Rock Climbing|Diuturno|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Climbing_Falesia_di_Guadagnolo.JPG
+squash|Squash|No machine-readable author provided. Jensbn~commonswiki assumed (based on…|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Squash_court.JPG
+darts|Darts|Chris Ibbotson from Wakefield/Leeds, UK|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Anthony_Forde.jpg
+snooker|Snooker|Lee Vilenski|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Snooker_on_a_snooker_table.jpg
+billiards|Billiards|PattayaPatrol|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:DFC_0648_A_focused_player_lines_up_a_shot_at_a_pool_table_in_a_dimly_lit_billiards_hall_cue_in_hand_and_eyes_on_the_white_ball.jpg
+waterpolo|Water Polo|CamFerVa ( talk )|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Girls_Water_Polo_competing.jpeg
+figureskating|Figure Skating|deerstop|CC0|https://commons.wikimedia.org/wiki/File:2011_Figure_Skating_WC_Denis_Ten_(2).jpg
+speedskating|Speed Skating|Jan-kremer|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Anje_Kremer_-_Mass_start_at_Lake_Ida.jpg
+triathlon|Triathlon|Derek Lee|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Triathlon_cyclists_at_the_London_Olympics.jpg
+curling|Curling|The Library of Congress|No restrictions|https://commons.wikimedia.org/wiki/File:Playing_for_a_%22wick,%22_ladies%27_curling_match,_Montreal_Curling_Club,_Canada_(LOC)_(55094043384).jpg
+polo|Polo|Clément Bucco-Lechat|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:30th_St._Moritz_Polo_World_Cup_on_Snow_-_20140202_-_Cartier_vs_Ralph_Lauren_18.jpg
+kickboxing|Kickboxing|HarshBharti556|CC0|https://commons.wikimedia.org/wiki/File:Harsh_Bharti_kickboxing_victory_2025.jpg
+canoeing|Canoeing|Ned Poffenberger|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Dickerson-C1a.jpg
+lacrosse|Lacrosse|Saquan Stimpson|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Lacrosse_shot.jpg
+netball|Netball|paddynapper|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Australia_v_England_netball_2008.jpg
+biathlon|Biathlon|Ximeg|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Biathlon_2013-007.jpg
+skijumping|Ski Jumping|Sandro Halank , Wikimedia Commons|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2020-01-22_Ski_Jumping_Competition_Round_Nordic_Mixed_Team_(2020_Winter_Youth_Olympics)_by_Sandro_Halank%E2%80%93166.jpg
+luge|Luge|Sandro Halank , Wikimedia Commons|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2022-02-18_FIL_Luge_World_Cup_Natural_Track_in_Mariazell_2021-22_by_Sandro_Halank%E2%80%93126.jpg
+bobsled|Bobsled|Jack Gillund|Public domain|https://commons.wikimedia.org/wiki/File:Torino_2006_USA-1_2women_bobsled_start.jpg
+skeleton|Skeleton|Lillehammer 2016 Youth Olympic Games from Norway|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Skeleton_in_Lillehammer_Olympic_Sliding_Centre_(21649207784).jpg
+rhythmicgymnastics|Rhythmic Gymnastics|Aqutiv|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Adi_Asya_Katz_Ribbon_Israel_Championships_2019.jpg
+artisticswimming|Artistic Swimming|Jesus de Blas|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Synchronized_swimming_-_Russian_team.jpg
+bmx|BMX Racing|Fabrizio Tarizzo|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:BMX_racing_action_photo.jpg
+sumo|Sumo|Joli Rumi|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Sumo_wrestling_in_Japan.jpg
+muaythai|Muay Thai|Gerrit Phil Baumann|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668029).jpeg
+bjj|Brazilian Jiu-Jitsu|Mark Bonica from Durham, NH, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:156_365_no-gi_grappling_(4672861418).jpg
+capoeira|Capoeira|Gilles Klein|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Capoeira_game_in_Paris.png
+parkour|Parkour|Sazzadghanem|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Sazzad_Ghanem_performing_parkour_jump_in_Chattogram_Bangladesh.jpg
+rodeo|Rodeo|Josh Spencer|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Cowboy_Rodeo_Bullriding_(255793189).jpeg
+croquet|Croquet|Santeri Viinamäki|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Croquet_mallets.jpg
+dressage|Dressage|Revital Salomon|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dressage_Competition_Horse_Rider.JPG
+showjumping|Show Jumping|Cory Hanson|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Horse_Show_In_Wilsonville_(225770349).jpeg
+kayaking|Kayaking|MJPlante1|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Esopus_Creek_Paddlers.jpg
+crosscountryskiing|Cross-Country Skiing|Skvattram|Public domain|https://commons.wikimedia.org/wiki/File:KallaRoponenTyldum.JPG
+waterskiing|Water Skiing|Andrew Cattoir (Lake Mead National Recreation Area)|Public domain|https://commons.wikimedia.org/wiki/File:Slalom_Skiing_on_Lake_Mead_(837174ec-2b9a-49d4-9d8b-2e7a3245e296).jpg
+ultimatefrisbee|Ultimate Frisbee|fw42|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Ultimate_Frisbee_Jump.jpg
+racewalking|Race Walking|Raxoye|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Race_walking-_Kacper_Drobik-_Indoor_Polish_Championship_2024.jpg
+powerlifting|Powerlifting|U.S. Air Force photo by Senior Airman Haiden Morris|Public domain|https://commons.wikimedia.org/wiki/File:2025_Skelton_Gym_Powerlifting_Competition_(9326219).jpg
+sepaktakraw|Sepak Takraw|John Robert McPherson|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Sepak_takraw_(foot_volleyball)_in_7th_Brigade_Park_Chermside_P1090204.jpg
+hurling|Hurling|Florian Christoph from Dublin, Ireland|CC BY 2.0|https://commons.wikimedia.org/wiki/File:All-Ireland_Hurling_final_replay_2014.jpg
+kabaddi|Kabaddi|Doha 2006|CC BY 2.0|https://commons.wikimedia.org/wiki/File:A_Kabaddi_match_at_2006_Asian_Games.jpg
+pelota|Basque Pelota|Auteur inconnu|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Fronton_Pelote_Basque_Cercle_Saint-James_Neuilly.jpg
+shinty|Shinty|Greg Fitchett|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Shinty_at_Caol_-_geograph.org.uk_-_3040627.jpg
+bandy|Bandy|Erik Lindvall|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bandy_game_at_Zinkensdamms_IP.jpg
+korfball|Korfball|Peter Saxon|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Korfball_uob.jpg
+pesapallo|Pesäpallo|Santeri Viinamäki|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Veto_-_Kossu_(1.8.2014)_07.JPG
+buzkashi|Buzkashi|ShShShDDD|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Kupkari_(ulak,_buzkashi)_is_a_traditional_Central_Asian_team_competition_played_on_horseback._In_this_game_skilled_equestrians_compete_to_carry_a_goat_or_sheep_carcass_into_a_goal.jpg
+jaialai|Jai Alai|Jesus Abizanda from Barbastro, Huesca, Spain|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Jai_alai_court.jpg
+gaelicfootball|Gaelic Football|Sheila1988|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Gaelic_football_game.jpg
+camogie|Camogie|Irish Defence Forces from Ireland|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Garda_V_Defence_Forces_(8121573540).jpg
+bossaball|Bossaball|Volleybal Isala|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Bossaball_2014_(14696715294).jpg
+footvolley|Footvolley|Felipe.bzra|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Footvolley_player_%22shark_attack%22.jpg
+underwaterhockey|Underwater Hockey|Wouss at Dutch Wikipedia|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Onderwaterhockey.jpg
+tchoukball|Tchoukball|DavidSandoz from Crissier, Suisse|CC BY 2.0|https://commons.wikimedia.org/wiki/File:European_Tchoukball_Championships_2014.jpg
+hornussen|Hornussen|Roland Zumbühl|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Hornussen_bock.jpg
+kubb|Kubb|The original uploader was Serych at Czech Wikipedia .|Public domain|https://commons.wikimedia.org/wiki/File:Kubb_set.jpg
+finswimming|Finswimming|Helmardine|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:All-Rubber_Monofin.jpg
+timbersports|Timbersports|David E. Lucas|Public domain|https://commons.wikimedia.org/wiki/File:Woodchopping_at_the_Ohio_State_Fair_-_DPLA_-_ef9e3791dc4cdc69b9b66f6966a1a076.jpg
+gateball|Gateball|Pandaramajp|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:GBTOP.jpg
+cycleball|Cycle Ball|Peter Huys (DarkSideX) from Lovendegem (Ghent), Belgium|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:UCI_Cycle_Ball_2on1.jpg
+fistball|Fistball|Flingeflung|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Fistball_Spike.jpg
+footgolf|Footgolf|El Pantera|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Footgolf_-_P1520379.jpg
+afl|Australian Football|Jimmy Harris from Melbourne, Australia|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Players_fly_for_the_mark,_2005_AFL_Grand_Final.jpg

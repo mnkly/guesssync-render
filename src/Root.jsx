@@ -79,6 +79,14 @@ const E33CFG = { items: EMOJI_TV, facts: EMOJI_TV_FACTS, topicWord: "TV SHOW", t
 const E35CFG = { items: EMOJI_BRANDS, facts: EMOJI_BRAND_FACTS, topicWord: "BRAND", topicPlural: "BRANDS", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "eb-", introVo: "vo-intro-brand", coldSlug: "" };
 const E37CFG = { items: EMOJI_BOOKS, facts: EMOJI_BOOK_FACTS, topicWord: "BOOK", topicPlural: "BOOKS", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "bk-", introVo: "vo-intro-book", coldSlug: "" };
 const E36CFG = { items: FISH, facts: FISH_FACTS, topicWord: "FISH", topicPlural: "FISH", dir: "fish", ext: "jpg", fit: "cover", voPrefix: "fh-", nameField: "name", introVo: "vo-intro-fish", coldSlug: "clownfish" };
+const E52CFG = { items: SHELLS, facts: SHELL_FACTS, topicWord: "SEASHELL", topicPlural: "SEASHELLS", dir: "shells", ext: "jpg", fit: "cover", voPrefix: "sh-", nameField: "name", introVo: "vo-intro-shell", coldSlug: "scallop" };
+const E50CFG = { items: MUSHROOMS, facts: MUSHROOM_FACTS, topicWord: "MUSHROOM", topicPlural: "MUSHROOMS", dir: "mushrooms", ext: "jpg", fit: "cover", voPrefix: "mu-", nameField: "name", introVo: "vo-intro-mushroom", coldSlug: "flyagaric" };
+const E54CFG = { items: AIRCRAFT, facts: AIRCRAFT_FACTS, topicWord: "AIRCRAFT", topicPlural: "AIRCRAFT", dir: "aircraft", ext: "jpg", fit: "cover", voPrefix: "ac-", nameField: "name", introVo: "vo-intro-aircraft", coldSlug: "concorde" };
+const E51CFG = { items: SPACE, facts: SPACE_FACTS, topicWord: "SPACE OBJECT", topicPlural: "SPACE OBJECTS", dir: "space", ext: "jpg", fit: "cover", voPrefix: "sp-", nameField: "name", introVo: "vo-intro-space", coldSlug: "saturn" };
+const E47CFG = { items: SPORTS, facts: SPORT_FACTS, topicWord: "SPORT", topicPlural: "SPORTS", dir: "sports", ext: "jpg", fit: "cover", voPrefix: "sr-", nameField: "name", introVo: "vo-intro-sport", coldSlug: "soccer" };
+const E46CFG = { items: TREES, facts: TREE_FACTS, topicWord: "TREE", topicPlural: "TREES", dir: "trees", ext: "jpg", fit: "cover", voPrefix: "tr-", nameField: "name", introVo: "vo-intro-tree", coldSlug: "oak" };
+const E48CFG = { items: TOOLS, facts: TOOL_FACTS, topicWord: "TOOL", topicPlural: "TOOLS", dir: "tools", ext: "jpg", fit: "cover", voPrefix: "tl-", nameField: "name", introVo: "vo-intro-tool", coldSlug: "hammer" };
+const E45CFG = { items: REPTILES, facts: REPTILE_FACTS, topicWord: "REPTILE", topicPlural: "REPTILES", dir: "reptiles", ext: "jpg", fit: "cover", voPrefix: "rp-", nameField: "name", introVo: "vo-intro-reptile", coldSlug: "komododragon" };
 const E43CFG = { items: HORSES, facts: HORSE_FACTS, topicWord: "HORSE BREED", topicPlural: "HORSE BREEDS", dir: "horses", ext: "jpg", fit: "cover", voPrefix: "hr-", nameField: "name", introVo: "vo-intro-horse", coldSlug: "arabian" };
 const E44CFG = { items: GEMS, facts: GEM_FACTS, topicWord: "GEMSTONE", topicPlural: "GEMSTONES", dir: "gems", ext: "jpg", fit: "cover", voPrefix: "gem-", nameField: "name", introVo: "vo-intro-gem", coldSlug: "diamond" };
 const E42CFG = { items: INSTRUMENTS, facts: INSTRUMENT_FACTS, topicWord: "INSTRUMENT", topicPlural: "INSTRUMENTS", dir: "instruments", ext: "jpg", fit: "cover", voPrefix: "mi-", nameField: "name", introVo: "vo-intro-instrument", coldSlug: "piano" };
@@ -108,6 +116,9 @@ import { DINO_FACTS } from "./Quiz/dinoFacts";
 import { ShortV2Quiz, SHORTV2_FRAMES } from "./Quiz/shortv2";
 import { ButterfliesV2Quiz, BUTTERFLIESV2_FRAMES } from "./Quiz/butterfliesv2";
 import { BUTTERFLIES } from "./Quiz/butterfliesData";
+import { BUTTERFLY_FACTS } from "./Quiz/butterflyFacts";
+import { REPTILES } from "./Quiz/reptilesData";
+import { REPTILE_FACTS } from "./Quiz/reptileFacts";
 import { SnakesV2Quiz, SNAKESV2_FRAMES } from "./Quiz/snakesv2";
 import { SNAKES } from "./Quiz/snakesData";
 import { ShortQuiz, SHORT_FRAMES } from "./Quiz/short";
@@ -146,6 +157,20 @@ import { EMOJI_BOOKS } from "./Quiz/emojiBooksData";
 import { EMOJI_BOOK_FACTS } from "./Quiz/emojiBookFacts";
 import { FISH } from "./Quiz/fishData";
 import { FISH_FACTS } from "./Quiz/fishFacts";
+import { SHELLS } from "./Quiz/shellsData";
+import { SHELL_FACTS } from "./Quiz/shellFacts";
+import { MUSHROOMS } from "./Quiz/mushroomsData";
+import { MUSHROOM_FACTS } from "./Quiz/mushroomFacts";
+import { AIRCRAFT } from "./Quiz/aircraftData";
+import { AIRCRAFT_FACTS } from "./Quiz/aircraftFacts";
+import { SPACE } from "./Quiz/spaceData";
+import { SPACE_FACTS } from "./Quiz/spaceFacts";
+import { SPORTS } from "./Quiz/sportsData";
+import { SPORT_FACTS } from "./Quiz/sportFacts";
+import { TREES } from "./Quiz/treesData";
+import { TREE_FACTS } from "./Quiz/treeFacts";
+import { TOOLS } from "./Quiz/toolsData";
+import { TOOL_FACTS } from "./Quiz/toolFacts";
 import { HORSES } from "./Quiz/horsesData";
 import { HORSE_FACTS } from "./Quiz/horseFacts";
 import { GEMS } from "./Quiz/gemsData";
@@ -250,6 +275,9 @@ export const RemotionRoot = () => {
       <Composition id="ThumbEmojiCountry" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F5FC", "1F5FD", "?", "1F428", "?", "1F418", "?", "1F3EF", "1F42A"], line1: "CAN YOU NAME ALL", word: "EMOJI?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbGaming" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "gaming", grid: ["minecraft", "xbox", "?", "playstation", "?", "nintendo", "?", "pokemon", "fortnite"], line1: "CAN YOU NAME ALL", word: "GAME?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbFish" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "fish", grid: ["clownfish", "great-white-shark", "?", "pufferfish", "?", "seahorse", "?", "swordfish", "piranha"], line1: "CAN YOU NAME ALL", word: "FISH", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="ThumbShells" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "shells", grid: ["scallop", "queenconch", "?", "nautilus", "?", "tigercowrie", "?", "sanddollar", "giantclam"], line1: "CAN YOU NAME ALL", word: "SEASHELL", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="ThumbMushrooms" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "mushrooms", grid: ["flyagaric", "chanterelle", "?", "portobello", "?", "porcini", "?", "morel", "oyster"], line1: "CAN YOU NAME ALL", word: "MUSHROOM", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="ThumbAircraft" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "aircraft", grid: ["boeing747", "concorde", "?", "a380", "?", "spitfire", "?", "f16", "sr71"], line1: "CAN YOU NAME ALL", word: "AIRCRAFT", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbClubs" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "clubbadges", grid: ["real-madrid", "barcelona", "?", "manchester-united", "?", "liverpool", "?", "bayern-munich", "juventus"], line1: "CAN YOU NAME ALL", word: "FOOTBALL CLUB", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbDogs" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "dogs", grid: ["labrador", "germanshepherd", "?", "goldenretriever", "?", "husky", "?", "dalmatian", "beagle"], line1: "CAN YOU NAME ALL", word: "DOG BREED", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbInsect" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "insects", grid: ["ladybug", "honey-bee", "?", "dragonfly", "?", "praying-mantis", "?", "monarch-butterfly", "stag-beetle"], line1: "CAN YOU NAME ALL", word: "INSECT", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
@@ -331,6 +359,19 @@ export const RemotionRoot = () => {
       <Composition id="E32Quiz" component={QuizV2} durationInFrames={quizFrames(E32CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E32CFG }} />
       <Composition id="E29Quiz" component={QuizV2} durationInFrames={quizFrames(E29CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E29CFG }} />
       <Composition id="E36Quiz" component={QuizV2} durationInFrames={quizFrames(E36CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E36CFG }} />
+      <Composition id="E52Quiz" component={QuizV2} durationInFrames={quizFrames(E52CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E52CFG }} />
+      <Composition id="E50Quiz" component={QuizV2} durationInFrames={quizFrames(E50CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E50CFG }} />
+      <Composition id="E54Quiz" component={QuizV2} durationInFrames={quizFrames(E54CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E54CFG }} />
+      <Composition id="E51Quiz" component={QuizV2} durationInFrames={quizFrames(E51CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E51CFG }} />
+      <Composition id="E47Quiz" component={QuizV2} durationInFrames={quizFrames(E47CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E47CFG }} />
+      <Composition id="ThumbSpace" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "space", grid: ["saturn", "moon", "?", "mars", "?", "jupiter", "?", "milkyway", "sun"], line1: "CAN YOU NAME ALL", word: "SPACE OBJECT", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="ThumbSports" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "sports", grid: ["soccer", "basketball", "?", "tennis", "?", "boxing", "?", "golf", "swimming"], line1: "CAN YOU NAME ALL", word: "SPORT", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E46Quiz" component={QuizV2} durationInFrames={quizFrames(E46CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E46CFG }} />
+      <Composition id="E48Quiz" component={QuizV2} durationInFrames={quizFrames(E48CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E48CFG }} />
+      <Composition id="ThumbTrees" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "trees", grid: ["oak", "pine", "?", "maple", "?", "willow", "?", "baobab", "cherryblossom"], line1: "CAN YOU NAME ALL", word: "TREE", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="ThumbTools" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "tools", grid: ["hammer", "screwdriver", "?", "wrench", "?", "handsaw", "?", "drill", "axe"], line1: "CAN YOU NAME ALL", word: "TOOL", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E45Quiz" component={QuizV2} durationInFrames={quizFrames(E45CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E45CFG }} />
+      <Composition id="ThumbReptiles" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "reptiles", grid: ["komododragon", "greeniguana", "?", "nilecrocodile", "?", "leopardgecko", "?", "beardeddragon", "galapagostortoise"], line1: "CAN YOU NAME ALL", word: "REPTILE", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbHorses" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "horses", grid: ["arabian", "thoroughbred", "?", "clydesdale", "?", "friesian", "?", "appaloosa", "shire"], line1: "CAN YOU NAME ALL", word: "HORSE BREED", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="ThumbGems" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "gems", grid: ["diamond", "ruby", "?", "emerald", "?", "amethyst", "?", "opal", "garnet"], line1: "CAN YOU NAME ALL", word: "GEMSTONE", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E43Quiz" component={QuizV2} durationInFrames={quizFrames(E43CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E43CFG }} />
@@ -381,6 +422,12 @@ export const RemotionRoot = () => {
         { ep: "E32", items: EMOJI_COUNTRIES, mode: "ecountries", title: "Guess the Country by Emoji", v2: true },
         { ep: "E29", items: GAMINGLOGOS, mode: "gaming", title: "Guess the Gaming Logo", v2: true },
         { ep: "E36", items: FISH, mode: "fish", title: "Guess the Fish", v2: true },
+        { ep: "E52", items: SHELLS, mode: "shells", title: "Guess the Seashell", v2: true },
+        { ep: "E50", items: MUSHROOMS, mode: "mushrooms", title: "Guess the Mushroom", v2: true },
+        { ep: "E54", items: AIRCRAFT, mode: "aircraft", title: "Guess the Aircraft", v2: true },
+        { ep: "E46", items: TREES, mode: "trees", title: "Guess the Tree", v2: true },
+        { ep: "E48", items: TOOLS, mode: "tools", title: "Guess the Tool", v2: true },
+        { ep: "E45", items: REPTILES, mode: "reptiles", title: "Guess the Reptile", v2: true },
         { ep: "E34", items: CATS, mode: "cats", title: "Guess the Cat Breed", v2: true },
         { ep: "E33", items: EMOJI_TV, mode: "etv", title: "Guess the TV Show by Emoji", v2: true },
         { ep: "E35", items: EMOJI_BRANDS, mode: "ebrands", title: "Guess the Brand by Emoji", v2: true },
@@ -391,6 +438,8 @@ export const RemotionRoot = () => {
         { ep: "E42", items: INSTRUMENTS, mode: "instruments", title: "Guess the Musical Instrument", v2: true },
         { ep: "E43", items: HORSES, mode: "horses", title: "Guess the Horse Breed", v2: true },
         { ep: "E44", items: GEMS, mode: "gems", title: "Guess the Gemstone", v2: true },
+        { ep: "E51", items: SPACE, mode: "space", title: "Guess the Space Object", v2: true },
+        { ep: "E47", items: SPORTS, mode: "sports", title: "Guess the Sport", v2: true },
       ].flatMap((e) =>
         [0, 1, 2, 3, 4].map((part) => (
           <Composition key={`${e.ep}-${part}`} id={`Short-${e.ep}-${part + 1}`} component={e.v2 ? ShortV2Quiz : ShortQuiz} durationInFrames={e.v2 ? SHORTV2_FRAMES : SHORT_FRAMES} fps={30} width={1080} height={1920} defaultProps={{ items: e.items, mode: e.mode, title: e.title, part }} />

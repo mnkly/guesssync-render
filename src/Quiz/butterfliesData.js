@@ -1,6 +1,6 @@
-// E22 — Guess the Butterfly. 100 butterflies/moths, 25 per difficulty tier.
+// E49 — Guess the Butterfly & Moth. 100 butterflies/moths, 25 per difficulty tier.
 // image: butterflies/<slug>.jpg (objectFit cover) | VO: sfx/bt-<slug>.wav ("It's the <name>!")
-// images from iNaturalist (CC0/CC-BY only — photo_license=cc0,cc-by). iNat is CLEAN for animals.
+// images from Wikimedia Commons (PD/CC0/CC-BY/CC-BY-SA). Provenance: public/butterflies/ATTRIBUTIONS-e49.txt
 export const BUTTERFLIES = [
   // ===== EASY (25) =====
   { slug: "monarch", name: "Monarch", sci: "Danaus plexippus", level: "easy" },

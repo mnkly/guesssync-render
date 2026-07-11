@@ -1,0 +1,102 @@
+# GuessSync E46 «Guess the Tree» — photo attributions (Wikimedia Commons)
+# slug|name|author|license|source_url
+oak|Oak|Bartosz Cuber|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Quercus_robur_-_alone_tree.jpg
+pine|Pine|Stefan.lefnaer|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pinus_sylvestris_sl1.jpg
+maple|Maple|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Acer_saccharum_(sugar_maple_tree_in_fall_colors)_(Newark,_Ohio,_USA)_(25_October_2024)_2.jpg
+willow|Weeping Willow|EgorovaSvetlana|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Willow_Weeping_Salix_Babylonica_Reservoir_park_Brookline_Massachusetts_October_Fall.jpg
+birch|Birch|Dominicus Johannes Bergsma|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Solitaire_berk_(Betula)_in_een_prachtig_landschap._Locatie,_natuurgebied_Delleboersterheide_%E2%80%93_Catspoele_03.jpg
+baobab|Baobab|Diego Delso|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Baobab_(Adansonia_digitata),_parque_nacional_Makgadikgadi_Pans,_Botsuana,_2018-07-30,_DD_03-08_PAN.jpg
+redwood|Coast Redwood|Acroterion|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:US_199_Redwood_Highway.jpg
+cherryblossom|Cherry Blossom|Dietmar Rabich|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Park_Sentmaring,_Japanische_Bl%C3%BCtenkirsche_--_2015_--_5714.jpg
+apple|Apple|Biswarup Ganguly|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Malus_domestica_-_Apple_Trees_-_Kullu_-_2014-05-09_2199.JPG
+bamboo|Bamboo|Jules Verne Times Two|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bamboo_(Phyllostachys_edulis),_Jardim_da_Funda%C3%A7%C3%A3o_Calouste_Gulbenkian,_Lisbon,_Portugal_julesvernex2.jpg
+coconutpalm|Coconut Palm|Manfred Werner|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Koh_Samui_Lipa_Noi2.jpg
+fir|Fir|W.carter|Public domain|https://commons.wikimedia.org/wiki/File:Brances_of_a_silver_fir_in_Gullmarsskogen_Nature_Reserve.jpg
+olive|Olive|Palauenc05|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lun_olive_tree_1600_years.jpg
+saguaro|Saguaro Cactus|Tomascastelazo|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Carnegiea_gigantea_or_Sahuaro_or_Saguaro.jpg
+orange|Orange|Luis Fernández García|CC BY-SA 2.5 es|https://commons.wikimedia.org/wiki/File:Citrus-sinensis-fruto.jpg
+lemon|Lemon|picture taken by user:donarreiskoffer,|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Lemon_tree_Italy.JPG
+eucalyptus|Eucalyptus|Rison Thumboor from Thrissur, India|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Tall_Eucalyptus_trees._(25094550477).jpg
+spruce|Spruce|EgorovaSvetlana|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Picea_abies_Norway_Spruce_Tree_Tanglewood_Berkshire_Hills_western_Massachusetts.jpg
+cedar|Cedar|Magnus Manske|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cedrus_libani_%22Cedar_of_Lebanon%22_(Pinaceae)_(tree).JPG
+magnolia|Magnolia|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:Magnolia_grandiflora_full_tree.JPG
+mango|Mango|Vinayaraj|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Mango_tree_Kerala_in_full_bloom.jpg
+fig|Fig|Javier martin|Public domain|https://commons.wikimedia.org/wiki/File:Ficus_carica_habitus_2009December07_DehesaBoyaldePuertollano.jpg
+sequoia|Giant Sequoia|Tuxyso|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Giant_sequoias_in_Sequoia_National_Park_2013.jpg
+datepalm|Date Palm|Madhif|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Ammar-Palm-tree.JPG
+walnut|Walnut|Georg Slickers|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Walnut-tree_20041012_2599.JPG
+beech|Beech|Jean-Pol GRANDMONT|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_Purpurea_JPG4a.jpg
+ash|Ash|Jiří Sedláček|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Famous_tree_Fraxinus_excelsior_near_Castle_Moravsk%C3%A9_Bud%C4%9Bjovice,_T%C5%99eb%C3%AD%C4%8D_District.JPG
+elm|Elm|Ptelea|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:East_Coker_elm,_2.jpg
+poplar|Poplar|David Wright|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Lombardy_Poplar_-_geograph.org.uk_-_586088.jpg
+sycamore|Sycamore|PumpkinSky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Francis_Land_House_Sycamore_tree_LR.jpg
+horsechestnut|Horse Chestnut|Calistemon|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Aesculus_hippocastanum_in_Golden_Valley_Tree_Park,_May_2022_02.jpg
+pear|Pear|Uoaei1|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pyrus_communis_mit_geborstenem_Stamm_01.jpg
+peach|Peach|Forest and Kim Starr|CC BY 3.0 us|https://commons.wikimedia.org/wiki/File:Starr-120426-5228-Prunus_persica_var_persica-habit_in_orchard-Hawea_Pl_Olinda-Maui_(25114144046).jpg
+plum|Plum|Maurice Flesier|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Prunus_domestica_tree_in_Turkey.jpg
+cypress|Cypress|Alden Cornell|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Mediterranean_Cypress_trees_on_Maui_Alden_Cornell_Hawaii_(83675375).jpg
+juniper|Juniper|Unknown authorUnknown author|Public domain|https://commons.wikimedia.org/wiki/File:Juniper_tree_Juniperus_communis_in_a_garden.jpg
+larch|Larch|Bob Harvey|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:The_Larch,_Larix_decidua_-_geograph.org.uk_-_7000274.jpg
+hazel|Hazel|Mike Kirby|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Hazel,_Corylus_avellana_-_geograph.org.uk_-_2322205.jpg
+hawthorn|Hawthorn|Acabashi|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:%27Crataegus%27_hawthorn_tree_blossom_at_Great_Canfield,_Essex,_England.jpg
+rowan|Rowan|Eeno11|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Rowan_tree_20081002b.jpg
+alder|Alder|Sten|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Alnus-glutinosa-habitus.JPG
+sweetchestnut|Sweet Chestnut|Martinvl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Coppiced_sweet_chestnut_woodland.jpg
+almond|Almond|Anna Anichkova|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Almond_tree_6241.jpg
+avocado|Avocado|B.navez|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Persea_americana_fruit_2.JPG
+pomegranate|Pomegranate|Tieum512|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Punica_granatum_on_tree_-_Croatia.jpg
+jacaranda|Jacaranda|Jules Verne Times Two|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Jacaranda_tree_(Jacaranda_mimosifolia)_in_bloom,_Miguel_Bombarda_Avenue,_Lisbon,_Portugal_julesvernex2.jpg
+rubbertree|Rubber Tree|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Ficus_elastica_-_La_Palma_01.jpg
+teak|Teak|Vengolis|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Nilambur_Teak_Plantation_0384.jpg
+mahogany|Mahogany|Vinayaraj|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Mahagoni_Tree.jpg
+acacia|Acacia|Daniel Case|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Safari_vehicle_parked_under_acacia_tree_on_savanna,_Maasai_Mara,_Kenya.jpg
+ginkgo|Ginkgo|そらみみ|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Ginkgo_biloba_tree_near_Bronze_torii_of_Hikosan_Shrine.jpg
+japanesemaple|Japanese Maple|Photo (c)2007 Derek Ramsey (Ram-Man)|GFDL 1.2|https://commons.wikimedia.org/wiki/File:Japanese_Maple_Acer_palmatum_Autumn_Tree_3008px.jpg
+yew|Yew|Sitomon|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Taxus_baccata_tree.jpg
+holly|Holly|Evelyn Simak|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Common_Holly_(Ilex_aquifolium)_-_geograph.org.uk_-_1605818.jpg
+monkeypuzzle|Monkey Puzzle|DavydhT|CC0|https://commons.wikimedia.org/wiki/File:Monkey_Puzzle_tree_(Araucaria_Araucana)_on_Penryn_Campus,_Cornwall_01.jpg
+banyan|Banyan|Adityamadhav83|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Roadside_Banyan_tree_(Ficus_benghalensis)_at_Kothavalasa.jpg
+corkoak|Cork Oak|Jules Verne Times Two|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cork_oak_tree_(Quercus_suber)_behind_a_dry_stone_wall,_Beir%C3%A3,_Portugal_julesvernex2.jpg
+londonplane|London Plane|Ekopolis Foundation|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2013_Plane_tree_from_Komjatice_SK.jpg
+tuliptree|Tulip Tree|Homoarborea|CC0|https://commons.wikimedia.org/wiki/File:Liriodendron_tulipifera_Meise_Nationale_Plantentuin.jpg
+dogwood|Dogwood|Gmihail at Serbian Wikipedia|CC BY-SA 3.0 rs|https://commons.wikimedia.org/wiki/File:Cornus_florida_habitus.jpg
+redbud|Redbud|Dcrjsr|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Cercis_canadensis_redbud_tree_bloom.jpg
+catalpa|Catalpa|Chris Light|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Catalpa_Tree_8240.jpg
+sweetgum|Sweetgum|Calistemon|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Liquidambar_styraciflua_in_Golden_Valley_Tree_Park,_May_2022_02.jpg
+persimmon|Persimmon|かるちる|CC0|https://commons.wikimedia.org/wiki/File:A-bombed_tree_(diospyros_kaki,_S05a6-11)_No.1.jpg
+mulberry|Mulberry|Harvinder Chandigarh|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Morus_alba_tree_in_spring_season_14.jpg
+tamarind|Tamarind|Forest and Kim Starr|CC BY 3.0 us|https://commons.wikimedia.org/wiki/File:Starr-150326-0727-Tamarindus_indica-tall_tree_and_Laysan_Albatrosses-Near_Citrus_Grove_Town_Sand_Island-Midway_Atoll_(25240518386).jpg
+frangipani|Frangipani|Basile Morin|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Twisted_Plumeria_tree_trunk_overgrowing_the_steep_stone_stairs_of_Wat_Phou_temple,_Champasak,_Laos.jpg
+royalpoinciana|Royal Poinciana|Robin Taylor from Bamako, Mali|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Flame_tree_mali.jpg
+cottonwood|Cottonwood|Calistemon|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Populus_deltoides_in_Golden_Valley_Tree_Park,_May_2022_03.jpg
+sassafras|Sassafras|AndyScott|CC0|https://commons.wikimedia.org/wiki/File:Sassafras_albidum,_Champion_Tree_at_Cannizaro_Park.jpg
+baldcypress|Bald Cypress|Melissa J. Romero|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:20190716_092023_Florida_Cypress_Tree.jpg
+hornbeam|Hornbeam|Willow|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Carpinus_betulus_-_Hunsr%C3%BCck_001.jpg
+linden|Linden|Юрий Д.К.|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Efremov_-_2025_-_Tilia_cordata_tree_01.jpg
+blacklocust|Black Locust|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia_001.JPG
+osageorange|Osage Orange|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Maclura_pomifera_001.JPG
+dragonblood|Dragon Blood Tree|Boris Khvostichenko(User:Boriskhv)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Socotra_dragon_tree.JPG
+joshuatree|Joshua Tree|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Yucca_brevifolia_-_Funchal_01.jpg
+rainboweucalyptus|Rainbow Eucalyptus|Forest and Kim Starr|CC BY 3.0 us|https://commons.wikimedia.org/wiki/File:Starr-090618-1063-Eucalyptus_deglupta-trunk_and_bark-Hana_Hwy-Maui_(24872186541).jpg
+kauri|Kauri|Prosperosity|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Kauri_tree_20241222_110057.jpg
+ghostgum|Ghost Gum|Brian W. Schaller|FAL|https://commons.wikimedia.org/wiki/File:A212,_Mary_Kathleen,_Queensland,_Australia,_ghost_gum_tree,_2007.JPG
+bristlecone|Bristlecone Pine|James R Bouldin (talk · contribs)|Public domain|https://commons.wikimedia.org/wiki/File:Prometheus_Wheeler.jpg
+wollemi|Wollemi Pine|This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Wollemia_nobilis_full.jpg
+quivertree|Quiver Tree|Le Grand Portage, derivative work: Fletcher6 (talk)|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Aloe_dichotoma_-Keetmanshoop,_Namibia-21Aug2009-2.jpg
+boab|Boab|Whitenoise01 at English Wikipedia|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Boab,_Timber_Creek,_NT_-_Melissa_Jamcotchian.JPG
+bunya|Bunya Pine|John Robert McPherson|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Araucaria_bidwillii_Bunya_Mountains_National_Park_Queensland_1980s_IMG_0025.jpg
+travelerspalm|Traveler's Palm|CEphoto, Uwe Aranas|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Ravenala-madagascariensis-01.jpg
+sausagetree|Sausage Tree|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Kigelia_africana_-_Jardim_Municipal_do_Funchal_01.jpg
+cannonball|Cannonball Tree|பரிதிமதி|Public domain|https://commons.wikimedia.org/wiki/File:Couroupita_guianensis_tree.JPG
+manchineel|Manchineel|René Bongard|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Manzanilla_forest_and_a_cactus_-_panoramio.jpg
+silkfloss|Silk Floss Tree|blmurch|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Palo_Borracho_Trees_of_Buenos_Aires_(482292280).jpg
+kapok|Kapok|CEphoto, Uwe Aranas|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Tunku_Sabah_Kapok-Tree-01.jpg
+handkerchief|Handkerchief Tree|muffinn from Worcester, UK|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Petworth_-_Davidia_involucrata_(dove_tree,_handkerchief_tree,_pocket_handkerchief_tree,_ghost_tree).jpg
+dawnredwood|Dawn Redwood|Cossey25|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Tree_006_dawn_redwood_habit_002.jpg
+cocodemer|Coco de Mer|Photography by Dino Sassi - Marcel Fayon, Photo Eden LTD|Public domain|https://commons.wikimedia.org/wiki/File:Vallee_de_Mai_waterfall_and_coco_de_mer_palm_Praslin_Seychelles.jpg
+cabbagetree|Cabbage Tree|Michal Klajban|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cabbage_tree_by_Te_Paeroa,_Richmond,_Christchurch,_New_Zealand.jpg
+pandanus|Screw Pine|Forest and Kim Starr|CC BY 3.0 us|https://commons.wikimedia.org/wiki/File:Starr-120606-7091-Pandanus_tectorius-habit_view_coast-Backside_Lelekea_Bay-Maui_(25118459006).jpg
+judastree|Judas Tree|Christian Ferrer|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cercis_siliquastrum,_For%C3%AAt_domaniale_de_S%C3%A8te,_tree_01.jpg
+stranglerfig|Strangler Fig|EgorovaSvetlana|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Strangler_Fig_Tree_at_Garden_of_the_Groves_Botanical_Garden_in_Grand_Bahama.jpg
+baobabgrandidier|Grandidier's Baobab|Bernard Gagnon|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Adansonia_grandidieri04.jpg
+ombu|Ombu|Awinch1001|CC0|https://commons.wikimedia.org/wiki/File:Phytolacca_dioica_tree_Rhodes_City.jpg
