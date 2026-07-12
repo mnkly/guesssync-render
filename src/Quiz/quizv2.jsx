@@ -149,11 +149,36 @@ const Confetti = ({ accent, revealAt }) => {
   return <AbsoluteFill>{bits}</AbsoluteFill>;
 };
 
+// EXTREME-ZOOM hard-mode ("What the Zoom") — opt-in via cfg.zoom (falsy by default).
+// During the QUESTION the clue image is scaled up and cropped to a stable off-center region
+// (focal derived from the item key hash → varied but reproducible, NOT random per frame).
+// At the REVEAL it animates smoothly back to the normal full-frame fit over ~0.4s (12f).
+// GUARD: when cfg.zoom is falsy this whole block is skipped and the render is byte-identical
+// to before — no existing episode changes.
+const zoomScaleOf = (z) => (z && typeof z === "object" && z.scale ? z.scale : 3.0);
+const zoomFocal = (key, sc) => {
+  const s = String(key);
+  let h = 2166136261 >>> 0;
+  for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619) >>> 0; }
+  const a = (h % 1000) / 1000, b = ((h >>> 10) % 1000) / 1000;
+  const maxX = ((sc - 1) / (2 * sc)) * 100 * 0.70; // horizontal crop range (stay inside frame)
+  const maxY = maxX * 0.45;                         // tighter vertically → avoids contain letterbox
+  return [(a - 0.5) * 2 * maxX, (b - 0.5) * 2 * maxY];
+};
+
 const ItemImg = ({ cfg, slug, w, h, revealed, revealAt }) => {
   const frame = useCurrentFrame();
+  const pad = cfg.fit === "contain" ? Math.round(w * 0.09) : 5;
+  if (cfg.zoom) {
+    const sc0 = zoomScaleOf(cfg.zoom);
+    const [fx, fy] = zoomFocal(slug, sc0);
+    const p = revealed ? interpolate(frame, [revealAt, revealAt + 12], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : 0;
+    const sc = interpolate(p, [0, 1], [sc0, 1.0]);
+    const tx = interpolate(p, [0, 1], [fx, 0]), ty = interpolate(p, [0, 1], [fy, 0]);
+    return <Img src={staticFile(`${cfg.dir}/${slug}.${cfg.ext}`)} style={{ width: w - pad * 2, height: h - pad * 2, objectFit: cfg.fit, borderRadius: cfg.fit === "contain" ? 12 : 22, transform: `scale(${sc}) translate(${tx}%, ${ty}%)` }} />;
+  }
   const kb = interpolate(frame, [0, revealAt], [1.0, 1.07], { extrapolateRight: "clamp" });
   const settle = revealed ? interpolate(frame, [revealAt, revealAt + 10], [1.07, 1.0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : kb;
-  const pad = cfg.fit === "contain" ? Math.round(w * 0.09) : 5;
   return <Img src={staticFile(`${cfg.dir}/${slug}.${cfg.ext}`)} style={{ width: w - pad * 2, height: h - pad * 2, objectFit: cfg.fit, borderRadius: cfg.fit === "contain" ? 12 : 22, transform: `scale(${settle})` }} />;
 };
 

@@ -1,0 +1,106 @@
+GuessSync E57 - "Guess the Spider" - Image Attributions
+100 real spider (Araneae) photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. Files under CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that requirement.
+Generated 2026-07-11. Format:  slug | name | author | license | source
+==========================================================================================
+tarantula | Tarantula | Carlos Valenzuela | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Brachypelma_vagans_p1.jpg
+blackwidow | Black Widow | Unknown | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Latrodectus_mactans_eating.JPG
+wolfspider | Wolf Spider | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Wolf_spider_tunnel.jpg
+jumpingspider | Jumping Spider | Kevincollins123 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:PlatycryptusUndatusFemale.jpg
+daddylonglegs | Daddy Long-legs | Olei | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pholcus.phalangioides.6905.jpg
+gardenspider | Garden Spider | Quartl | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Araneus_diadematus_qtl1.jpg
+brownrecluse | Brown Recluse | Rosa Pineda | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Brown_Recluse.jpg
+huntsman | Huntsman Spider | JonRichfield | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Sparassidae_Palystes_castaneus_mature_female_9923s.jpg
+orbweaver | Orb-weaver | Didier Descouens | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Araneus_diadematus_MHNT_Femelle_Fronton.jpg
+boldjumper | Bold Jumping Spider | Kaldari | CC0 | https://commons.wikimedia.org/wiki/File:Kaldari_Phidippus_audax_02.jpg
+ghostspider | Ghost Spider | Alexis Lours | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Anyphaena_accentuata_France.jpg
+housespider | House Spider | Daniel.fox123 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Common_House_Spider_2.jpg
+redback | Redback Spider | Toby Hudson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Latrodectus_hasselti_close.jpg
+funnelweb | Sydney Funnel-web | hntro | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Atrax_robustus_female_lateral.jpeg
+crabspider | Crab Spider | Vengolis | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Crab_Spider_6299.jpg
+goldsilkorbweaver | Golden Silk Orb-weaver | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Golden_silk_orb-weaver_spider_Nephila_clavipes)_female.jpg
+fishingspider | Fishing Spider | Foto: N.Vėlavičienė | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Dolomedes_fimbriatus.jpg
+zebraspider | Zebra Spider | Kaldari | CC0 | https://commons.wikimedia.org/wiki/File:Kaldari_Salticus_scenicus_male_01.jpg
+jorospider | Joro Spider | Christina Butler from Georgia, United States | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Joro_Spider_-_Trichonephila_clavata_(50564813031).jpg
+hobospider | Hobo Spider | Géry PARENT | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Eratigena_agrestis_%E2%99%80_(Walckenaer,_1802)_1.jpg
+barnspider | Barn Spider | No machine-readable author provided. Abrahami assumed (based on copyright claims). | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Araneus_cavaticus_02.jpg
+grassspider | Grass Spider | Judy Gallagher | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Grass_Spider_-_Agelenopsis_species_possibly_pennsylvanica%3F,_Vernon,_British_Columbia.jpg
+yellowsacspider | Yellow Sac Spider | Austin Campbell | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Yellow-sac-spider.jpg
+moneyspider | Money Spider | Andreas Eichler | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:2012.10.20-17-Mannheim_Vogelstang--Baldachinspinne-Linyphia_Triangularis-Weibchen.jpg
+writingspider | Writing Spider | Judy Gallagher | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Black_and_Yellow_Argiope_-_Argiope_aurantia_-_Merritt_Island_National_Wildlife_Refuge,_Florida.jpg
+greenlynx | Green Lynx Spider | Judy Gallagher | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Green_Lynx_Spider_-_Peucetia_viridans,_Green_Swamp,_Supply,_North_Carolina_-_01_(cropped).jpg
+nurserywebspider | Nursery Web Spider | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nursery_web_spider_(Pisaura_mirabilis)_2.jpg
+spittingspider | Spitting Spider | André Karwath aka Aka | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Scytodes_thoracica_(aka).jpg
+woodlousespider | Woodlouse Spider | Matthew Lindsey | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Dysdera_crocata_458284237.jpg
+wanderingspider | Brazilian Wandering Spider | Rodrigo Tetsuo Argenton | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Aranha_armadeira(Phoneutria_nigriventer)_por_Rodrigo_Tetsuo_Argenton_(4).jpg
+mousespider | Mouse Spider | Peripitus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Male_Missulena_occatoria_spider_-_cropped.JPG
+blackhousespider | Black House Spider | fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8 | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Black_house_spider03.jpg
+lacewebspider | Lace-web Spider | AJC ajcann.wordpress.com from UK | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Black_Lace_Weaver_(Amaurobius_ferox).jpg
+tubewebspider | Tube Web Spider | Luis Miguel Bugallo Sánchez (Lmbuga Commons)(Lmbuga Galipedia) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Spider_cutted.jpg
+flowercrabspider | Flower Crab Spider | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Crab_spider_(Misumena_Vatia)_with_prey_silver-spotted_skipper_(Hesperia_comma).jpg
+waspspider | Wasp Spider | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Wasp_spider_(Argiope_bruennichi)_female_ventral_Hrdovicka.jpg
+purseweb | Purse-web Spider | Siga | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Atypus_affinis_natur.jpg
+divingbellspider | Diving Bell Spider | Norbert Schuller Baupi | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Argyroneta_aquatica_Paar.jpg
+cavespider | Cave Spider | oio154 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Meta_menardi.jpg
+longjawedorbweaver | Long-jawed Orb-weaver | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Long-jawed_orb-weaver_spider_(Tetragnatha_montana)_female.jpg
+groundspider | Ground Spider | Benedikt | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Callilepis_nocturna.jpg
+spinyorbweaver | Spiny-backed Orb-weaver | Sam Fraser-Smith from Brisbane, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Gasteracantha_cancriformis_-_Spiny_backed_orbweaver_(3778044268).jpg
+pinktoetarantula | Pink-toe Tarantula | Luis Alejandro Cisneros | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:AVICULARIA_AVICULARIA.JPG
+mexicanredknee | Mexican Redknee Tarantula | George Chernilevsky | Public domain | https://commons.wikimedia.org/wiki/File:Brachypelma_smithi_2009_G04.jpg
+curlyhairtarantula | Curly Hair Tarantula | Elick11 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Brachypelma_albopilowsom.jpg
+sixeyedsandspider | Six-eyed Sand Spider | JonRichfield | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hexophthalma_Unidentified_IMG_2788.jpg
+bolasspider | Bolas Spider | Judy Gallagher | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Bolas_Spider_-_Mastophora_phrynosoma_hunting,_Julie_Metz_Wetlands,_Woodbridge,_Virginia_(24843011518).jpg
+walnutorbweaver | Walnut Orb-weaver | Magnefl | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nuctenea_umbratica-fh.jpg
+falsewidow | False Widow | Alexis Lours | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Steatoda_nobilis_France.jpg
+marbledorbweaver | Marbled Orb-weaver | PiccoloNamek | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Marbled_Orb_Weaver.jpg
+arrowheadorbweaver | Arrowhead Orb-weaver | Judy Gallagher | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Arrowhead_Spider_-_Verrucosa_arenata,_Julie_Metz_Wetlands,_Woodbridge,_Virginia_-_03.jpg
+candystripespider | Candy-striped Spider | James K. Lindsey | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Enoplognatha.ovata.female.jpg
+cucumberspider | Cucumber Green Spider | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cucumber_green_spider_(Araniella_cucurbitina)_Bovallstrand.jpg
+ladybirdspider | Ladybird Spider | Fritz Geller-Grimm | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Eresus_fg04.jpg
+antmimicspider | Ant-mimic Spider | Muhammad Mahdi Karim | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Myrmarachne_sp.jpg
+featherleggedspider | Feather-legged Spider | Peter Webb | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Uloborus_plumipes_300127886_540743425.jpg
+piratespider | Pirate Spider | Michael Hohner (Mhohner) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ero_aphana_female_side.jpg
+tentwebspider | Tent-web Spider | picture taken by Olaf Leillinger | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Cyrtophora.citricola.7627.jpg
+greenhuntsman | Green Huntsman | Luc Viatour | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Micrommata_virescens_Luc_Viatour.jpg
+cobaltbluetarantula | Cobalt Blue Tarantula | Original: RushenbDerived: Peter Coxhead | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Haplopelma_lividum,_Cobalt_blue_tarantula_cropped.jpg
+gootysapphire | Gooty Sapphire Tarantula | Micha L. Rieser | Attribution | https://commons.wikimedia.org/wiki/File:Poecilotheria_metallica_-_juvenile_male.jpg
+indianornamental | Indian Ornamental Tarantula | Morkelsker | Public domain | https://commons.wikimedia.org/wiki/File:P_regalis.JPG
+braziliansalmonpink | Brazilian Salmon Pink | George Chernilevsky | Public domain | https://commons.wikimedia.org/wiki/File:Lasiodora_parahybana_2009_G03.jpg
+kingbaboonspider | King Baboon Spider | Www.universoaracnido.com | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Pelinobius_muticus_adult.jpg
+greenbottleblue | Green Bottle Blue Tarantula | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:(MHNT)_Chromatopelma_cyaneopubescens_-_Venezuela_-_Female.jpg
+orangebaboon | Orange Baboon Tarantula | Prianteltix | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Pterinochilus.jpg
+twotailedspider | Two-tailed Spider | Peter Webb | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Hersilia_sericea_300596667_541628328.jpg
+scorpiontailedspider | Scorpion-tailed Spider | Biggles | Public domain | https://commons.wikimedia.org/wiki/File:Arachnura_higginsi_SIDE.JPG
+happyfacespider | Happy-face Spider | Nate Yuen | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Theridion_grallator_with_happy_face.jpg
+brazilianblack | Brazilian Black Tarantula | André Karwath aka Aka | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Grammostola_pulchra_(aka).jpg
+anteatingspider | Ant-eating Spider | Korenko S, Schmidt S, Schwarz M, Gibson G, Pekar S | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:A_juvenile_Zodarion_styliferum_-_ZooKeys-262-001-g001-A.jpeg
+gardenorbweaver | Garden Orb-weaver | Fir0002 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Garden_orb_weaver05.jpg
+regaljumper | Regal Jumping Spider | Thomas Shahan | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Female_Jumping_Spider_-_Phidippus_regius_-_Florida.jpg
+lichenhuntsman | Lichen Huntsman | Summerdrought | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pandercetes_gracilis_1733.jpg
+wraparoundspider | Wrap-around Spider | Graham Wise from Brisbane, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Dolophones_sp._(14512417851).jpg
+peacockspider | Peacock Spider | Jürgen Otto | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:MalePeacockSpider.jpg
+goliathbirdeater | Goliath Birdeater | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Theraphosa_blondi_MHNT.jpg
+ogrefacedspider | Ogre-faced Spider | Judy Gallagher | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Web-casting_Spider_-_Deinopis_longipes,_Caves_Branch_Jungle_Lodge,_Armenia,_Belize.jpg
+assassinspider | Assassin Spider | Ethan Yeoman | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Austrarchaea_raveni_353492909.jpg
+trapdoorspider | Trapdoor Spider | Davefoc | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:TrapDoorSpiderOnAStick.jpg
+mirrorspider | Mirror Spider | Poyt448 Peter Woodard | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Thwaitesia_Spider_on_White_Beech_leaf.jpg
+coinspider | Coin Spider | Akio Tanikawa | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Herennia.sp.new.guinea.-.tanikawa.jpg
+wheelspider | Golden Wheel Spider | Daniel S. Katz | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Carparachne_aureoflava_110456212.jpg
+birddungspider | Bird-dung Spider | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bird_dropping_spider03.jpg
+twigspider | Twig Spider | DixBalino | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Poltys_(Tree_Stump_Spider).jpg
+leafcurlingspider | Leaf-curling Spider | Mjoyce | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:LeafCurlingSpider01.jpg
+hermitspider | Hermit Spider | Len Worthington | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Nephilengys_malabarensis_(Walckenaer,_1841_(16341738634).jpg
+longhornedorbweaver | Long-horned Orb-weaver | Rushen | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Macracantha_arcuata_-_Curved_Spiny_Spider_(8550192839)_by_Rushen_edit.jpg
+triangularspider | Triangular Spider | Peter Woodard | Public domain | https://commons.wikimedia.org/wiki/File:Spider_Flint_%26_Steel_track.JPG
+jewelspider | Jewel Spider | Donald Hobern | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Austracantha_minax_1_cropped.jpg
+gianthuntsman | Giant Huntsman | Petra &amp; Wilfried | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Heteropoda_maxima_1.jpg
+redwidow | Red Widow | Stevenklioze00 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:LBishopiKlioze.jpg
+brownwidow | Brown Widow | Mfield, Matthew Field, http://www.photography.mattfield.com | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Brown_widow_spider_Latrodectus_geometricus_low_oblique_view.jpg
+arizonablonde | Arizona Blonde Tarantula | Snake collector | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Aphonopelma_chalcodes.jpg
+wallspider | Wall Spider | Open to volunteer in Brazil | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Oecobius_navus_562789425.jpg
+slingshotspider | Slingshot Spider | Alex Abair | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Theridiosoma_gemmosum_549207496.jpg
+greenjumper | Green Jumping Spider | Jack T Wanamaker | Public domain | https://commons.wikimedia.org/wiki/File:Mopus_Mormon_Spider.jpg
+vegetarianspider | Vegetarian Spider | Maximilian Paradiz | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Bagheera_kiplingi_(cropped).jpg
+portiaspider | Portia Spider | Charles Lam from Hong Kong, China | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Portia_fimbriata_1.jpg
+socialspider | Social Spider | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Social_Spider_(Anelosimus_eximius)_(25302060747).jpg

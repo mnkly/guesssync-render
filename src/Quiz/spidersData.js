@@ -1,5 +1,5 @@
-// «Guess the Spider» — GuessSync · E57 · 100 arachnids (25/level) · real photos from Wikimedia Commons
-// Sorted by real recognizability: easy (Tarantula/Black Widow) → impossible (Peacock Spider/Goliath Birdeater). Arachnids only — distinct from insects (E38).
+// «Guess the Spider» — GuessSync · E57 · 100 true spiders (Araneae, 25/level) · real photos from Wikimedia Commons
+// Sorted by real recognizability: easy (Tarantula/Black Widow) → impossible (Peacock Spider/Goliath Birdeater). All items are genuine spiders (order Araneae) — no scorpions/harvestmen/other arachnids.
 export const SPIDERS = [
   // EASY (25) — household-name spiders
   { slug: "tarantula", name: "Tarantula", level: "easy" },
@@ -11,8 +11,8 @@ export const SPIDERS = [
   { slug: "brownrecluse", name: "Brown Recluse", level: "easy" },
   { slug: "huntsman", name: "Huntsman Spider", level: "easy" },
   { slug: "orbweaver", name: "Orb-weaver", level: "easy" },
-  { slug: "scorpion", name: "Scorpion", level: "easy" },
-  { slug: "camelspider", name: "Camel Spider", level: "easy" },
+  { slug: "boldjumper", name: "Bold Jumping Spider", level: "easy" },
+  { slug: "ghostspider", name: "Ghost Spider", level: "easy" },
   { slug: "housespider", name: "House Spider", level: "easy" },
   { slug: "redback", name: "Redback Spider", level: "easy" },
   { slug: "funnelweb", name: "Sydney Funnel-web", level: "easy" },
@@ -25,7 +25,7 @@ export const SPIDERS = [
   { slug: "barnspider", name: "Barn Spider", level: "easy" },
   { slug: "grassspider", name: "Grass Spider", level: "easy" },
   { slug: "yellowsacspider", name: "Yellow Sac Spider", level: "easy" },
-  { slug: "emperorscorpion", name: "Emperor Scorpion", level: "easy" },
+  { slug: "moneyspider", name: "Money Spider", level: "easy" },
   { slug: "writingspider", name: "Writing Spider", level: "easy" },
   // MEDIUM (25)
   { slug: "greenlynx", name: "Green Lynx Spider", level: "medium" },
@@ -34,10 +34,10 @@ export const SPIDERS = [
   { slug: "woodlousespider", name: "Woodlouse Spider", level: "medium" },
   { slug: "wanderingspider", name: "Brazilian Wandering Spider", level: "medium" },
   { slug: "mousespider", name: "Mouse Spider", level: "medium" },
-  { slug: "deathstalker", name: "Deathstalker Scorpion", level: "medium" },
-  { slug: "barkscorpion", name: "Arizona Bark Scorpion", level: "medium" },
-  { slug: "vinegaroon", name: "Vinegaroon", level: "medium" },
-  { slug: "harvestman", name: "Harvestman", level: "medium" },
+  { slug: "blackhousespider", name: "Black House Spider", level: "medium" },
+  { slug: "lacewebspider", name: "Lace-web Spider", level: "medium" },
+  { slug: "tubewebspider", name: "Tube Web Spider", level: "medium" },
+  { slug: "flowercrabspider", name: "Flower Crab Spider", level: "medium" },
   { slug: "waspspider", name: "Wasp Spider", level: "medium" },
   { slug: "purseweb", name: "Purse-web Spider", level: "medium" },
   { slug: "divingbellspider", name: "Diving Bell Spider", level: "medium" },
@@ -50,7 +50,7 @@ export const SPIDERS = [
   { slug: "curlyhairtarantula", name: "Curly Hair Tarantula", level: "medium" },
   { slug: "sixeyedsandspider", name: "Six-eyed Sand Spider", level: "medium" },
   { slug: "bolasspider", name: "Bolas Spider", level: "medium" },
-  { slug: "pseudoscorpion", name: "Pseudoscorpion", level: "medium" },
+  { slug: "walnutorbweaver", name: "Walnut Orb-weaver", level: "medium" },
   { slug: "falsewidow", name: "False Widow", level: "medium" },
   { slug: "marbledorbweaver", name: "Marbled Orb-weaver", level: "medium" },
   // HARD (25)
@@ -73,7 +73,7 @@ export const SPIDERS = [
   { slug: "twotailedspider", name: "Two-tailed Spider", level: "hard" },
   { slug: "scorpiontailedspider", name: "Scorpion-tailed Spider", level: "hard" },
   { slug: "happyfacespider", name: "Happy-face Spider", level: "hard" },
-  { slug: "whipspider", name: "Whip Spider", level: "hard" },
+  { slug: "brazilianblack", name: "Brazilian Black Tarantula", level: "hard" },
   { slug: "anteatingspider", name: "Ant-eating Spider", level: "hard" },
   { slug: "gardenorbweaver", name: "Garden Orb-weaver", level: "hard" },
   { slug: "regaljumper", name: "Regal Jumping Spider", level: "hard" },
