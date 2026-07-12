@@ -1,0 +1,104 @@
+# ATTRIBUTIONS — GuessSync «Guess the Insect v2» (E-INSECTS2) — 100 images
+# All images from Wikimedia Commons under free licenses (PD/CC0/CC-BY/CC-BY-SA/GFDL).
+# Format: slug | name | author | license | source
+
+crane-fly | Crane Fly | Alvesgaspar | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tipulidae_April_2008-2.jpg
+fruit-fly | Fruit Fly | Sanjay Acharya | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg
+aphid | Aphid | Alvesgaspar | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Aphids_September_2008-1.jpg
+paper-wasp | Paper Wasp | Alvesgaspar | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Wasp_March_2008-1.jpg
+carpenter-ant | Carpenter Ant | Muhammad Mahdi Karim | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Carpenter_ant_Tanzania_crop.jpg
+army-ant | Army Ant | rodrigo_lazaro | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Eciton_burchellii_-_rodrigo_lazaro_-_323639271.jpeg
+emperor-dragonfly | Emperor Dragonfly | Quartl | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Anax_imperator_qtl2.jpg
+blue-dasher | Blue Dasher | Lea Maimone | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Pachydiplax_longipennis_Blue_Dasher_1500px.jpg
+chinese-mantis | Chinese Mantis | Luc Viatour | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tenodera_sinensis_5_Luc_Viatour.jpg
+colorado-potato-beetle | Colorado Beetle | Scott Bauer, USDA ARS | Public domain | https://commons.wikimedia.org/wiki/File:Colorado_potato_beetle.jpg
+rose-chafer | Rose Chafer | Chrumps | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cetonia-aurata.jpg
+cockchafer | Cockchafer | Frank Vassen from Brussels, Belgium | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Hanneton_commun_(Melolontha_melolontha)_%E2%99%80,_Parc_de_Woluw%C3%A9,_Bruxelles_(51222810874).jpg
+bluebottle-fly | Bluebottle Fly | JJ Harrison (jjharrison89@facebook.com), User:Papa Lima Whiskey (edit) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Calliphora_vomitoria_edit.jpg
+hissing-cockroach | Hissing Cockroach | Almabes at English Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Female_Madagascar_hissing_cockroach.JPG
+squash-bug | Squash Bug | Muhammad Mahdi Karim | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Squash_bug_Coreidae_hz.jpg
+boxelder-bug | Boxelder Bug | Katja Schulz from Washington, D. C., USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Eastern_Boxelder_Bug_-_Flickr_-_treegrow.jpg
+milkweed-bug | Milkweed Bug | Rhododendrites | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Large_milkweed_bug_(23188).jpg
+robber-fly | Robber Fly | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Robber_fly_(Promachus_sp.)_female_with_bee_prey_Babadag.jpg
+mud-dauber | Mud Dauber | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sceliphron_caementarium_MHNT_Profil.jpg
+harvester-ant | Harvester Ant | Unknown | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Pogonomyrmex_barbatus_casent0006306_profile_1.jpg
+leafcutter-bee | Leafcutter Bee | Gideon Pisanty (Gidip) גדעון פיזנטי | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Megachile_lagopoda_1.jpg
+mason-bee | Mason Bee | André Karwath aka Aka | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Osmia_rufa_couple_(aka).jpg
+jewel-beetle | Jewel Beetle | Hectonichus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Buprestidae_-_Chrysochroa_buqueti.JPG
+flesh-fly | Flesh Fly | Muhammad Mahdi Karim | GFDL | https://commons.wikimedia.org/wiki/File:Sarcophaga_Bercaea2.jpg
+camel-cricket | Camel Cricket | Thegreenj | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ceuthophiluscricket.jpg
+european-mantis | European Mantis | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:European_praying_mantis_(Mantis_religiosa)_green_female_Dobruja.jpg
+carolina-mantis | Carolina Mantis | Kaldari | Public domain | https://commons.wikimedia.org/wiki/File:Stagmomantis_carolina_Kaldari_05_cropped.jpg
+flame-skimmer | Flame Skimmer | Regular Daddy | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:RubyMhawk.jpg
+widow-skimmer | Widow Skimmer | D. Gordon E. Robertson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Widow_Skimmer,_male.jpg
+common-whitetail | Common Whitetail | Bruce Marlin | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Common_whitetail.jpg
+ebony-jewelwing | Ebony Jewelwing | D. Gordon E. Robertson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ebony_Jewelwing,_male,_Gatineau_Park.jpg
+banded-demoiselle | Banded Demoiselle | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Banded_demoiselle_damselfly_(Calopteryx_splendens)_male_4.jpg
+broad-bodied-chaser | Broad-bodied Chaser | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Broad-bodied_chaser_(Libellula_depressa)_male_dorsal_side.jpg
+golden-ringed-dragonfly | Golden-ringed Dragonfly | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Golden-ringed_dragonfly_(Cordulegaster_boltonii)_male.jpg
+twelve-spotted-skimmer | Twelve-spotted Skimmer | D. Gordon E. Robertson | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Twelve-spotted_Skimmer,_male.jpg
+large-red-damselfly | Large Red Damselfly | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Large_red_damselfly_(Pyrrhosoma_nymphula)_male_Dry_Sandford.jpg
+azure-damselfly | Azure Damselfly | Stephan Sprinz | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Hufeisen-Azurjungfern_(Coenagrion_puella).jpg
+firebug | Firebug | Divotomezove | Attribution | https://commons.wikimedia.org/wiki/File:Firebug.jpg
+harlequin-bug | Harlequin Bug | Linda Tanner | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Harlequin_Bug_adult_and_nymph.jpg
+green-shield-bug | Green Shield Bug | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Green_shield_bug_(Palomena_prasina)_3.jpg
+forest-bug | Forest Bug | Alchemist-hp (www.pse-mendelejew.de) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pentatoma_rufipes_at_a_cherry_leaf.jpg
+leaf-footed-bug | Leaf-footed Bug | tonrulkens | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Anoplocnemis_curvipes.jpg
+periodical-cicada | Periodical Cicada | peterwchen | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Magicicada_septendecim-female_ventral.jpg
+dog-day-cicada | Dog-day Cicada | Fredlyfish4 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tibicen_canicularis_UMFS_2.jpg
+cardinal-beetle | Cardinal Beetle | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Red-headed_cardinal_beetle_(Pyrochroa_serraticornis)_2.jpg
+soldier-beetle | Soldier Beetle | fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8 | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Chauliognathus_lugubris.jpg
+ground-beetle | Ground Beetle | Soebe | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Carabus_auratus_with_prey.jpg
+rove-beetle | Rove Beetle | Udo Schmidt from Deutschland | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Creophilus_maxillosus_(Linn%C3%A9,_1758)_(3411620571).jpg
+mealworm-beetle | Mealworm Beetle | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tenebrio_molitor_MHNT_Fronton.jpg
+sawfly | Sawfly | Guido Gerding | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:XN_Tenthredo_mesomela.jpg
+emerald-cockroach-wasp | Jewel Wasp | Sharadpunita | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Emerald_Cockroach_Wasp.JPG
+ruby-tailed-wasp | Ruby-tailed Wasp | Sven Damerow | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Gemeine_Goldwespe.jpg
+great-black-wasp | Great Black Wasp | Rhododendrites | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Great_black_digger_wasp_(21710).jpg
+spider-wasp | Spider Wasp | Bjenks | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Spiderwasp1_feb09.jpg
+bullet-ant | Bullet Ant | Hans Hillewaert | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Paraponera_clavata.jpg
+weaver-ant | Weaver Ant | Muhammad Mahdi Karim | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Red_Weaver_Ant,_Oecophylla_smaragdina.jpg
+trap-jaw-ant | Trap-jaw Ant | Johnsonwang6688 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Odontomachus_monticola.jpg
+honeypot-ant | Honeypot Ant | Photo by Greg Hume (Greg5030) | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:HoneyAnt.jpg
+bulldog-ant | Bulldog Ant | fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8 | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Bullant_apr07.jpg
+orchid-bee | Orchid Bee | Bob Peterson from North Palm Beach, Florida, Planet Earth! | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Green_Orchid_Bee_(Euglossa_dilemma)_(7406599274).jpg
+sweat-bee | Sweat Bee | Mike | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Agapostemon_texanus.jpg
+wool-carder-bee | Wool Carder Bee | Bruce Marlin | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Anthidium_manicatum_male.jpg
+devils-coach-horse | Devil's Coach Horse | Quartl | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ocypus_olens_qtl1.jpg
+burying-beetle | Burying Beetle | Holger Gröschl | CC BY-SA 2.0 de | https://commons.wikimedia.org/wiki/File:Nicrophorus_vespilloides5.jpg
+carrion-beetle | Carrion Beetle | Michael Patnaude | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:American_carrion_beetle.JPG
+net-winged-beetle | Net-winged Beetle | fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8 + Canon MT 24-EX | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Metriorrhynchus_rhipidius02.jpg
+candystripe-leafhopper | Candystripe Leafhopper | Kaldari | Public domain | https://commons.wikimedia.org/wiki/File:Graphocephala_coccinea_Kaldari_02.jpg
+meadow-spittlebug | Meadow Spittlebug | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:(MHNT)_Philaenus_spumarius.jpg
+buffalo-treehopper | Buffalo Treehopper | Quartl | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Stictocephala_bisonia_qtl4.jpg
+rainbow-scarab | Rainbow Scarab | Sebastian Eder | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:RainbowScarab.jpg
+grapevine-beetle | Grapevine Beetle | Bruce Marlin | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Grapevine_beetle_x.jpg
+fig-beetle | Fig Beetle | No machine-readable author provided. Elf assumed (based on copyright claims). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Figeater_beetle.jpg
+dogbane-beetle | Dogbane Beetle | D. Gordon E. Robertson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Dogbane_Beetle_(Chrysochus_auratus),_La_Verendrye_Wildlife_Reserve.jpg
+stalk-eyed-fly | Stalk-eyed Fly | Alandmanson | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Diopsis_stuckenbergi_2024_01_25_iNat_197594755_02.jpg
+tsetse-fly | Tsetse Fly | Alan R Walker | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Glossina-morsitans.jpg
+rainbow-grasshopper | Rainbow Grasshopper | Stellarkid | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Dactylotum_bicolor.jpg
+eastern-lubber | Eastern Lubber | http://www.birdphotos.com | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Two_eastern_Lubber_grasshopers_(Romalea_microptera),_mating.jpg
+elegant-grasshopper | Elegant Grasshopper | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Elegant_Grasshopper_(Zonocerus_elegans)_(12716342645).jpg
+violin-mantis | Violin Mantis | Vijayanrajapuram | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Violin_mantis_Gongylus_gongylodes_vijayanrajapuram_4.jpg
+dead-leaf-mantis | Dead Leaf Mantis | Adrian Pingstone | Public domain | https://commons.wikimedia.org/wiki/File:Bristol.zoo.dead.leaf.mantis.arp.jpg
+conehead-mantis | Conehead Mantis | Frank Vassen from Brussels, Belgium | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Conehead_Mantis_(Empusa_pennata),_Serra_de_S%C3%A3o_Mamede,_Portugal_(46795251045).jpg
+budwing-mantis | Budwing Mantis | Nico Bruns | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Parasphendale_agrionina_Nymphe_subadult.jpg
+domino-cockroach | Domino Cockroach | Shyamal | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:SevenSpotRoach2.jpg
+deaths-head-cockroach | Death's Head Cockroach | Acrocynus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Blaberus_craniifer_0002_L.D.jpg
+cobalt-milkweed-beetle | Cobalt Milkweed Beetle | (c) Chloe and Trevor Van Loon, some rights reserved (CC BY) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Cobalt_Milkweed_Beetle_imported_from_iNaturalist_photo_294249015_on_20_March_2024.jpg
+fiery-searcher | Fiery Searcher | David R. Maddison | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Calosoma_scrutator.jpg
+diamond-weevil | Diamond Weevil | Quartl | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Diamond_Weevil_Side.JPG
+elephant-weevil | Elephant Weevil | Grahame Bowland | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Elephant_Weevil.jpg
+red-palm-weevil | Red Palm Weevil | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Rhynchophorus_ferrugineus_MHNT.jpg
+acorn-weevil | Acorn Weevil | Elke Freese | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Curculio3.jpg
+elephant-beetle | Elephant Beetle | Photo by and (c)2007 Derek Ramsey (Ram-Man) | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Elephant_Beetle_Megasoma_elephas_Male_Side_2699px.jpg
+ox-beetle | Ox Beetle | Liveon001 ©Travis Witt | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Strategus_aloeus_Ox_Beetle.JPG
+hermit-beetle | Hermit Beetle | Siga | Public domain | https://commons.wikimedia.org/wiki/File:Osmoderma_eremita_female.jpg
+bee-beetle | Bee Beetle | Ivar Leidus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Trichius_fasciatus_-_Succisa_pratensis_-_Keila.jpg
+fiddler-beetle | Fiddler Beetle | Fir0002 | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Fiddler_beetle_nov07.jpg
+rainbow-leaf-beetle | Rainbow Leaf Beetle | Janet Graham | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Chrysolina_cerealis,_Snowdon,_North_Wales,_June_2011_2_-_Flickr_-_janetgraham84.jpg
+lily-beetle | Lily Beetle | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Scarlet_lily_beetles_(Lilioceris_lilii)_mating.jpg
+rosemary-beetle | Rosemary Beetle | Hectonichus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chrysomelidae_-_Chrysolina_americana.JPG
+halloween-pennant | Halloween Pennant | Richard Stovall | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Celithemis_eponina_109173176.jpg
+roseate-skimmer | Roseate Skimmer | Vitaly_Charny (talk) (Uploads) | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Roseate_Skimmer_perched_on_a_twig_(August_2003).jpg
