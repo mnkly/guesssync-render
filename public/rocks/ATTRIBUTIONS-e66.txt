@@ -1,0 +1,102 @@
+# E66 «Guess the Rock or Mineral» — GuessSync image attributions (Wikimedia Commons)
+# format: slug|name|author|license|source_url
+granite|Granite|Unknown|CC BY-SA 2.0 br|https://commons.wikimedia.org/wiki/File:Granite.jpg
+marble|Marble|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Connemara_Lissoughter_Marble.jpg
+basalt|Basalt|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Scoriaceous_basalt_(Fillmore_Craters,_Black_Rock_Desert,_MIllard_County,_Utah,_USA)_6.jpg
+gold|Gold|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Gold-280481.jpg
+limestone|Limestone|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Fossiliferous_limestone_(Columbus_Limestone,_Middle_Devonian;_glacial_clast_near_Reynoldsburg,_Ohio,_USA)_1.jpg
+sandstone|Sandstone|Darla Sondrol|CC0|https://commons.wikimedia.org/wiki/File:Micaceous_sandstone_(GeoDIL_number_-_468).jpg
+slate|Slate|Mike Beauregard from Canada|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Shatter-cone_from_Slate_Islands_impact_crater_(40163660442).jpg
+pumice|Pumice|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Pumice_(Mt._St._Helens,_Washington_State,_USA)_2.jpg
+chalk|Chalk|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Chalk_(Niobrara_Formation,_Upper_Cretaceous;_Great_Plains,_USA)_3.jpg
+coal|Coal|John Krygier|Public domain|https://commons.wikimedia.org/wiki/File:Anthracite_coal_(iridescent)_-_Kuperavage_Mine,_Pennsylvania,_USA.jpg
+flint|Flint|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Flint_(Vanport_Flint,_Middle_Pennsylvanian;_Nethers_Flint_Quarries,_Flint_Ridge,_Ohio,_USA)_261.jpg
+shale|Shale|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Native_copper-replaced_cross-bedded_sedimentary_rocks_(Nonesuch_Shale,_Mesoproterozoic;_White_Pine_Mine,_Upper_Peninsula_of_Michigan,_USA)_5_(17295988201).jpg
+silver|Silver|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Native_Silver_filaments_(cropped).jpg
+mica|Mica|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Large_mica_crystal_in_pegmatitic_granite_(Ruggles_Pegmatite,_Devonian;_Ruggles_Pegmatite_Mine,_New_Hampshire,_USA)_2_(8290567239).jpg
+gypsum|Gypsum|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Gypsum-40657.jpg
+talc|Talc|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Talc-177589.jpg
+feldspar|Feldspar|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Orthoclase-rh02-36a.jpg
+mudstone|Mudstone|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Mudstone_(Graneros_Formation,_Upper_Cretaceous;_Ponca_State_Park,_Nebraska,_USA).jpg
+siltstone|Siltstone|No machine-readable author provided. Siim assumed (based on copyright claims).|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Siltstone1.jpg
+magnetite|Magnetite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Magnetite-118736.jpg
+graphite|Graphite|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:GraphiteUSGOV.jpg
+halite|Halite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Halite-pb61b.jpg
+sulfur|Sulfur|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Aragonite-Sulfur-car-105b.jpg
+calcite|Calcite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Calcite-20188.jpg
+copper|Copper|Native_Copper_Macro_Digon3.jpg: “Jonathan Zander (Digon3)" derivative work: Materialscientist (talk)|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:NatCopper.jpg
+galena|Galena|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Galena-Pyrite-d82a.jpg
+barite|Barite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cerussite-Baryte-38239.jpg
+bauxite|Bauxite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Pisolitic_bauxite_4.jpg
+breccia|Breccia|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Dolomite-cemented_dolostone_breccia_1.jpg
+conglomerate|Conglomerate|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Travertine-cemented_conglomerate_4.jpg
+quartzite|Quartzite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Quartz-pebble_metaconglomerate_(Jack_Hills_Quartzite,_Archean,_2.65_to_3.05_Ga;_Jack_Hills,_Western_Australia)_2.jpg
+chert|Chert|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Dover_Chert_(St._Louis_Limestone,_Middle_Mississippian;_Tennessee,_USA)_9.jpg
+travertine|Travertine|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Travertine_speleothem_1.jpg
+tuff|Tuff|Darla Sondrol|CC0|https://commons.wikimedia.org/wiki/File:Tuff_(GeoDIL_number_-_463).jpg
+andesite|Andesite|James St. John (jsj1771) https://www.flickr.com/people/jsjgeology/|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Andesite_2013.jpg
+dolomite|Dolomite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Calcite-Dolomite-fc15a.jpg
+diorite|Diorite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Diorite_(Salem_Gabbro-Diorite,_Middle_Ordovician,_460_Ma;_Salem,_Essex_County,_Massachusetts,_USA)_1.jpg
+olivine|Olivine|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Olivine-t06-312a.jpg
+bornite|Bornite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Bornite_3.jpg
+chalcopyrite|Chalcopyrite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Chalcopyrite-199453.jpg
+cassiterite|Cassiterite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cassiterite-245542.jpg
+limonite|Limonite|CEphoto, Uwe Aranas|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Geode-with-encrustation-of-quartz-crystals-on-a-base-of-limonite-01.jpg
+goethite|Goethite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Goethite-169735.jpg
+chromite|Chromite|Andrew Silver|Public domain|https://commons.wikimedia.org/wiki/File:Chromite_-_USGS_Mineral_Specimens_292.jpg
+hornblende|Hornblende|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Apatite-(CaOH)-Hornblende-38354.jpg
+selenite|Selenite|Darla Sondrol|CC0|https://commons.wikimedia.org/wiki/File:Gypsum_(selenite)_(GeoDIL_number_-_609).jpg
+aragonite|Aragonite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Aragonite-69276.jpg
+siderite|Siderite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Dolomite-Siderite-pb66c.jpg
+serpentine|Serpentine|John Krygier|Public domain|https://commons.wikimedia.org/wiki/File:Antigorite,_Serpentine_group-399145.jpg
+augite|Augite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Augite-60768.jpg
+peridotite|Peridotite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Peridotite_mantle_xenolith_in_basalt_(near_Mount_Trumbull,_Arizona,_USA)_(40590968485).jpg
+anorthosite|Anorthosite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Anorthosite_with_labradorite_(Wiborg_Batholith,_1633_Ma;_Kymi_Province,_Finland)_6.jpg
+pegmatite|Pegmatite|Nessa Eull|CC0|https://commons.wikimedia.org/wiki/File:Zircon_in_pegmatite_(GeoDIL_number_-_251).jpg
+migmatite|Migmatite|Siim Sepp|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Migmatite_2005.jpg
+phyllite|Phyllite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Native_copper_in_phyllite_(late_Precambrian;_Blue_Ridge_Summit,_Adams_County,_Pennsylvania,_USA)_2.jpg
+marl|Marl|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Marlstone_aggregate_concretion_(Upper_Pleistocene,_~11_ka;_lake_deposit_in_the_Abitibi_area,_western_Quebec,_eastern_Canada)_1.jpg
+greywacke|Greywacke|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:Greywacke_terns.jpg
+arkose|Arkose|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:New_Haven_Arkose_(Upper_Triassic;_Durham,_Connecticut,_USA)_1.jpg
+syenite|Syenite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Kakortokite_(eudialytic_nepheline_syenite)_(Il%C3%ADmaussaq_Intrusion,_Mesoproterozoic,_1.16_Ga;_Kangerdluarssaq_Fjord,_Greenland)_8.jpg
+dunite|Dunite|Ebuhyo1|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dunite_Greenstone_From_Pilbara.JPG
+trachyte|Trachyte|Joseph H. Hartman|CC0|https://commons.wikimedia.org/wiki/File:Trachyte_porphyry_(Bostonite)_(GeoDIL_number_-_26).jpg
+dacite|Dacite|Twyla Baker|CC0|https://commons.wikimedia.org/wiki/File:Dacite_(GeoDIL_number_-_90).jpg
+scoria|Scoria|B. Domangue|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Scoria_-_Igneous_Rock.jpg
+molybdenite|Molybdenite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Molybdenite-251617.jpg
+arsenopyrite|Arsenopyrite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Arsenopyrite-117874.jpg
+wolframite|Wolframite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Wolframite-220797.jpg
+orpiment|Orpiment|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Baryte-Orpiment-61034.jpg
+rutile|Rutile|HolDu|CC BY-SA 3.0 de|https://commons.wikimedia.org/wiki/File:Rutile_(OM1-663).JPG
+ilmenite|Ilmenite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Ilmenite-155036.jpg
+pyrolusite|Pyrolusite|Andrew Silver|Public domain|https://commons.wikimedia.org/wiki/File:Pyrolusite_-_USGS_Mineral_Specimens_852.jpg
+zeolite|Zeolite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Stilbite-Ca-Apophyllite-(KF)-278398.jpg
+actinolite|Actinolite|Andrew Silver|Public domain|https://commons.wikimedia.org/wiki/File:Actinolite_-_USGS_Mineral_Specimens_002.jpg
+muscovite|Muscovite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Muscovite-243370.jpg
+biotite|Biotite|Dexter Perkins|CC0|https://commons.wikimedia.org/wiki/File:Biotite_crystals_(GeoDIL_number_-_6).jpg
+apophyllite|Apophyllite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Apophyllite-70862.jpg
+kimberlite|Kimberlite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Kimberlite_(modern_fluvial_clast)_(creek_at_Chatham,_Licking_County,_Ohio,_USA)_3_(49718025063).jpg
+rhyolite|Rhyolite|Cardioceras|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Flow-banded_rhyolite,_Albertacce,_Corsica.jpg
+gabbro|Gabbro|Wilson44691|Public domain|https://commons.wikimedia.org/wiki/File:GabbroRockCreek2.jpg
+gneiss|Gneiss|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Gneiss_2_(33239757534).jpg
+schist|Schist|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Garnet-mica_schist_(Gassetts,_Vermont,_USA)_1.jpg
+serpentinite|Serpentinite|Arkelin|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Serpentinite_dans_le_jardin_alpin_La_Linnaea.jpg
+eclogite|Eclogite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Eclogite_(Newberry_Eclogite,_Neoproterozoic_to_Ordovician_metamorphism;_near_Newberry,_northwest-central_South_Carolina,_USA)_(15094985661).jpg
+amphibolite|Amphibolite|Arkelin|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Amphibolite_dans_le_jardin_alpin_La_Linnaea.jpg
+hornfels|Hornfels|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Cherry_blossom_stones_(pinite)_in_hornfels_(mid-Cretaceous,_98_Ma;_Mikata,_Honshu_Island,_Japan)_2.jpg
+blueschist|Blueschist|Shannon Heinle|CC0|https://commons.wikimedia.org/wiki/File:Blueschist_(GeoDIL_number_-_535).jpg
+komatiite|Komatiite|James St. John|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Spinifex_metakomatiite_(serpentinite)_(Komati_Formation,_Paleoarchean,_3.481-3.482_Ga;_Komati_River_Valley,_South_Africa)_2_(15025304485).jpg
+anhydrite|Anhydrite|Alcinoe|Public domain|https://commons.wikimedia.org/wiki/File:Anhydrite_HMNH1.jpg
+stibnite|Stibnite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Stibnite-stibnitemtkosangjapan25cm.jpg
+realgar|Realgar|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Realgar-md56a.jpg
+cinnabar|Cinnabar|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cinnabar-Dolomite-Quartz-tch14a.jpg
+erythrite|Erythrite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Erythrite-Skutterudite-mrz319b.jpg
+bournonite|Bournonite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Bournonite-228411.jpg
+enargite|Enargite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Enargite-256809.jpg
+tetrahedrite|Tetrahedrite|Carles Millan|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Tetrahedrite,_H%C3%BCbnerite,_Quartz_-_176605.jpg
+scheelite|Scheelite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Scheelite-rom36b.jpg
+torbernite|Torbernite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Torbernite-35218.jpg
+autunite|Autunite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Autunite-20885.jpg
+adamite|Adamite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Adamite-azmex56b.jpg
+mimetite|Mimetite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Mimetite-LTH31C.JPG
+pyromorphite|Pyromorphite|Robert M. Lavinsky|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Pyromorphite-53703.jpg
