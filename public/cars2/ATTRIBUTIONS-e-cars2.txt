@@ -1,0 +1,102 @@
+# CARS v2 — «Guess the Car» — image attributions (Wikimedia Commons, free licenses only)
+# format: slug|title|author|license|url
+bugatti-veyron|File:Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg|M 93|CC BY-SA 3.0 de|https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Heckansicht_(4),_5._April_2012,_D%C3%BCsseldorf.jpg
+lamborghini-urus|File:Lamborghini Urus Performante 1X7A6805.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_Performante_1X7A6805.jpg
+ferrari-488|File:Ferrari ABA-F142B 488 GTB (23112610110).jpg|先従隗始|CC0|https://commons.wikimedia.org/wiki/File:Ferrari_ABA-F142B_488_GTB_(23112610110).jpg
+ford-gt|File:Ford GT (2nd generation) coupes IMG 0224.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Ford_GT_(2nd_generation)_coupes_IMG_0224.jpg
+mclaren-720s|File:McLaren 720S, IAA 2017, (1Y7A3406).jpg|Matti Blume|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:McLaren_720S,_IAA_2017,_(1Y7A3406).jpg
+aston-martin-vantage|File:2019 Aston Martin Vantage V8 Automatic 4.0 (1).jpg|Vauxford|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2019_Aston_Martin_Vantage_V8_Automatic_4.0_(1).jpg
+porsche-panamera|File:Porsche 972 Turbo E-Hybrid IMG 0445.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg
+tesla-model-3|File:Tesla Model 3, EMS 2024, Essen (P1032260).jpg|Matti Blume|CC BY-SA|https://commons.wikimedia.org/wiki/File:Tesla_Model_3,_EMS_2024,_Essen_(P1032260).jpg
+toyota-land-cruiser|File:Reflection on the Salar de Uyuni, bolivia.jpg|Christopher Crouzet|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Reflection_on_the_Salar_de_Uyuni,_bolivia.jpg
+cadillac-escalade|File:Cadillac Escalade (GMTT1XX) IMG 0799.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cadillac_Escalade_(GMTT1XX)_IMG_0799.jpg
+jeep-grand-cherokee|File:2018 Jeep Grand Cherokee (WK2) SRT8 DSC 7222.jpg|Alexander Migl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2018_Jeep_Grand_Cherokee_(WK2)_SRT8_DSC_7222.jpg
+mercedes-s-class|File:MERCEDES-BENZ S-CLASS (W222) China (7).jpg|Dinkun Chen|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_S-CLASS_(W222)_China_(7).jpg
+bmw-x5|File:BMW X5 M (G05) 1X7A7047.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:BMW_X5_M_(G05)_1X7A7047.jpg
+toyota-hilux|File:Toyota Hilux 2016 (32113310141).jpg|RL GNZLZ from Chile|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Toyota_Hilux_2016_(32113310141).jpg
+chevrolet-silverado|File:Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg|Ermell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Leimershof_US-Car-Treffen_2011_Chevrolet_Silverado_1500_Regular_Cab-20220911-RM-161738.jpg
+ram-1500|File:Ram 1500 TRX 1X7A0057.jpg|Alexander Migl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Ram_1500_TRX_1X7A0057.jpg
+mini-countryman|File:MINI COUNTRYMAN R60 China.jpg|Dinkun Chen|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:MINI_COUNTRYMAN_R60_China.jpg
+smart-fortwo|File:Smart fortwo Cabrio electric, IAA 2017, Frankfurt (1Y7A1891).jpg|MB-one|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Smart_fortwo_Cabrio_electric,_IAA_2017,_Frankfurt_(1Y7A1891).jpg
+citroen-2cv|File:Citroën 2 CV Charleston (2015-08-29 3174 b).jpg|Lothar Spurzem|CC BY-SA 2.0 de|https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_2_CV_Charleston_(2015-08-29_3174_b).jpg
+honda-civic|File:HONDA CIVIC SEDAN (FC,FK) China.jpg|Dinkun Chen|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:HONDA_CIVIC_SEDAN_(FC,FK)_China.jpg
+toyota-camry|File:Toyota Camry (XV70) IMG 9081.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Toyota_Camry_(XV70)_IMG_9081.jpg
+toyota-rav4|File:Toyota RAV4 Plug-in Hybrid GR Sport IMG 9896.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Toyota_RAV4_Plug-in_Hybrid_GR_Sport_IMG_9896.jpg
+ford-focus|File:Ford Focus, Highway 1.jpg|Photograph by Mike Peel (www.mikepeel.net).|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Ford_Focus,_Highway_1.jpg
+honda-accord|File:2018 Honda Accord Touring 2.0t.jpg|DestinationFearFan|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2018_Honda_Accord_Touring_2.0t.jpg
+nissan-altima|File:Nissan Altima 10-12-2019.jpg|SsmIntrigue|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Nissan_Altima_10-12-2019.jpg
+ferrari-458|File:EMS 2023, Essen (P1160515).jpg|Matti Blume|CC BY-SA|https://commons.wikimedia.org/wiki/File:EMS_2023,_Essen_(P1160515).jpg
+lamborghini-gallardo|File:Lamborghini jaune Gallardo spyder.jpg|Jebulon|CC0|https://commons.wikimedia.org/wiki/File:Lamborghini_jaune_Gallardo_spyder.jpg
+porsche-boxster|File:PORSCHE 981 BOXSTER SPYDER China.jpg|Dinkun Chen|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:PORSCHE_981_BOXSTER_SPYDER_China.jpg
+audi-tt|File:Audi TT 8J Roadster (2018-09-26 Sp r).jpg|Lothar Spurzem|CC BY-SA 2.0 de|https://commons.wikimedia.org/wiki/File:Audi_TT_8J_Roadster_(2018-09-26_Sp_r).jpg
+bmw-z4|File:BMW Z4 M Roadster02.JPG|Maarten Van Camp|Public domain|https://commons.wikimedia.org/wiki/File:BMW_Z4_M_Roadster02.JPG
+mercedes-sl|File:Mercedes-Benz SL 55 AMG, TC 24, Essen (TCE42675-RR).jpg|Matti Blume|CC BY-SA|https://commons.wikimedia.org/wiki/File:Mercedes-Benz_SL_55_AMG,_TC_24,_Essen_(TCE42675-RR).jpg
+nissan-370z|File:Nissan 370Z Roadster 1X7A7274.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Nissan_370Z_Roadster_1X7A7274.jpg
+chevrolet-impala|File:Chevrolet Impala 1964 Kulmbach oldtimertreffen 18 6170573.jpg|Ermell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Chevrolet_Impala_1964_Kulmbach_oldtimertreffen_18_6170573.jpg
+ford-thunderbird|File:1955 Ford Thunderbird rear.jpg|TTTNIS|CC0|https://commons.wikimedia.org/wiki/File:1955_Ford_Thunderbird_rear.jpg
+pontiac-gto|File:Pontiac GTO (1964-1967) IMG 3193.jpg|Alexander Migl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pontiac_GTO_(1964-1967)_IMG_3193.jpg
+plymouth-barracuda|File:Black and purble Plymouth Barracuda (E-body) (side).jpg|Fiver, der Hellseher|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Black_and_purble_Plymouth_Barracuda_(E-body)_(side).jpg
+plymouth-road-runner|File:Plymouth Road Runner 1969 5312706.jpg|Ermell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Plymouth_Road_Runner_1969_5312706.jpg
+toyota-celica|File:Асвестохори, Toyota Celica на Скуфа-Димократиас.jpg|Nikolai Bulykin|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:%D0%90%D1%81%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%85%D0%BE%D1%80%D0%B8,_Toyota_Celica_%D0%BD%D0%B0_%D0%A1%D0%BA%D1%83%D1%84%D0%B0-%D0%94%D0%B8%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D0%B0%D1%81.jpg
+mitsubishi-lancer-evo|File:2005 Mitsubishi Lancer Evolution IX FQ-340.jpg|Calreyn88|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2005_Mitsubishi_Lancer_Evolution_IX_FQ-340.jpg
+mazda-rx8|File:Mazda RX-8 on freeway.jpg|Fir0002|GFDL 1.2|https://commons.wikimedia.org/wiki/File:Mazda_RX-8_on_freeway.jpg
+honda-prelude|File:1997 Honda Prelude Si - 5057267858.jpg|tdm911|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:1997_Honda_Prelude_Si_-_5057267858.jpg
+vw-scirocco|File:VW Scirocco, EMS 2023, Essen (P1160540-RR).jpg|Matti Blume|CC BY-SA|https://commons.wikimedia.org/wiki/File:VW_Scirocco,_EMS_2023,_Essen_(P1160540-RR).jpg
+bmw-m5|File:BMW M5 E60 (7000084582).jpg|nakhon100|CC BY 2.0|https://commons.wikimedia.org/wiki/File:BMW_M5_E60_(7000084582).jpg
+mercedes-amg-gt|File:Mercedes-AMG C192 1X7A0832.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mercedes-AMG_C192_1X7A0832.jpg
+jaguar-f-type|File:2020 Jaguar F-Type coupe IMG 5392.jpg|Alexander Migl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2020_Jaguar_F-Type_coupe_IMG_5392.jpg
+maserati-granturismo|File:Maserati GranTurismo Trofeo 1X7A0828.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Maserati_GranTurismo_Trofeo_1X7A0828.jpg
+alfa-romeo-4c|File:Alfa Romeo 4C Coupé IMG 7312.jpg|Alexander-93|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_Coup%C3%A9_IMG_7312.jpg
+lexus-rc-f|File:Lexus RC F Final Edition.jpg|TTTNIS|CC0|https://commons.wikimedia.org/wiki/File:Lexus_RC_F_Final_Edition.jpg
+subaru-brz|File:Subaru BRZ , Toronto.jpg|Fabian Roudra Baroi|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Subaru_BRZ_,_Toronto.jpg
+audi-rs6|File:AUDI RS6 AVANT C7 China.jpg|Dinkun Chen|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:AUDI_RS6_AVANT_C7_China.jpg
+ferrari-250-gto|File:Ferrari 250 GTO, Goodwood Revival - geograph.org.uk - 4659955.jpg|Oast House Archive|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Ferrari_250_GTO,_Goodwood_Revival_-_geograph.org.uk_-_4659955.jpg
+ferrari-dino-246|File:Dino 246 GT Classic-Gala 2021 1X7A0278.jpg|Alexander Migl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dino_246_GT_Classic-Gala_2021_1X7A0278.jpg
+lamborghini-miura|File:6274 - Luzern - Verkehrshaus - Lamborghini Miura.JPG|Andrew Bossi|CC BY-SA 2.5|https://commons.wikimedia.org/wiki/File:6274_-_Luzern_-_Verkehrshaus_-_Lamborghini_Miura.JPG
+lamborghini-diablo|File:Motikon, TC 24, Essen (TCE42876).jpg|Matti Blume|CC BY-SA|https://commons.wikimedia.org/wiki/File:Motikon,_TC_24,_Essen_(TCE42876).jpg
+maserati-bora|File:Maserati Bora (1973) 1Y7A6154.jpg|Alexander Migl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Maserati_Bora_(1973)_1Y7A6154.jpg
+alfa-romeo-montreal|File:Alfa Romeo Montreal (2012-07-04 4791 b).JPG|Lothar Spurzem|CC BY-SA 2.0 de|https://commons.wikimedia.org/wiki/File:Alfa_Romeo_Montreal_(2012-07-04_4791_b).JPG
+lancia-stratos|File:Lancia Stratos HF Classic-Gala 2022 1X7A0377.jpg|Alexander Migl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_Classic-Gala_2022_1X7A0377.jpg
+lancia-037|File:Lancia Rally 037 BS A25.jpg|MrWalkr|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lancia_Rally_037_BS_A25.jpg
+bmw-m1|File:BMW M1, Techno-Classica 2018, Essen (IMG 0063).jpg|Matti Blume|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:BMW_M1,_Techno-Classica_2018,_Essen_(IMG_0063).jpg
+mercedes-190e|File:Mercedes-Benz 190E 2.5-16 Evolution (7457016166).jpg|nakhon100|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Mercedes-Benz_190E_2.5-16_Evolution_(7457016166).jpg
+ford-escort-rs|File:073 Ford Escort RS2000 Mk2.jpg|Herodotptlomeu|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:073_Ford_Escort_RS2000_Mk2.jpg
+renault-5-turbo|File:1985 Renault 5 Turbo 2 3-door hatchback (19290331623).jpg|Jeremy from Sydney, Australia|CC BY 2.0|https://commons.wikimedia.org/wiki/File:1985_Renault_5_Turbo_2_3-door_hatchback_(19290331623).jpg
+opel-manta|File:Opel Manta 02b Foto MSp 2006-10-13.jpg|Martina Spurzem|CC BY-SA 2.0 de|https://commons.wikimedia.org/wiki/File:Opel_Manta_02b_Foto_MSp_2006-10-13.jpg
+porsche-959|File:Porsche 959 Rothmans IMG 0677.jpg|Alexander Migl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Porsche_959_Rothmans_IMG_0677.jpg
+porsche-550-spyder|File:Porsche 550 A, Bj. 1956, vorn (2018-06-30 Sp).JPG|Lothar Spurzem|CC BY-SA 2.0 de|https://commons.wikimedia.org/wiki/File:Porsche_550_A,_Bj._1956,_vorn_(2018-06-30_Sp).JPG
+nissan-silvia|File:2001 Nissan Silvia S15.jpg|Calreyn88|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2001_Nissan_Silvia_S15.jpg
+mazda-cosmo|File:1967 mazda cosmo sport 1.jpg|Taisyo, noted in original article|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:1967_mazda_cosmo_sport_1.jpg
+toyota-ae86|File:Sprinter Trueno 1600 GT (AE86).jpg|Tao280m|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Sprinter_Trueno_1600_GT_(AE86).jpg
+honda-integra-type-r|File:1996 Honda Integra Type R in White, front left.jpg|Mr.choppers|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:1996_Honda_Integra_Type_R_in_White,_front_left.jpg
+mitsubishi-3000gt|File:Mitsubishi 3000GT VR4.jpg|Jacob Frey 4A|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Mitsubishi_3000GT_VR4.jpg
+datsun-510|File:Datsun 510 Sherwood.jpg|Calreyn88|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Datsun_510_Sherwood.jpg
+aston-martin-db4|File:1960 Aston Martin DB4 Coupe.jpg|MrWalkr|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:1960_Aston_Martin_DB4_Coupe.jpg
+jaguar-xj220|File:Jaguar XJ220 1997 - side.jpg|DeFacto|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_1997_-_side.jpg
+ford-rs200|File:White Ford RS200.jpg|MrWalkr|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:White_Ford_RS200.jpg
+chevrolet-chevelle|File:Chevrolet Chevelle SS 454 1970 01.jpg|RL GNZLZ|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Chevrolet_Chevelle_SS_454_1970_01.jpg
+cizeta-v16t|File:Cizeta-Moroder V16T - Concorso Italiano 2003 - fvr.jpg|Craig Howell from San Carlos, CA, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Cizeta-Moroder_V16T_-_Concorso_Italiano_2003_-_fvr.jpg
+isdera-imperator|File:Isdera Imperator 108i IAA 2021 1X7A0188.jpg|Alexander Migl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Isdera_Imperator_108i_IAA_2021_1X7A0188.jpg
+autozam-az1|File:Autozam AZ-1 at the Mazda-Museum Augsburg - Front view with open doors.jpg|Tobias ToMar Maier|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Autozam_AZ-1_at_the_Mazda-Museum_Augsburg_-_Front_view_with_open_doors.jpg
+suzuki-cappuccino|File:Suzuki Cappuccino front 20090514.jpg|Rudolf Stricker|Attribution|https://commons.wikimedia.org/wiki/File:Suzuki_Cappuccino_front_20090514.jpg
+honda-beat|File:HondaBeat.jpg|dave_7|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:HondaBeat.jpg
+jensen-ff|File:Jensen FF 1968 - front.jpg|DeFacto|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Jensen_FF_1968_-_front.jpg
+panther-deville|File:Panther de Viille V12 1982.JPG|Charles01|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Panther_de_Viille_V12_1982.JPG
+reliant-robin|File:London (UK), Reliant Robin -- 2010 -- 1992.jpg|Dietmar Rabich|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:London_(UK),_Reliant_Robin_--_2010_--_1992.jpg
+bond-bug|File:Bond Bug, CAC 414J, Lincoln Castle.jpg|Photograph by Mike Peel (www.mikepeel.net).|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bond_Bug,_CAC_414J,_Lincoln_Castle.jpg
+marcos-mantis|File:1997 Marcos Mantis HCC23.jpg|MrWalkr|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:1997_Marcos_Mantis_HCC23.jpg
+bitter-sc|File:SC06 Bitter SC Sedan and Cabriolet.jpg|Brett Weinstein (Wikipedia User: Nrbelex)|CC BY-SA 2.5|https://commons.wikimedia.org/wiki/File:SC06_Bitter_SC_Sedan_and_Cabriolet.jpg
+melkus-rs1000|File:Melkus RS 1000 Classic-Gala 2021 1X7A0093.jpg|Alexander Migl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Melkus_RS_1000_Classic-Gala_2021_1X7A0093.jpg
+alpine-a310|File:Prichsenstadt Renault Alpine A310-20230423-RM-172242.jpg|Ermell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Prichsenstadt_Renault_Alpine_A310-20230423-RM-172242.jpg
+simca-1000|File:SIMCA Rallye 2 Sachs Franken Classic 2018 P5201334.jpg|Ermell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:SIMCA_Rallye_2_Sachs_Franken_Classic_2018_P5201334.jpg
+tatra-700|File:Tatra 700 M97.JPG|Miloš700|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Tatra_700_M97.JPG
+moskvitch-412|File:Байконур, Москвич-412 во дворе 8 Марта 5.jpg|Nikolai Bulykin|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:%D0%91%D0%B0%D0%B9%D0%BA%D0%BE%D0%BD%D1%83%D1%80,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B8%D1%87-412_%D0%B2%D0%BE_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5_8_%D0%9C%D0%B0%D1%80%D1%82%D0%B0_5.jpg
+syrena-105|File:FSM Syrena 105 MnW 03.jpg|Zala|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:FSM_Syrena_105_MnW_03.jpg
+zil-114|File:1972 Лимузин ЗИЛ-114 (СССР) , Zil-114 Limousine (USSR) - Flickr - denizen24.jpg|denizen24|CC BY 2.0|https://commons.wikimedia.org/wiki/File:1972_%D0%9B%D0%B8%D0%BC%D1%83%D0%B7%D0%B8%D0%BD_%D0%97%D0%98%D0%9B-114_(%D0%A1%D0%A1%D0%A1%D0%A0)_,_Zil-114_Limousine_(USSR)_-_Flickr_-_denizen24.jpg
+lada-niva|File:Lada Niva, Sabir (P1090298).jpg|Matti Blume|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lada_Niva,_Sabir_(P1090298).jpg
+ac-428|File:1969 AC Frua 428.jpg|Calreyn88|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:1969_AC_Frua_428.jpg
+tatra-87|File:Tatra 87 front (Foto Hilarmont).JPG|Hilarmont|CC BY-SA 3.0 de|https://commons.wikimedia.org/wiki/File:Tatra_87_front_(Foto_Hilarmont).JPG
+skoda-110r|File:Škoda 110 R 1977.jpg|Luboš Balcar|CC BY 3.0|https://commons.wikimedia.org/wiki/File:%C5%A0koda_110_R_1977.jpg
+autobianchi-a112|File:Würgauer Bergrennen Autobianchi A112 Abarth-20220911-RM-115251.jpg|Ermell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:W%C3%BCrgauer_Bergrennen_Autobianchi_A112_Abarth-20220911-RM-115251.jpg
+daf-44|File:DAF 44.jpg|joost j. bakker from ijmuiden, the netherlands|CC BY 2.0|https://commons.wikimedia.org/wiki/File:DAF_44.jpg
+puma-gte|File:Puma gte 1970 mod2.JPG|Dock|Public domain|https://commons.wikimedia.org/wiki/File:Puma_gte_1970_mod2.JPG

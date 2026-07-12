@@ -1,0 +1,103 @@
+# GuessSync E-cats2 «Guess the Cat» v2 — image attributions (Wikimedia Commons, free licenses only).
+# Columns: slug	name	file	author	license	source_url
+
+blackcat	Black Cat	File:Blackcat-Lilith.jpg	The original uploader was DrL at English Wikipedia.	CC BY-SA 2.5	https://commons.wikimedia.org/wiki/File:Blackcat-Lilith.jpg
+whitecat	White Cat	File:Felis catus-cat on snow.jpg	Von.grzanka	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Felis_catus-cat_on_snow.jpg
+tabbycat	Tabby Cat	File:Cat_November_2010-1a.jpg	Alvesgaspar	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Cat_November_2010-1a.jpg
+calicocat	Calico Cat	File:CalicoCat.jpg	Ellisn95	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:CalicoCat.jpg
+tuxedocat	Tuxedo Cat	File:Bicolor tuxedo cat Matias.jpg	AlexVaisanen	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Bicolor_tuxedo_cat_Matias.jpg
+gingercat	Ginger Cat	File:Orange Tabby Cat Sitting Down.jpg	Asabae2752	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Orange_Tabby_Cat_Sitting_Down.jpg
+tortoiseshellcat	Tortoiseshell	File:Mudball_(2017_photo;_cropped_2022).jpg	Maddydumont	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Mudball_(2017_photo;_cropped_2022).jpg
+greycat	Grey Cat	File:Grey and white cat sitting on the ground.jpg	TricksterWildcat	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Grey_and_white_cat_sitting_on_the_ground.jpg
+orangetabby	Orange Tabby	File:Orange Tabby Cat 2.jpg	Kalel Tonatiuh	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Orange_Tabby_Cat_2.jpg
+bicolorcat	Bicolor Cat	File:Photograph_of_Socks_the_Cat_-_DPLA_-_8e79cef8c53759b0385c95d83a4581a1.jpg	President (1993-2001 : Clinton). White House Photograph Office. 1/20/1993-1/20/2001	Public domain	https://commons.wikimedia.org/wiki/File:Photograph_of_Socks_the_Cat_-_DPLA_-_8e79cef8c53759b0385c95d83a4581a1.jpg
+sealpointsiamese	Seal Point Siamese	File:Mixed breed tabby seal-point Siamese cat.jpg	Hunter Craig	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Mixed_breed_tabby_seal-point_Siamese_cat.jpg
+bluepointsiamese	Blue Point Siamese	File:4 month old "traditional" Blue Point Siamese cat.JPG	User:Humidor	Public domain	https://commons.wikimedia.org/wiki/File:4_month_old_%22traditional%22_Blue_Point_Siamese_cat.JPG
+flamepointsiamese	Flame Point Siamese	File:Red point siamese cat.jpg	Butterflye222	CC0	https://commons.wikimedia.org/wiki/File:Red_point_siamese_cat.jpg
+bluepersian	Blue Persian	File:Grey Persian Cat (5339239070).jpg	Magnus Bråth from Sliema, Malta	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Grey_Persian_Cat_(5339239070).jpg
+whitepersian	White Persian	File:Cat Show Persian.jpg	Sarah Marriage from Brooklyn, NY	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Cat_Show_Persian.jpg
+blackpersian	Black Persian	File:Black Persian Cat (51513540796).jpg	Reba Spike	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Black_Persian_Cat_(51513540796).jpg
+calicopersian	Calico Persian	File:Calico persian getting ready for show.jpg	Dina-Roberts Wakulczyk from Indianapolis, Indiana, USA	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Calico_persian_getting_ready_for_show.jpg
+sealpointragdoll	Seal Point Ragdoll	File:Seal Point mitted Ragdoll BreedingCat.jpg	Cgomez766	CC0	https://commons.wikimedia.org/wiki/File:Seal_Point_mitted_Ragdoll_BreedingCat.jpg
+bluepointragdoll	Blue Point Ragdoll	File:Blue point and white Ragdoll cat.jpg	kishjar? from Moscow, Russia	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Blue_point_and_white_Ragdoll_cat.jpg
+mittedragdoll	Mitted Ragdoll	File:Seal Mitted Ragdoll - Ragalong Oisin.jpeg	Nhudson	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Seal_Mitted_Ragdoll_-_Ragalong_Oisin.jpeg
+britishblue	British Blue	File:British shorthair cat close-up.jpg	Dimljacic	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:British_shorthair_cat_close-up.jpg
+tabbymainecoon	Tabby Maine Coon	File:Maine Coon Cat Atticus.jpg	Hollakr	Public domain	https://commons.wikimedia.org/wiki/File:Maine_Coon_Cat_Atticus.jpg
+silvertabby	Silver Tabby	File:Young tabby cat keeping watch.jpg	W.carter	CC0	https://commons.wikimedia.org/wiki/File:Young_tabby_cat_keeping_watch.jpg
+smokecat	Smoke Cat	File:NL* Titran's Saskia van Rijn female black smoke & white 20 months old (38074062545).jpg	Pieter &amp; Renée Lanser from The Netherlands	CC BY 2.0	https://commons.wikimedia.org/wiki/File:NL*_Titran%27s_Saskia_van_Rijn_female_black_smoke_%26_white_20_months_old_(38074062545).jpg
+torbiecat	Torbie Cat	File:Kira, a tortoise shell cat.jpg	Ivanhercaz	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Kira,_a_tortoise_shell_cat.jpg
+lynxpointsiamese	Lynx Point Siamese	File:Two Chocolate Lynx Point Colorpoint Shorthairs.jpg	Kathryn Smith	CC BY 4.0	https://commons.wikimedia.org/wiki/File:Two_Chocolate_Lynx_Point_Colorpoint_Shorthairs.jpg
+chocolatepointsiamese	Chocolate Point	File:Siamese cat, chocolate point.jpg	Felinlove	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Siamese_cat,_chocolate_point.jpg
+lilacpointsiamese	Lilac Point	File:The only two Thai Lilac Points in the UK - Clairabelle Pixie Dust & Clairabelle Ninja Rococoa.jpg	Dreistone	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:The_only_two_Thai_Lilac_Points_in_the_UK_-_Clairabelle_Pixie_Dust_%26_Clairabelle_Ninja_Rococoa.jpg
+tortiepointsiamese	Tortie Point	File:Blu-tortie-point-masch.jpg	The original uploader was Claudiabirmani at English Wikipedia.	CC BY-SA 2.5	https://commons.wikimedia.org/wiki/File:Blu-tortie-point-masch.jpg
+redpersian	Red Persian	File:Persian cat in the car.png	M.sahakyan	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Persian_cat_in_the_car.png
+creampersian	Cream Persian	File:Cat cute persian cat.jpg	Tukangtamanmurah	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Cat_cute_persian_cat.jpg
+silverpersian	Silver Persian	File:Doll Face Chinchillà Persian Romeo.jpg	Sara Pupi	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Doll_Face_Chinchill%C3%A0_Persian_Romeo.jpg
+goldenpersian	Golden Persian	File:Persian cat chinchilla golden male and silver female.jpg	ウィキ太郎(Wiki Taro)	Public domain	https://commons.wikimedia.org/wiki/File:Persian_cat_chinchilla_golden_male_and_silver_female.jpg
+tabbypersian	Tabby Persian	File:Orange tabby persian cat sleeping on a couch.png	TheOmniCommie	CC0	https://commons.wikimedia.org/wiki/File:Orange_tabby_persian_cat_sleeping_on_a_couch.png
+smokepersian	Smoke Persian	File:Mrs. A.McAllister and "Smoke Persian" cat LCCN2014698055.jpg	Bain News Service, publisher	Public domain	https://commons.wikimedia.org/wiki/File:Mrs._A.McAllister_and_%22Smoke_Persian%22_cat_LCCN2014698055.jpg
+bicolorragdoll	Bicolor Ragdoll	File:A female black bicolor ragdoll.jpg	WANG XIAOLING995	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:A_female_black_bicolor_ragdoll.jpg
+lynxragdoll	Lynx Ragdoll	File:Tajeschidolls Beren of LoveLorien Ragdoll Seal Mink Lynx Bicolor.jpg	InesSiwińska	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Tajeschidolls_Beren_of_LoveLorien_Ragdoll_Seal_Mink_Lynx_Bicolor.jpg
+sealpointbirman	Seal Point Birman	File:Tallulah, a Seal-Point Birman cat.jpg	Jon McKnight	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Tallulah,_a_Seal-Point_Birman_cat.jpg
+bluepointbirman	Blue Point Birman	File:Birma blue point SBI a 21.jpg	Ivana Medeková - fivamed	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Birma_blue_point_SBI_a_21.jpg
+silvermainecoon	Silver Maine Coon	File:Maine coon cat black silver tabby sunset.png	MEichinger	CC0	https://commons.wikimedia.org/wiki/File:Maine_coon_cat_black_silver_tabby_sunset.png
+smokemainecoon	Smoke Maine Coon	File:A black smoke Maine Coon.jpg	Rupsengod	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:A_black_smoke_Maine_Coon.jpg
+redmainecoon	Red Maine Coon	File:Red blotched tabby and white Maine Coon, Winschoten 01.jpg	Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --Donald Trung 『徵國單』 (No Fake News 💬) (WikiProject Numismatics 💴) (Articles 📚) 08:24, 25 March 2023 (UTC)	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Red_blotched_tabby_and_white_Maine_Coon,_Winschoten_01.jpg
+britishsilvertabby	British Silver Tabby	File:British Shorthair black-silver tabby mackerel.JPG	Omnapsilon	CC0	https://commons.wikimedia.org/wiki/File:British_Shorthair_black-silver_tabby_mackerel.JPG
+britishcream	British Cream	File:Nööbi.jpg	Nöpsu	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:N%C3%B6%C3%B6bi.jpg
+colorpointbritish	Colorpoint British	File:British shorthair cat-3113513.jpg	Alexas_Fotos	CC0	https://commons.wikimedia.org/wiki/File:British_shorthair_cat-3113513.jpg
+mackereltabby	Mackerel Tabby	File:Tabby cat–IMG 6135 02.jpg	Kızıl	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Tabby_cat%E2%80%93IMG_6135_02.jpg
+classictabby	Classic Tabby	File:Grey classic tabby crop.JPG	Cassie Jasewicz	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Grey_classic_tabby_crop.JPG
+spottedtabby	Spotted Tabby	File:20200816 Kot domowy, na polu w Rżuchowie, świętokrzyskie 0803 3618.jpg	Jakub Hałun	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:20200816_Kot_domowy,_na_polu_w_R%C5%BCuchowie,_%C5%9Bwi%C4%99tokrzyskie_0803_3618.jpg
+harlequincat	Harlequin Cat	File:Harlequin patterned bicolor cats.JPG	Nicholas Gemini	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Harlequin_patterned_bicolor_cats.JPG
+blueeyedwhite	Blue-Eyed White	File:Deaf white cat with odd coloured eyes.jpg	Ian.townend.	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Deaf_white_cat_with_odd_coloured_eyes.jpg
+chocolateragdoll	Chocolate Ragdoll	File:Lindor (2).jpg	Ariannatarchini	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Lindor_(2).jpg
+lilacragdoll	Lilac Ragdoll	File:Ragdoll Lilac Tortie.jpg	CX23882-19	Public domain	https://commons.wikimedia.org/wiki/File:Ragdoll_Lilac_Tortie.jpg
+flameragdoll	Flame Ragdoll	File:Winston, Ragdoll cat.jpg	Tier2Cell245	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Winston,_Ragdoll_cat.jpg
+creampointragdoll	Cream Point Ragdoll	File:Mimosa, a Ragdoll cat who's chillin.jpg	Robin The Birb	CC BY 4.0	https://commons.wikimedia.org/wiki/File:Mimosa,_a_Ragdoll_cat_who%27s_chillin.jpg
+colorpointragdoll	Colorpoint Ragdoll	File:A breed of cat with a distinct colorpoint coat and blue eyes..jpg	WANG XIAOLING995	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:A_breed_of_cat_with_a_distinct_colorpoint_coat_and_blue_eyes..jpg
+chocolatepointbirman	Chocolate Birman	File:Birmana colore chocolate tabby point.jpg	Muschio Di Quercia	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Birmana_colore_chocolate_tabby_point.jpg
+lilacpointbirman	Lilac Birman	File:Sacro di Birmania lilac-tabby-point.jpg	Muschio Di Quercia	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Sacro_di_Birmania_lilac-tabby-point.jpg
+redpointbirman	Red Point Birman	File:Birman red lynx point 02.jpg	Valerius Geng	CC BY 3.0	https://commons.wikimedia.org/wiki/File:Birman_red_lynx_point_02.jpg
+tabbypointbirman	Tabby Point Birman	File:Tabby Birman cat (2010; cropped 2023).jpg	Cathrine Sandqvist	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Tabby_Birman_cat_(2010;_cropped_2023).jpg
+shadedsilverpersian	Shaded Silver	File:Shaded silver Persian Cat Missionhill Cosmic Rainstorm.jpg	Wyndcreste	CC BY 3.0	https://commons.wikimedia.org/wiki/File:Shaded_silver_Persian_Cat_Missionhill_Cosmic_Rainstorm.jpg
+tortiepersian	Tortie Persian	File:Tortishell Persian Cat.jpg	Ramair350	Public domain	https://commons.wikimedia.org/wiki/File:Tortishell_Persian_Cat.jpg
+bluecreampersian	Blue-Cream Persian	File:Persian Cat Trio (51016541380).jpg	Reba Spike	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Persian_Cat_Trio_(51016541380).jpg
+pekefacepersian	Peke-face Persian	File:Cat Show - Ft. Lauderdale - October 2008.jpg	Jill Warner from Delray Beach, FL, USA	CC BY-SA 2.0	https://commons.wikimedia.org/wiki/File:Cat_Show_-_Ft._Lauderdale_-_October_2008.jpg
+bicolorpersian	Bicolor Persian	File:Bicolor Persian (2009 photo; cropped 2022).jpg	Chloe DeLong	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Bicolor_Persian_(2009_photo;_cropped_2022).jpg
+tickedtabby	Ticked Tabby	File:Black-ticked-tabby-oriental-shorthair-kitten.jpg	Felinlove	CC BY 4.0	https://commons.wikimedia.org/wiki/File:Black-ticked-tabby-oriental-shorthair-kitten.jpg
+browntabby	Brown Tabby	File:Tabby-cat brown our new pet 30062015 5046.jpg	Johann Jaritz	CC BY-SA 3.0 at	https://commons.wikimedia.org/wiki/File:Tabby-cat_brown_our_new_pet_30062015_5046.jpg
+bluetabby	Blue Tabby	File:Blue and white tabby cat–IMG 6442 02.jpg	Kızıl	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Blue_and_white_tabby_cat%E2%80%93IMG_6442_02.jpg
+creamtabby	Cream Tabby	File:Cream silver tabby cat from Taiwan 04.jpg	RLS STUDIO 紅綠燈創作攝影工作室-婚攝AK	CC BY-SA 2.0	https://commons.wikimedia.org/wiki/File:Cream_silver_tabby_cat_from_Taiwan_04.jpg
+patchedtabby	Patched Tabby	File:Cat Lying Down on a Patch of Grass.jpg	Asabae2752	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Cat_Lying_Down_on_a_Patch_of_Grass.jpg
+blacksmoke	Black Smoke	File:Black smoke short-haired cat head.jpg	Jojo snapshots	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Black_smoke_short-haired_cat_head.jpg
+redsmoke	Red Smoke	File:Cat-sleeping-on-head.jpg	Mark Marek Mark Marek Copyright Mark Marek Photography ©2007 URL: Predatory Behavior of Cats in Pictures on Alberta Stars	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Cat-sleeping-on-head.jpg
+tabbywhite	Tabby and White	File:Brown and White Tabby Cat.jpg	Panini!	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Brown_and_White_Tabby_Cat.jpg
+cypruscat	Cyprus Cat	File:CyprusShorthair.jpg	Riannacone	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:CyprusShorthair.jpg
+vanbicolor	Van Bicolor	File:Turkish Van cat transparent.png	Matsu1024	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Turkish_Van_cat_transparent.png
+dilutecalico	Dilute Calico	File:Dilute calico cat on Bulgurcu St.jpg	Furkanakkurt8015	CC0	https://commons.wikimedia.org/wiki/File:Dilute_calico_cat_on_Bulgurcu_St.jpg
+chocolatetabby	Chocolate Tabby	File:Chocolate Tabby (4316100294).jpg	Lil Shepherd from United Kingdom	CC BY 2.0	https://commons.wikimedia.org/wiki/File:Chocolate_Tabby_(4316100294).jpg
+greytabby	Grey Tabby	File:Grey tabby cat in Tashkent 2025-08-13.jpg	UzAtio	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Grey_tabby_cat_in_Tashkent_2025-08-13.jpg
+marbledtabby	Marbled Tabby	File:Marbled red tabby in Tuntorp, Brastad.jpg	W.carter	CC BY 4.0	https://commons.wikimedia.org/wiki/File:Marbled_red_tabby_in_Tuntorp,_Brastad.jpg
+cinnamontabby	Cinnamon Tabby	File:Asian tabby cat transparent.png	Matt Buck from London, United Kingdom	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Asian_tabby_cat_transparent.png
+bluecreampoint	Blue-Cream Point	File:Blu-tortie-point-masch.jpg	The original uploader was Claudiabirmani at English Wikipedia.	CC BY-SA 2.5	https://commons.wikimedia.org/wiki/File:Blu-tortie-point-masch.jpg
+sealtortiepoint	Seal Tortie Point	File:Siam-Katze-seal-tortie-point-white.jpg	Kamée	CC BY 3.0	https://commons.wikimedia.org/wiki/File:Siam-Katze-seal-tortie-point-white.jpg
+chocolatebicolor	Chocolate Bicolor	File:Brown and white cat 1.jpg	דג קטן	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Brown_and_white_cat_1.jpg
+bluebicolor	Blue Bicolor	File:Grey and white cat 04.jpg	Guycn2	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Grey_and_white_cat_04.jpg
+redbicolor	Red Bicolor	File:Ginger and White Cat.jpg	Roobee11	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Ginger_and_White_Cat.jpg
+caramelpoint	Caramel Point	File:NEV FleurAmour Caramel Frossika (15649547626).jpg	Nickolas Titkov from Moscow, Russian Federation	CC BY-SA 2.0	https://commons.wikimedia.org/wiki/File:NEV_FleurAmour_Caramel_Frossika_(15649547626).jpg
+fawnpoint	Fawn Point	File:Naro, blue-eyed cross-siamese cat, at Josselin 14.jpg	Tsaag Valren	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Naro,_blue-eyed_cross-siamese_cat,_at_Josselin_14.jpg
+cinnamonpoint	Cinnamon Point	File:Cinnamon the Cat.JPG	Leahrodrig	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:Cinnamon_the_Cat.JPG
+chocolatetortie	Chocolate Tortie	File:Chocolate Tortie Pt 11636-130.jpg	Larry Johnson	CC0	https://commons.wikimedia.org/wiki/File:Chocolate_Tortie_Pt_11636-130.jpg
+lilactortie	Lilac Tortie	File:Lilac tortoiseshell and white Oriental Shorthair cat no background.png	Heikki Siltala https://catza.net/	CC BY 3.0	https://commons.wikimedia.org/wiki/File:Lilac_tortoiseshell_and_white_Oriental_Shorthair_cat_no_background.png
+bluetortie	Blue Tortie	File:Siam-Katze-blue-tortie-tabby-point.jpg	Kamée	CC BY 3.0	https://commons.wikimedia.org/wiki/File:Siam-Katze-blue-tortie-tabby-point.jpg
+apricotcat	Apricot Cat	File:A cream colored tabby cat lying on the ground, looking up expectantly.jpg	Wasianpower	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:A_cream_colored_tabby_cat_lying_on_the_ground,_looking_up_expectantly.jpg
+bluesmoke	Blue Smoke	File:Bluesmoke Maine Coon Female cat.jpg	Krh315	Public domain	https://commons.wikimedia.org/wiki/File:Bluesmoke_Maine_Coon_Female_cat.jpg
+silvertorbie	Silver Torbie	File:LaEsmeraldaNFC.jpg	LaEsmeralda	CC BY-SA 3.0	https://commons.wikimedia.org/wiki/File:LaEsmeraldaNFC.jpg
+dilutetortie	Dilute Tortie	File:Dilute tortoiseshell cat 2.jpg	Spongeworthy93	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Dilute_tortoiseshell_cat_2.jpg
+calibycat	Caliby Cat	File:Savannah, a Texas "caliby" cat.jpg	CharlieSauer	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Savannah,_a_Texas_%22caliby%22_cat.jpg
+cinnamonoriental	Cinnamon Oriental	File:OSH 24-CH Clamoris Epeius (Omar).JPG	Heikki Siltala	CC BY 3.0	https://commons.wikimedia.org/wiki/File:OSH_24-CH_Clamoris_Epeius_(Omar).JPG
+fawnoriental	Fawn Oriental	File:Whiti Oriental shorthair at Ft Lauderdale Cat show.jpg	Oriental_Shorthair_-_Cat_Show_-_Ft._Lauderdale_-_October_2008.jpg: Jill Saperstein from Boynton Beach, FL, USA derivative work: Abujoy (talk)	CC BY-SA 2.0	https://commons.wikimedia.org/wiki/File:Whiti_Oriental_shorthair_at_Ft_Lauderdale_Cat_show.jpg
+chocolatepersian	Chocolate Persian	File:Chocolate Persian.jpg	Cindy See	CC BY-SA 2.0	https://commons.wikimedia.org/wiki/File:Chocolate_Persian.jpg
+lilacpersian	Lilac Persian	File:Persanpoillong 2020 (cropped).jpg	Laurieblou	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:Persanpoillong_2020_(cropped).jpg
+shadedgolden	Shaded Golden	File:British shorthair black golden shaded gatil mozziland portugal.jpg	MOZZILAND	CC BY-SA 4.0	https://commons.wikimedia.org/wiki/File:British_shorthair_black_golden_shaded_gatil_mozziland_portugal.jpg

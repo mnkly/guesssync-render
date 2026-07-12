@@ -1,0 +1,106 @@
+GuessSync ANIMALS3 - "Guess the Animal v3" - Image Attributions
+100 real animal photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. Files under CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that requirement.
+Generated 2026-07-12. Format:  slug | name | author | license | source
+
+seal | Seal | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Common_seal_(Phoca_vitulina)_2.jpg
+sealion | Sea Lion | (c) Jonathan Eisen, some rights reserved (CC BY) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:California_Sea_Lion,_Monterey,_California,_United_States_imported_from_iNaturalist_photo_203598492.jpg
+seaotter | Sea Otter | Marshal Hedin from San Diego | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Sea_Otter_(Enhydra_lutris)_(25169790524)_crop.jpg
+blackbear | Black Bear | Diginatur | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:01_Schwarzb%C3%A4r.jpg
+vampirebat | Vampire Bat | Uwe Schmidt | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Desmo-Flug-01.jpg
+reddeer | Red Deer | Lviatour | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cervus_elaphus_Luc_Viatour_6.jpg
+fallowdeer | Fallow Deer | Dietmar Rabich | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2018_--_3762.jpg
+muledeer | Mule Deer | Oregon Department of Fish &amp; Wildlife | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Mule_buck_elk_creek_m_myatt_(5489214303).jpg
+jackrabbit | Jackrabbit | Chuck Homler d/b/a Focus On Wildlife | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Black-tailed_Jack_Rabbit_(Lepus_californicus).jpg
+bighornsheep | Bighorn Sheep | Jwanamaker | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:New_Mexico_Bighorn_Sheep.JPG
+mountaingoat | Mountain Goat | Adam Schneider | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Mountain_Goat,_Enchantments_Basin.jpg
+bactriancamel | Bactrian Camel | Christian Ursilva from Copenhagen, Denmark | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Camelus_bactrianus_(55026866188).jpg
+capebuffalo | Cape Buffalo | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:African_buffalo_(Syncerus_caffer_caffer)_male_with_cattle_egret.jpg
+africanwilddog | African Wild Dog | AfricanConservation | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:African_Wild_Dog_at_Working_with_Wildlife.jpg
+pygmyhippo | Pygmy Hippo | Bardrock | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hexaprotodon_liberiensis_in_Edinburgh_Zoo.JPG
+echidna | Echidna | User:Fir0002 | GFDL 1.2 | https://commons.wikimedia.org/wiki/File:Wild_shortbeak_echidna.jpg
+elephantseal | Elephant Seal | Antoine Lamielle | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2020-11_Kerguelen_Islands_-_Southern_elephant_seal_30.jpg
+gerbil | Gerbil | Alastair Rae from London, United Kingdom | Public domain | https://commons.wikimedia.org/wiki/File:Meriones_unguiculatus_(wild).jpg
+pika | Pika | Naturedata | CC0 | https://commons.wikimedia.org/wiki/File:American_pika_Banff_National_Park.jpg
+shrew | Shrew | Soricida | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Sorex-araneus.jpg
+vicuna | Vicuna | Thomas Quine | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Vicuna_(89163948)_(cropped).jpg
+guanaco | Guanaco | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Guanaco_(Lama_guanicoe)_Leona_Amarga.jpg
+eland | Eland | Yathin S Krishnappa | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Taurotragus_oryx_-_young_bull_-_Etosha_2015.jpg
+peccary | Peccary | Carlos Delgado | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pecari_tajacu_-_02.jpg
+hyrax | Hyrax | Naturedata | CC0 | https://commons.wikimedia.org/wiki/File:Rock_hyrax_Serengeti_National_Park.jpg
+manedwolf | Maned Wolf | Tomás Del Coro from Las Vegas, Nevada, USA | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:San_Diego_Zoo_(8678865731).jpg
+raccoondog | Raccoon Dog | Ryzhkov Sergey | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:%D0%84%D0%BD%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_(Nyctereutes_procyonoides).jpg
+batearedfox | Bat-eared Fox | Yathin S Krishnappa | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Otocyon_megalotis_-_Etosha_2014.jpg
+grayfox | Gray Fox | VJAnderson | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Gray_fox.jpg
+swiftfox | Swift Fox | Abujoy | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Swift_Fox_Colorado_Wolf_and_Wildlife_cropped.jpg
+sunbear | Sun Bear | Rushenb | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sun-bear.jpg
+slothbear | Sloth Bear | https://www.flickr.com/photos/mape_s/ mape_s | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Sloth_bear_stand.jpg
+spectacledbear | Spectacled Bear | Wilfredor | CC0 | https://commons.wikimedia.org/wiki/File:Tremarctos_ornatus_in_Jardim_Zool%C3%B3gico_de_Curitiba.jpg
+pinemarten | Pine Marten | caroline legg | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Pine_Marten_(48173751702).jpg
+polecat | Polecat | Peter Trimming | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Storm_the_polecat.jpg
+civet | Civet | Michal Sloviak | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Civettictis_civetta_35635750.jpg
+genet | Genet | Frédéric SALEIN | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:A_female_common_genet_in_the_dining_room,_Satao_Camp,_Tsavo_East.jpg
+redsquirrel | Red Squirrel | Peter Trimming | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Squirrel_posing.jpg
+muskrat | Muskrat | D. Gordon E. Robertson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Muskrat_swimming_Ottawa.jpg
+gopher | Gopher | LeonardoWeiss | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Pocket-Gopher_Ano-Nuevo-SP.jpg
+lemming | Lemming | Argus fin | Public domain | https://commons.wikimedia.org/wiki/File:Tunturisopuli_Lemmus_Lemmus.jpg
+dormouse | Dormouse | Danielle Schwarz | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Haselmaus.jpg
+treekangaroo | Tree Kangaroo | Tim Williams | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Tree_kangaroo2.jpg
+tamandua | Tamandua | Sinara Conessa | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:T_tetradactyla_1.jpg
+waterbuck | Waterbuck | Giles Laurent | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:069_Waterbuck_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg
+bushbuck | Bushbuck | Hans Hillewaert | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tragelaphus_scriptus_(male).jpg
+hartebeest | Hartebeest | D. Gordon E. Robertson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Coke%27s_Hartebeest.jpg
+sikadeer | Sika Deer | Lilly M | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cervus_nippon_002.jpg
+roedeer | Roe Deer | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Roe_deer_(Capreolus_capreolus)_young_male_Cumnor.jpg
+zebu | Zebu | A. J. T. Johnsingh, WWF-India and NCF | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:A_well-fed_bull_in_Kuno_WS_AJTJ_P1070807.jpg
+bushdog | Bush Dog | Karelj | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Speothos_venaticus_Zoo_Praha_2011-5_(cropped).jpg
+corsacfox | Corsac Fox | Wim Stam (User:Wim stam) | Public domain | https://commons.wikimedia.org/wiki/File:Vulpes_corsac.jpg
+giantotter | Giant Otter | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Giant_otters_(Pteronura_brasiliensis).jpg
+fisher | Fisher | Mount Rainier National Park from Ashford, WA, United States | Public domain | https://commons.wikimedia.org/wiki/File:Fishers_(14584727897).jpg
+tayra | Tayra | Ninahale | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tayra_-_Male,_Brazil_(cropped).jpg
+ringtail | Ringtail | Robertbody at en.wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Squaw-ringtail-28073.jpg
+palmcivet | Palm Civet | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Common_Palm_Civet_(Paradoxurus_hermaphroditus)_(7781509830).jpg
+vole | Vole | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bank_vole_(Clethrionomys_glareolus)_Drenthe.jpg
+degu | Degu | Markus | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Octodon_degus_-Heidelberg_Zoo,_Germany-8a.jpg
+kangaroorat | Kangaroo Rat | Unknown | Public domain | https://commons.wikimedia.org/wiki/File:Kangaroo-rat.jpg
+paca | Paca | Garst, Warren, 1922-2016, photographer | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Paca_walking_in_grass_close_up_-_DPLA_-_826590946052c7217e313ec0a53c7f17.jpg
+springhare | Springhare | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Spring_Hare_(Pedetes_capensis)_(6042009463).jpg
+pademelon | Pademelon | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:RedNeckedPademelon-front-800.jpg
+brushtailpossum | Brushtail Possum | JJ Harrison (https://www.jjharrison.com.au/) | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Trichosurus_vulpecula_1.jpg
+silkyanteater | Silky Anteater | Quinten Questel | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Silky_Anteater.jpg
+topi | Topi | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Topi_(Damaliscus_lunatus_jimela)_female.jpg
+roan | Roan Antelope | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Roan_antelope_(Hippotragus_equinus_equinus)_Mlilwane.jpg
+sableantelope | Sable Antelope | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sable_antelope_(Hippotragus_niger)_adult_male.jpg
+reedbuck | Reedbuck | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Southern_Reedbuck_(Redunca_arundinum)_iSimangaliso_Wetland_Park,_KwaZulu-Natal,_South_Africa.jpg
+lechwe | Lechwe | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Red_lechwe_(Kobus_leche_leche)_male.jpg
+sambar | Sambar | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sambar_(Cervus_unicolor_unicolor)_male.jpg
+barasingha | Barasingha | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Swamp_deer_(Cervus_duvaucelii_branderi)_male.jpg
+waterdeer | Water Deer | Altaileopard | Public domain | https://commons.wikimedia.org/wiki/File:Hydropotes_inermis_male.JPG
+dallsheep | Dall Sheep | Nirajha | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Dall_Sheep_male.jpg
+barbarysheep | Barbary Sheep | Rei at English Wikipedia. Picture taken by Rei in July 2006. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:BarbarySheep4.jpg
+ethiopianwolf | Ethiopian Wolf | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ethiopian_wolf_(Canis_simensis_citernii).jpg
+culpeo | Culpeo | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Culpeo_(Lycalopex_culpaeus_culpaeus)_Lo_Barnechea_2.jpg
+crabeatingfox | Crab-eating Fox | http://www.birdphotos.com | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Crab-eating_Fox_(cropped).JPG
+darwinsfox | Darwin's Fox | Fernando Bórquez Bórquez from Castro, Chile | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Pseudalopex_fulvipes-primer_plano.jpg
+sable | Sable | Е.Медведева | Copyrighted free use | https://commons.wikimedia.org/wiki/File:Sobol_bur.jpg
+grison | Grison | Tony Hisgett | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Greater_grison.jpg
+cacomistle | Cacomistle | Unknown | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Bassariscus_sumichrasti.jpg
+linsang | Linsang | Ian Dugdale | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Prionodon_linsang.jpg
+viscacha | Viscacha | Brian Gratwicke | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Lagostomus_maximus,_Plains_Viscacha.jpg
+pacarana | Pacarana | Benjamin Frable | CC0 | https://commons.wikimedia.org/wiki/File:Dinomys_branickii.JPG
+potoroo | Potoroo | Gunjan Pandey | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Long-nosed_potoroo.jpg
+bettong | Bettong | arthur_chapman | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Bettongia_penicillata_(Woylie)1.jpg
+cuscus | Cuscus | Riefza Vebriansyah | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Beware,_I_watching_you!.jpg
+dunnart | Dunnart | (c) Connor Margetts, some rights reserved (CC BY) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg
+kob | Kob | Fanny Schertzer | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Male_Ugandan_kob_-_Queen_Elizabeth_National_Park,_Uganda_(4).jpg
+oribi | Oribi | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Sudan_Oribi_(Ourebia_montana)_male_(18172324646).jpg
+steenbok | Steenbok | Yathin S Krishnappa | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Raphicerus_campestris_male_(Etosha,_2012).jpg
+suni | Suni | Olivier Lejade from France | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Suni_3.jpg
+brocket | Brocket Deer | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Red_Brocket_(Mazama_americana)_male_(28091090800).jpg
+europeanbison | European Bison | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:European_bison_(Bison_bonasus)_male_Bia%C5%82owieza.jpg
+watusi | Watusi | Dennis G. Jarvis | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Ankole-Watusi,_Cambridge,_Ontario_(14656696757),_cropped.jpeg
+urial | Urial | jonsson (No real name given) | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Ovis_vignei_bochariensis.jpg
+bharal | Bharal | Mvshreeram | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bharal_-_Shreeram_M_V_-_Kibber,_Spiti_Valley,_Himachal_Pradesh,_India.jpg
+leopardseal | Leopard Seal | Godot13 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_(Hydrurga_leptonyx)_04.jpg
+starnosedmole | Star-nosed Mole | US National Parks Service | Public domain | https://commons.wikimedia.org/wiki/File:Condylura.jpg

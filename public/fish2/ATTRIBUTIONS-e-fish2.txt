@@ -1,0 +1,103 @@
+E-fish2 «Guess the Fish (Vol. 2)» — image attributions (Wikimedia Commons)
+100 fish · free licenses only · fields: slug | license | author | source
+==============================================================================
+flounder | Flounder | CC BY-SA 4.0 | Hans Hillewaert | https://commons.wikimedia.org/wiki/File%3APlatichthys_flesus_1.jpg
+molly | Molly | CC BY 4.0 | (c) Nick Tobler (Cowturtle), some rights reserved (CC BY) | https://commons.wikimedia.org/wiki/File%3APoecilia_latipinna%2C_I-75_N%2C_Fort_Lauderdale%2C_FL%2C_US_imported_from_iNaturalist_photo_360070481_(cropped).jpg
+gourami | Gourami | CC BY-SA 3.0 | Gourami Watcher | https://commons.wikimedia.org/wiki/File%3ATrichogster_trichopterus_13.jpg
+anchovy | Anchovy | CC BY-SA 3.0 | Jschop | https://commons.wikimedia.org/wiki/File%3AAnsjovis.jpg
+bluegill | Bluegill | CC BY-SA 4.0 | Paleo1954 | https://commons.wikimedia.org/wiki/File%3ABluegill_(cropped).jpg
+walleye | Walleye | Public domain | USFWS Mountain Prairie | https://commons.wikimedia.org/wiki/File%3AWalleye_(Sander_vitreus)_(1).jpg
+yellow-tang | Yellow Tang | CC BY-SA 3.0 | Luc Viatour | https://commons.wikimedia.org/wiki/File%3AZebrasoma_flavescens_Luc_Viatour.jpg
+rainbow-trout | Rainbow Trout | Public domain | Engbretson Eric, U.S. Fish and Wildlife Service | https://commons.wikimedia.org/wiki/File%3AClose_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg
+sea-bass | Sea Bass | CC BY 2.0 | Miguel Mendez from Malahide, Ireland | https://commons.wikimedia.org/wiki/File%3ASealife%2C_Bray%2C_Ireland._(6985874908).jpg
+mullet | Mullet | CC BY-SA 4.0 | Diego Delso | https://commons.wikimedia.org/wiki/File%3AM%C3%BAjol_(Mugil_cephalus)%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2021-09-09%2C_DD_25.jpg
+haddock | Haddock | CC BY-SA 3.0 | Steven G. Johnson | https://commons.wikimedia.org/wiki/File%3AHaddock%2C_Boston_Aquarium.JPG
+tarpon | Tarpon | CC BY-SA 3.0 | This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0 | https://commons.wikimedia.org/wiki/File%3AMegalops_atlanticus.jpg
+bluefish | Bluefish | CC BY 4.0 | Conway Hawn | https://commons.wikimedia.org/wiki/File%3APomatomus_saltatrix_287704526.jpg
+crappie | Crappie | Public domain | United States Fish and Wildlife Services | https://commons.wikimedia.org/wiki/File%3ABlack_crappie.jpg
+sole | Sole | CC BY-SA 4.0 | Hans Hillewaert | https://commons.wikimedia.org/wiki/File%3ASolea_solea_1.jpg
+smallmouth-bass | Smallmouth Bass | Public domain | USFWS Mountain Prairie | https://commons.wikimedia.org/wiki/File%3ASmallmouth_Bass_(49561724026).jpg
+striped-bass | Striped Bass | CC BY-SA 3.0 | Steven G. Johnson | https://commons.wikimedia.org/wiki/File%3AStriped_bass%2C_Boston_Aquarium.JPG
+sea-bream | Sea Bream | CC BY 4.0 | (c) Julien Renoult, some rights reserved (CC BY) | https://commons.wikimedia.org/wiki/File%3ASparus_aurata%2C_Alpes-Maritimes%2C_Provence-Alpes-C%C3%B4te_d'Azur%2C_FR_imported_from_iNaturalist_photo_207799710.jpg
+tiger-shark | Tiger Shark | CC BY-SA 3.0 | Albert kok | https://commons.wikimedia.org/wiki/File%3ATiger_shark.jpg
+bull-shark | Bull Shark | CC BY 4.0 | Jerome Paillet (IFREMER, Laboratoire d'Océanographie Physique et Spatiale, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané) | https://commons.wikimedia.org/wiki/File%3ARequin_bouledogue_(Carcharhinus_leucas)_(Ifremer_00813-92510_-_53590).jpg
+nurse-shark | Nurse Shark | Public domain | Unknown | https://commons.wikimedia.org/wiki/File%3ANurse_shark.jpg
+mako-shark | Mako Shark | CC BY 4.0 | Fábio Olmos | https://commons.wikimedia.org/wiki/File%3AShortfin_mako_(Isurus_oxyrinchus).jpg
+eagle-ray | Eagle Ray | Public domain | the manta ray had a family | https://commons.wikimedia.org/wiki/File%3AEagle_Ray_Turks_and_Caicos_Dec_15_2006.JPG
+swordtail | Swordtail | CC BY-SA 4.0 | Corydoras-adolfoi | https://commons.wikimedia.org/wiki/File%3ADSC_0690_-_Edited.jpg
+platy | Platy | CC BY-SA 3.0 | Marrabbio2 | https://commons.wikimedia.org/wiki/File%3ARainbow_wag_platy.jpg
+emperor-angelfish | Emperor Angelfish | CC BY-SA 2.0 | Francois Libert | https://commons.wikimedia.org/wiki/File%3AEmperor_Angelfish%2C_Western_form_-_Pomacanthus_imperator_1.jpg
+queen-angelfish | Queen Angelfish | CC BY-SA 2.0 | Pedro Lastra | https://commons.wikimedia.org/wiki/File%3AQueen_Angelfish.jpg
+royal-gramma | Royal Gramma | No restrictions | Smithsonian Institution from United States | https://commons.wikimedia.org/wiki/File%3AGramma_loreto%2C_Adult_(Royal_Gramma).jpg
+copperband-butterflyfish | Copperband Butterflyfish | CC BY-SA 3.0 | Luc Viatour | https://commons.wikimedia.org/wiki/File%3AChelmon_rostratus_Luc_Viatour.jpg
+foxface-rabbitfish | Foxface Rabbitfish | Public domain | Dr. Dwayne Meadows, NOAA/NMFS/OPR | https://commons.wikimedia.org/wiki/File%3ASiganus_vulpinus_2.jpg
+powder-blue-tang | Powder Blue Tang | CC BY-SA 4.0 | Diego Delso | https://commons.wikimedia.org/wiki/File%3APez_cirujano_azul_cielo_(Acanthurus_leucosternon)%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-30%2C_DD_80.jpg
+tiger-barb | Tiger Barb | CC BY-SA 4.0 | Editor General of Wiki | https://commons.wikimedia.org/wiki/File%3ATiger_barb_fish.jpg
+cardinal-tetra | Cardinal Tetra | CC BY-SA 3.0 | CHUCAO | https://commons.wikimedia.org/wiki/File%3ACardinal_Paracheirodon_axelrodi_(3).jpg
+german-blue-ram | German Blue Ram | CC BY-SA 4.0 | Sven Kullander | https://commons.wikimedia.org/wiki/File%3AMikrogeophagus_ramirezi_male.jpg
+clown-loach | Clown Loach | CC BY 2.0 | Vlad Butsky from San Jose, CA, USA | https://commons.wikimedia.org/wiki/File%3AChromobotia_macracanthus.jpg
+plecostomus | Plecostomus | CC BY-SA 4.0 | Raphaël Covain, Natural History Museum of Geneva | https://commons.wikimedia.org/wiki/File%3AHypostomus_plecostomus_-_Rapha%C3%ABl_Covain.png
+corydoras | Corydoras | Public domain | Unknown | https://commons.wikimedia.org/wiki/File%3ACorydoras_aeneus_2.jpg
+dwarf-gourami | Dwarf Gourami | CC BY-SA 4.0 | Felix Gertz | https://commons.wikimedia.org/wiki/File%3AColisa_lalia-Male_and_Female.jpg
+harlequin-rasbora | Harlequin Rasbora | CC BY-SA 4.0 | Roel Balingit | https://commons.wikimedia.org/wiki/File%3AHarlequin_rasboras_03.jpg
+jack-dempsey | Jack Dempsey | CC BY 4.0 | Yucatan Dive Center | https://commons.wikimedia.org/wiki/File%3ARocio_octofasciata_245838487.jpg
+convict-cichlid | Convict Cichlid | CC BY 2.5 | S. Olkowicz - User Hippocampus on pl.wikipedia | https://commons.wikimedia.org/wiki/File%3AArchocentrus_nigrofasciatus_female.jpg
+silver-dollar | Silver Dollar | CC BY-SA 4.0 | Greg Hume | https://commons.wikimedia.org/wiki/File%3ASilver_dollar_-_Metynnis_argenteus.jpg
+peacock-bass | Peacock Bass | Public domain | Karelj | https://commons.wikimedia.org/wiki/File%3ACichla_ocellaris_Dvur_zoo_1.jpg
+rainbow-shark | Rainbow Shark | CC BY-SA 3.0 | MerlinSenger at German Wikipedia | https://commons.wikimedia.org/wiki/File%3AFransenlipper.JPG
+paradise-fish | Paradise Fish | CC BY-SA 2.5 | André Karwath aka Aka, edited by Muhammad | https://commons.wikimedia.org/wiki/File%3AMacropodus_opercularis_-_side_(aka)_edit.jpg
+lingcod | Lingcod | CC BY-SA 4.0 | Newtonsneurosci | https://commons.wikimedia.org/wiki/File%3ALingcod_(Ophiodon_elongatus).jpg
+lemon-shark | Lemon Shark | CC BY-SA 3.0 | Albert Kok (talk) | https://commons.wikimedia.org/wiki/File%3ALemonshark.JPG
+blacktip-reef-shark | Blacktip Reef Shark | CC BY-SA 4.0 | Charles J. Sharp | https://commons.wikimedia.org/wiki/File%3ABlacktip_reef_shark_(Carcharhinus_melanopterus)_Moorea.jpg
+guitarfish | Guitarfish | CC BY-SA 2.0 | Unknown | https://commons.wikimedia.org/wiki/File%3AShovelnose_guitarfish.JPG
+red-drum | Red Drum | CC BY-SA 3.0 | Geeklikepi | https://commons.wikimedia.org/wiki/File%3ARed_Drum_(Sciaenops_ocellatus).jpg
+regal-angelfish | Regal Angelfish | CC BY-SA 4.0 | Diego Delso | https://commons.wikimedia.org/wiki/File%3APez_%C3%A1ngel_real_(Pygoplites_diacanthus)%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-26%2C_DD_155.jpg
+flame-angelfish | Flame Angelfish | CC BY 2.0 | Andreas März from Darmstadt, Germany | https://commons.wikimedia.org/wiki/File%3AFlame_angelfish_(Centropyge_loricula).jpg
+coral-beauty | Coral Beauty | CC BY 2.0 | Jenny (JennyHuang) from Taipei | https://commons.wikimedia.org/wiki/File%3ACentropyge_bispinosa_1.jpg
+lyretail-anthias | Lyretail Anthias | CC BY-SA 4.0 | Diego Delso | https://commons.wikimedia.org/wiki/File%3AAnthias_cola_de_lira_(Pseudanthias_squamipinnis)%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_98.jpg
+flame-hawkfish | Flame Hawkfish | CC BY 2.0 | Brian Gratwicke | https://commons.wikimedia.org/wiki/File%3AFlame_Hawkfish_Neocirrhites_armatus.jpg
+harlequin-tuskfish | Harlequin Tuskfish | CC BY 2.0 | Leonard Low from Australia | https://commons.wikimedia.org/wiki/File%3AChoerodon_fasciatus.jpg
+sixline-wrasse | Sixline Wrasse | CC BY-SA 4.0 | Diego Delso | https://commons.wikimedia.org/wiki/File%3AL%C3%A1brido_de_seis_rayas_(Pseudocheilinus_hexataenia)%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_63.jpg
+firefish | Firefish | CC BY 2.0 | Rickard Zerpe | https://commons.wikimedia.org/wiki/File%3AFire_dartfish_(Nemateleotris_magnifica)_(43372442502).jpg
+yellow-boxfish | Yellow Boxfish | CC BY-SA 2.0 | zsispeo | https://commons.wikimedia.org/wiki/File%3AOstracion_cubicus_juv%C3%A9nile_EOL.jpg
+picasso-triggerfish | Picasso Triggerfish | Public domain | Arpingstone | https://commons.wikimedia.org/wiki/File%3APicasso.triggerfish.arp.jpg
+niger-triggerfish | Niger Triggerfish | CC BY-SA 2.0 | Bernard DUPONT from FRANCE | https://commons.wikimedia.org/wiki/File%3ARed-toothed_Triggerfish_(Odonus_niger)_(6055783771).jpg
+longfin-bannerfish | Longfin Bannerfish | CC BY-SA 3.0 | Philippe Bourjon | https://commons.wikimedia.org/wiki/File%3AHeniochus_acuminatus%2C_jeune_individu.jpg
+raccoon-butterflyfish | Raccoon Butterflyfish | CC BY-SA 4.0 | Brocken Inaglory | https://commons.wikimedia.org/wiki/File%3AChaetodon_lunula_is_feeding_on_sea_urchin.jpg
+bumphead-parrotfish | Bumphead Parrotfish | CC BY 4.0 | Dirk Froebel | https://commons.wikimedia.org/wiki/File%3ABolbometopon_muricatum_290186802.jpg
+unicornfish | Unicornfish | CC BY 4.0 | (c) Susan Prior, some rights reserved (CC BY) | https://commons.wikimedia.org/wiki/File%3ABluespine_Unicornfish%2C_Emily_Bay%2C_Kingston_2899%2C_Norfolk_Island_imported_from_iNaturalist_photo_173453689_(cropped).jpg
+harlequin-sweetlips | Harlequin Sweetlips | CC BY 2.5 | Jens Petersen | https://commons.wikimedia.org/wiki/File%3APlectorhinchus_chaetodonoides.JPG
+pajama-cardinalfish | Pajama Cardinalfish | CC BY 2.0 | Brian Gratwicke | https://commons.wikimedia.org/wiki/File%3APajama_cardinal_fish_Sphaeramia_nematoptera.jpg
+green-chromis | Green Chromis | CC BY 4.0 | (c) Debra Baker, some rights reserved (CC BY) | https://commons.wikimedia.org/wiki/File%3ABlue-green_Chromis%2C_Kiribati_imported_from_iNaturalist_photo_345755248.jpg
+blue-devil-damsel | Blue Devil Damsel | CC BY 2.0 | Brian Gratwicke | https://commons.wikimedia.org/wiki/File%3AChrysiptera_cyanea_Gratwicke.jpg
+elephantnose-fish | Elephantnose Fish | Public domain | billycorgan84 | https://commons.wikimedia.org/wiki/File%3AGnathonemus_petersii.jpg
+black-ghost-knifefish | Ghost Knifefish | CC BY-SA 2.5 | Photo by and (c)2005 Derek Ramsey (Ram-Man) | https://commons.wikimedia.org/wiki/File%3ABlack_Ghost_Knifefish_400.jpg
+congo-tetra | Congo Tetra | CC BY-SA 2.5 | André Karwath aka Aka | https://commons.wikimedia.org/wiki/File%3APhenacogrammus_interruptus_(aka).jpg
+flowerhorn | Flowerhorn | CC BY-SA 3.0 | Inkpassion | https://commons.wikimedia.org/wiki/File%3AGallery_19_68_148247.jpg
+epaulette-shark | Epaulette Shark | CC BY-SA 3.0 | User:Strobilomyces | https://commons.wikimedia.org/wiki/File%3AHemiscyllium_ocellatum_060417w1.jpg
+ribbontail-ray | Ribbontail Ray | CC BY-SA 4.0 | Diego Delso | https://commons.wikimedia.org/wiki/File%3ARaya_de_arrecife_(Taeniura_lymma)%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_64.jpg
+football-fish | Football Fish | CC BY 2.0 | mark6mauno | https://commons.wikimedia.org/wiki/File%3AHimantolophus_sagamius_(Football_Fish).jpg
+lancetfish | Lancetfish | Public domain | Allen Shimada, NOAA NMFS OST | https://commons.wikimedia.org/wiki/File%3AAlepisaurus_ferox_on_deck.jpg
+lizardfish | Lizardfish | CC BY 2.0 | LASZLO ILYES (laszlo-photo) from Cleveland, Ohio, USA | https://commons.wikimedia.org/wiki/File%3ASynodus_intermedius.jpg
+monkfish | Monkfish | CC0 | 5snake5 | https://commons.wikimedia.org/wiki/File%3ALophius_piscatorius_-_Seeteufel.jpg
+oyster-toadfish | Oyster Toadfish | CC BY 4.0 | Dan Schofield | https://commons.wikimedia.org/wiki/File%3AOpsanus_tau_156065863.jpg
+midshipman | Midshipman | Public domain | U.S. Geological Survey Department of the Interior/USGS U.S. Geological Survey/photo by Jane Doe | https://commons.wikimedia.org/wiki/File%3APlainfin_Midshipman.JPG
+cusk-eel | Cusk Eel | Public domain | NOAA/MBARI | https://commons.wikimedia.org/wiki/File%3ASpectrunculus_grandis.jpg
+lumpsucker | Lumpsucker | CC BY-SA 3.0 | Cephas | https://commons.wikimedia.org/wiki/File%3ACyclopterus_lumpus_BM.jpg
+ribbonfish | Ribbonfish | Public domain | Personnel of NOAA Ship DELAWARE II | https://commons.wikimedia.org/wiki/File%3ADealfish.jpg
+slickhead | Slickhead | Public domain | NOAA/MBARI | https://commons.wikimedia.org/wiki/File%3AAlepocephalus_tenebrosus.jpg
+grunt-sculpin | Grunt Sculpin | CC BY 2.0 | Brian Gratwicke | https://commons.wikimedia.org/wiki/File%3AGrunt_sculpin_or_grunt-fish%2C_Rhamphocottus_richardsonii.jpg
+daggertooth | Daggertooth | Public domain | Peter Marriott | https://commons.wikimedia.org/wiki/File%3ADaggertooth.PNG
+sea-robin | Sea Robin | CC BY 4.0 | Jonathan Layman | https://commons.wikimedia.org/wiki/File%3APrionotus_carolinus_iNaturalist.jpg
+elephant-shark | Elephant Shark | GFDL 1.2 | fir0002 flagstaffotos [at] gmail.com Canon 20D + Tamron 28-75mm f/2.8 | https://commons.wikimedia.org/wiki/File%3AElephant_shark_melb_aquarium.jpg
+cookiecutter-shark | Cookiecutter Shark | Public domain | NOAA Observer Project | https://commons.wikimedia.org/wiki/File%3AIsistius_brasiliensis.jpg
+megamouth-shark | Megamouth Shark | CC BY-SA 2.5 | opencage | https://commons.wikimedia.org/wiki/File%3AMegamouth_shark_Megachasma_pelagios.jpg
+sawshark | Sawshark | CC0 | タウナギ | https://commons.wikimedia.org/wiki/File%3APristiophorus_japonicus_ioworld.jpg
+angel-shark | Angel Shark | CC BY-SA 2.0 | Nick Long | https://commons.wikimedia.org/wiki/File%3ASquatina_australis.jpg
+electric-ray | Electric Ray | CC BY 2.0 | Philippe Guillaume | https://commons.wikimedia.org/wiki/File%3ATorpedo_marmorata2.jpg
+sea-toad | Sea Toad | Public domain | SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/SEFSC | https://commons.wikimedia.org/wiki/File%3AChaunax_suttkusi.jpg
+john-dory | John Dory | CC BY-SA 3.0 | de:Benutzer:Kleines.Opossum | https://commons.wikimedia.org/wiki/File%3AZeus.faber.jpg
+cornetfish | Cornetfish | Public domain | François-Louis Laporte, comte de Castelnau | https://commons.wikimedia.org/wiki/File%3AFistularia_tabacaria.jpg
+wolf-eel | Wolf-eel | Public domain | USEPA Environmental-Protection-Agency | https://commons.wikimedia.org/wiki/File%3AFebruary_2%2C_2012_Wolf_Eel_(really_a_fish!)_in_Puget_Sound_(6842178290).jpg
+greeneye | Greeneye | Public domain | Edie Widder | https://commons.wikimedia.org/wiki/File%3AShortnose_greeneye_Chlorophthalmus_agassizi.jpg
+opah | Opah | Public domain | Ralph Pace (NOAA Fisheries) | https://commons.wikimedia.org/wiki/File%3ALampris_guttatus_NOAA2.jpg

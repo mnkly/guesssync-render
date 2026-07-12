@@ -1,0 +1,106 @@
+GuessSync E67 - "Guess the Hat" - Image Attributions
+100 real hat/headwear photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. Files under CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that requirement.
+Generated 2026-07-11. Format:  slug | name | author | license | source
+==========================================================================================
+baseballcap|Baseball Cap|Original photograph by TexasRebelDerivative version by ReneeWrites|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Baseball_cap.png
+tophat|Top Hat|Cullen328|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:1910_top_hat.jpg
+cowboyhat|Cowboy Hat|Michael Evans|Public domain|https://commons.wikimedia.org/wiki/File:Ronald_Reagan_with_cowboy_hat_12-0071M_edit.jpg
+beret|Beret|John B. Stetson Hat Company|No restrictions|https://commons.wikimedia.org/wiki/File:Green_Wool_Beret_Made_by_the_John_B._Stetson_Company_-_DPLA_-_a53b7967e7bf680f9190c4f2ee31890d_(page_3).jpg
+sombrero|Sombrero|لا روسا|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mexican_Sombrero_00_(8).JPG
+fedora|Fedora|Kjetil Ree|CC BY 2.5|https://commons.wikimedia.org/wiki/File:A_fedora_hat,_made_by_Borsalino.jpg
+beanie|Beanie|Robert Lender from Vienna, Austria, postprocessed by Rosso Robot (cropped, colors enhanced).|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Blue_knit-cap_beanie_by_RobertLender.jpeg
+bowlerhat|Bowler Hat|Peloponnesian Folklore Foundation|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bowler_hat,_Vienna,_mid-20th_century.jpg
+panamahat|Panama Hat|Hex|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Panama_hat.jpg
+turban|Turban|Paramanu Sarkar|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Shepherd_from_Rajasthan_03.jpg
+fez|Fez|Édouard Hue (User:EdouardHue)|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Fez.jpg
+chefhat|Chef's Hat|Rafał Siciński|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Przepis_na_Sosnowiec.jpg
+graduationcap|Graduation Cap|Jebulon|CC0|https://commons.wikimedia.org/wiki/File:Unacademic_graduate_HEC_Paris.jpg
+partyhat|Party Hat|Hans-Günter Quaschinsky|CC BY-SA 3.0 de|https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-35290-0001,_Neujahrsfest.jpg
+strawhat|Straw Hat|Self Scanned|Public domain|https://commons.wikimedia.org/wiki/File:1920_-_Boater_Straw_Hat_-_Samuel_B._Anewalt_-_Allentown_PA.jpg
+sunhat|Sun Hat|Daniel Atun (Becerra Photographer)|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Young_Woman_in_Sun_Hat.jpg
+buckethat|Bucket Hat|W.carter|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Black_Barbour_bucket_hat.jpg
+flatcap|Flat Cap|Talking Turkey|Public domain|https://commons.wikimedia.org/wiki/File:Jason_at_golf.jpg
+hardhat|Hard Hat|CEphoto, Uwe Aranas|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cologne_Germany_Industrial-work-with-Personal-Protective-Equipment-04.jpg
+santahat|Santa Hat|PattayaPatrol|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:DFC_1194_A_close-up_of_a_festive_Santa_figure_with_a_white_beard_and_red_hat_gazing_toward_twinkling_lights_in_a_cozy_holiday-decorated_setting.jpg
+witchhat|Witch Hat|It is unclear as to whether the press-materials were distributed by publicity agencies representing the respective subjects or if they were distributed by the producers of the respective projects they were a part of at the time(s) of publication (c. 1968 and/or c. 1970).|Public domain|https://commons.wikimedia.org/wiki/File:The_Wizard_of_Oz_Margaret_Hamilton_Judy_Garland_1939.jpg
+crown|Crown|National Museum of Korea|KOGL Type 1|https://commons.wikimedia.org/wiki/File:%EC%84%9C%EB%B4%89%EC%B4%9D_%EA%B8%88%EA%B4%80_%EA%B8%88%EC%A0%9C%EB%93%9C%EB%A6%AC%EA%B0%9C.jpg
+truckerhat|Trucker Hat|Iainf 02:56, 4 November 2006 (UTC)|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Truckerhat.jpg
+visor|Visor|Sasho Trajkovski|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Hantuchova_-_Australian_Open_Tennis_by_**sasho.jpg
+sailorhat|Sailor Hat|National Library of Ireland on The Commons|No restrictions|https://commons.wikimedia.org/wiki/File:Sailor_in_Hat_HMS_Vivid_Ireland_-_Copy_dated_1918_(5727986656).jpg
+trilby|Trilby|Rama|CC BY-SA 2.0 fr|https://commons.wikimedia.org/wiki/File:Leonard_Cohen-0013.jpg
+boater|Boater|Self Scanned|Public domain|https://commons.wikimedia.org/wiki/File:1920_-_Boater_Straw_Hat_-_Samuel_B._Anewalt_-_Allentown_PA.jpg
+porkpiehat|Pork Pie Hat|KDS444|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Brown_Porkpie_Hat.JPG
+newsboycap|Newsboy Cap|Ben Schumin|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Gatsby-cap-with-button.jpg
+cloche|Cloche|Museum Rotterdam|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Zwarte_haarvilten_pothoed,_objectnr_78321.JPG
+snapback|Snapback|Nicolas Völcker|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Snapback_brooklyn_cap_daytime_Berlin_Germany.jpg
+coonskincap|Coonskin Cap|Nolabob|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Man_wearing_coonskin_cap.jpg
+pithhelmet|Pith Helmet|R. Z. Bloomfield Ltd|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Helmet,_pith_(AM_2001.25.106-1).jpg
+nursecap|Nurse Cap|Alina Zienowicz Ala z|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:POL_pielegniarki_0001.jpg
+peakedcap|Peaked Cap|Daniel Schwen|CC BY-SA 2.5|https://commons.wikimedia.org/wiki/File:HH_Polizeihauptmeister_MZ.jpg
+aviatorhat|Aviator Hat|Naval History &amp; Heritage Command from Washington, DC, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Aviators%27_Flight_Helmet_(26163894732).jpg
+bandana|Bandana|User Felixed on en.wikipedia|Public domain|https://commons.wikimedia.org/wiki/File:Red_and_blue_bandannas.jpg
+bonnet|Bonnet|Doris Ulmann|Public domain|https://commons.wikimedia.org/wiki/File:Old_woman_in_sunbonnet_by_Doris_Ulmann.jpg
+balaclava|Balaclava|Tobias "ToMar" Maier|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Balaclava_3_hole_black_rolled_up.jpg
+nightcap|Nightcap|Unknown authorUnknown author|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Nightcap,_woman%27s_(AM_1992.283-2).jpg
+jesterhat|Jester Hat|Alex Rozhkov|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Olina_Ventsel_(Jester-doll).jpg
+souwester|Sou'wester|Georges Jansoone|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Amandine18.jpg
+headscarf|Headscarf|Orrling|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Hijabs.jpg
+tiara|Tiara|Ed Uthman from Houston, TX, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Emerald_%26_Diamond_Tiara_(4739771202).jpg
+booniehat|Boonie Hat|Petey21|Public domain|https://commons.wikimedia.org/wiki/File:MARPAT_boonie_hat_with_insignia.jpg
+ascotcap|Ascot Cap|No machine-readable author provided. Schaefer~commonswiki assumed (based on copyright claims).|Public domain|https://commons.wikimedia.org/wiki/File:DarkGreenAscotCapOnHead.jpg
+slouchhat|Slouch Hat|Clément Bucco-Lechat|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Australian_Swagman.jpg
+kufi|Kufi|Bernard Gagnon|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Taqiyah.jpg
+kippah|Kippah|TheHumanKite|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Jewish_Kippah_(Yarmulke).jpg
+durag|Durag|The original uploader was Calliopejen at English Wikipedia.|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Slim_Thug_wearing_a_do-rag.jpg
+bicorne|Bicorne|Maull &amp; Fox photographers, London. Upload, stitch and restoration by Jebulon|Public domain|https://commons.wikimedia.org/wiki/File:John_Moresby_Maull%26Fox_BNF_Gallica.jpg
+capotain|Capotain|Ernst Moritz|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Herenhoed,_ca._1600-1625.jpg
+homburg|Homburg|Unknown authorUnknown author|Public domain|https://commons.wikimedia.org/wiki/File:Churchill_V_sign_HU_55521.jpg
+cordobeshat|Cordobés Hat|No machine-readable author provided. Mikechapel~commonswiki assumed (based on copyright claims).|Public domain|https://commons.wikimedia.org/wiki/File:Conjunto_sombreros.jpg
+tyroleanhat|Tyrolean Hat|Clément Bucco-Lechat|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Chapeau_tyrolien.jpg
+akubra|Akubra|Gaye Launder from Brisbane, Australia|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Day_18_The_Aussie_Bushie%27s_Hat_(16121948507).jpg
+chullo|Chullo|El archivo fue elegido de manera aleatoria sin uso necesario de su licencia para poder ser publicado, entra en las normas como dominio público.|Public domain|https://commons.wikimedia.org/wiki/File:Chullo_exportaciones.jpg
+songkok|Songkok|CEphoto, Uwe Aranas|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Malay-Boy-with-Songkok-01.jpg
+keffiyeh|Keffiyeh|Florian Prischl|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Keffiyeh.jpg
+doppa|Doppa|Jasper Lee|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Uyghur_doppa_from_%C3%9Cr%C3%BCmqi.jpg
+nemes|Nemes|Unknown|CC0|https://commons.wikimedia.org/wiki/File:Amenhotep_III_with_nemes_headdress_MET_53965.jpg
+warbonnet|War Bonnet|Thayne Tuason, user name:Biscuitroot|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dog_soldier_headdress_dancer.jpg
+coif|Coif|Hans Holbein the Younger|Public domain|https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_Young_Woman_with_a_White_Coif_1541_LACMA_M44_2_9_2.jpg
+wimple|Wimple|Robert Campin|Public domain|https://commons.wikimedia.org/wiki/File:RCampin.jpg
+hennin|Hennin|Immanuel Giel|Public domain|https://commons.wikimedia.org/wiki/File:Ritter_Rost_Burgfraulein_Boe.jpg
+phrygiancap|Phrygian Cap|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:Bust_Attis_CdM.jpg
+mitre|Mitre|Benjamin Gavaudo|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mitre_du_cardinal_Gousset.jpg
+zucchetto|Zucchetto|Dieter Philippi|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Soli_Deo_Papst.jpg
+biretta|Biretta|MK777|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Biret.JPG
+kalpak|Kalpak|Petar Milošević|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Kyrgyz_man_with_ak-kalpak_hat_(%D0%B0%D0%BA-%D0%BA%D0%B0%D0%BB%D0%BF%D0%B0%D0%BA_%D1%88%D0%B0%D0%BF%D0%BAa).jpg
+karakul|Karakul|David Hume Kennedy|Public domain|https://commons.wikimedia.org/wiki/File:Leonid_Brezhnev_1974.jpg
+taqiyah|Taqiyah|Bernard Gagnon|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Taqiyah.jpg
+rastacap|Rasta Cap|Klaus-J. Kahle|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Rasta_Man_Barbados.jpg
+montera|Montera|[Barbot Yves]|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Enrique_ponce.jpg
+gat|Gat|user:Daderot|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Korea-gat-01.jpg
+ushanka|Ushanka|Theeditorofw|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Ushanka_hat_look_from_the_front_with_earflaps_behind.jpg
+tricorne|Tricorne|Unknown|CC0|https://commons.wikimedia.org/wiki/File:Tricorne_MET_DP-642-001.jpg
+deerstalker|Deerstalker|James Lock &amp; Co. Ltd|CC0|https://commons.wikimedia.org/wiki/File:Hat_MET_2006.271.41_S.jpg
+pillboxhat|Pillbox Hat|Cecil W. Stoughton|Public domain|https://commons.wikimedia.org/wiki/File:Kennedys_arrive_at_Dallas_11-22-63_(Cropped).jpg
+fascinator|Fascinator|JurgisV|CC BY 3.0|https://commons.wikimedia.org/wiki/File:ViolinaFascinatorHatWithPin.jpg
+balmoral|Balmoral Bonnet|SMcCandlish|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Balmoral_bonnet_black.jpg
+nonla|Nón Lá|Hisu Lee|CC0|https://commons.wikimedia.org/wiki/File:Jeune_vietnamienne_%C3%A0_C%E1%BA%A7n_Th%C6%A1.jpg
+tamoshanter|Tam o' Shanter|Dr Haggis|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Tam-o-shanters.jpg
+kepi|Kepi|Rama|CC BY-SA 2.0 fr|https://commons.wikimedia.org/wiki/File:Kepi_mg_3387.jpg
+shako|Shako|Daderot|CC0|https://commons.wikimedia.org/wiki/File:Shako_hat,_c._1835_-_Old_Colony_History_Museum_-_Taunton,_Massachusetts_-_DSC03929.jpg
+gele|Gele|Jamie Tubers|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:A_Nigerian_Yoruba_lady_in_a_Buba_and_Gele_headtie.jpg
+glengarry|Glengarry|Unknown|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Glengarry_cap_(AM_1982.241-4).jpg
+papakha|Papakha|Unknown authorUnknown author|CC BY-SA 3.0 de|https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1978-041-03,_Russland,_Kosak_in_der_Wehrmacht.jpg
+kokoshnik|Kokoshnik|Unknown|CC0|https://commons.wikimedia.org/wiki/File:Headdress_MET_31.463_CP4.jpg
+capirote|Capirote|Barcex|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Madrid_%E2%80%93_Semana_Santa_2026_%E2%80%93_Procesi%C3%B3n_El_Pobre_-_260402_185507.jpg
+bycocket|Bycocket|Agnolo Gaddi|Public domain|https://commons.wikimedia.org/wiki/File:St_Helena_detail_Agnolo_Gaddi.jpg
+chaperon|Chaperon|Wolfmann|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Vikingdrakter_rekonstruerte_kl%C3%A6r_mannsdrakt_hettekappe_skulderkappe_brosje_(reconstructed_Viking_Age_male_clothing_gugel_chaperon_brooch)_Slottsfjellsmuseet_T%C3%B8nsberg_Norway_2021-11-10_5263.jpg
+eboshi|Eboshi|G.Garitan|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Hikitate_eboshi_72491.jpg
+tubeteika|Tubeteika|ksblack99|Public domain|https://commons.wikimedia.org/wiki/File:Tajikistan_Wedding_Cap_(a_kind_of_tubeteika)_-_MIM_PHX_(2014-02-09_13.52.52_by_ksblack99).jpg
+fila|Fila|Wiseremi|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Yoruba_Fila_style.jpg
+chupalla|Chupalla|Rosa Elena Méndez Meza|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Man_wearing_a_chupalla).jpg
+barretina|Barretina|Wamito|Public domain|https://commons.wikimedia.org/wiki/File:El_Flabiolaire_Olot_2008.jpg
+kabuto|Kabuto|https://www.flickr.com/photos/lifeontheedge/|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Samurai_helmet_side.jpg
+mobcap|Mob Cap|Benjamin Greenleaf|Public domain|https://commons.wikimedia.org/wiki/File:Greenleaf_mob_cap.jpg
+salakot|Salakot|FBenjr123|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Salakot_Philippines_04.jpg

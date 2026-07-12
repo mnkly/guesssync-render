@@ -1,0 +1,102 @@
+# «Guess the Dish» — World Foods v2 — image attributions (Wikimedia Commons, free licenses)
+# format: slug|title|author|license|url
+friedrice|File:Arroz chaufa simple.JPG|Dtarazona|Public domain|https://commons.wikimedia.org/wiki/File:Arroz_chaufa_simple.JPG
+chowmein|File:Liat Portal for Foodie Disorder - Homemade Chinese style orange chicken with chow mein and broccoli.jpg|HaJunkiyada|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Homemade_Chinese_style_orange_chicken_with_chow_mein_and_broccoli.jpg
+chickencurry|File:Asian Chicken Curry (4652719000).jpg|Katrin Gilger|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Asian_Chicken_Curry_(4652719000).jpg
+kebab|File:Kebab Gerashi.jpg|Amin Noubahar|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Kebab_Gerashi.jpg
+shawarma|File:Shawarma-sandwich-01.jpg|Vera Yu and David Li|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Shawarma-sandwich-01.jpg
+macandcheese|File:Flickr qmnonic 123431456--Kraft Dinner and veggie dogs.jpg|Matt MacGillivray from Toronto, Ontario, Canada|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Flickr_qmnonic_123431456--Kraft_Dinner_and_veggie_dogs.jpg
+meatballs|File:Liat Portal for Foodie Disorder - Spaghetti and meatballs.jpg|HaJunkiyada|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Spaghetti_and_meatballs.jpg
+chickenwings|File:Buffalo Burgers Buffalo Chicken Wings (36082467922).jpg|Willis Lam|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Buffalo_Burgers_Buffalo_Chicken_Wings_(36082467922).jpg
+caesarsalad|File:Caesar salad (2).jpg|Geoff Peters from Vancouver, BC, Canada|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Caesar_salad_(2).jpg
+greeksalad|File:Flickr - cyclonebill - Græsk salat.jpg|cyclonebill|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Gr%C3%A6sk_salat.jpg
+mashedpotatoes|File:2019-11-28 14 29 27 A bowl of mashed potatoes laid out for Thanksgiving Dinner in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg|Famartin|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2019-11-28_14_29_27_A_bowl_of_mashed_potatoes_laid_out_for_Thanksgiving_Dinner_in_the_Parkway_Village_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg
+roastchicken|File:Roasted Whole Chicken.jpg|Fatimahope|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Roasted_Whole_Chicken.jpg
+omelette|File:Omelette on a plate.jpg|Infrogmation of New Orleans|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Omelette_on_a_plate.jpg
+clubsandwich|File:DFC 4533 Triple-decker club juicy turkey melty cheddar crisp lettuce tomato served with fries and coleslaw.jpg|PattayaPatrol|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:DFC_4533_Triple-decker_club_juicy_turkey_melty_cheddar_crisp_lettuce_tomato_served_with_fries_and_coleslaw.jpg
+bbqribs|File:Pork-ribs 02.jpg|Pannet|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Pork-ribs_02.jpg
+chickennuggets|File:Chicken nuggets on a plate.jpg|Jiafei Slay Queen|CC0|https://commons.wikimedia.org/wiki/File:Chicken_nuggets_on_a_plate.jpg
+coleslaw|File:Coleslaw with rocket (arugula) and lemon dressing.jpg|Horacio Cambeiro|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Coleslaw_with_rocket_(arugula)_and_lemon_dressing.jpg
+quiche|File:Coronation Quiche, May 2023 03.jpg|No Swan So Fine|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Coronation_Quiche,_May_2023_03.jpg
+friedcalamari|File:Fried Calamari Rings.jpg|Maksym Kozlenko|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Fried_Calamari_Rings.jpg
+baconandeggs|File:Eggs and bacon.jpg|Jon Sullivan|Public domain|https://commons.wikimedia.org/wiki/File:Eggs_and_bacon.jpg
+meatloaf|File:Meatloaf (1).jpg|Renee Comet (Photographer)|Public domain|https://commons.wikimedia.org/wiki/File:Meatloaf_(1).jpg
+porkchop|File:Pork chops served with rice.jpg|Dora Tran|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pork_chops_served_with_rice.jpg
+chili|File:Chili con carne with pasta.jpg|JIP|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Chili_con_carne_with_pasta.jpg
+misosoup|File:Miso Soup.jpg|ish-ka|Public domain|https://commons.wikimedia.org/wiki/File:Miso_Soup.jpg
+kimchi|File:Triple White Kimchi 05.jpg|korea.net|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Triple_White_Kimchi_05.jpg
+wontonsoup|File:Wonton Noodle Soup in Fresno, California (雲吞湯麵在加利福尼亞州的弗雷斯諾).jpg|NeoBatfreak|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Wonton_Noodle_Soup_in_Fresno,_California_(%E9%9B%B2%E5%90%9E%E6%B9%AF%E9%BA%B5%E5%9C%A8%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9E%E5%B7%9E%E7%9A%84%E5%BC%97%E9%9B%B7%E6%96%AF%E8%AB%BE).jpg
+schnitzel|File:Wiener schnitzel (509235837).jpg|Simon Law from Montréal, QC, Canada|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Wiener_schnitzel_(509235837).jpg
+goulash|File:Gulasch wp.JPG|Jgu|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Gulasch_wp.JPG
+carbonara|File:Spaghetti alla Carbonara 2.jpg|Amin|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Spaghetti_alla_Carbonara_2.jpg
+kungpao|File:Kung Pao chicken (western version) -1.jpg|Alexander Marks (aomarks)|Public domain|https://commons.wikimedia.org/wiki/File:Kung_Pao_chicken_(western_version)_-1.jpg
+sweetandsour|File:Guobaorou at Zhenbutong, Changchun (20220826174428).jpg|N509FZ|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Guobaorou_at_Zhenbutong,_Changchun_(20220826174428).jpg
+pekingduck|File:Peking duck slices.jpg|Fumikas Sagisavas|CC0|https://commons.wikimedia.org/wiki/File:Peking_duck_slices.jpg
+dimsum|File:Three dim sum in steamer basket.jpg|Mshuang2|CC0|https://commons.wikimedia.org/wiki/File:Three_dim_sum_in_steamer_basket.jpg
+tempura|File:Tempura of various foods.jpg|ノボホショコロトソ|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Tempura_of_various_foods.jpg
+teriyaki|File:Chicken Deriyakidon.jpg|Shene81|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Chicken_Deriyakidon.jpg
+bulgogi|File:Korean.cuisine-Bulgogi-01.jpg|by ayustety|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Korean.cuisine-Bulgogi-01.jpg
+butterchicken|File:Butter Chicken, City Grill Kottayam.jpg|Vis M|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Butter_Chicken,_City_Grill_Kottayam.jpg
+biryani|File:A home made plate of mutton biryani served with chicken kassa cooked in the bengali style.jpg|Subhrajyoti07|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:A_home_made_plate_of_mutton_biryani_served_with_chicken_kassa_cooked_in_the_bengali_style.jpg
+enchilada|File:Enchiladas de guerrero.jpg|German matus|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Enchiladas_de_guerrero.jpg
+fajitas|File:Chicken fajitas - La Hacienda - Sarah Stierch.jpg|Missvain|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Chicken_fajitas_-_La_Hacienda_-_Sarah_Stierch.jpg
+tamale|File:Tamales Mexicanos sweet corn tamales 01.jpg|Usernet123u|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Tamales_Mexicanos_sweet_corn_tamales_01.jpg
+gumbo|File:Seafood gumbo and sausage at Davids Kitchen 168, Acme Oyster House, New Orleans.jpg|David Reber from Kansas City, USA|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Seafood_gumbo_and_sausage_at_Davids_Kitchen_168,_Acme_Oyster_House,_New_Orleans.jpg
+jambalaya|File:Vegetarisk jambalaya.jpg|Andreas Ivarsson|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Vegetarisk_jambalaya.jpg
+clamchowder|File:Quail 07 bg 041506.jpg|Jon SullivanThe original uploader was Y6y6y6 at English Wikipedia.|Public domain|https://commons.wikimedia.org/wiki/File:Quail_07_bg_041506.jpg
+philly|File:Cheesesteak (19386149993).jpg|jeffreyw|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Cheesesteak_(19386149993).jpg
+souvlaki|File:DFC 4715 Sizzling skewers of grilled pork served with crispy fries and a cool tzatziki dip - comfort food done right.jpg|PattayaPatrol|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:DFC_4715_Sizzling_skewers_of_grilled_pork_served_with_crispy_fries_and_a_cool_tzatziki_dip_-_comfort_food_done_right.jpg
+spanakopita|File:Spanakopita.jpg|Alpha|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Spanakopita.jpg
+calzone|File:Wikimania 2016 Deryck day 0 - 07 calzone.jpg|Deryck Chan|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Wikimania_2016_Deryck_day_0_-_07_calzone.jpg
+minestrone|File:Liat Portal for Foodie Disorder - Homemade minestrone soup.jpg|HaJunkiyada|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Homemade_minestrone_soup.jpg
+gazpacho|File:Salmorejo cordouan.JPG|P.Lechien|CC0|https://commons.wikimedia.org/wiki/File:Salmorejo_cordouan.JPG
+currywurst|File:Currywurst with fries at Schindlers Tankstelle, Ritanlu (20220909155157).jpg|N509FZ|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Currywurst_with_fries_at_Schindlers_Tankstelle,_Ritanlu_(20220909155157).jpg
+yakitori|File:Cooking yakitori.jpg|竹麦魚(Searobin)|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cooking_yakitori.jpg
+japchae|File:Japchae 2.jpg|Jordi Sanchez|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Japchae_2.jpg
+laksa|File:Curry Laksa - Laksa King (2597729514).jpg|Alpha from Melbourne, Australia|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Curry_Laksa_-_Laksa_King_(2597729514).jpg
+nasigoreng|File:Gili Meno Island, Nasi goreng, Fried rice with juice, Indonesia.jpg|Vyacheslav Argenberg|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Gili_Meno_Island,_Nasi_goreng,_Fried_rice_with_juice,_Indonesia.jpg
+satay|File:Chicken satay on banana leaf in Java.jpg|Gunawan Kartapranata|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Chicken_satay_on_banana_leaf_in_Java.jpg
+tomyum|File:Tom Yum Goong Noodle Soup - Nok Nok Kitchen at The Cow 2024-03-28.jpg|Andy Li|CC0|https://commons.wikimedia.org/wiki/File:Tom_Yum_Goong_Noodle_Soup_-_Nok_Nok_Kitchen_at_The_Cow_2024-03-28.jpg
+greencurry|File:Thai Green Curry with Rice.jpg|Kenamparo|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Thai_Green_Curry_with_Rice.jpg
+massaman|File:Beef Massaman curry with brown rice.jpg|Vee Satayamas|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Beef_Massaman_curry_with_brown_rice.jpg
+vindaloo|File:Vindaloo on buttered naan, with fried chicken- mushroom sausage and red onion - Massachusetts.jpg|Daderot|CC0|https://commons.wikimedia.org/wiki/File:Vindaloo_on_buttered_naan,_with_fried_chicken-_mushroom_sausage_and_red_onion_-_Massachusetts.jpg
+roganjosh|File:Biryani Rice with Goat Masala and Lamb Rogan Josh - Zam Zam (415375255).jpg|Alpha from Melbourne, Australia|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Biryani_Rice_with_Goat_Masala_and_Lamb_Rogan_Josh_-_Zam_Zam_(415375255).jpg
+dosa|File:A plate of South Indian Masala Dosa.jpg|Billjones94|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:A_plate_of_South_Indian_Masala_Dosa.jpg
+congee|File:Chinese rice congee.jpg|Daiju Azuma|CC BY-SA 2.5|https://commons.wikimedia.org/wiki/File:Chinese_rice_congee.jpg
+pelmeni|File:Pelmeni Russian.jpg|Eugene Kim @ Flickr|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Pelmeni_Russian.jpg
+bratwurst|File:Sauerkraut and mustard on grilled bratwurst - Massachusetts.jpg|Daderot|CC0|https://commons.wikimedia.org/wiki/File:Sauerkraut_and_mustard_on_grilled_bratwurst_-_Massachusetts.jpg
+cassoulet|File:Bowl of cassoulet.JPG|BrokenSphere|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Bowl_of_cassoulet.JPG
+coqauvin|File:Coq au Vin 6of7 (8735164745).jpg|Breville USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Coq_au_Vin_6of7_(8735164745).jpg
+bouillabaisse|File:Bullabessa.jpg|Slastic|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Bullabessa.jpg
+croquemonsieur|File:Nue Croque Monsieur.jpg|Visitor7|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Nue_Croque_Monsieur.jpg
+escargot|File:Escargot à la Bourguignonne - eatingeast.jpg|eatingeast|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Escargot_%C3%A0_la_Bourguignonne_-_eatingeast.jpg
+chilaquiles|File:01 Chilaquiles verdes con frijoles chinos.jpg|ismael villafranco|CC BY 2.0|https://commons.wikimedia.org/wiki/File:01_Chilaquiles_verdes_con_frijoles_chinos.jpg
+pozole|File:Pozole rojo y cerveza.jpg|Alejandra Mendoza Santillan|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pozole_rojo_y_cerveza.jpg
+feijoada|File:Feijoada à brasileira -02.jpg|Bradleyzm|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Feijoada_%C3%A0_brasileira_-02.jpg
+galbi|File:Tteok-galbi 1.jpg|anokarina|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Tteok-galbi_1.jpg
+padseeew|File:Chicken pad see ew at Rice and Noodles Thai Restaurant, Franconia.jpg|Ser Amantio di Nicolao|CC0|https://commons.wikimedia.org/wiki/File:Chicken_pad_see_ew_at_Rice_and_Noodles_Thai_Restaurant,_Franconia.jpg
+khaosoi|File:Khao Soi 02.jpg|Douglas Perkins|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Khao_Soi_02.jpg
+banhxeo|File:Bánh xèo 1.jpg|Kent Wang from Austin, TX|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:B%C3%A1nh_x%C3%A8o_1.jpg
+bunbohue|File:House Special (Beef) - The Big Bowl.jpg|Andy Li|CC0|https://commons.wikimedia.org/wiki/File:House_Special_(Beef)_-_The_Big_Bowl.jpg
+rawon|File:Rawon Setan.jpg|christian r from Jakarta|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Rawon_Setan.jpg
+sotoayam|File:Soto ayam lamongan.jpg|Shinta amalia|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Soto_ayam_lamongan.jpg
+nasilemak|File:Nasi lemak joh.jpg|مانفی|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Nasi_lemak_joh.jpg
+charkwayteow|File:Char Kway Teow (1).jpg|Ardzun|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg
+hainanchicken|File:Hainanese chicken rice (in Macau).jpg|Pauloleong2002|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice_(in_Macau).jpg
+mansaf|File:Mansaf, the traditional dish of Jordan.jpg|Jktab|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mansaf,_the_traditional_dish_of_Jordan.jpg
+maqluba|File:Moshe Basson serves maklubah.jpg|Christina Garofalo|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Moshe_Basson_serves_maklubah.jpg
+kabsa|File:Kabsa.jpg|Basel15 at en.wikipedia|Public domain|https://commons.wikimedia.org/wiki/File:Kabsa.jpg
+mandi|File:Mandi Lamb Shank, Lepak @ Sultan, 62 Bussorah St, Singapore (01).jpg|Moheen Reeyad|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mandi_Lamb_Shank,_Lepak_@_Sultan,_62_Bussorah_St,_Singapore_(01).jpg
+fesenjan|File:Khoresht-e fesenjan.jpg|stringparts|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Khoresht-e_fesenjan.jpg
+ghormehsabzi|File:Ghormeh Sabzi.JPG|Amin Majidi|CC0|https://commons.wikimedia.org/wiki/File:Ghormeh_Sabzi.JPG
+kibbeh|File:Fried lamb kibbeh 1.JPG|Dr. Bernd Gross|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Fried_lamb_kibbeh_1.JPG
+mujadara|File:Mujaddara.jpg|Bazel|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Mujaddara.jpg
+bobotie|File:Bobotie, South African dish.jpg|Olga Ernst|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bobotie,_South_African_dish.jpg
+bigos|File:Bigos in Kraków (Rynek Główny).jpg|Alberto Racatumba from Spain / España|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Bigos_in_Krak%C3%B3w_(Rynek_G%C5%82%C3%B3wny).jpg
+golabki|File:02022 Hungarian stuffed cabbage rolls in pickled cabbage leaves with veal and deer meat.jpg|Silar|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:02022_Hungarian_stuffed_cabbage_rolls_in_pickled_cabbage_leaves_with_veal_and_deer_meat.jpg
+janssons|File:Janssons frestelse.jpg|No machine-readable author provided. Andejons assumed (based on copyright claims).|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Janssons_frestelse.jpg
+frikadeller|File:Flickr - cyclonebill - Frikadeller med ristet rugbrød og cornichons.jpg|cyclonebill|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Frikadeller_med_ristet_rugbr%C3%B8d_og_cornichons.jpg
+maultaschen|File:Maultaschen Kuckuck Fellbach Wein.jpg|Benreis|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Maultaschen_Kuckuck_Fellbach_Wein.jpg
+sauerbraten|File:2021-10-01 Sauerbraten beim Brückenbaron, Am Mühläcker, 97255 Sonderhofen.jpg|Triplec85|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2021-10-01_Sauerbraten_beim_Br%C3%BCckenbaron,_Am_M%C3%BChl%C3%A4cker,_97255_Sonderhofen.jpg
+stamppot|File:Krotenzootje 2025.jpg|JopkeB|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Krotenzootje_2025.jpg
+cullenskink|File:My Cullen Skink Soup.jpg|Iain Cameron|CC BY 2.0|https://commons.wikimedia.org/wiki/File:My_Cullen_Skink_Soup.jpg

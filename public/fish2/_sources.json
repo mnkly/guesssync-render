@@ -1,0 +1,686 @@
+{
+  "flounder": {
+    "file": "File:Platichthys_flesus_1.jpg",
+    "author": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APlatichthys_flesus_1.jpg",
+    "width": 3400
+  },
+  "molly": {
+    "file": "File:Poecilia_latipinna,_I-75_N,_Fort_Lauderdale,_FL,_US_imported_from_iNaturalist_photo_360070481_(cropped).jpg",
+    "author": "(c) Nick Tobler (Cowturtle), some rights reserved (CC BY)",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APoecilia_latipinna%2C_I-75_N%2C_Fort_Lauderdale%2C_FL%2C_US_imported_from_iNaturalist_photo_360070481_(cropped).jpg",
+    "width": 1566
+  },
+  "gourami": {
+    "file": "File:Trichogster_trichopterus_13.jpg",
+    "author": "Gourami Watcher",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ATrichogster_trichopterus_13.jpg",
+    "width": 1875
+  },
+  "anchovy": {
+    "file": "File:Ansjovis.jpg",
+    "author": "Jschop",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AAnsjovis.jpg",
+    "width": 1024
+  },
+  "bluegill": {
+    "file": "File:Bluegill_(cropped).jpg",
+    "author": "Paleo1954",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABluegill_(cropped).jpg",
+    "width": 694
+  },
+  "walleye": {
+    "file": "File:Walleye_(Sander_vitreus)_(1).jpg",
+    "author": "USFWS Mountain Prairie",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AWalleye_(Sander_vitreus)_(1).jpg",
+    "width": 5389
+  },
+  "yellow-tang": {
+    "file": "File:Zebrasoma_flavescens_Luc_Viatour.jpg",
+    "author": "Luc Viatour",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AZebrasoma_flavescens_Luc_Viatour.jpg",
+    "width": 3509
+  },
+  "rainbow-trout": {
+    "file": "File:Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
+    "author": "Engbretson Eric, U.S. Fish and Wildlife Service",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AClose_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
+    "width": 2100
+  },
+  "sea-bass": {
+    "file": "File:Sealife,_Bray,_Ireland._(6985874908).jpg",
+    "author": "Miguel Mendez from Malahide, Ireland",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASealife%2C_Bray%2C_Ireland._(6985874908).jpg",
+    "width": 4912
+  },
+  "mullet": {
+    "file": "File:Mújol_(Mugil_cephalus),_Parque_natural_de_la_Arrábida,_Portugal,_2021-09-09,_DD_25.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AM%C3%BAjol_(Mugil_cephalus)%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2021-09-09%2C_DD_25.jpg",
+    "width": 4614
+  },
+  "haddock": {
+    "file": "File:Haddock,_Boston_Aquarium.JPG",
+    "author": "Steven G. Johnson",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHaddock%2C_Boston_Aquarium.JPG",
+    "width": 3008
+  },
+  "tarpon": {
+    "file": "File:Megalops_atlanticus.jpg",
+    "author": "This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AMegalops_atlanticus.jpg",
+    "width": 1200
+  },
+  "bluefish": {
+    "file": "File:Pomatomus saltatrix 287704526.jpg",
+    "author": "Conway Hawn",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APomatomus_saltatrix_287704526.jpg"
+  },
+  "crappie": {
+    "file": "File:Black_crappie.jpg",
+    "author": "United States Fish and Wildlife Services",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABlack_crappie.jpg",
+    "width": 4426
+  },
+  "sole": {
+    "file": "File:Solea_solea_1.jpg",
+    "author": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASolea_solea_1.jpg",
+    "width": 3106
+  },
+  "smallmouth-bass": {
+    "file": "File:Smallmouth_Bass_(49561724026).jpg",
+    "author": "USFWS Mountain Prairie",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASmallmouth_Bass_(49561724026).jpg",
+    "width": 5000
+  },
+  "striped-bass": {
+    "file": "File:Striped bass, Boston Aquarium.JPG",
+    "author": "Steven G. Johnson",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AStriped_bass%2C_Boston_Aquarium.JPG"
+  },
+  "sea-bream": {
+    "file": "File:Sparus_aurata,_Alpes-Maritimes,_Provence-Alpes-Côte_d'Azur,_FR_imported_from_iNaturalist_photo_207799710.jpg",
+    "author": "(c) Julien Renoult, some rights reserved (CC BY)",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASparus_aurata%2C_Alpes-Maritimes%2C_Provence-Alpes-C%C3%B4te_d'Azur%2C_FR_imported_from_iNaturalist_photo_207799710.jpg",
+    "width": 2048
+  },
+  "tiger-shark": {
+    "file": "File:Tiger_shark.jpg",
+    "author": "Albert kok",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ATiger_shark.jpg",
+    "width": 2303
+  },
+  "bull-shark": {
+    "file": "File:Requin bouledogue (Carcharhinus leucas) (Ifremer 00813-92510 - 53590).jpg",
+    "author": "Jerome Paillet (IFREMER, Laboratoire d'Océanographie Physique et Spatiale, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané)",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ARequin_bouledogue_(Carcharhinus_leucas)_(Ifremer_00813-92510_-_53590).jpg",
+    "width": 4000
+  },
+  "nurse-shark": {
+    "file": "File:Nurse_shark.jpg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ANurse_shark.jpg",
+    "width": 1796
+  },
+  "mako-shark": {
+    "file": "File:Shortfin_mako_(Isurus_oxyrinchus).jpg",
+    "author": "Fábio Olmos",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AShortfin_mako_(Isurus_oxyrinchus).jpg",
+    "width": 1318
+  },
+  "eagle-ray": {
+    "file": "File:Eagle_Ray_Turks_and_Caicos_Dec_15_2006.JPG",
+    "author": "the manta ray had a family",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AEagle_Ray_Turks_and_Caicos_Dec_15_2006.JPG",
+    "width": 2505
+  },
+  "swordtail": {
+    "file": "File:DSC_0690_-_Edited.jpg",
+    "author": "Corydoras-adolfoi",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ADSC_0690_-_Edited.jpg",
+    "width": 1965
+  },
+  "platy": {
+    "file": "File:Rainbow_wag_platy.jpg",
+    "author": "Marrabbio2",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ARainbow_wag_platy.jpg",
+    "width": 1804
+  },
+  "emperor-angelfish": {
+    "file": "File:Emperor_Angelfish,_Western_form_-_Pomacanthus_imperator_1.jpg",
+    "author": "Francois Libert",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AEmperor_Angelfish%2C_Western_form_-_Pomacanthus_imperator_1.jpg",
+    "width": 1000
+  },
+  "queen-angelfish": {
+    "file": "File:Queen_Angelfish.jpg",
+    "author": "Pedro Lastra",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AQueen_Angelfish.jpg",
+    "width": 1358
+  },
+  "royal-gramma": {
+    "file": "File:Gramma_loreto,_Adult_(Royal_Gramma).jpg",
+    "author": "Smithsonian Institution from United States",
+    "license": "No restrictions",
+    "url": "https://commons.wikimedia.org/wiki/File%3AGramma_loreto%2C_Adult_(Royal_Gramma).jpg",
+    "width": 2605
+  },
+  "copperband-butterflyfish": {
+    "file": "File:Chelmon_rostratus_Luc_Viatour.jpg",
+    "author": "Luc Viatour",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AChelmon_rostratus_Luc_Viatour.jpg",
+    "width": 4304
+  },
+  "foxface-rabbitfish": {
+    "file": "File:Siganus_vulpinus_2.jpg",
+    "author": "Dr. Dwayne Meadows, NOAA/NMFS/OPR",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASiganus_vulpinus_2.jpg",
+    "width": 1792
+  },
+  "powder-blue-tang": {
+    "file": "File:Pez_cirujano_azul_cielo_(Acanthurus_leucosternon),_Zanzíbar,_Tanzania,_2024-05-30,_DD_80.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APez_cirujano_azul_cielo_(Acanthurus_leucosternon)%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-30%2C_DD_80.jpg",
+    "width": 3657
+  },
+  "tiger-barb": {
+    "file": "File:Tiger_barb_fish.jpg",
+    "author": "Editor General of Wiki",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ATiger_barb_fish.jpg",
+    "width": 4128
+  },
+  "cardinal-tetra": {
+    "file": "File:Cardinal_Paracheirodon_axelrodi_(3).jpg",
+    "author": "CHUCAO",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACardinal_Paracheirodon_axelrodi_(3).jpg",
+    "width": 3054
+  },
+  "german-blue-ram": {
+    "file": "File:Mikrogeophagus_ramirezi_male.jpg",
+    "author": "Sven Kullander",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AMikrogeophagus_ramirezi_male.jpg",
+    "width": 4528
+  },
+  "clown-loach": {
+    "file": "File:Chromobotia_macracanthus.jpg",
+    "author": "Vlad Butsky from San Jose, CA, USA",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AChromobotia_macracanthus.jpg",
+    "width": 3072
+  },
+  "plecostomus": {
+    "file": "File:Hypostomus_plecostomus_-_Raphaël_Covain.png",
+    "author": "Raphaël Covain, Natural History Museum of Geneva",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHypostomus_plecostomus_-_Rapha%C3%ABl_Covain.png",
+    "width": 739
+  },
+  "corydoras": {
+    "file": "File:Corydoras_aeneus_2.jpg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACorydoras_aeneus_2.jpg",
+    "width": 1721
+  },
+  "dwarf-gourami": {
+    "file": "File:Colisa_lalia-Male_and_Female.jpg",
+    "author": "Felix Gertz",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AColisa_lalia-Male_and_Female.jpg",
+    "width": 1280
+  },
+  "harlequin-rasbora": {
+    "file": "File:Harlequin_rasboras_03.jpg",
+    "author": "Roel Balingit",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHarlequin_rasboras_03.jpg",
+    "width": 3468
+  },
+  "jack-dempsey": {
+    "file": "File:Rocio octofasciata 245838487.jpg",
+    "author": "Yucatan Dive Center",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ARocio_octofasciata_245838487.jpg"
+  },
+  "convict-cichlid": {
+    "file": "File:Archocentrus_nigrofasciatus_female.jpg",
+    "author": "S. Olkowicz - User Hippocampus on pl.wikipedia",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3AArchocentrus_nigrofasciatus_female.jpg",
+    "width": 1800
+  },
+  "silver-dollar": {
+    "file": "File:Silver_dollar_-_Metynnis_argenteus.jpg",
+    "author": "Greg Hume",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASilver_dollar_-_Metynnis_argenteus.jpg",
+    "width": 2500
+  },
+  "peacock-bass": {
+    "file": "File:Cichla_ocellaris_Dvur_zoo_1.jpg",
+    "author": "Karelj",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACichla_ocellaris_Dvur_zoo_1.jpg",
+    "width": 2400
+  },
+  "rainbow-shark": {
+    "file": "File:Fransenlipper.JPG",
+    "author": "MerlinSenger at German Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AFransenlipper.JPG",
+    "width": 3008
+  },
+  "paradise-fish": {
+    "file": "File:Macropodus_opercularis_-_side_(aka)_edit.jpg",
+    "author": "André Karwath aka Aka, edited by Muhammad",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3AMacropodus_opercularis_-_side_(aka)_edit.jpg",
+    "width": 2220
+  },
+  "lingcod": {
+    "file": "File:Lingcod (Ophiodon elongatus).jpg",
+    "author": "Newtonsneurosci",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ALingcod_(Ophiodon_elongatus).jpg"
+  },
+  "lemon-shark": {
+    "file": "File:Lemonshark.JPG",
+    "author": "Albert Kok (talk)",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ALemonshark.JPG",
+    "width": 2554
+  },
+  "blacktip-reef-shark": {
+    "file": "File:Blacktip_reef_shark_(Carcharhinus_melanopterus)_Moorea.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABlacktip_reef_shark_(Carcharhinus_melanopterus)_Moorea.jpg",
+    "width": 4775
+  },
+  "guitarfish": {
+    "file": "File:Shovelnose_guitarfish.JPG",
+    "author": "Unknown",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AShovelnose_guitarfish.JPG",
+    "width": 1432
+  },
+  "red-drum": {
+    "file": "File:Red Drum (Sciaenops ocellatus).jpg",
+    "author": "Geeklikepi",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ARed_Drum_(Sciaenops_ocellatus).jpg"
+  },
+  "regal-angelfish": {
+    "file": "File:Pez_ángel_real_(Pygoplites_diacanthus),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-26,_DD_155.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APez_%C3%A1ngel_real_(Pygoplites_diacanthus)%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-26%2C_DD_155.jpg",
+    "width": 3614
+  },
+  "flame-angelfish": {
+    "file": "File:Flame_angelfish_(Centropyge_loricula).jpg",
+    "author": "Andreas März from Darmstadt, Germany",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AFlame_angelfish_(Centropyge_loricula).jpg",
+    "width": 3699
+  },
+  "coral-beauty": {
+    "file": "File:Centropyge_bispinosa_1.jpg",
+    "author": "Jenny (JennyHuang) from Taipei",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACentropyge_bispinosa_1.jpg",
+    "width": 1780
+  },
+  "lyretail-anthias": {
+    "file": "File:Anthias_cola_de_lira_(Pseudanthias_squamipinnis),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-28,_DD_98.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AAnthias_cola_de_lira_(Pseudanthias_squamipinnis)%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_98.jpg",
+    "width": 1123
+  },
+  "flame-hawkfish": {
+    "file": "File:Flame_Hawkfish_Neocirrhites_armatus.jpg",
+    "author": "Brian Gratwicke",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AFlame_Hawkfish_Neocirrhites_armatus.jpg",
+    "width": 5184
+  },
+  "harlequin-tuskfish": {
+    "file": "File:Choerodon_fasciatus.jpg",
+    "author": "Leonard Low from Australia",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AChoerodon_fasciatus.jpg",
+    "width": 2128
+  },
+  "sixline-wrasse": {
+    "file": "File:Lábrido de seis rayas (Pseudocheilinus hexataenia), Zanzíbar, Tanzania, 2024-05-29, DD 63.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AL%C3%A1brido_de_seis_rayas_(Pseudocheilinus_hexataenia)%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_63.jpg",
+    "width": 4093
+  },
+  "firefish": {
+    "file": "File:Fire_dartfish_(Nemateleotris_magnifica)_(43372442502).jpg",
+    "author": "Rickard Zerpe",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AFire_dartfish_(Nemateleotris_magnifica)_(43372442502).jpg",
+    "width": 3124
+  },
+  "yellow-boxfish": {
+    "file": "File:Ostracion cubicus juvénile EOL.jpg",
+    "author": "zsispeo",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AOstracion_cubicus_juv%C3%A9nile_EOL.jpg"
+  },
+  "picasso-triggerfish": {
+    "file": "File:Picasso.triggerfish.arp.jpg",
+    "author": "Arpingstone",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3APicasso.triggerfish.arp.jpg",
+    "width": 1800
+  },
+  "niger-triggerfish": {
+    "file": "File:Red-toothed Triggerfish (Odonus niger) (6055783771).jpg",
+    "author": "Bernard DUPONT from FRANCE",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ARed-toothed_Triggerfish_(Odonus_niger)_(6055783771).jpg",
+    "width": 4416
+  },
+  "longfin-bannerfish": {
+    "file": "File:Heniochus acuminatus, jeune individu.jpg",
+    "author": "Philippe Bourjon",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHeniochus_acuminatus%2C_jeune_individu.jpg",
+    "width": 1200
+  },
+  "raccoon-butterflyfish": {
+    "file": "File:Chaetodon_lunula_is_feeding_on_sea_urchin.jpg",
+    "author": "Brocken Inaglory",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AChaetodon_lunula_is_feeding_on_sea_urchin.jpg",
+    "width": 1503
+  },
+  "bumphead-parrotfish": {
+    "file": "File:Bolbometopon_muricatum_290186802.jpg",
+    "author": "Dirk Froebel",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABolbometopon_muricatum_290186802.jpg",
+    "width": 2048
+  },
+  "unicornfish": {
+    "file": "File:Bluespine_Unicornfish,_Emily_Bay,_Kingston_2899,_Norfolk_Island_imported_from_iNaturalist_photo_173453689_(cropped).jpg",
+    "author": "(c) Susan Prior, some rights reserved (CC BY)",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABluespine_Unicornfish%2C_Emily_Bay%2C_Kingston_2899%2C_Norfolk_Island_imported_from_iNaturalist_photo_173453689_(cropped).jpg",
+    "width": 1235
+  },
+  "harlequin-sweetlips": {
+    "file": "File:Plectorhinchus_chaetodonoides.JPG",
+    "author": "Jens Petersen",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3APlectorhinchus_chaetodonoides.JPG",
+    "width": 3264
+  },
+  "pajama-cardinalfish": {
+    "file": "File:Pajama_cardinal_fish_Sphaeramia_nematoptera.jpg",
+    "author": "Brian Gratwicke",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APajama_cardinal_fish_Sphaeramia_nematoptera.jpg",
+    "width": 3087
+  },
+  "green-chromis": {
+    "file": "File:Blue-green_Chromis,_Kiribati_imported_from_iNaturalist_photo_345755248.jpg",
+    "author": "(c) Debra Baker, some rights reserved (CC BY)",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABlue-green_Chromis%2C_Kiribati_imported_from_iNaturalist_photo_345755248.jpg",
+    "width": 1938
+  },
+  "blue-devil-damsel": {
+    "file": "File:Chrysiptera_cyanea_Gratwicke.jpg",
+    "author": "Brian Gratwicke",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AChrysiptera_cyanea_Gratwicke.jpg",
+    "width": 4189
+  },
+  "elephantnose-fish": {
+    "file": "File:Gnathonemus_petersii.jpg",
+    "author": "billycorgan84",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AGnathonemus_petersii.jpg",
+    "width": 766
+  },
+  "black-ghost-knifefish": {
+    "file": "File:Black_Ghost_Knifefish_400.jpg",
+    "author": "Photo by and (c)2005 Derek Ramsey (Ram-Man)",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3ABlack_Ghost_Knifefish_400.jpg",
+    "width": 400
+  },
+  "congo-tetra": {
+    "file": "File:Phenacogrammus_interruptus_(aka).jpg",
+    "author": "André Karwath aka Aka",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3APhenacogrammus_interruptus_(aka).jpg",
+    "width": 1000
+  },
+  "flowerhorn": {
+    "file": "File:Gallery_19_68_148247.jpg",
+    "author": "Inkpassion",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AGallery_19_68_148247.jpg",
+    "width": 640
+  },
+  "epaulette-shark": {
+    "file": "File:Hemiscyllium_ocellatum_060417w1.jpg",
+    "author": "User:Strobilomyces",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHemiscyllium_ocellatum_060417w1.jpg",
+    "width": 1152
+  },
+  "ribbontail-ray": {
+    "file": "File:Raya_de_arrecife_(Taeniura_lymma),_mar_Rojo,_Egipto,_2023-04-14,_DD_64.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ARaya_de_arrecife_(Taeniura_lymma)%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_64.jpg",
+    "width": 7465
+  },
+  "football-fish": {
+    "file": "File:Himantolophus sagamius (Football Fish).jpg",
+    "author": "mark6mauno",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHimantolophus_sagamius_(Football_Fish).jpg"
+  },
+  "lancetfish": {
+    "file": "File:Alepisaurus_ferox_on_deck.jpg",
+    "author": "Allen Shimada, NOAA NMFS OST",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AAlepisaurus_ferox_on_deck.jpg",
+    "width": 2046
+  },
+  "lizardfish": {
+    "file": "File:Synodus_intermedius.jpg",
+    "author": "LASZLO ILYES (laszlo-photo) from Cleveland, Ohio, USA",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASynodus_intermedius.jpg",
+    "width": 1200
+  },
+  "monkfish": {
+    "file": "File:Lophius piscatorius - Seeteufel.jpg",
+    "author": "5snake5",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ALophius_piscatorius_-_Seeteufel.jpg"
+  },
+  "midshipman": {
+    "file": "File:Plainfin_Midshipman.JPG",
+    "author": "U.S. Geological Survey Department of the Interior/USGS U.S. Geological Survey/photo by Jane Doe",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3APlainfin_Midshipman.JPG",
+    "width": 1656
+  },
+  "cusk-eel": {
+    "file": "File:Spectrunculus_grandis.jpg",
+    "author": "NOAA/MBARI",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASpectrunculus_grandis.jpg",
+    "width": 1200
+  },
+  "ribbonfish": {
+    "file": "File:Dealfish.jpg",
+    "author": "Personnel of NOAA Ship DELAWARE II",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ADealfish.jpg",
+    "width": 1750
+  },
+  "slickhead": {
+    "file": "File:Alepocephalus_tenebrosus.jpg",
+    "author": "NOAA/MBARI",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AAlepocephalus_tenebrosus.jpg",
+    "width": 920
+  },
+  "daggertooth": {
+    "file": "File:Daggertooth.PNG",
+    "author": "Peter Marriott",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ADaggertooth.PNG",
+    "width": 944
+  },
+  "elephant-shark": {
+    "file": "File:Elephant_shark_melb_aquarium.jpg",
+    "author": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Tamron 28-75mm f/2.8",
+    "license": "GFDL 1.2",
+    "url": "https://commons.wikimedia.org/wiki/File%3AElephant_shark_melb_aquarium.jpg",
+    "width": 1600
+  },
+  "cookiecutter-shark": {
+    "file": "File:Isistius_brasiliensis.jpg",
+    "author": "NOAA Observer Project",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AIsistius_brasiliensis.jpg",
+    "width": 733
+  },
+  "megamouth-shark": {
+    "file": "File:Megamouth_shark_Megachasma_pelagios.jpg",
+    "author": "opencage",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File%3AMegamouth_shark_Megachasma_pelagios.jpg",
+    "width": 800
+  },
+  "sawshark": {
+    "file": "File:Pristiophorus japonicus ioworld.jpg",
+    "author": "タウナギ",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APristiophorus_japonicus_ioworld.jpg"
+  },
+  "angel-shark": {
+    "file": "File:Squatina_australis.jpg",
+    "author": "Nick Long",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ASquatina_australis.jpg",
+    "width": 2046
+  },
+  "electric-ray": {
+    "file": "File:Torpedo_marmorata2.jpg",
+    "author": "Philippe Guillaume",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ATorpedo_marmorata2.jpg",
+    "width": 913
+  },
+  "sea-toad": {
+    "file": "File:Chaunax_suttkusi.jpg",
+    "author": "SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/SEFSC",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AChaunax_suttkusi.jpg",
+    "width": 2896
+  },
+  "wolf-eel": {
+    "file": "File:February_2,_2012_Wolf_Eel_(really_a_fish!)_in_Puget_Sound_(6842178290).jpg",
+    "author": "USEPA Environmental-Protection-Agency",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AFebruary_2%2C_2012_Wolf_Eel_(really_a_fish!)_in_Puget_Sound_(6842178290).jpg",
+    "width": 1024
+  },
+  "greeneye": {
+    "file": "File:Shortnose greeneye Chlorophthalmus agassizi.jpg",
+    "author": "Edie Widder",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AShortnose_greeneye_Chlorophthalmus_agassizi.jpg",
+    "width": 2000
+  },
+  "oyster-toadfish": {
+    "file": "File:Opsanus tau 156065863.jpg",
+    "author": "Dan Schofield",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AOpsanus_tau_156065863.jpg"
+  },
+  "lumpsucker": {
+    "file": "File:Cyclopterus lumpus BM.jpg",
+    "author": "Cephas",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3ACyclopterus_lumpus_BM.jpg"
+  },
+  "sea-robin": {
+    "file": "File:Prionotus carolinus iNaturalist.jpg",
+    "author": "Jonathan Layman",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3APrionotus_carolinus_iNaturalist.jpg"
+  },
+  "john-dory": {
+    "file": "File:Zeus.faber.jpg",
+    "author": "de:Benutzer:Kleines.Opossum",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AZeus.faber.jpg"
+  },
+  "cornetfish": {
+    "file": "File:Fistularia tabacaria.jpg",
+    "author": "François-Louis Laporte, comte de Castelnau",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3AFistularia_tabacaria.jpg"
+  },
+  "opah": {
+    "file": "File:Lampris guttatus NOAA2.jpg",
+    "author": "Ralph Pace (NOAA Fisheries)",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File%3ALampris_guttatus_NOAA2.jpg"
+  },
+  "grunt-sculpin": {
+    "file": "File:Grunt sculpin or grunt-fish, Rhamphocottus richardsonii.jpg",
+    "author": "Brian Gratwicke",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File%3AGrunt_sculpin_or_grunt-fish%2C_Rhamphocottus_richardsonii.jpg"
+  }
+}

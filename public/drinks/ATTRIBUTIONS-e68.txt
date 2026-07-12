@@ -1,0 +1,102 @@
+# GuessSync E68 «Guess the Coffee or Tea Drink» — image attributions (Wikimedia Commons)
+# format: slug|name|author|license|source_url
+espresso|Espresso|Takeaway|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Crema_espresso_Akha_Ama.jpg
+cappuccino|Cappuccino|Frettie|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Cappuccino_with_latte_art_on_Coffee_Right_in_Brno,_Brno-City_District.jpg
+latte|Latte|B adger1|CC0|https://commons.wikimedia.org/wiki/File:Caffe_Latte_at_Pulse_Cafe.jpg
+americano|Americano|Firzafp|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:A_cup_of_Americano_in_Lano_Coffee_(Palembang,_SS).jpg
+macchiato|Macchiato|Takeaway|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Espresso_macchiato_Chiang_Mai.JPG
+mocha|Mocha|Andy Welsher|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:White_chocolate_mocha_coffee.jpg
+flatwhite|Flat White|GeorgeMichaelFarewell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Flat_white_coffee_with_pretty_feather_pattern.jpg
+cortado|Cortado|Stefanik|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cortado_gwyn.jpg
+icedcoffee|Iced Coffee|Tony Webster|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Iced_Coffee_in_Glass_-_Sunshine_Coffee_-_Laramie_Cafe_(53838344552).jpg
+frappe|Frappé|Ivan Radic|CC BY 2.0|https://commons.wikimedia.org/wiki/File:A_young_man_holding_a_glass_of_iced_coffee_at_home_at_sundown._Happy_hour_non-alcoholic_beverage.jpg
+turkishcoffee|Turkish Coffee|Tema|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Turkish_coffee_in_Istanbul.jpg
+coldbrew|Cold Brew|Sage Ross|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Preparation_of_cold_brew_coffee_06.jpg
+greentea|Green Tea|The original uploader was Deathtiny42 at French Wikipedia.|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Three_mugs_of_brewed_Fukuju_green_tea.jpg
+blacktea|Black Tea|Sm faysal|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:A_cup_of_black_tea_from_Srimangal_Bangladesh.jpg
+matcha|Matcha|rumpleteaser from Nagoya, Japan|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Matcha_(5026245674).jpg
+chai|Masala Chai|Gaurav Dhwaj Khadka|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Milk_Masala_Tea.jpg
+bubbletea|Bubble Tea|Richy~zhwiki at Chinese Wikipedia|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Pearl_Milktea.jpg
+icedtea|Iced Tea|Pokemonprime|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Iced_Tea_with_Lemon,_First_Watch,_Melbourne,_Florida.jpg
+earlgrey|Earl Grey|soultea.de/André Helbig|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Frisch_aufgebr%C3%BChter_EarlGrey_Tee.jpg
+oolong|Oolong Tea|Crisco 1492|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Oolong_tea_being_poured,_Holiday_Restaurant,_Semarang,_2014-06-19.jpg
+herbaltea|Herbal Tea|Corn cheese|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Herbal_tea_in_white_mug.jpg
+pepperminttea|Peppermint Tea|Check Out Cwdaly Com|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Mint_tea_in_a_glass_(35948546).jpg
+chamomiletea|Chamomile Tea|Greg|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Glass_of_chamomile_tea.jpg
+jasminetea|Jasmine Tea|Wathriotu|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Dilmah_Green_Tea_Jasmine_Petals_MJF_Group_tea_cup_water.JPG
+irishcoffee|Irish Coffee|Anke Klitzing|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Preparing_Irish_Coffee.jpg
+cafeaulait|Café au Lait|Rickard Olsson|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cafe_Au_Lait_(64863195).jpeg
+redeye|Red Eye|epSos.de|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Black_Coffee_and_Tea_in_White_Cup_is_Hot.png
+breve|Caffè Breve|shixugang|CC0|https://commons.wikimedia.org/wiki/File:Coffee_with_milk_(563800).jpg
+dalgona|Dalgona Coffee|Wikieditkid|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Homemade_Dalgona_Coffee.jpg
+viennese|Vienna Coffee|Dr. Bernd Gross|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Wiener_Melange_2.JPG
+cafecubano|Cuban Coffee|User:Colinkb7|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cuban_coffee-_2013-04-05_14-30.jpg
+galao|Galão|Ondřej Žváček|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Gal%C3%A3o.jpg
+pumpkinspicelatte|Pumpkin Spice Latte|Mr White|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Starbucks_Pumpkin_Spice_Latte_Frappuccino.jpg
+thaiicedtea|Thai Iced Tea|Takeaway|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cha_yen.JPG
+moroccanmint|Moroccan Mint Tea|sky#walker|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Tunisian_Tea_with_pine_nuts.jpg
+sencha|Sencha|Difference engine|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2018_Uji_lightly_steamed_sencha_-_first_infusion.jpg
+darjeeling|Darjeeling|Vyacheslav Argenberg|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Darjeeling,_India,_Darjeeling_tea_in_variety,_Black_tea.jpg
+assam|Assam Tea|Baby Devi 26|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:A_cup_of_tea,_Bokakhat,_Assam.jpg
+ceylon|Ceylon Tea|AntanO|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cup_of_black_tea.JPG
+hibiscustea|Hibiscus Tea|Nsfcom|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Roselle_drink.JPG
+hkmilktea|Hong Kong Milk Tea|K.C. Tang|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Hong_Kong_milk_tea.jpg
+gingertea|Ginger Tea|congerdesign|CC0|https://commons.wikimedia.org/wiki/File:Ginger_tea.jpg
+whitetea|White Tea|Wandile Nene|CC0|https://commons.wikimedia.org/wiki/File:Drinking_tea_on_a_white_cup_at_JCL.jpg
+lemontea|Lemon Tea|Gaurav Dhwaj Khadka|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Hot_Lemon_Tea.jpg
+tehtarik|Teh Tarik|Miss Izzah|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Tea_Tarik.jpg
+yerbamate|Yerba Mate|Siarhei Besarab|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Traditional_mate_set_calabash_gourd_with_La_Merced_yerba_mate.jpg
+lungo|Caffè Lungo|Francesc Fort|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Carajillo_en_Duralex_Cigogne.jpg
+nitrocoldbrew|Nitro Cold Brew|Bri|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Nitro_cold_brew_taps.jpg
+londonfog|London Fog|Andy Li|CC0|https://commons.wikimedia.org/wiki/File:London_fog_latte_-_Jolliffes_Coffee_Shop_2024-01-07.jpg
+kombucha|Kombucha|No machine-readable author provided. Phillipbeynon assumed (based on copyright claims).|Public domain|https://commons.wikimedia.org/wiki/File:300ml_glass_of_kombucha_with_ice.png
+vietnamesecoffee|Vietnamese Iced Coffee|Frank Fox|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Vietnamese_Coffee_in_Da_Lat.jpg
+eggcoffee|Egg Coffee|David McKelvey from Brisbane, Australia|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Egg_Coffee_(6923068614).jpg
+mazagran|Mazagran|Herbeater|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Caf%C3%A9_mazagran.jpg
+marocchino|Marocchino|Dhinal Chheda|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Marocchino_(26440403402).jpg
+bicerin|Bicerin|Takeaway|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2016_1128_Turin_Bicerin_02.jpg
+cafedeolla|Café de Olla|Mover el Bigote|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_olla_-_Restaurante_Don_Chon,_Mexico.jpg
+cafetouba|Café Touba|EquipeTKN|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Touba._Pouring.jpg
+espressotonic|Espresso Tonic|Tail furry|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Espresso_and_tonic,_COFFEE_CITEN,_Akiha,_Niigata,_Niigata,_Japan,_May_2023.jpg
+doppio|Doppio|Osman Bas|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Doppio.jpg
+corretto|Caffè Corretto|Takumi Yoshida|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Caff%C3%A8_corretto_(cropped).jpg
+puerh|Pu-erh Tea|Copypaiste|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:%22Da_Yi_Gong_Tuo%22_Pu-erh_shou_cha,_2010.jpg
+hojicha|Hojicha|No machine-readable author provided. Green assumed (based on copyright claims).|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Image-Hoji-cha-2.JPG
+arnoldpalmer|Arnold Palmer|irina slutsky from san francisco, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:My_new_obsession_the_arnold_palmer!!!_(5184944881).jpg
+chrysanthemumtea|Chrysanthemum Tea|Taman Renyah|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Chrysanthemum_tea.JPG
+barleytea|Barley Tea|국립국어원|CC BY-SA 2.0 kr|https://commons.wikimedia.org/wiki/File:Boricha_(barley_tea).jpg
+tulsitea|Tulsi Tea|Miansari66|Public domain|https://commons.wikimedia.org/wiki/File:Tulsi_Tea.JPG
+sweettea|Sweet Tea|Allthebees|CC0|https://commons.wikimedia.org/wiki/File:Glass_of_Sweet_Tea_Glistening_in_the_Light_of_God.jpg
+gyokuro|Gyokuro|Washing Machine|CC0|https://commons.wikimedia.org/wiki/File:Gyokuro-with-kyusu.jpg
+kashmirichai|Kashmiri Pink Tea|Jamee937|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:The_Great_Kashmiri_Salt_tea.png
+bloomingtea|Blooming Tea|Shizuha|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Flowering_tea_on_glass_gaiwan.jpg
+butterflypeatea|Butterfly Pea Tea|Tanya May|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Blue_tea.jpg
+gunpowdertea|Gunpowder Tea|Veganlover1993|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Gunpowder_Green_Tea.jpg
+karak|Karak Chai|Gaurav Dhwaj Khadka|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Karak_Tea.jpg
+lemongrasstea|Lemongrass Tea|AyyanD|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lemongrass_ginger_tea.jpg
+espressoconpanna|Espresso con Panna|Jose Espinal|CC0|https://commons.wikimedia.org/wiki/File:Caff%C3%A8_con_panna.jpg
+affogato|Affogato|Infrogmation of New Orleans|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:DivinaAfogadoAug08.jpg
+ristretto|Ristretto|Takeaway|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Doppio_ristretto_Chiang_Mai.jpg
+cascara|Cascara Tea|Raimond Spekking|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cascara,_Coffee_cherry_tea-6467.jpg
+yuenyeung|Yuenyeung|Ondřej Žváček|CC BY 2.5|https://commons.wikimedia.org/wiki/File:J%C3%BCan-jang,_Yau_Ma_Tei,_Hongkong.jpg
+buttertea|Butter Tea|Yosomono|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Tibetan_butter_tea.jpg
+genmaicha|Genmaicha|Matt Gibson Uploaded by Gothick at en.wikipedia|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Genmaicha_tea_brewed_and_unbrewed.jpg
+rooibos|Rooibos|StockyPics|CC0|https://commons.wikimedia.org/wiki/File:Cup_of_rooibos_tea_(23427608102).jpg
+lapsangsouchong|Lapsang Souchong|Difference engine|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Two_small_tasting_cups_of_Lapsang_Souchong.jpg
+saltcoffee|Salt Coffee|Phương Huy|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Ly_c%C3%A0_ph%C3%AA_mu%E1%BB%91i_%E1%BB%9F_T%C3%A2n_Ph%C3%BA_ng21th5n2023_(1).jpg
+cafebombon|Café Bombón|shixugang|CC0|https://commons.wikimedia.org/wiki/File:Coffee_with_milk_(563800).jpg
+cafezinho|Cafézinho|Moacir Ximenes|CC BY 3.0 br|https://commons.wikimedia.org/wiki/File:X%C3%ADcara_de_caf%C3%A9_no_Cear%C3%A1.jpeg
+kopi|Kopi|Digital Terrorist|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Kopi_O.jpg
+shakerato|Caffè Shakerato|Jdlrobson|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Shakerato_in_a_martini_glass.jpg
+mirra|Mırra|איתן טלEtan Tal|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Turkish_coffee_in_Abu_Ghosh.jpg
+tehtalua|Teh Talua|D.W. Fisher-Freberg|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Teh_talua_(cropped).JPG
+yujatea|Yuja Tea|Drew Lietzow|Public domain|https://commons.wikimedia.org/wiki/File:Korean_yuja_tea.jpg
+ipohwhitecoffee|Ipoh White Coffee|(WT-shared) Shoestring at wts.wikivoyage|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:White_coffee_001,_Ipoh,_Malaysia.JPG
+kukicha|Kukicha|Difference engine|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Small_tasting_cup_of_kukicha.jpg
+sobacha|Sobacha|Fumikas Sagisavas|CC0|https://commons.wikimedia.org/wiki/File:Buckwheat_tea_in_stainless_steel_cup.jpg
+coconutcoffee|Coconut Coffee|Okinawa Coffee Saigon|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:C%C3%A0_Ph%C3%AA_S%E1%BB%AFa_%C4%90%C3%A1_V%E1%BB%8B_Coconut.jpg
+yaupon|Yaupon Tea|Infrogmation of New Orleans|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Yaupon_Tea_from_teabag_in_mug_-_Mug_of_tea,_teabag_removed.jpg
+leicha|Lei Cha|Ren Kuo from Taipei, Taiwain|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Lei_cha.jpg
+kahwah|Kahwah|Antara Sarkar|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Kashmir%27s_Kahwah_Tea.jpg
+bandrek|Bandrek|Midori|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Bandrek_Bandung.JPG
+cortadito|Cortadito|Mangocity|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cortadito.jpg

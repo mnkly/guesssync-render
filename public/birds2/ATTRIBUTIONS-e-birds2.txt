@@ -1,0 +1,106 @@
+GuessSync BIRDS2 - "Guess the Bird v2" - Image Attributions
+100 real bird photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, or CC BY-SA. Files under CC BY / CC BY-SA
+require crediting the author + license; the lines below satisfy that requirement.
+Generated 2026-07-12. Format:  slug | name | author | license | source
+
+american-crow | American Crow | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Corvus-brachyrhynchos-001.jpg
+european-starling | Starling | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Common_starling_(Sturnus_vulgaris)_breeding_male_Marken.jpg
+emu | Emu | JJ Harrison (https://www.jjharrison.com.au/) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Emu_1_-_Tidbinbilla.jpg
+king-penguin | King Penguin | Godot13 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_(Fortuna_Bay)%E2%80%93King_penguin_(Aptenodytes_patagonicus)_04.jpg
+white-stork | White Stork | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:White_stork_(Ciconia_ciconia)_Bia%C5%82owieza.jpg
+great-white-pelican | White Pelican | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Great_white_pelican_(Pelecanus_onocrotalus).jpg
+herring-gull | Herring Gull | Rhododendrites | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:European_herring_gull_vocalizing_(00170).jpg
+common-cuckoo | Common Cuckoo | Andy Morffew from Itchen Abbas, Hampshire, UK | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Cuckoo_(51169010335).jpg
+common-blackbird | Blackbird | Andreas Trepte | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Common_Blackbird.jpg
+great-tit | Great Tit | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Great_tit_(Parus_major)_Heligan.jpg
+eurasian-collared-dove | Collared Dove | stevem4560 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:2022-04-06_Streptopelia_decaocto,_Plovdiv,_Bulgaria_1.jpg
+common-wood-pigeon | Wood Pigeon | Bengt Nyman from Vaxholm, Sweden | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Columba_palumbus_EM1B1397_(27445478998).jpg
+greylag-goose | Greylag Goose | Diliff | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Greylag_Goose_-_St_James%27s_Park,_London_-_Nov_2006.jpg
+eurasian-coot | Coot | Alexis Lours | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Eurasian_Coot_2023_11_25_03.jpg
+grey-heron | Grey Heron | Alexis Lours | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Grey_heron_2022_03_18_01.jpg
+common-chaffinch | Chaffinch | caroline legg | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Male_Chaffinch_-_Fringilla_coelebs.jpg
+house-finch | House Finch | Rhododendrites | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:House_finch_(33688)2.jpg
+mourning-dove | Mourning Dove | JeffreyGammon | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Av_Mourning_Dove_JG.jpg
+red-winged-blackbird | Red-winged Blackbird | Chuck Homler, Focus On Wildlife | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Red-Winged_Blackbird.png
+turkey-vulture | Turkey Vulture | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Turkey_vulture_(Cathartes_aura)_Orange_Walk.jpg
+osprey | Osprey | Chuck Homler / Focus On Wildlife | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Osprey_Perched_Snag_Heislerville.jpg
+peregrine-falcon | Peregrine Falcon | Mykola Swarnyk | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg
+golden-eagle | Golden Eagle | Giles Laurent | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg
+great-cormorant | Cormorant | MPF | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2021-05-05_Phalacrocorax_carbo_carbo,_Killingworth_Lake,_Northumberland_1-1.jpg
+black-swan | Black Swan | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Black_swan_(Cygnus_atratus)_Scottsdale.jpg
+gentoo-penguin | Gentoo Penguin | Godot13 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Brown_Bluff-2016-Tabarin_Peninsula%E2%80%93Gentoo_penguin_(Pygoscelis_papua)_03.jpg
+african-penguin | African Penguin | Matti Blume | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Wikimania_2018,_Cape_Town_(_1050602),_crop.jpg
+common-kestrel | Kestrel | Andreas Trepte | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg
+red-tailed-hawk | Red-tailed Hawk | Becky Matsubara from El Sobrante, California | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Red-tailed_Hawk_(45812546121).jpg
+great-spotted-woodpecker | Great Spotted Woodpecker | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Great_spotted_woodpecker_(Dendrocopos_major)_male_Drenthe.jpg
+eurasian-bullfinch | Bullfinch | Francis Franklin | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bullfinch_male.jpg
+eurasian-jay | Eurasian Jay | Luc Viatour | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg
+northern-mockingbird | Mockingbird | Rhododendrites | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Mockingbird_in_Bay_Ridge_(85082).jpg
+baltimore-oriole | Baltimore Oriole | TonyCastro | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Baltimore_Oriole-_dorsum.jpg
+cedar-waxwing | Cedar Waxwing | Judy Gallagher | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Cedar_Waxwing_-_Bombycilla_cedrorum,_George_Washington%27s_Birthplace_National_Monument,_Colonial_Beach,_Virginia_(39997434862).jpg
+eastern-bluebird | Eastern Bluebird | Sandysphotos2009 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Sialia_sialis_-Michigan,_USA_-pair-8c.jpg
+common-nightingale | Nightingale | Warrieboy | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Luscinia_megarhynchos_-_Common_nightingale_-_Nachtegaal_(cropped).jpg
+common-swift | Common Swift | Alexis Lours | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Common_Swift_2025_07_18_02_(cropped).jpg
+common-tern | Common Tern | MPF | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2014-05-18_Sterna_hirundo,_Killingworth_Lake,_Northumberland_04.jpg
+black-headed-gull | Black-headed Gull | Hans Hillewaert | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_(summer).jpg
+whooper-swan | Whooper Swan | Andreas Trepte | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Cygnus_cygnus_Singschwan.jpg
+tufted-puffin | Tufted Puffin | Alan D. Wilson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tufted_Puffin_Alaska_(cropped).jpg
+white-tailed-eagle | White-tailed Eagle | Bengt Nyman from Vaxholm, Sweden | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:NZ7_5265_(52812350718).jpg
+northern-pintail | Pintail | J.M.Garg | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Northern_Pintails_(Male_%26_Female)_I_IMG_0911.jpg
+northern-shoveler | Shoveler | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Northern_shoveler_(Spatula_clypeata)_male_Marken.jpg
+great-crested-grebe | Great Crested Grebe | JJ Harrison (https://www.jjharrison.com.au/) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Podiceps_cristatus_2_-_Lake_Dulverton.jpg
+eurasian-nuthatch | Nuthatch | Isiwal | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Kleiber_Sitta_europaea-0447.jpg
+goldcrest | Goldcrest | Francis C. Franklin | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Goldcrest_1.jpg
+eurasian-skylark | Skylark | User:Diliff | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Skylark_2,_Lake_District,_England_-_June_2009.jpg
+song-thrush | Song Thrush | Dion Art | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D0%B2%D1%87%D0%B8%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B5_(Turdus_philomelos),_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg
+smew | Smew | Andreas Trepte | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Zwergsaeger_maenchen_weibchen.jpg
+harlequin-duck | Harlequin Duck | Chuck Homler d/b/a Focus On Wildlife | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Drake_Harlequin_duck_(Histrionicus_histrionicus)_perched_on_a_rock_in_the_Barnegat_Inlet,_New_Jersey,_USA_(cropped).jpg
+king-eider | King Eider | Ron Knight from Seaford, East Sussex, United Kingdom | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:King_Eider_(Somateria_spectabilis)_(13667616745).jpg
+hooded-merganser | Hooded Merganser | Rhododendrites | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hooded_merganser_male_in_Central_Park_(95790).jpg
+bearded-reedling | Bearded Reedling | Ігор Червоненко | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg
+indian-roller | Indian Roller | Mahmadanesh | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Indian_roller_-_Timbi_Lake,_Vadodara_2023-12-03.jpg
+malachite-kingfisher | Malachite Kingfisher | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Malachite_kingfisher_(Corythornis_cristatus_cristatus).jpg
+pied-kingfisher | Pied Kingfisher | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pied_kingfisher_(Ceryle_rudis_leucomelanurus)_male.jpg
+superb-starling | Superb Starling | Sumeet Moghe | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Superb_Starling_Portrait.jpg
+gouldian-finch | Gouldian Finch | Martybugs (talk) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Male_adult_Gouldian_Finch.jpg
+java-sparrow | Java Sparrow | Francesco Veronesi from Italy | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Java_Sparrow_-_Baluran_NP_-_East_Java_MG_8180_(29726690101).jpg
+red-avadavat | Red Avadavat | Tisha Mukherjee | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_04.jpg
+bohemian-waxwing | Bohemian Waxwing | Tatiana Bulyonkova from Novosibirsk, Russia | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Bombycilla_garrulus,_Novosibirsk_1.jpg
+northern-lapwing | Northern Lapwing | Andreas Trepte | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg
+pied-avocet | Pied Avocet | Andreas Trepte | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Pied_Avocet_Recurvirostra_avosetta.jpg
+black-winged-stilt | Black-winged Stilt | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Black-winged_stilt_(Himantopus_himantopus)_Pearaing.jpg
+eurasian-oystercatcher | Oystercatcher | Andreas Trepte | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Haematopus_ostralegus_He.jpg
+razorbill | Razorbill | neekoh.fi | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Razorbill_with_a_nice_catch.jpg
+common-guillemot | Guillemot | Andreas Trepte | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Common_Murre_Uria_aalge.jpg
+northern-gannet | Northern Gannet | Andreas Trepte | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Morus_bassanus_adu.jpg
+brown-pelican | Brown Pelican | Frank Schulenburg | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Brown_pelican_in_flight_(Bodega_Bay).jpg
+purple-gallinule | Purple Gallinule | JeffreyGammon | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Gallinule_Purple_JG.jpg
+sarus-crane | Sarus Crane | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sarus_crane_(Grus_antigone).jpg
+demoiselle-crane | Demoiselle Crane | Sumeet Moghe | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Demoiselle_Cranes_at_Tal_Chappar.jpg
+golden-headed-quetzal | Golden-headed Quetzal | Flickr user chdwckvnstrsslhm . Photo uploaded to commons by user ltshears | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Golden-headed_Quetzal.jpg
+horned-guan | Horned Guan | Unknown | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Horned_Guan,_St_Louis_Zoo.jpg
+helmeted-hornbill | Helmeted Hornbill | Doug Janson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Helmeted_Hornbill.jpg
+wreathed-hornbill | Wreathed Hornbill | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Wreathed_hornbill_(Rhyticeros_undulatus)_male_Angkor.jpg
+philippine-eagle | Philippine Eagle | Aimee Valencia | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Pamarayeg_IIIx2_(cropped).jpg
+harpy-eagle | Harpy Eagle | http://www.birdphotos.com | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Harpia_harpyja_001_800.jpg
+bearded-vulture | Bearded Vulture | Giles Laurent | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:010e_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg
+king-vulture | King Vulture | Renato Augusto Martins | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Urubu_rei_-_Sarcoramphus_papa.jpg
+cinereous-vulture | Cinereous Vulture | Juan Lacruz | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Buitre_negro_(1).jpg
+maleo | Maleo | Ariefrahman | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Macrocephalon_maleo_-_Muara_Pusian_(2).JPG
+crested-partridge | Crested Partridge | tcager | CC0 | https://commons.wikimedia.org/wiki/File:Crested_Partridge_(Rollulus_rouloul),_Tambunan,_Sabah,_Borneo_2.jpg
+himalayan-monal | Himalayan Monal | Pratap Gurung | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Himalayan_Monal_at_Sagarmatha_National_Park,_Nepal.jpg
+temmincks-tragopan | Temminck's Tragopan | Doug Janson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Temminck_Tragopan.jpg
+great-argus | Great Argus | Francesco Veronesi from Italy | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Argusianus_argus,_Khao_Sok,_Thailand_1.jpg
+crowned-eagle | Crowned Eagle | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Crowned_Eagle_(Stephanoaetus_coronatus)_with_prey_..._(29591438981).jpg
+bateleur | Bateleur | Derek Keats from Johannesburg, South Africa | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Bataleur_-_Kruger_National_park_(37161617713).jpg
+splendid-fairywren | Splendid Fairywren | JJ Harrison | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Splendid_Fairywren_8352.jpg
+regent-bowerbird | Regent Bowerbird | Seabamirum from Ithaca | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Sericulus_chrysocephalus_-Lamington_NP,_Queensland,_Australia_-male-8-4c.jpg
+satin-bowerbird | Satin Bowerbird | JJ Harrison | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Satin_Bowerbird_at_Bower_6533.jpg
+paradise-tanager | Paradise Tanager | thibaudaronson | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tangara_chilensis_94893412.jpg
+green-honeycreeper | Green Honeycreeper | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Green_honeycreeper_(Chlorophanes_spiza_spiza)_male.jpg
+turquoise-browed-motmot | Turquoise-browed Motmot | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Turquoise-browed_motmot_(Eumomota_superciliosa_apiaster)_Copan_2.jpg
+violet-backed-starling | Violet-backed Starling | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Violet-backed_starling_(Cinnyricinclus_leucogaster_verreauxi)_male.jpg
+nicobar-pigeon | Nicobar Pigeon | ziggypop74 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Caloenas_nicobarica,_Ko_Miang,_Thailand_1.jpg
+long-tailed-broadbill | Long-tailed Broadbill | Dibyendu Ash | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Long-tailed_Broadbill_Pangolakha_Wildlife_Sanctuary_East_Sikkim_Sikkim_India_21.04.2016.jpg
+blue-footed-booby | Blue-footed Booby | Diego Delso | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Piquero_patiazul_(Sula_nebouxii),_isla_Lobos,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-25,_DD_35.JPG

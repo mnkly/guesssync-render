@@ -1,0 +1,102 @@
+# «Guess the Flower» v2 (E-FLOWERS2) — image attributions (Wikimedia Commons, free licenses only)
+# format: slug|title|author|license|url
+dahlia|File:Dahlia pinnata–IMG 6396 03.jpg|Kızıl|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dahlia_pinnata%E2%80%93IMG_6396_03.jpg
+poinsettia|File:Euphorbia pulcherrima flowers 2019.jpg|Gauravggs|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Euphorbia_pulcherrima_flowers_2019.jpg
+jasmine|File:Jasminum officinale.JPG|B.traeger|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Jasminum_officinale.JPG
+cornflower|File:CentaureaCyanus-bloem-kl.jpg|TeunSpaans|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:CentaureaCyanus-bloem-kl.jpg
+black-eyed-susan|File:"Rudbeckia hirta" Black-eyed Susan Gibberd Garden Essex England (cropped).JPG|Acabashi|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:%22Rudbeckia_hirta%22_Black-eyed_Susan_Gibberd_Garden_Essex_England_(cropped).JPG
+primrose|File:Primula vulgaris 'rubra' (Primevère rouge) - 15.jpg|Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Primula_vulgaris_%27rubra%27_(Primev%C3%A8re_rouge)_-_15.jpg
+snowdrop|File:Galanthus nivalis close-up aka.jpg|André Karwath aka Aka|CC BY-SA 2.5|https://commons.wikimedia.org/wiki/File:Galanthus_nivalis_close-up_aka.jpg
+cyclamen|File:CyclamenPersicumMill20.jpg|Fanghong|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:CyclamenPersicumMill20.jpg
+impatiens|File:Impatiens walleriana 01.JPG|Prenn|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Impatiens_walleriana_01.JPG
+babys-breath|File:Gypsophila paniculata.jpg|PiPi|Public domain|https://commons.wikimedia.org/wiki/File:Gypsophila_paniculata.jpg
+sweet-william|File:Dianthus barbatus 155538.jpg|Sabina Bajracharya|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dianthus_barbatus_155538.jpg
+periwinkle|File:Vinca-minor-flower-JR-T20-0656-0690-2020-03-28.jpg|Johannes Robalotoff|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Vinca-minor-flower-JR-T20-0656-0690-2020-03-28.jpg
+phlox|File:Phlox paniculata 'Fujiyama' (d.j.b.) 01.jpg|Dominicus Johannes Bergsma|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Phlox_paniculata_%27Fujiyama%27_(d.j.b.)_01.jpg
+chamomile|File:Chamomile@original size.jpg|Fir0002 20D|GFDL 1.2|https://commons.wikimedia.org/wiki/File:Chamomile@original_size.jpg
+honeysuckle|File:Lonicera periclymenum kz13.jpg|Krzysztof Ziarnek, Kenraiz|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lonicera_periclymenum_kz13.jpg
+thistle|File:Cirsium vulgare - Keila2.jpg|Ivar Leidus|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Cirsium_vulgare_-_Keila2.jpg
+clover|File:Trifolium pratense - Keila.jpg|Ivar Leidus|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Trifolium_pratense_-_Keila.jpg
+anthurium|File:Anthurium (Flamingoplant) 12-08-2019 (actm) 01.jpg|Agnes Monkelbaan|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Anthurium_(Flamingoplant)_12-08-2019_(actm)_01.jpg
+bellflower|File:Dalmatiner Polster-Glockenblume (Campanula portenschlagiana) Blüte Focus stack-20220528-RM-174230.jpg|Ermell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dalmatiner_Polster-Glockenblume_(Campanula_portenschlagiana)_Bl%C3%BCte_Focus_stack-20220528-RM-174230.jpg
+larkspur|File:Consolida ajacis bourdon.jpg|Pancrat|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Consolida_ajacis_bourdon.jpg
+salvia|File:Salvia splendens (138872031).jpg|Alexandre Ultré|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Salvia_splendens_(138872031).jpg
+moss-rose|File:Portulaca oleracea MHNT.jpg|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Portulaca_oleracea_MHNT.jpg
+sweet-alyssum|File:Lobularia maritima Porto Covo 2022-1.jpg|Alvesgaspar|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lobularia_maritima_Porto_Covo_2022-1.jpg
+lobelia|File:Lobelia erinus flower (01).jpg|Sylvain Kohli|CC BY-SA 2.0 fr|https://commons.wikimedia.org/wiki/File:Lobelia_erinus_flower_(01).jpg
+four-oclock|File:Mirabilis jalapa (Belle-de-nuit) - 470.jpg|Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mirabilis_jalapa_(Belle-de-nuit)_-_470.jpg
+oleander|File:Nerium oleander pink flower, Alex 005.jpg|لا روسا|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Nerium_oleander_pink_flower,_Alex_005.jpg
+dogwood|File:Flowering Dogwood Cornus florida Flower Low DoF.JPG|Photo by and (c)2016 Derek Ramsey (Ram-Man)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Flowering_Dogwood_Cornus_florida_Flower_Low_DoF.JPG
+mimosa|File:Acacia dealbata flowers.jpg|Pavithra mallan|CC0|https://commons.wikimedia.org/wiki/File:Acacia_dealbata_flowers.jpg
+bottlebrush|File:Callistemon citrinus 3588.jpg|Anna Anichkova|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Callistemon_citrinus_3588.jpg
+yarrow|File:Achillea millefolium20130714 21.jpg|Bff|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Achillea_millefolium20130714_21.jpg
+goldenrod|File:Solidago canadensis 20050815 248.jpg|Georg Slickers|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Solidago_canadensis_20050815_248.jpg
+hellebore|File:Bloem van een kerstroos (Helleborus niger) 16-12-2021. (d.j.b) 02.jpg|Dominicus Johannes Bergsma|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bloem_van_een_kerstroos_(Helleborus_niger)_16-12-2021._(d.j.b)_02.jpg
+trillium|File:Trillium grandiflorum at Backus Woods.jpg|СССР|CC BY-SA 2.5 ca|https://commons.wikimedia.org/wiki/File:Trillium_grandiflorum_at_Backus_Woods.jpg
+spirea|File:Red pink flowers.jpg|Allan Zieser|Public domain|https://commons.wikimedia.org/wiki/File:Red_pink_flowers.jpg
+viburnum|File:Viburnum opulus flower, Guelder-rose with sterile flowers.jpg|Rosser1954|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Viburnum_opulus_flower,_Guelder-rose_with_sterile_flowers.jpg
+mock-orange|File:(MHNT) Philadelphus coronarius flower with 'Lasius niger'.jpg|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(MHNT)_Philadelphus_coronarius_flower_with_%27Lasius_niger%27.jpg
+rock-rose|File:Cistus albidus FlowersCloseup DehesaBoyaldePuertollano.jpg|Javier martin|Public domain|https://commons.wikimedia.org/wiki/File:Cistus_albidus_FlowersCloseup_DehesaBoyaldePuertollano.jpg
+evening-primrose|File:Oenothera rubricaulis 2014 G1.jpg|George Chernilevsky|Public domain|https://commons.wikimedia.org/wiki/File:Oenothera_rubricaulis_2014_G1.jpg
+mallow|File:Close-up photographs of Malva sylvestris flowers.jpg|Krzysztof Golik|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Close-up_photographs_of_Malva_sylvestris_flowers.jpg
+red-campion|File:Silene dioica RF.jpg|Robert Flogaus-Faust|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Silene_dioica_RF.jpg
+tansy|File:Bloemen van Boerenwormkruid (Tanacetum vulgare). 17-08-2025. (actm.) 01.jpg|Agnes Monkelbaan|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bloemen_van_Boerenwormkruid_(Tanacetum_vulgare)._17-08-2025._(actm.)_01.jpg
+globe-thistle|File:Azurite - Echinops ritro - 6 - par Mickael Schauli.jpg|Mickaël Schauli|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Azurite_-_Echinops_ritro_-_6_-_par_Mickael_Schauli.jpg
+weigela|File:Weigela florida, red, flowers and stems.jpg|Thadguidry|CC0|https://commons.wikimedia.org/wiki/File:Weigela_florida,_red,_flowers_and_stems.jpg
+loosestrife|File:Lythrum salicaria flowers - Kulna.jpg|Ivar Leidus|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lythrum_salicaria_flowers_-_Kulna.jpg
+red-valerian|File:Centranthus Ruber Macro.jpg|yves Tennevin|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Centranthus_Ruber_Macro.jpg
+st-johns-wort|File:(MHNT) Hypericum perforatum flower and buttons.jpg|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(MHNT)_Hypericum_perforatum_flower_and_buttons.jpg
+knapweed|File:Centaurea nigra 2 RF.jpg|Robert Flogaus-Faust|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Centaurea_nigra_2_RF.jpg
+globeflower|File:Trollius europaeus Spechtensee 02.JPG|Uoaei1|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Trollius_europaeus_Spechtensee_02.JPG
+cinquefoil|File:Potentilla fruticosa J1.JPG|Jamain|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Potentilla_fruticosa_J1.JPG
+dames-rocket|File:Hesperis matronalis, Beechview, 2025-05-11-2.jpg|Cbaile19|CC0|https://commons.wikimedia.org/wiki/File:Hesperis_matronalis,_Beechview,_2025-05-11-2.jpg
+gazania|File:Gazania rigens-1.jpg|Alvesgaspar|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Gazania_rigens-1.jpg
+osteospermum|File:Osteospermum ecklonis1.JPG|Joaquim Alves Gaspar|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Osteospermum_ecklonis1.JPG
+swan-river-daisy|File:Brachyscome iberidifolia - Flickr - Kevin Thiele (1).jpg|Kevin Thiele from Perth, Australia|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Brachyscome_iberidifolia_-_Flickr_-_Kevin_Thiele_(1).jpg
+helenium|File:Bloemknop van een Helenium autumnale. 20-08-2023. (d.j.b).jpg|Dominicus Johannes Bergsma|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bloemknop_van_een_Helenium_autumnale._20-08-2023._(d.j.b).jpg
+tithonia|File:Mexican Sunflower Tithonia rotundifolia Flower 2163px.jpg|Photo by and (c)2008 Derek Ramsey (Ram-Man)|GFDL 1.2|https://commons.wikimedia.org/wiki/File:Mexican_Sunflower_Tithonia_rotundifolia_Flower_2163px.jpg
+monkshood|File:Aconitum napellus RHu 003.JPG|Meneerke bloem|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Aconitum_napellus_RHu_003.JPG
+masterwort|File:Astrantia major Mitterbach 01.JPG|Uoaei1|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Astrantia_major_Mitterbach_01.JPG
+thrift|File:(MHNT) Armeria maritima - inflorescence.jpg|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(MHNT)_Armeria_maritima_-_inflorescence.jpg
+catmint|File:(MHNT) Nepeta × faassenii - flowers.jpg|Didier Descouens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:(MHNT)_Nepeta_%C3%97_faassenii_-_flowers.jpg
+speedwell|File:Veronica spicata RF.jpg|Robert Flogaus-Faust|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Veronica_spicata_RF.jpg
+jacobs-ladder|File:Polemonium caeruleum20170605 8001.jpg|Bff|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Polemonium_caeruleum20170605_8001.jpg
+leopards-bane|File:Bloeiwijze van een Doronicum orientale. 28-05-2026. (d.j.b).jpg|Dominicus Johannes Bergsma.|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bloeiwijze_van_een_Doronicum_orientale._28-05-2026._(d.j.b).jpg
+pasque-flower|File:Pasque Flower (Pulsatilla vulgaris) (17022184800).jpg|Bernard DUPONT from FRANCE|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Pasque_Flower_(Pulsatilla_vulgaris)_(17022184800).jpg
+bugleweed|File:Ajuga reptans (flowers).jpg|Hans Hillewaert|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Ajuga_reptans_(flowers).jpg
+comfrey|File:Gewone smeerwortel (Symphytum officinale) 04.JPG|Dominicus Johannes Bergsma|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Gewone_smeerwortel_(Symphytum_officinale)_04.JPG
+soapwort|File:Saponaria officinalis RF.jpg|Robert Flogaus-Faust|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Saponaria_officinalis_RF.jpg
+rock-cress|File:Aubrieta deltoidea 002.JPG|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Aubrieta_deltoidea_002.JPG
+candytuft|File:Iberis sempervirens flower head.jpg|Captainpixel|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Iberis_sempervirens_flower_head.jpg
+blazing-star|File:Blacklick Woods - Liatris spicata 1.jpg|Sixflashphoto|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Blacklick_Woods_-_Liatris_spicata_1.jpg
+ice-plant|File:Delosperma cooperi (Délosperma rose) - 97.jpg|Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Delosperma_cooperi_(D%C3%A9losperma_rose)_-_97.jpg
+gaura|File:Gaura lindheimeri Whirling Butterflies.jpg|JJ Harrison (https://www.jjharrison.com.au/)|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Gaura_lindheimeri_Whirling_Butterflies.jpg
+penstemon|File:Penstemon barbatus - Wendy McCrady 03.jpg|Wendy McCrady https://www.inaturalist.org/people/wendybirds|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Penstemon_barbatus_-_Wendy_McCrady_03.jpg
+prairie-mallow|File:Sidalcea malviflora ssp malviflora 1.jpg|Stan Shebs|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Sidalcea_malviflora_ssp_malviflora_1.jpg
+meadowsweet|File:Filipendula ulmaria (flower spike).jpg|Hans Hillewaert|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Filipendula_ulmaria_(flower_spike).jpg
+toadflax|File:Linaria vulgaris flowers - Keila.jpg|Ivar Leidus|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Linaria_vulgaris_flowers_-_Keila.jpg
+chocolate-cosmos|File:Cosmos atrosanguineus flower at Geilston Garden.jpg|John R.|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Cosmos_atrosanguineus_flower_at_Geilston_Garden.jpg
+queen-of-the-night|File:Epiphyllum oxypetalum or wijaya kusuma flowers.jpg|Samudra Dirgantara|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Epiphyllum_oxypetalum_or_wijaya_kusuma_flowers.jpg
+hot-lips|File:Hot lips plant (Psychotria poeppigiana) (2533015568).jpg|Marshal Hedin from San Diego|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Hot_lips_plant_(Psychotria_poeppigiana)_(2533015568).jpg
+lobster-claw|File:Lobster claw flower.jpg|Kwameghana(Bright Kwame Ayisi)|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lobster_claw_flower.jpg
+shrimp-plant|File:Justicia brandegeeana bokeh.jpg|Rror|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Justicia_brandegeeana_bokeh.jpg
+lipstick-plant|File:Aeschynanthus radicans, the Lipstick Flower. (13913394972).jpg|Dick Culbert from Gibsons, B.C., Canada|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Aeschynanthus_radicans,_the_Lipstick_Flower._(13913394972).jpg
+chinese-lantern|File:Lampionblume (Physalis alkekengi)-20260208-RM-121159.jpg|Reinhold Möller Ermell|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lampionblume_(Physalis_alkekengi)-20260208-RM-121159.jpg
+flannel-flower|File:Actinotus helianthi flowerhead1 (8371091029).jpg|Harry Rose from South West Rocks, Australia|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Actinotus_helianthi_flowerhead1_(8371091029).jpg
+strawflower|File:Flor Siempreviva (Xerochrysum bracteatum) flower.jpg|Horacio Cambeiro|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Flor_Siempreviva_(Xerochrysum_bracteatum)_flower.jpg
+waratah|File:Telopea speciosissima suellen.JPG|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Telopea_speciosissima_suellen.JPG
+banksia|File:Banksia flower banksia serrata close up.jpg|Leon Brooks|Public domain|https://commons.wikimedia.org/wiki/File:Banksia_flower_banksia_serrata_close_up.jpg
+grevillea|File:Starr 980528-4057 Grevillea juniperina.jpg|Forest & Kim Starr|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Starr_980528-4057_Grevillea_juniperina.jpg
+golden-wattle|File:Acacia pycnantha (19864964428).jpg|Patrick_K59|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Acacia_pycnantha_(19864964428).jpg
+gymea-lily|File:悉尼火百合 Doryanthes excelsa -澳洲 Cranbourne Royal Botanic Gardens, Australia- (10901574636).jpg|阿橋 HQ|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:%E6%82%89%E5%B0%BC%E7%81%AB%E7%99%BE%E5%90%88_Doryanthes_excelsa_-%E6%BE%B3%E6%B4%B2_Cranbourne_Royal_Botanic_Gardens,_Australia-_(10901574636).jpg
+dutchmans-pipe|File:2023.12-532-242ap1 sideview of flower of Aristolochia grandiflora (ARIS) in the Singapore Botanic Gardens on sun17dec2023-1230h.jpg|Rik Schuiling] / TropCrop-TCS|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:2023.12-532-242ap1_sideview_of_flower_of_Aristolochia_grandiflora_(ARIS)_in_the_Singapore_Botanic_Gardens_on_sun17dec2023-1230h.jpg
+dove-orchid|File:Peristeria elata Orchi 11.jpg|Orchi|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Peristeria_elata_Orchi_11.jpg
+spider-orchid|File:Caladenia flava Gnangarra-35.jpg|User:Gnangarra|CC BY 2.5 au|https://commons.wikimedia.org/wiki/File:Caladenia_flava_Gnangarra-35.jpg
+slipper-orchid|File:Paphiopedilum insigne two flowers.jpg|Willow Coville|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Paphiopedilum_insigne_two_flowers.jpg
+dracula-orchid|File:15.Dracula simia, the Monkey Face Orchid (10957423336).jpg|Dick Culbert from Gibsons, B.C., Canada|CC BY 2.0|https://commons.wikimedia.org/wiki/File:15.Dracula_simia,_the_Monkey_Face_Orchid_(10957423336).jpg
+wax-flower|File:Hoya FR 2013.jpg|JLPC|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Hoya_FR_2013.jpg
+medinilla|File:Medinilla magnifica (70487).jpg|Rhododendrites|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Medinilla_magnifica_(70487).jpg
+glory-bush|File:Tibouchina urvilleana 4.jpg|Stan Shebs|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Tibouchina_urvilleana_4.jpg
+cape-primrose|File:Streptocarpus rexii kz1.jpg|Krzysztof Ziarnek, Kenraiz|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Streptocarpus_rexii_kz1.jpg
+blood-lily|File:Scadoxus multiflorus subsp. multiflorus 1DS-II 1-1187.jpg|SAplants|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Scadoxus_multiflorus_subsp._multiflorus_1DS-II_1-1187.jpg
+pineapple-lily|File:Eucomis comosa 005.JPG|H. Zell|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Eucomis_comosa_005.JPG

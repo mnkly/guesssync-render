@@ -1,0 +1,102 @@
+# «Guess the Fruit or Vegetable» v2 — image attributions (Wikimedia Commons, free licenses)
+# format: slug|title|author|license|url
+raspberry|File:Raspberry - whole (Rubus idaeus).jpg|Ivar Leidus|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Raspberry_-_whole_(Rubus_idaeus).jpg
+blueberry|File:Dish of blueberries.jpg|Petar Milošević|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dish_of_blueberries.jpg
+lime|File:Lime - whole and halved.jpg|Ivar Leidus|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Lime_-_whole_and_halved.jpg
+grapefruit|File:Citrus paradisi (Grapefruit, pink) white bg.jpg|Citrus_paradisi_(Grapefruit,_pink).jpg: א (Aleph) derivative work: — raeky|CC BY-SA 2.5|https://commons.wikimedia.org/wiki/File:Citrus_paradisi_(Grapefruit,_pink)_white_bg.jpg
+cabbage|File:Fresh green cabbage heads.jpg|CharlesPoterai|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Fresh_green_cabbage_heads.jpg
+spinach|File:Liat Portal for Foodie Disorder - Fresh spinach leaves.jpg|HaJunkiyada|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Fresh_spinach_leaves.jpg
+kale|File:CSA-Red-Russian-Kale.jpg|Evan-Amos|Public domain|https://commons.wikimedia.org/wiki/File:CSA-Red-Russian-Kale.jpg
+greenbeans|File:Green beans in a pile.JPG|Jeffery Martin|CC0|https://commons.wikimedia.org/wiki/File:Green_beans_in_a_pile.JPG
+peas|File:Peas (484346231).jpg|Ruth Hartnup from Vancouver, Canada|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Peas_(484346231).jpg
+nectarine|File:Liat Portal for Foodie Disorder - Nectarine.jpg|HaJunkiyada|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Nectarine.jpg
+tangerine|File:Tangerine halves.jpg|多多123|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Tangerine_halves.jpg
+mandarin|File:Mandarin Oranges (Citrus Reticulata).jpg|Joe Ravi|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Mandarin_Oranges_(Citrus_Reticulata).jpg
+chilipepper|File:Cayenne Pepper in Cebu, Philippines 1.jpg|Bim24|CC0|https://commons.wikimedia.org/wiki/File:Cayenne_Pepper_in_Cebu,_Philippines_1.jpg
+greenonion|File:Beijing scallions.jpg|Fumikas Sagisavas|CC0|https://commons.wikimedia.org/wiki/File:Beijing_scallions.jpg
+honeydew|File:Golden honeydew melon.jpg|Fumikas Sagisavas|CC0|https://commons.wikimedia.org/wiki/File:Golden_honeydew_melon.jpg
+butternutsquash|File:Butternut squash stuffed shells with toasted pecan and sage brown butter (3869054302).jpg|Karen and Brad Emerson|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Butternut_squash_stuffed_shells_with_toasted_pecan_and_sage_brown_butter_(3869054302).jpg
+redcabbage|File:Purple Cabbage.JPG|Miansari66|CC0|https://commons.wikimedia.org/wiki/File:Purple_Cabbage.JPG
+jalapeno|File:Immature jalapeno capsicum annuum var annuum.jpeg|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Immature_jalapeno_capsicum_annuum_var_annuum.jpeg
+clementine|File:Clementines (01014)s.jpg|Rhododendrites|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Clementines_(01014)s.jpg
+pomelo|File:Sweetie (Citrus).jpg|Yot (he:משתמש:יות)|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Sweetie_(Citrus).jpg
+yam|File:Dioscorea alata - Purple yam tuber - Mindanao, Philippines.jpg|Obsidian Soul|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Dioscorea_alata_-_Purple_yam_tuber_-_Mindanao,_Philippines.jpg
+snappeas|File:Sugar Snap Pea.JPG|Brianga|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Sugar_Snap_Pea.JPG
+beansprouts|File:Mung bean sprouts, close-up.jpg|pics_pd|CC0|https://commons.wikimedia.org/wiki/File:Mung_bean_sprouts,_close-up.jpg
+arugula|File:Eruca sativa sl5.jpg|Stefan.lefnaer|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Eruca_sativa_sl5.jpg
+cornsalad|File:Corn salad, spring, close up.JPG|Unknown|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Corn_salad,_spring,_close_up.JPG
+collardgreens|File:Collard greens perking up after long cold spell - Flickr - naturalflow.jpg|naturalflow|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Collard_greens_perking_up_after_long_cold_spell_-_Flickr_-_naturalflow.jpg
+mustardgreens|File:Curly mustard leaves.jpg|Jim Conrad|Public domain|https://commons.wikimedia.org/wiki/File:Curly_mustard_leaves.jpg
+acornsquash|File:Liat Portal for Foodie Disorder - Acorn squash.jpg|HaJunkiyada|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Acorn_squash.jpg
+spaghettisquash|File:Cucurbita pepo Spaghetti Squash half cut.jpg|Sarah Marriage|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_Spaghetti_Squash_half_cut.jpg
+endive|File:Endive p1160063.jpg|David Monniaux|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Endive_p1160063.jpg
+boysenberry|File:Boysenberries.jpg|Unknown|GFDL 1.2|https://commons.wikimedia.org/wiki/File:Boysenberries.jpg
+mulberry|File:Mulberry fruit ripe.jpg|Ramjchandran|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mulberry_fruit_ripe.jpg
+redcurrant|File:Redcurrant in basket 2018 G1.jpg|George Chernilevsky|Public domain|https://commons.wikimedia.org/wiki/File:Redcurrant_in_basket_2018_G1.jpg
+satsuma|File:Delicious Japanese satsuma oranges fruit.jpg|Andrea Landaker|Public domain|https://commons.wikimedia.org/wiki/File:Delicious_Japanese_satsuma_oranges_fruit.jpg
+snowpeas|File:Snow peas.jpg|Renee Comet (Photographer) / National Cancer Institute|Public domain|https://commons.wikimedia.org/wiki/File:Snow_peas.jpg
+celeriac|File:Celery root (8047803896).jpg|Leslie Seaton from Seattle, WA, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Celery_root_(8047803896).jpg
+jicama|File:Jicama tubers marketed Davao.jpg|David E Mead|CC0|https://commons.wikimedia.org/wiki/File:Jicama_tubers_marketed_Davao.jpg
+taro|File:Taro root (taro corm).jpg|Susan Slater|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Taro_root_(taro_corm).jpg
+cassava|File:Cassava woman peeling cassava.jpg|Dappasolomon001|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Cassava_woman_peeling_cassava.jpg
+lotusroot|File:Black duck flavored lotus root slices.jpg|Fumikas Sagisavas|CC0|https://commons.wikimedia.org/wiki/File:Black_duck_flavored_lotus_root_slices.jpg
+waterchestnut|File:Water chestnut roasted 2022.jpg|FacetsOfNonStickPans|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Water_chestnut_roasted_2022.jpg
+napacabbage|File:Brassica rapa subsp. pekinensis 'Manoko' kz01.jpg|Krzysztof Ziarnek, Kenraiz|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Brassica_rapa_subsp._pekinensis_%27Manoko%27_kz01.jpg
+savoycabbage|File:A head of Savoy cabbage - geograph.org.uk - 6071054.jpg|Evelyn Simak|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:A_head_of_Savoy_cabbage_-_geograph.org.uk_-_6071054.jpg
+broccolini|File:Broccolini.jpg|User Agriffin on en.wikipedia|CC BY 1.0|https://commons.wikimedia.org/wiki/File:Broccolini.jpg
+frisee|File:Cichorium endivia var. crispum (01).jpg|Rasbak|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cichorium_endivia_var._crispum_(01).jpg
+sorrel|File:Wild sorrel (Rumex acetosa) - geograph.org.uk - 915938.jpg|ceridwen|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Wild_sorrel_(Rumex_acetosa)_-_geograph.org.uk_-_915938.jpg
+lingonberry|File:Forest lingonberry in the snow. Novy Urengoy 2020(Лесная брусника на снегу. Новый Уренгой 2020).jpg|Chursaev13|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Forest_lingonberry_in_the_snow._Novy_Urengoy_2020(%D0%9B%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D0%B1%D1%80%D1%83%D1%81%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%81%D0%BD%D0%B5%D0%B3%D1%83._%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9_2020).jpg
+huckleberry|File:Huckleberry (Vaccinium membranaceum) (43741431161).jpg|GlacierNPS|Public domain|https://commons.wikimedia.org/wiki/File:Huckleberry_(Vaccinium_membranaceum)_(43741431161).jpg
+wintermelon|File:A winter melon, gourd , wax gourd , KyaukFaYonTee.jpg|GTSPACE|CC0|https://commons.wikimedia.org/wiki/File:A_winter_melon,_gourd_,_wax_gourd_,_KyaukFaYonTee.jpg
+dandeliongreens|File:Dandelion greens.jpg|Hikmat Ayomide|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dandelion_greens.jpg
+cloudberry|File:Cloudberry, Rubus chamaemorus - geograph.org.uk - 912451.jpg|Richard Webb|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Cloudberry,_Rubus_chamaemorus_-_geograph.org.uk_-_912451.jpg
+loganberry|File:Loganberry fruiting.jpg|Baswanschers|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Loganberry_fruiting.jpg
+tayberry|File:Tayberry (Rubus sp) fruit.jpg|Albarubescens|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Tayberry_(Rubus_sp)_fruit.jpg
+barberry|File:"Барбарис амурский (лат. Berberis amurensis)".jpg|Stranger|CC BY 4.0|https://commons.wikimedia.org/wiki/File:%22%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B8%D1%81_%D0%B0%D0%BC%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B9_(%D0%BB%D0%B0%D1%82._Berberis_amurensis)%22.jpg
+seabuckthorn|File:Sea-buckthorn berries - geograph.org.uk - 1639015.jpg|Alan Murray-Rust|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Sea-buckthorn_berries_-_geograph.org.uk_-_1639015.jpg
+mirabelle|File:Prunus domestica subsp syriaca.jpg|Garitzko|Public domain|https://commons.wikimedia.org/wiki/File:Prunus_domestica_subsp_syriaca.jpg
+greengage|File:Plums - The Fruit Bowl, Brighton 2023-08-23.jpg|Andy Li|CC0|https://commons.wikimedia.org/wiki/File:Plums_-_The_Fruit_Bowl,_Brighton_2023-08-23.jpg
+damson|File:Damson plum fruit.jpg|Jonathan Billinger|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Damson_plum_fruit.jpg
+sloe|File:Owoce Tarnina.jpg|Agnieszka Kwiecień, Nova|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Owoce_Tarnina.jpg
+jujube|File:Red dates (jujube) - Massachusetts.jpg|Daderot|CC0|https://commons.wikimedia.org/wiki/File:Red_dates_(jujube)_-_Massachusetts.jpg
+sapodilla|File:Sapodilla Hasya02 F&SPark Asit.jpg|Asit K. Ghosh Thaumaturgist|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Sapodilla_Hasya02_F%26SPark_Asit.jpg
+serviceberry|File:Amelanchier bartramiana 15-p.bot-amel.bartra-30.jpg|Ayotte, Gilles, 1948-|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Amelanchier_bartramiana_15-p.bot-amel.bartra-30.jpg
+chokeberry|File:Chokeberry corymb.jpg|honka13|Public domain|https://commons.wikimedia.org/wiki/File:Chokeberry_corymb.jpg
+samphire|File:Marsh samphire - geograph.org.uk - 203600.jpg|Eirian Evans|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Marsh_samphire_-_geograph.org.uk_-_203600.jpg
+chicory|File:Dried chicory root.jpg|Herbeater|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dried_chicory_root.jpg
+puntarelle|File:Puntarelle stehend.jpg|Jerome Prohaska|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Puntarelle_stehend.jpg
+seakale|File:Crambe maritima kz10.jpg|Krzysztof Ziarnek, Kenraiz|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Crambe_maritima_kz10.jpg
+mizuna|File:ISS-61 Mizuna mustard greens are growing aboard the ISS (1).jpg|NASA|Public domain|https://commons.wikimedia.org/wiki/File:ISS-61_Mizuna_mustard_greens_are_growing_aboard_the_ISS_(1).jpg
+tatsoi|File:Tatsoi a few days after a big harvest.jpg|david silver from san francisco|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Tatsoi_a_few_days_after_a_big_harvest.jpg
+gailan|File:Gailan.jpg|Kowloonese|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Gailan.jpg
+choysum|File:Choy Sum with Soy Sauce.jpg|Ceeseven|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Choy_Sum_with_Soy_Sauce.jpg
+fiddleheads|File:Matteuccia struthiopteris fiddleheads.jpg|The Cosmonaut|CC BY-SA 2.5 ca|https://commons.wikimedia.org/wiki/File:Matteuccia_struthiopteris_fiddleheads.jpg
+purslane|File:Black Purslane (4826220435).jpg|Dinesh Valke from Thane, India|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Black_Purslane_(4826220435).jpg
+amaranth|File:Vegetables amaranth.jpg|Senator BNB|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Vegetables_amaranth.jpg
+rosehip|File:Rose hip in Rind village.jpg|Ավետիսյան91|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Rose_hip_in_Rind_village.jpg
+pitanga|File:Myrtaceae- Eugenia uniflora (Pitanga, Surinam Cherry).jpg|Kristof Zyskowski & Yulia Bereshpolova|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Myrtaceae-_Eugenia_uniflora_(Pitanga,_Surinam_Cherry).jpg
+langsat|File:Duku Lansium domesticum Ripe.jpg|Sakurai Midori|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Duku_Lansium_domesticum_Ripe.jpg
+marang|File:Paete,Lagunajf6182 16.JPG|Ramon FVelasquez|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Paete,Lagunajf6182_16.JPG
+bilimbi|File:Averrhoa bilimbi fruit by Sugeesh.jpg|Sugeesh|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Averrhoa_bilimbi_fruit_by_Sugeesh.jpg
+santol|File:Santol seed fruit sweet white Philippines.jpg|Øyvind Holmstad|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Santol_seed_fruit_sweet_white_Philippines.jpg
+mamey|File:Pouteria sapota (mamey sapote) - DSC09284.jpg|Daderot|CC0|https://commons.wikimedia.org/wiki/File:Pouteria_sapota_(mamey_sapote)_-_DSC09284.jpg
+abiu|File:Starr-140925-2018-Pouteria caimito-fruit-Pali o Waipio Huelo-Maui (24616024964).jpg|Forest and Kim Starr|CC BY 3.0 us|https://commons.wikimedia.org/wiki/File:Starr-140925-2018-Pouteria_caimito-fruit-Pali_o_Waipio_Huelo-Maui_(24616024964).jpg
+jocote|File:Starr-090713-2588-Spondias purpurea-fruit-Lahaina-Maui (24338786014).jpg|Forest and Kim Starr|CC BY 3.0 us|https://commons.wikimedia.org/wiki/File:Starr-090713-2588-Spondias_purpurea-fruit-Lahaina-Maui_(24338786014).jpg
+nance|File:2010.05.03.183835 Nance Guatemala City.jpg|Hermann Luyken|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:2010.05.03.183835_Nance_Guatemala_City.jpg
+lucuma|File:Egg fruit DS.jpg|Augustus Binu : flickr|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Egg_fruit_DS.jpg
+pepino|File:Pepino melon.jpg|Rhododendrites|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Pepino_melon.jpg
+tamarillo|File:Tamarillos - whole and halved.jpg|Ivar Leidus|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Tamarillos_-_whole_and_halved.jpg
+gac|File:Gac Fruit.jpg|MarvinBikolano|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Gac_Fruit.jpg
+noni|File:Indian mulberry (Morinda citrifolia) 1583.jpg|Vengolis|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Indian_mulberry_(Morinda_citrifolia)_1583.jpg
+cempedak|File:Cempedak 3.jpg|Mokkie|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Cempedak_3.jpg
+wampee|File:Seedless Wampee.JPG|Earth100|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Seedless_Wampee.JPG
+sugarapple|File:Sugar apple with cross section.jpg|Muhammad Mahdi Karim|GFDL 1.2|https://commons.wikimedia.org/wiki/File:Sugar_apple_with_cross_section.jpg
+rollinia|File:RolliniaDeliciosa.jpg|申義徳博士|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:RolliniaDeliciosa.jpg
+oca|File:Oca (Oxalis tuberosa).jpg|Ceseonico|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Oca_(Oxalis_tuberosa).jpg
+ulluco|File:Ulluco.jpg|Nzfauna|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Ulluco.jpg
+mashua|File:Mashua tuber diversity Peru (Tropaeolum tuberosum).JPG|Michael Hermann|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mashua_tuber_diversity_Peru_(Tropaeolum_tuberosum).JPG
+arracacha|File:Arracacha.jpg|No machine-readable author provided. Fibonacci assumed (based on copyright claims).|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Arracacha.jpg
+crosne|File:Crosnes.jpg|No machine-readable author provided. Jonathaneo~commonswiki assumed (based on copyright claims).|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Crosnes.jpg
+yacon|File:Yacon tubers.JPG|Farmcore|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Yacon_tubers.JPG
+skirret|File:Sium sisarum tubers.jpg|succulentserenity|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Sium_sisarum_tubers.jpg
