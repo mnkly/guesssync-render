@@ -42,9 +42,9 @@ peakedcap|Peaked Cap|Daniel Schwen|CC BY-SA 2.5|https://commons.wikimedia.org/wi
 aviatorhat|Aviator Hat|Naval History &amp; Heritage Command from Washington, DC, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Aviators%27_Flight_Helmet_(26163894732).jpg
 bandana|Bandana|User Felixed on en.wikipedia|Public domain|https://commons.wikimedia.org/wiki/File:Red_and_blue_bandannas.jpg
 bonnet|Bonnet|Doris Ulmann|Public domain|https://commons.wikimedia.org/wiki/File:Old_woman_in_sunbonnet_by_Doris_Ulmann.jpg
-balaclava|Balaclava|Tobias "ToMar" Maier|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Balaclava_3_hole_black_rolled_up.jpg
+balaclava|Balaclava|Tobias "ToMar" Maier|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Balaclava_3_hole_black.jpg
 nightcap|Nightcap|Unknown authorUnknown author|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Nightcap,_woman%27s_(AM_1992.283-2).jpg
-jesterhat|Jester Hat|Alex Rozhkov|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Olina_Ventsel_(Jester-doll).jpg
+jesterhat|Jester Hat|Jamain|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Bouffon_J2.jpg
 souwester|Sou'wester|Georges Jansoone|CC BY 2.5|https://commons.wikimedia.org/wiki/File:Amandine18.jpg
 headscarf|Headscarf|Orrling|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Hijabs.jpg
 tiara|Tiara|Ed Uthman from Houston, TX, USA|CC BY 2.0|https://commons.wikimedia.org/wiki/File:Emerald_%26_Diamond_Tiara_(4739771202).jpg
@@ -64,12 +64,12 @@ chullo|Chullo|El archivo fue elegido de manera aleatoria sin uso necesario de su
 songkok|Songkok|CEphoto, Uwe Aranas|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Malay-Boy-with-Songkok-01.jpg
 keffiyeh|Keffiyeh|Florian Prischl|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Keffiyeh.jpg
 doppa|Doppa|Jasper Lee|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Uyghur_doppa_from_%C3%9Cr%C3%BCmqi.jpg
-nemes|Nemes|Unknown|CC0|https://commons.wikimedia.org/wiki/File:Amenhotep_III_with_nemes_headdress_MET_53965.jpg
+bearskin|Bearskin|Martin Falbisoner|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Bearskin_Guards.JPG
 warbonnet|War Bonnet|Thayne Tuason, user name:Biscuitroot|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Dog_soldier_headdress_dancer.jpg
-coif|Coif|Hans Holbein the Younger|Public domain|https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_Young_Woman_with_a_White_Coif_1541_LACMA_M44_2_9_2.jpg
-wimple|Wimple|Robert Campin|Public domain|https://commons.wikimedia.org/wiki/File:RCampin.jpg
+coif|Coif|Unknown (Metropolitan Museum of Art)|CC0|https://commons.wikimedia.org/wiki/File:Coif_MET_182923.jpg
+wimple|Wimple|Albertus teolog|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Klaryska.JPG
 hennin|Hennin|Immanuel Giel|Public domain|https://commons.wikimedia.org/wiki/File:Ritter_Rost_Burgfraulein_Boe.jpg
-phrygiancap|Phrygian Cap|Unknown|Public domain|https://commons.wikimedia.org/wiki/File:Bust_Attis_CdM.jpg
+phrygiancap|Phrygian Cap|Joe Mabel|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Seattle_-_Bastille_Day_-_Phrygian_cap.jpg
 mitre|Mitre|Benjamin Gavaudo|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Mitre_du_cardinal_Gousset.jpg
 zucchetto|Zucchetto|Dieter Philippi|CC BY-SA 3.0|https://commons.wikimedia.org/wiki/File:Soli_Deo_Papst.jpg
 biretta|Biretta|MK777|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Biret.JPG
@@ -94,7 +94,7 @@ glengarry|Glengarry|Unknown|CC BY 4.0|https://commons.wikimedia.org/wiki/File:Gl
 papakha|Papakha|Unknown authorUnknown author|CC BY-SA 3.0 de|https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1978-041-03,_Russland,_Kosak_in_der_Wehrmacht.jpg
 kokoshnik|Kokoshnik|Unknown|CC0|https://commons.wikimedia.org/wiki/File:Headdress_MET_31.463_CP4.jpg
 capirote|Capirote|Barcex|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Madrid_%E2%80%93_Semana_Santa_2026_%E2%80%93_Procesi%C3%B3n_El_Pobre_-_260402_185507.jpg
-bycocket|Bycocket|Agnolo Gaddi|Public domain|https://commons.wikimedia.org/wiki/File:St_Helena_detail_Agnolo_Gaddi.jpg
+bycocket|Bycocket|marcuz85 from San Giovanni Valdarno, Italia|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Cosplay_of_Robin_Hood_at_Cartoomics_2013_(8572262741).jpg
 chaperon|Chaperon|Wolfmann|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Vikingdrakter_rekonstruerte_kl%C3%A6r_mannsdrakt_hettekappe_skulderkappe_brosje_(reconstructed_Viking_Age_male_clothing_gugel_chaperon_brooch)_Slottsfjellsmuseet_T%C3%B8nsberg_Norway_2021-11-10_5263.jpg
 eboshi|Eboshi|G.Garitan|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Hikitate_eboshi_72491.jpg
 tubeteika|Tubeteika|ksblack99|Public domain|https://commons.wikimedia.org/wiki/File:Tajikistan_Wedding_Cap_(a_kind_of_tubeteika)_-_MIM_PHX_(2014-02-09_13.52.52_by_ksblack99).jpg
@@ -102,5 +102,5 @@ fila|Fila|Wiseremi|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Yoruba_F
 chupalla|Chupalla|Rosa Elena Méndez Meza|CC BY 3.0|https://commons.wikimedia.org/wiki/File:Man_wearing_a_chupalla).jpg
 barretina|Barretina|Wamito|Public domain|https://commons.wikimedia.org/wiki/File:El_Flabiolaire_Olot_2008.jpg
 kabuto|Kabuto|https://www.flickr.com/photos/lifeontheedge/|CC BY-SA 2.0|https://commons.wikimedia.org/wiki/File:Samurai_helmet_side.jpg
-mobcap|Mob Cap|Benjamin Greenleaf|Public domain|https://commons.wikimedia.org/wiki/File:Greenleaf_mob_cap.jpg
+mobcap|Mob Cap|Unknown (Metropolitan Museum of Art)|CC0|https://commons.wikimedia.org/wiki/File:Mobcap_MET_29.104_S.jpg
 salakot|Salakot|FBenjr123|CC BY-SA 4.0|https://commons.wikimedia.org/wiki/File:Salakot_Philippines_04.jpg

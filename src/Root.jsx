@@ -114,6 +114,8 @@ const E76CFG = { items: ANIMALS3, facts: ANIMALS3_FACTS, topicWord: "ANIMAL", to
 const E71CFG = { items: LANDMARKS2, facts: LANDMARKS2_FACTS, topicWord: "LANDMARK", topicPlural: "LANDMARKS", dir: "landmarks2", ext: "jpg", fit: "cover", voPrefix: "l2-", nameField: "name", introVo: "vo-intro-landmarks2", coldSlug: "sphinx" };
 const E45CFG = { items: REPTILES, facts: REPTILE_FACTS, topicWord: "REPTILE", topicPlural: "REPTILES", dir: "reptiles", ext: "jpg", fit: "cover", voPrefix: "rp-", nameField: "name", introVo: "vo-intro-reptile", coldSlug: "komododragon" };
 const E66CFG = { items: ROCKS, facts: ROCK_FACTS, topicWord: "ROCK", topicPlural: "ROCKS", dir: "rocks", ext: "jpg", fit: "cover", voPrefix: "rk-", nameField: "name", introVo: "vo-intro-rock", coldSlug: "granite" };
+const E67CFG = { items: HATS, facts: HAT_FACTS, topicWord: "HAT", topicPlural: "HATS", dir: "hats", ext: "jpg", fit: "cover", voPrefix: "ht-", nameField: "name", introVo: "vo-intro-hats", coldSlug: "baseballcap" };
+const E68CFG = { items: DRINKS, facts: DRINK_FACTS, topicWord: "DRINK", topicPlural: "DRINKS", dir: "drinks", ext: "jpg", fit: "cover", voPrefix: "dk-", nameField: "name", introVo: "vo-intro-drinks", coldSlug: "espresso" };
 const E57CFG = { items: SPIDERS, facts: SPIDER_FACTS, topicWord: "SPIDER", topicPlural: "SPIDERS", dir: "spiders", ext: "jpg", fit: "cover", voPrefix: "sd-", nameField: "name", introVo: "vo-intro-spider", coldSlug: "tarantula" };
 const E56CFG = { items: AMPHIBIANS, facts: AMPHIBIAN_FACTS, topicWord: "AMPHIBIAN", topicPlural: "AMPHIBIANS", dir: "amphibians", ext: "jpg", fit: "cover", voPrefix: "am-", nameField: "name", introVo: "vo-intro-amphibian", coldSlug: "axolotl" };
 const E43CFG = { items: HORSES, facts: HORSE_FACTS, topicWord: "HORSE BREED", topicPlural: "HORSE BREEDS", dir: "horses", ext: "jpg", fit: "cover", voPrefix: "hr-", nameField: "name", introVo: "vo-intro-horse", coldSlug: "arabian" };
@@ -173,6 +175,8 @@ import { REPTILES } from "./Quiz/reptilesData";
 import { REPTILE_FACTS } from "./Quiz/reptileFacts";
 import { ROCKS } from "./Quiz/rocksData";
 import { ROCK_FACTS } from "./Quiz/rockFacts";
+import { HATS } from "./Quiz/hatsData";
+import { HAT_FACTS } from "./Quiz/hatFacts";
 import { SPIDERS } from "./Quiz/spidersData";
 import { SPIDER_FACTS } from "./Quiz/spiderFacts";
 import { AMPHIBIANS } from "./Quiz/amphibiansData";
@@ -227,6 +231,8 @@ import { FISH2 } from "./Quiz/fish2Data";
 import { FISH2_FACTS } from "./Quiz/fish2Facts";
 import { COCKTAILS } from "./Quiz/cocktailsData";
 import { COCKTAIL_FACTS } from "./Quiz/cocktailFacts";
+import { DRINKS } from "./Quiz/drinksData";
+import { DRINK_FACTS } from "./Quiz/drinkFacts";
 import { BREADS } from "./Quiz/breadsData";
 import { BREAD_FACTS } from "./Quiz/breadFacts";
 import { NUTS } from "./Quiz/nutsData";
@@ -519,6 +525,10 @@ export const RemotionRoot = () => {
       <Composition id="E45Quiz" component={QuizV2} durationInFrames={quizFrames(E45CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E45CFG }} />
       <Composition id="E66Quiz" component={QuizV2} durationInFrames={quizFrames(E66CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E66CFG }} />
       <Composition id="Thumb66" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "rocks", grid: ["granite", "marble", "?", "basalt", "?", "limestone", "?", "sulfur", "gold"], line1: "CAN YOU NAME ALL", word: "ROCK", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E67Quiz" component={QuizV2} durationInFrames={quizFrames(E67CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E67CFG }} />
+      <Composition id="Thumb67" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "hats", grid: ["baseballcap", "tophat", "?", "cowboyhat", "?", "chefhat", "?", "witchhat", "sombrero"], line1: "CAN YOU NAME ALL", word: "HAT", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E68Quiz" component={QuizV2} durationInFrames={quizFrames(E68CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E68CFG }} />
+      <Composition id="Thumb68" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "drinks", grid: ["espresso", "cappuccino", "?", "latte", "?", "matcha", "?", "greentea", "mocha"], line1: "CAN YOU NAME ALL", word: "DRINK", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E57Quiz" component={QuizV2} durationInFrames={quizFrames(E57CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E57CFG }} />
       <Composition id="Thumb57" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "spiders", grid: ["tarantula", "blackwidow", "?", "jumpingspider", "?", "peacockspider", "?", "wolfspider", "goliathbirdeater"], line1: "CAN YOU NAME ALL", word: "SPIDER", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E56Quiz" component={QuizV2} durationInFrames={quizFrames(E56CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E56CFG }} />
@@ -616,6 +626,8 @@ export const RemotionRoot = () => {
         { ep: "E76", items: ANIMALS3, mode: "animals3", title: "Guess the Animal 3", v2: true },
         { ep: "E71", items: LANDMARKS2, mode: "landmarks2", title: "Guess the Landmark 2", v2: true },
         { ep: "E66", items: ROCKS, mode: "rocks", title: "Guess the Rock or Mineral", v2: true },
+        { ep: "E67", items: HATS, mode: "hats", title: "Guess the Hat", v2: true },
+        { ep: "E68", items: DRINKS, mode: "drinks", title: "Guess the Drink", v2: true },
         { ep: "E57", items: SPIDERS, mode: "spiders", title: "Guess the Spider", v2: true },
         { ep: "E56", items: AMPHIBIANS, mode: "amphibians", title: "Guess the Amphibian", v2: true },
         { ep: "E34", items: CATS, mode: "cats", title: "Guess the Cat Breed", v2: true },

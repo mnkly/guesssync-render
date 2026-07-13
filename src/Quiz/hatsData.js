@@ -65,7 +65,7 @@ export const HATS = [
   { slug: "songkok", name: "Songkok", level: "hard" },
   { slug: "keffiyeh", name: "Keffiyeh", level: "hard" },
   { slug: "doppa", name: "Doppa", level: "hard" },
-  { slug: "nemes", name: "Nemes", level: "hard" },
+  { slug: "bearskin", name: "Bearskin", level: "hard" },
   { slug: "warbonnet", name: "War Bonnet", level: "hard" },
   { slug: "coif", name: "Coif", level: "hard" },
   { slug: "wimple", name: "Wimple", level: "hard" },

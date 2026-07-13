@@ -63,7 +63,7 @@ export const HAT_FACTS = {
   "songkok": "Flat-topped cap worn by Muslim men in SE Asia",
   "keffiyeh": "Checkered Arab headscarf held by a corded ring",
   "doppa": "Square embroidered skullcap of Central Asia",
-  "nemes": "Striped cloth headdress of ancient Egyptian pharaohs",
+  "bearskin": "Tall black fur cap of British royal guards",
   "warbonnet": "Feathered ceremonial headdress of Plains tribes",
   "coif": "Close-fitting medieval cloth cap tied under the chin",
   "wimple": "Cloth covering the head and neck, worn by nuns",
