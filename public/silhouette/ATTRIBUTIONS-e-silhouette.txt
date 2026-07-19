@@ -1,0 +1,103 @@
+GuessSync E90 — Guess the Animal by Silhouette — image attributions
+Source: PhyloPic (https://www.phylopic.org), API v2 — CC0/CC-BY organism silhouettes.
+
+elephant (Elephant) — "Loxodonta africana" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/62398ac0-f0c3-48f8-8455-53512a05fbc4/vector.svg
+giraffe (Giraffe) — "Giraffa camelopardalis" — Bernard Dupont (photograph) and T. Michael Keesey (tracing) — https://creativecommons.org/licenses/by-sa/3.0/ — https://images.phylopic.org/images/b35f867d-26e8-4c48-806e-0f07f18b1844/vector.svg
+kangaroo (Kangaroo) — "Macropus" — Mathew Callaghan — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/46cc984c-240f-461f-a8d4-7dcf3e0088d9/vector.svg
+penguin (Penguin) — "Aptenodytes" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/21c50828-58d8-42df-9219-2c1b0fb57c99/vector.svg
+cat (Cat) — "Felis lybica" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/e9f41f59-d708-47aa-a705-ba9b8826ebc6/vector.svg
+dog (Dog) — "Canis familiaris familiaris" — David Orr — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/4d83a0cd-cf06-4a32-9a5a-0a6b644158c1/vector.svg
+horse (Horse) — "Equus ferus" — Mercedes Yrayzoz (vectorized by T. Michael Keesey) — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/85d95128-912c-427a-9542-138e1dbf5651/vector.svg
+rabbit (Rabbit) — "Oryctolagus cuniculus" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/1e15411c-5394-4a9d-a209-76c8ac0c331d/vector.svg
+owl (Owl) — "Athene noctua" — Ferran Sayol — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/4e35207e-a75a-4518-8eca-1d574eebfbb4/vector.svg
+flamingo (Flamingo) — "Phoenicopterus" — Lee Harding (photo), John E. McCormack, Michael G. Harvey, Brant C. Faircloth, Nicholas G. Crawford, Travis C. Glenn, Robb T. Brumfield & T. Michael Keesey — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/749b9110-4fb3-43c8-aaea-086f1c203c3a/vector.svg
+camel (Camel) — "Camelus dromedarius" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/e52676dd-272c-4b14-8c99-ea5dc98942e5/vector.svg
+deer (Deer) — "Odocoileus virginianus" — Tracy A. Heath — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/56f6fdb2-15d0-43b5-b13f-714f2cb0f5d0/vector.svg
+squirrel (Squirrel) — "Sciurus" — Ferran Sayol — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/23c700c9-e695-404a-8d0c-146e1fc4bada/vector.svg
+bat (Bat) — "Chiroptera" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/0d386ce5-28e2-407c-b985-c1aac350bd1a/vector.svg
+swan (Swan) — "Cygnus" — An Ignorant Atheist — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/05cd7d8c-6b2c-4b97-b7b8-053559019eeb/vector.svg
+peacock (Peacock) — "Pavo cristatus" — Cathy — https://creativecommons.org/licenses/by-nc-sa/3.0/ — https://images.phylopic.org/images/631543cd-0e41-43b6-a325-335a06b2045e/vector.svg
+rooster (Rooster) — "Gallus gallus" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/aff847b0-ecbd-4d41-98ce-665921a6d96e/vector.svg
+pig (Pig) — "Sus scrofa domestica" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/008d6d88-d1be-470a-8c70-73625c3fb4fb/vector.svg
+cow (Cow) — "Bos primigenius" — DFoidl (modified by T. Michael Keesey) — https://creativecommons.org/licenses/by-sa/3.0/ — https://images.phylopic.org/images/ea92020a-298a-4977-b6d3-dccbe816bb5e/vector.svg
+sheep (Sheep) — "Ovis aries" — Gabriela Palomo-Munoz — https://creativecommons.org/licenses/by-nc/3.0/ — https://images.phylopic.org/images/a9297cbd-10ca-457b-b5d5-a0b038720df7/vector.svg
+duck (Duck) — "Anas platyrhynchos" — Maija Karala — https://creativecommons.org/licenses/by-nc-sa/3.0/ — https://images.phylopic.org/images/3ceaa22b-8879-4545-9e32-425010f33cd4/vector.svg
+fox (Fox) — "Vulpes vulpes" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/51b1b6e4-129d-41a6-bbbd-c3fab459c25f/vector.svg
+wolf (Wolf) — "Canis lupus" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/5036f260-5a0d-42c5-a0bd-9eb0729e54e0/vector.svg
+bear (Bear) — "Ursus americanus" — Tracy A. Heath — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/5a5dafa2-6388-43b8-a15a-4fd21cd17594/vector.svg
+lion (Lion) — "Panthera leo" — PhyloPic contributor — https://creativecommons.org/publicdomain/mark/1.0/ — https://images.phylopic.org/images/e2015ba3-4f7e-4950-9bde-005e8678d77b/vector.svg
+tiger (Tiger) — "Panthera tigris" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/e148eabb-f138-43c6-b1e4-5cda2180485a/vector.svg
+zebra (Zebra) — "Equus quagga" — Cathy — https://creativecommons.org/licenses/by-nc-sa/3.0/ — https://images.phylopic.org/images/3f18d263-3f53-4b88-a496-e21982ddc5ef/vector.svg
+rhino (Rhino) — "Rhinocerotidae" — Michael Tripoli — https://creativecommons.org/licenses/by/4.0/ — https://images.phylopic.org/images/8e105563-f5a2-4613-a59d-ac1a155fb09b/vector.svg
+hippo (Hippo) — "Hippopotamus amphibius" — Evan Boucher — https://creativecommons.org/publicdomain/mark/1.0/ — https://images.phylopic.org/images/3769e205-b10c-4aab-affc-b4f0302f4eaa/vector.svg
+gorilla (Gorilla) — "Gorilla gorilla" — T. Michael Keesey (after Colin M. L. Burnett) — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/d9af529d-e426-4c7a-922a-562d57a7872e/vector.svg
+monkey (Monkey) — "Macaca" — PhyloPic contributor — https://creativecommons.org/publicdomain/mark/1.0/ — https://images.phylopic.org/images/eedde61f-3402-4f7c-9350-49b74f5e1dba/vector.svg
+koala (Koala) — "Phascolarctos cinereus" — Sarah Werning — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/8a06d489-024f-4505-8ccb-f86e84e00e75/vector.svg
+panda (Panda) — "Ailuropoda melanoleuca" — PhyloPic contributor — https://creativecommons.org/publicdomain/mark/1.0/ — https://images.phylopic.org/images/4b1f7a58-8713-4d6e-a130-4c8a1ac2f749/vector.svg
+moose (Moose) — "Alces alces" — Rebecca Collins — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/df2d0ad0-adb0-49d7-afe5-edc6cad21064/vector.svg
+elk (Elk) — "Cervus canadensis" — Tracy A. Heath — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/97f83f5e-9afe-4ce8-812e-337f506ca841/vector.svg
+goat (Goat) — "Capra aegagrus hircus" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/c39a1d31-eb36-4b62-ba4d-32e29e0e5a8d/vector.svg
+turtle (Turtle) — "Testudines" — Scott Hartman — https://creativecommons.org/licenses/by-nc-sa/3.0/ — https://images.phylopic.org/images/0bdf6f08-3b9e-41a3-aec2-5ae1ee3f0a47/vector.svg
+crocodile (Crocodile) — "Crocodylus" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/a796420f-5158-4e96-acbe-e30ef36b26d6/vector.svg
+ostrich (Ostrich) — "Struthio camelus" — Matt Martyniuk (vectorized by T. Michael Keesey) — https://creativecommons.org/licenses/by-sa/3.0/ — https://images.phylopic.org/images/14ddbf4d-7749-4153-bbe1-8d0c6ffdf142/vector.svg
+pelican (Pelican) — "Pelecanus" — Ferran Sayol — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/2a168f51-4016-4a32-ba72-64a53bee31ca/vector.svg
+crab (Crab) — "Brachyura" — H. Filhol (vectorized by T. Michael Keesey) — https://creativecommons.org/publicdomain/mark/1.0/ — https://images.phylopic.org/images/c80c9f0a-4370-404c-8716-38a684d52239/vector.svg
+octopus (Octopus) — "Octopus" — PhyloPic contributor — https://creativecommons.org/publicdomain/mark/1.0/ — https://images.phylopic.org/images/d115b40d-efe3-487e-bed1-4f6aace5c814/vector.svg
+dolphin (Dolphin) — "Tursiops truncatus" — Chris huh — https://creativecommons.org/licenses/by-sa/3.0/ — https://images.phylopic.org/images/0b5c6b41-3a44-4c9e-869a-63ed54bf7c65/vector.svg
+whale (Whale) — "Balaenoptera novaeangliae" — Chris huh — https://creativecommons.org/licenses/by-sa/3.0/ — https://images.phylopic.org/images/ce70490a-79a5-47fc-afb9-834e45803ab4/vector.svg
+shark (Shark) — "Carcharodon carcharias" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/545d45f0-0dd1-4cfd-aad6-2b835223ea0d/vector.svg
+seahorse (Seahorse) — "Hippocampus" — Kelly — https://creativecommons.org/publicdomain/mark/1.0/ — https://images.phylopic.org/images/1ce0d9a9-c644-4cc6-b4b3-02e2e7aa2266/vector.svg
+snail (Snail) — "Helix pomatia" — Martin R. Smith, from photo by Jürgen Schoner — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/d8f236a7-e36b-4313-9162-8f2dead31a8a/vector.svg
+frog (Frog) — "Anura" — Auckland Museum and T. Michael Keesey — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/01a21193-6599-463c-a5f0-75b6fe03189d/vector.svg
+hedgehog (Hedgehog) — "Erinaceus europaeus" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/6ecff71e-fcfc-4cb9-b773-9e6e21607587/vector.svg
+raccoon (Raccoon) — "Procyon lotor" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/52193065-f85e-4e4d-a677-11d08aed8c2e/vector.svg
+cheetah (Cheetah) — "Acinonyx jubatus" — nicubunu — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/6290407d-2193-4d97-a194-2a7afc8f89c6/vector.svg
+leopard (Leopard) — "Panthera pardus" — Lukasiniho — https://creativecommons.org/licenses/by-nc-sa/3.0/ — https://images.phylopic.org/images/5e900306-3a5e-4193-8a94-74cc765f0aaf/vector.svg
+jaguar (Jaguar) — "Panthera onca" — Lukasiniho — https://creativecommons.org/licenses/by-nc-sa/3.0/ — https://images.phylopic.org/images/08d6595a-aaff-4e13-ab6a-5458719194c6/vector.svg
+hyena (Hyena) — "Crocuta crocuta" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/a160fd31-c6ba-4bd1-b2a1-dbd77014139d/vector.svg
+wildebeest (Wildebeest) — "Connochaetes" — Lukasiniho — https://creativecommons.org/licenses/by-nc-sa/3.0/ — https://images.phylopic.org/images/020a207e-4e91-4939-95b5-6951afae2b69/vector.svg
+buffalo (Buffalo) — "Syncerus caffer" — Jan A. Venter, Herbert H. T. Prins, David A. Balfour & Rob Slotow (vectorized by T. Michael Keesey) — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/414644c7-12c9-4ecd-b336-ac4f8f981b47/vector.svg
+bison (Bison) — "Bos bison" — Tracy A. Heath — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/d44d834e-1c32-4a08-a5d5-f30139de4450/vector.svg
+walrus (Walrus) — "Odobenus rosmarus" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/16cfde1b-d577-4de8-82b9-62b760aacba5/vector.svg
+seal (Seal) — "Phocidae" — Jakovche — https://creativecommons.org/licenses/by-sa/3.0/ — https://images.phylopic.org/images/64c27f60-ffbf-4ee8-ae1e-726042c477ff/vector.svg
+otter (Otter) — "Lutra lutra" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/3cdae098-058b-4ce2-8f46-ad3101b624db/vector.svg
+beaver (Beaver) — "Castor canadensis" — PhyloPic contributor — https://creativecommons.org/publicdomain/mark/1.0/ — https://images.phylopic.org/images/b3dd721e-6084-4413-8300-44e10d8fd3ca/vector.svg
+chipmunk (Chipmunk) — "Tamias striatus" — Chloé Schmidt — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/6239499e-114f-4828-bb0c-643351c70b9c/vector.svg
+mole (Mole) — "Talpidae" — PhyloPic contributor — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/09ca6201-fd21-4d68-b0d0-af649c74d3cc/vector.svg
+armadillo (Armadillo) — "Dasypodidae" — Charles R. Knight, vectorized by Zimices — https://creativecommons.org/licenses/by-sa/3.0/ — https://images.phylopic.org/images/3a167b34-82f9-4394-a3b0-4635716ca0eb/vector.svg
+anteater (Anteater) — "Myrmecophaga tridactyla" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/d52b48fc-be52-46a1-94b7-ac7790b4730c/vector.svg
+sloth (Sloth) — "Bradypus" — Sarah Werning — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/925fa570-10d9-4319-bd8a-e64ad7987900/vector.svg
+meerkat (Meerkat) — "Suricata suricatta" — T. Michael Keesey — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/71cc5f62-d26d-4ea9-8637-c8ac39ea1533/vector.svg
+mongoose (Mongoose) — "Herpestidae" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/d8d7eb8f-2f0d-429d-9cf3-d63544cb3a7e/vector.svg
+wombat (Wombat) — "Vombatus ursinus" — Sarah Werning — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/35fa51dc-e912-4158-97c4-d2088ea7abbc/vector.svg
+platypus (Platypus) — "Ornithorhynchus anatinus" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/61932f57-1fd2-49d9-bb86-042d6005581a/vector.svg
+tapir (Tapir) — "Tapirus" — Zimices — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/21142af0-58f1-494d-8b2c-b2d9d0eada4c/vector.svg
+warthog (Warthog) — "Phacochoerus africanus" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/b1a641cd-25df-4dd0-865f-1a2728bd267e/vector.svg
+boar (Boar) — "Sus scrofa" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/3d8acaf6-4355-491e-8e86-4a411b53b98b/vector.svg
+lynx (Lynx) — "Lynx lynx" — Gabriela Palomo-Munoz — https://creativecommons.org/licenses/by-nc/3.0/ — https://images.phylopic.org/images/24f763a3-accf-44c9-9a08-71e9834047b7/vector.svg
+bobcat (Bobcat) — "Lynx rufus" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/ab6cfd4f-aef7-40fa-b5a5-1b79b7d112aa/vector.svg
+pangolin (Pangolin) — "Manis" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/f628f6fe-6e2d-4173-a20f-265dc7d2d04f/vector.svg
+aardvark (Aardvark) — "Orycteropus afer" — Pearson Scott Foresman — https://creativecommons.org/publicdomain/mark/1.0/ — https://images.phylopic.org/images/cfee2dca-3767-46b8-8d03-bd8f46e79e9e/vector.svg
+okapi (Okapi) — "Okapia johnstoni" — T. Michael Keesey — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/44eea793-5a86-4801-ac56-0962e62491d8/vector.svg
+tarsier (Tarsier) — "Tarsiidae" — Yan Wong — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/f598fb39-facf-43ea-a576-1861304b2fe4/vector.svg
+fossa (Fossa) — "Cryptoprocta ferox" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/7546aa75-8b04-4025-975c-7472c1f7fa5f/vector.svg
+binturong (Binturong) — "Arctictis binturong" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/d7471762-ce76-45d9-bd25-e422188fb9e3/vector.svg
+quokka (Quokka) — "Setonix brachyurus" — T. Michael Keesey (photo by Sean Mack) — https://creativecommons.org/licenses/by-sa/3.0/ — https://images.phylopic.org/images/abd569c8-126c-4211-9304-5bb58be0666c/vector.svg
+numbat (Numbat) — "Myrmecobius fasciatus" — Sarah Werning — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/decf3474-61e7-4b5c-a3aa-d5adb13d89cb/vector.svg
+duiker (Duiker) — "Sylvicapra grimmia" — PhyloPic contributor — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/c9aaafb0-bbab-43b7-b2a8-077ae0799b96/vector.svg
+gerenuk (Gerenuk) — "Litocranius walleri" — Andrew A. Farke — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/999c5343-2b8f-4277-ae8c-83289f18b644/vector.svg
+blackbuck (Blackbuck) — "Antilope cervicapra" — Kai Caspar — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/6a27e653-72b2-4035-bc26-643ba71cdd22/vector.svg
+kudu (Kudu) — "Tragelaphus" — Robert Hering — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/e590147d-93c5-4d81-bbbf-bd1410cf8135/vector.svg
+takin (Takin) — "Budorcas taxicolor" — Kai Caspar — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/efd552a3-5639-4d6c-a7a0-bab8eb9149da/vector.svg
+serval (Serval) — "Leptailurus serval" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/01895510-7c27-489d-b441-6f72b1f562d2/vector.svg
+caracal (Caracal) — "Caracal caracal" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/0495f1b4-f9a0-4ba7-ae8f-bd89aa104c42/vector.svg
+ocelot (Ocelot) — "Leopardus pardalis" — Gabriela Palomo-Munoz — https://creativecommons.org/licenses/by-nc/3.0/ — https://images.phylopic.org/images/2fc7bbbf-8ca7-48fb-8495-d351cd3b1f99/vector.svg
+margay (Margay) — "Leopardus wiedii" — Gabriela Palomo-Munoz — https://creativecommons.org/licenses/by-nc/3.0/ — https://images.phylopic.org/images/6442f5ad-5a4a-4b54-b14e-94cf4c725f67/vector.svg
+genet (Genet) — "Genetta" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/dd0ebaad-62b5-44ce-b8bf-2db5d0fb83b5/vector.svg
+civet (Civet) — "Viverridae" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/621471cc-9e39-4269-8460-ba1f47a1a0f7/vector.svg
+coati (Coati) — "Nasua" — Rebecca Groom — https://creativecommons.org/licenses/by/3.0/ — https://images.phylopic.org/images/ce11c0ef-cc95-4ffd-ae38-9fd57dd1682b/vector.svg
+kinkajou (Kinkajou) — "Potos flavus" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/1efc1026-6bc4-4a7f-9fe7-a341b83ca38c/vector.svg
+capybara (Capybara) — "Hydrochoerus hydrochaeris" — Steven Traver — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/097336ef-db5f-4edc-a2e4-2c29a10aa512/vector.svg
+agouti (Agouti) — "Dasyprocta" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/7cd56d09-bc93-4974-9e87-65fa1f04652f/vector.svg
+paca (Paca) — "Cuniculus paca" — Margot Michaud — https://creativecommons.org/publicdomain/zero/1.0/ — https://images.phylopic.org/images/b6c7dab1-a2f8-43f6-98d5-ab6000f58957/vector.svg
+dhole (Dhole) — "Cuon alpinus" — AnAgnosticGod (vectorized by T. Michael Keesey) — https://creativecommons.org/licenses/by-nc-sa/3.0/ — https://images.phylopic.org/images/0bdb6532-0fa9-4ae7-992c-5b04a58d04d2/vector.svg

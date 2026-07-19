@@ -1,0 +1,106 @@
+GuessSync BUTTERFLIES2 - "Guess the Butterfly & Moth v2" - Image Attributions
+100 real butterfly & moth photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. Files under CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that requirement.
+Format:  slug | name | author | license | source
+
+cloudless-sulphur | Cloudless Sulphur | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cloudless_sulphur_(Phoebis_sennae_marcellina).jpg
+black-swallowtail | Black Swallowtail | D. Gordon E. Robertson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Black_Swallowtail,_male,_Ottawa.jpg
+anise-swallowtail | Anise Swallowtail | Calibas | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Anise_swallowtail.jpg
+western-tiger-swallowtail | Western Tiger Swallowtail | Calibas at en.wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Wtigerswallowtail.JPG
+checkered-white | Checkered White | Meganmccarty (talk) | Public domain | https://commons.wikimedia.org/wiki/File:Female_Checkered_White_Megan_McCarty05.jpg
+great-southern-white | Great Southern White | Anne Toal from US | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Great_southern_white_(Ascia_monuste)_female_dorsal.jpg
+sleepy-orange | Sleepy Orange | Meganmccarty | Public domain | https://commons.wikimedia.org/wiki/File:Sleepy_Orange,_Megan_McCarty47.jpg
+white-peacock | White Peacock | Greg Hume | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:WhitePeacock.jpg
+red-spotted-purple | Red-spotted Purple | Melissa McMasters | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Limenitis_arthemis_astyanax_by_Melissa_McMasters.jpg
+banded-orange | Banded Orange | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Banded_orange_heliconian_(Dryadula_phaetusa)_male.jpg
+common-mormon | Common Mormon | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Common_mormon_(Papilio_polytes_romulus)_female_form_stichius_Kuang_Si.jpg
+lime-swallowtail | Lime Swallowtail | Jeevan Jose, Kerala, India | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Common_Lime_Butterfly_Papilio_demoleus_by_Kadavoor.JPG
+plain-tiger | Plain Tiger | Jeevan Jose, Kerala, India | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Danaus_chrysippus_Female_by_kadavoor.jpg
+common-crow | Common Crow | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Common_crow_(Euploea_core_core)_underside.jpg
+common-rose | Common Rose | Peellden | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pachliopta_aristolochiae_interposita.jpg
+paper-kite | Paper Kite | Greg Hume | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Idea_leuconoe_Dorsal.jpg
+blue-pansy | Blue Pansy | Jeevan Jose, Kerala, India | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Junonia_orithya-Thekkady-2016-12-03-001.jpg
+lemon-pansy | Lemon Pansy | Vinayaraj | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Junonia_lemonias_-_Lemon_Pansy_25.jpg
+isabella-tiger-moth | Isabella Tiger Moth | Andy Reago &amp; Chrissy McClarren | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Pyrrharctia_isabella_%E2%80%93_Isabella_Tiger_Moth_(14842796231).jpg
+peppered-moth | Peppered Moth | Cyndy Sims Parr | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Biston_betularia_male.jpg
+spongy-moth | Spongy Moth | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Lymantria_dispar_MHNT.CUT.2012.0.357_Col_de_Cricheto_Bastelica_male_Dos.jpg
+tomato-hornworm-moth | Tomato Hornworm Moth | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Manduca_quinquemaculata_MHNT_CUT_2010_0_116_Schuylkill_Haven,_Schuylkill_Co._Penna_male_dorsal.jpg
+puss-moth | Puss Moth | Mark Fosh | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Puss_Moth_1.jpg
+bogong-moth | Bogong Moth | Donald Hobern from Canberra, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Agrotis_infusa.jpg
+scarce-swallowtail | Scarce Swallowtail | Tbc | Public domain | https://commons.wikimedia.org/wiki/File:Iphiclides_podalirius.jpg
+doris-longwing | Doris Longwing | Ridware | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Heliconius_doris_morralli_TRINIDAD.jpg
+sara-longwing | Sara Longwing | Original uploader was DirkvdM at en.wikipedia Later version(s) were uploaded by Samsara at en.wikipedia. | CC BY 1.0 | https://commons.wikimedia.org/wiki/File:Butterfly_panama.jpg
+crimson-patched-longwing | Crimson-patched Longwing | Greg Hume | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:RedPostman.jpg
+chocolate-pansy | Chocolate Pansy | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Chocolate_pansy_(Junonia_iphita_iphita)_Kuang_Si.jpg
+grey-pansy | Grey Pansy | Mike Dickison | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:MD_Grey_Pansy.jpg
+yellow-pansy | Yellow Pansy | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Yellow_pansy_(Junonia_hierta_cebrene)_male.jpg
+striped-blue-crow | Striped Blue Crow | Sandipoutsider | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Open_wing_position_busking_of_Euploea_mulciber_Cramer,_1777_%E2%80%93_Striped_Blue_Crow_WLB_DSC_0293.jpg
+orange-barred-sulphur | Orange-barred Sulphur | Greg Hume | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Phoebis_philea_male_ventral.jpg
+statira-sulphur | Statira Sulphur | Didier Descouens | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Aphrissa_statira_statira_MHNT_dos.jpg
+convolvulus-hawk-moth | Convolvulus Hawk-moth | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Convolvulus_hawk-moth_(Agrius_convolvuli)_2.jpg
+privet-hawk-moth | Privet Hawk-moth | picture taken by Olaf Leillinger | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Sphinx.ligustri.7631.jpg
+poplar-hawk-moth | Poplar Hawk-moth | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Poplar_hawk-moth_(Laothoe_populi_populi)_male.jpg
+lime-hawk-moth | Lime Hawk-moth | en:user:Emanresu | Public domain | https://commons.wikimedia.org/wiki/File:Lime_hawk_moth.jpg
+eyed-hawk-moth | Eyed Hawk-moth | Ivar Leidus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Smerinthus_ocellatus_female_-_Keila.jpg
+buff-tip-moth | Buff-tip Moth | Olei | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Phalera.bucephala.7189.jpg
+vapourer-moth | Vapourer Moth | Ben Sale from UK | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Orgyia_antiqua_(35220412814).jpg
+large-yellow-underwing | Large Yellow Underwing | nick goodrum from Catfield in Norfolk, United Kingdom | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Moth_Large_Yellow_Underwing_-_Noctua_pronuba_(28814950448).png
+red-underwing-moth | Red Underwing Moth | John de Haura | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Catocala.nupta-moth7-30.07.06.jpg
+old-lady-moth | Old Lady Moth | Hamon jp | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mormo_Maura_01.JPG
+emperor-gum-moth | Emperor Gum Moth | Entomology, CSIRO | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2904_Emperor_gum_moth.jpg
+indian-moon-moth | Indian Moon Moth | Jayendra Chiplunkar | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:The_Indian_Moon_Moth_(Actias_selene).jpg
+ailanthus-silk-moth | Ailanthus Silk Moth | Photo by David J. Stang | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Samia_cynthia_0zz.jpg
+carolina-sphinx-moth | Carolina Sphinx Moth | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Manduca_sexta_MHNT_CUT_2010_0_104_Caranavi,_La_Paz_Bolivia_male_dorsal.jpg
+silver-washed-fritillary | Silver-washed Fritillary | Uoaei1 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Argynnis_paphia_Mitterbach_01.jpg
+dark-green-fritillary | Dark Green Fritillary | Hectonichus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Nymphalidae_-_Argynnis_aglaja.JPG
+common-nawab | Common Nawab | Shamik18 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Common_Nawab_Butterfly(Polyura_athamas)_puddling_in_Buxa_Tiger_Reserve.jpg
+jungle-queen | Jungle Queen | Sandipoutsider | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Close_wing_position_of_Stichophthalma_camadeva_Westwood,_1848_%E2%80%93_Northern_Junglequeen_WLB_DSC_0929.jpg
+common-lascar | Common Lascar | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Common_lascar_(Pantoporia_hordonia)_Kuang_Si.jpg
+commander-butterfly | Commander Butterfly | Shantanu Kuveskar | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sahyadri_Commander_(Moduza_procris_undifragus).jpg
+chestnut-tiger | Chestnut Tiger | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Chestnut_tiger_(Parantica_sita_niphonica)_on_Ageratum_conyzoides_Xindian.jpg
+common-birdwing | Common Birdwing | A.S.Kono | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Troides_helena_-_upperside.JPG
+golden-birdwing | Golden Birdwing | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Golden_birdwing_(Troides_aeacus)_male_Bach_Ma.jpg
+common-jay | Common Jay | Gunjan | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Common_Jay_(Graphium_doson).jpg
+five-bar-swordtail | Five-bar Swordtail | Sayan Sanyal | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Close_wing_position_of_Graphium_antiphates,_Cramer,_1775_%E2%80%93_Five-bar_Swordtail_WLB.jpg
+clouded-apollo | Clouded Apollo | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Clouded_apollo_(Parnassius_mnemosyne)_Slivnica.jpg
+large-copper | Large Copper | Didier Descouens | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:(MHNT)_Lycaena_dispar_-_Ka%C5%A1%C4%97tos_-_Lithuania_-_male_dorsal.jpg
+purple-hairstreak | Purple Hairstreak | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Neozephyrus_quercus_(Purple_hairstreak)_male.jpg
+green-hairstreak | Green Hairstreak | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Green_hairstreak_(Callophrys_rubi)_3.jpg
+brown-hairstreak | Brown Hairstreak | Hectonichus | CC0 | https://commons.wikimedia.org/wiki/File:Lycaenidae_-_Thecla_betulae-1.JPG
+white-letter-hairstreak | White-letter Hairstreak | Ian Kirk from Broadstone, Dorset, UK | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:White_Letter_Hairstreak_(9430716950).jpg
+duke-of-burgundy | Duke of Burgundy | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Duke_of_Burgundy_(Hamearis_lucina)_male.jpg
+marsh-fritillary | Marsh Fritillary | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Marsh_fritillary_(Euphydryas_aurinia)_male.jpg
+glanville-fritillary | Glanville Fritillary | Gilles San Martin from Namur, Belgium | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Melitaea_cinxia_(3722394380).jpg
+large-blue | Large Blue | PJC&amp;Co | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Maculinea_arion_Large_Blue_Upperside_SFrance_2009-07-18.jpg
+silver-studded-blue | Silver-studded Blue | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Silver-studded_blue_(Plebeius_argus)_male.jpg
+long-tailed-blue | Long-tailed Blue | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Long-tailed_blue_(Lampides_boeticus)_Corfu.jpg
+wall-brown | Wall Brown | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Wall_(Lasiommata_megera)_male_Italy.jpg
+grayling | Grayling | Katja Schäfer | CC BY-SA 3.0 de | https://commons.wikimedia.org/wiki/File:Hipparchia_semele.jpg
+yellow-tail-moth | Yellow-tail Moth | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Yellow_tail_(Euproctis_similis)_female.jpg
+oak-eggar-moth | Oak Eggar Moth | Unknown | Attribution | https://commons.wikimedia.org/wiki/File:Lasiocampa_quercus01.jpg
+queen-alexandras-birdwing | Alexandra's Birdwing | Peter Wing | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:013602433_Ornithoptera_alexandrae_dorsal_female.jpg
+homerus-swallowtail | Homerus Swallowtail | Robert Nash, robert.nash at magni.org.uk | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Papilio_homerus_ulster.jpg
+luzon-peacock-swallowtail | Luzon Peacock | Anaxibia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Papilio_chikae_male.JPG
+palawan-birdwing | Palawan Birdwing | Ctac | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Trogonoptera_trojana_Honr.jpg
+wallaces-golden-birdwing | Wallace's Birdwing | Notafly | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ocroesus.jpg
+chimaera-birdwing | Chimaera Birdwing | Anaxibia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ornithoptera_chimaera_charybdis.jpg
+african-giant-swallowtail | African Giant Swallowtail | Robert Nash, Curator of Entomology,Ulster Museum | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Antimachus.jpg
+mocker-swallowtail | Mocker Swallowtail | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:African_swallowtail_(Papilio_dardanus_antinorii_)_male.jpg
+emperor-swallowtail | Emperor Swallowtail | Ryan van Huyssteen | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Papilio_ophidicephalus_-_Ryan_van_Huyssteen_-_252897488.jpeg
+regent-skipper | Regent Skipper | Greg Tasney | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Euschemon_rafflesia_102864756.jpg
+green-banded-urania | Green-banded Urania | Filo gèn' | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Urania_leilus_(Uraniidae).jpg
+hercules-moth | Hercules Moth | division, CSIRO | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_415_Hercules_Moth_Larva_Saturnidae_Family.jpg
+suraka-silk-moth | Suraka Silk Moth | Frank Vassen | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Suraka_Silk_Moth_(Antherina_suraka),_Vohimana_reserve,_Madagascar.jpg
+owl-moth | Owl Moth | Arthur Chapman | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Brahmaea_wallichii_insulata_(Brahmeid_Moth).jpg
+wallaces-sphinx-moth | Wallace's Sphinx Moth | Esculapio | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:NHM_Xanthopan_morgani.jpg
+corsican-swallowtail | Corsican Swallowtail | Carlo Caimi | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Papilio_hospiton.png
+lesser-purple-emperor | Lesser Purple Emperor | Kim Huskens | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Apatura_metis_-_Nature_Conservation-001-073-g032.jpg
+cardinal-butterfly | Cardinal Butterfly | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Argynnis.pandora.jpg
+nickerbean-blue | Nickerbean Blue | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Lucas%27s_blue_(Cyclargus_ammon_erembis)_male.JPG
+miami-blue | Miami Blue | U.S. Fish and Wildlife Service Southeast Region | Public domain | https://commons.wikimedia.org/wiki/File:Miami_blue_butterfly_2_(7048230399).jpg
+karner-blue | Karner Blue | USFWS Midwest Region | Public domain | https://commons.wikimedia.org/wiki/File:Plebejus_samuelis,_im_Waushara_County,_Wisconsin.jpg
+fenders-blue | Fender's Blue | U.S. Army Corps of Engineers, photographer unknown | Public domain | https://commons.wikimedia.org/wiki/File:Fenders_blue_butterfly_Oregon.jpg
+schaus-swallowtail | Schaus' Swallowtail | U.S. Fish and Wildlife Service Southeast Region | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Schaus_Swallowtail_Butterfly_(14359659735).jpg
+malabar-banded-peacock | Malabar Banded Peacock | Vinayaraj | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Papilio_buddha_Westwood,_1872_%E2%80%93_Malabar_Banded_Peacock_at_Peravoor_(1).jpg
+miranda-birdwing | Miranda Birdwing | Robert Nash Curator of Entomology Ulster Museum | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Troidesmiranda.jpg

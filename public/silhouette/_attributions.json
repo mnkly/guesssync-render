@@ -1,0 +1,702 @@
+{
+ "elephant": {
+  "name": "Elephant",
+  "nodeTitle": "Loxodonta africana",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/62398ac0-f0c3-48f8-8455-53512a05fbc4/vector.svg"
+ },
+ "giraffe": {
+  "name": "Giraffe",
+  "nodeTitle": "Giraffa camelopardalis",
+  "attribution": "Bernard Dupont (photograph) and T. Michael Keesey (tracing)",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/b35f867d-26e8-4c48-806e-0f07f18b1844/vector.svg"
+ },
+ "kangaroo": {
+  "name": "Kangaroo",
+  "nodeTitle": "Macropus",
+  "attribution": "Mathew Callaghan",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/46cc984c-240f-461f-a8d4-7dcf3e0088d9/vector.svg"
+ },
+ "penguin": {
+  "name": "Penguin",
+  "nodeTitle": "Aptenodytes",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/21c50828-58d8-42df-9219-2c1b0fb57c99/vector.svg"
+ },
+ "cat": {
+  "name": "Cat",
+  "nodeTitle": "Felis lybica",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/e9f41f59-d708-47aa-a705-ba9b8826ebc6/vector.svg"
+ },
+ "dog": {
+  "name": "Dog",
+  "nodeTitle": "Canis familiaris familiaris",
+  "attribution": "David Orr",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/4d83a0cd-cf06-4a32-9a5a-0a6b644158c1/vector.svg"
+ },
+ "horse": {
+  "name": "Horse",
+  "nodeTitle": "Equus ferus",
+  "attribution": "Mercedes Yrayzoz (vectorized by T. Michael Keesey)",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/85d95128-912c-427a-9542-138e1dbf5651/vector.svg"
+ },
+ "rabbit": {
+  "name": "Rabbit",
+  "nodeTitle": "Oryctolagus cuniculus",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/1e15411c-5394-4a9d-a209-76c8ac0c331d/vector.svg"
+ },
+ "flamingo": {
+  "name": "Flamingo",
+  "nodeTitle": "Phoenicopterus",
+  "attribution": "Lee Harding (photo), John E. McCormack, Michael G. Harvey, Brant C. Faircloth, Nicholas G. Crawford, Travis C. Glenn, Robb T. Brumfield & T. Michael Keesey",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/749b9110-4fb3-43c8-aaea-086f1c203c3a/vector.svg"
+ },
+ "camel": {
+  "name": "Camel",
+  "nodeTitle": "Camelus dromedarius",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/e52676dd-272c-4b14-8c99-ea5dc98942e5/vector.svg"
+ },
+ "deer": {
+  "name": "Deer",
+  "nodeTitle": "Odocoileus virginianus",
+  "attribution": "Tracy A. Heath",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/56f6fdb2-15d0-43b5-b13f-714f2cb0f5d0/vector.svg"
+ },
+ "squirrel": {
+  "name": "Squirrel",
+  "nodeTitle": "Sciurus",
+  "attribution": "Ferran Sayol",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/23c700c9-e695-404a-8d0c-146e1fc4bada/vector.svg"
+ },
+ "bat": {
+  "name": "Bat",
+  "nodeTitle": "Chiroptera",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/0d386ce5-28e2-407c-b985-c1aac350bd1a/vector.svg"
+ },
+ "swan": {
+  "name": "Swan",
+  "nodeTitle": "Cygnus",
+  "attribution": "An Ignorant Atheist",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/05cd7d8c-6b2c-4b97-b7b8-053559019eeb/vector.svg"
+ },
+ "peacock": {
+  "name": "Peacock",
+  "nodeTitle": "Pavo cristatus",
+  "attribution": "Cathy",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/631543cd-0e41-43b6-a325-335a06b2045e/vector.svg"
+ },
+ "rooster": {
+  "name": "Rooster",
+  "nodeTitle": "Gallus gallus",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/aff847b0-ecbd-4d41-98ce-665921a6d96e/vector.svg"
+ },
+ "pig": {
+  "name": "Pig",
+  "nodeTitle": "Sus scrofa domestica",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/008d6d88-d1be-470a-8c70-73625c3fb4fb/vector.svg"
+ },
+ "cow": {
+  "name": "Cow",
+  "nodeTitle": "Bos primigenius",
+  "attribution": "DFoidl (modified by T. Michael Keesey)",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/ea92020a-298a-4977-b6d3-dccbe816bb5e/vector.svg"
+ },
+ "sheep": {
+  "name": "Sheep",
+  "nodeTitle": "Ovis aries",
+  "attribution": "Gabriela Palomo-Munoz",
+  "license": "https://creativecommons.org/licenses/by-nc/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/a9297cbd-10ca-457b-b5d5-a0b038720df7/vector.svg"
+ },
+ "duck": {
+  "name": "Duck",
+  "nodeTitle": "Anas platyrhynchos",
+  "attribution": "Maija Karala",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/3ceaa22b-8879-4545-9e32-425010f33cd4/vector.svg"
+ },
+ "fox": {
+  "name": "Fox",
+  "nodeTitle": "Vulpes vulpes",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/51b1b6e4-129d-41a6-bbbd-c3fab459c25f/vector.svg"
+ },
+ "wolf": {
+  "name": "Wolf",
+  "nodeTitle": "Canis lupus",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/5036f260-5a0d-42c5-a0bd-9eb0729e54e0/vector.svg"
+ },
+ "bear": {
+  "name": "Bear",
+  "nodeTitle": "Ursus americanus",
+  "attribution": "Tracy A. Heath",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/5a5dafa2-6388-43b8-a15a-4fd21cd17594/vector.svg"
+ },
+ "lion": {
+  "name": "Lion",
+  "nodeTitle": "Panthera leo",
+  "attribution": "PhyloPic contributor",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/e2015ba3-4f7e-4950-9bde-005e8678d77b/vector.svg"
+ },
+ "tiger": {
+  "name": "Tiger",
+  "nodeTitle": "Panthera tigris",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/e148eabb-f138-43c6-b1e4-5cda2180485a/vector.svg"
+ },
+ "zebra": {
+  "name": "Zebra",
+  "nodeTitle": "Equus quagga",
+  "attribution": "Cathy",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/3f18d263-3f53-4b88-a496-e21982ddc5ef/vector.svg"
+ },
+ "rhino": {
+  "name": "Rhino",
+  "nodeTitle": "Rhinocerotidae",
+  "attribution": "Michael Tripoli",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "svgUrl": "https://images.phylopic.org/images/8e105563-f5a2-4613-a59d-ac1a155fb09b/vector.svg"
+ },
+ "hippo": {
+  "name": "Hippo",
+  "nodeTitle": "Hippopotamus amphibius",
+  "attribution": "Evan Boucher",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/3769e205-b10c-4aab-affc-b4f0302f4eaa/vector.svg"
+ },
+ "gorilla": {
+  "name": "Gorilla",
+  "nodeTitle": "Gorilla gorilla",
+  "attribution": "T. Michael Keesey (after Colin M. L. Burnett)",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/d9af529d-e426-4c7a-922a-562d57a7872e/vector.svg"
+ },
+ "monkey": {
+  "name": "Monkey",
+  "nodeTitle": "Macaca",
+  "attribution": "PhyloPic contributor",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/eedde61f-3402-4f7c-9350-49b74f5e1dba/vector.svg"
+ },
+ "koala": {
+  "name": "Koala",
+  "nodeTitle": "Phascolarctos cinereus",
+  "attribution": "Sarah Werning",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/8a06d489-024f-4505-8ccb-f86e84e00e75/vector.svg"
+ },
+ "panda": {
+  "name": "Panda",
+  "nodeTitle": "Ailuropoda melanoleuca",
+  "attribution": "PhyloPic contributor",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/4b1f7a58-8713-4d6e-a130-4c8a1ac2f749/vector.svg"
+ },
+ "moose": {
+  "name": "Moose",
+  "nodeTitle": "Alces alces",
+  "attribution": "Rebecca Collins",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/df2d0ad0-adb0-49d7-afe5-edc6cad21064/vector.svg"
+ },
+ "elk": {
+  "name": "Elk",
+  "nodeTitle": "Cervus canadensis",
+  "attribution": "Tracy A. Heath",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/97f83f5e-9afe-4ce8-812e-337f506ca841/vector.svg"
+ },
+ "goat": {
+  "name": "Goat",
+  "nodeTitle": "Capra aegagrus hircus",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/c39a1d31-eb36-4b62-ba4d-32e29e0e5a8d/vector.svg"
+ },
+ "turtle": {
+  "name": "Turtle",
+  "nodeTitle": "Testudines",
+  "attribution": "Scott Hartman",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/0bdf6f08-3b9e-41a3-aec2-5ae1ee3f0a47/vector.svg"
+ },
+ "crocodile": {
+  "name": "Crocodile",
+  "nodeTitle": "Crocodylus",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/a796420f-5158-4e96-acbe-e30ef36b26d6/vector.svg"
+ },
+ "ostrich": {
+  "name": "Ostrich",
+  "nodeTitle": "Struthio camelus",
+  "attribution": "Matt Martyniuk (vectorized by T. Michael Keesey)",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/14ddbf4d-7749-4153-bbe1-8d0c6ffdf142/vector.svg"
+ },
+ "pelican": {
+  "name": "Pelican",
+  "nodeTitle": "Pelecanus",
+  "attribution": "Ferran Sayol",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/2a168f51-4016-4a32-ba72-64a53bee31ca/vector.svg"
+ },
+ "crab": {
+  "name": "Crab",
+  "nodeTitle": "Brachyura",
+  "attribution": "H. Filhol (vectorized by T. Michael Keesey)",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/c80c9f0a-4370-404c-8716-38a684d52239/vector.svg"
+ },
+ "octopus": {
+  "name": "Octopus",
+  "nodeTitle": "Octopus",
+  "attribution": "PhyloPic contributor",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/d115b40d-efe3-487e-bed1-4f6aace5c814/vector.svg"
+ },
+ "dolphin": {
+  "name": "Dolphin",
+  "nodeTitle": "Tursiops truncatus",
+  "attribution": "Chris huh",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/0b5c6b41-3a44-4c9e-869a-63ed54bf7c65/vector.svg"
+ },
+ "whale": {
+  "name": "Whale",
+  "nodeTitle": "Balaenoptera novaeangliae",
+  "attribution": "Chris huh",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/ce70490a-79a5-47fc-afb9-834e45803ab4/vector.svg"
+ },
+ "shark": {
+  "name": "Shark",
+  "nodeTitle": "Carcharodon carcharias",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/545d45f0-0dd1-4cfd-aad6-2b835223ea0d/vector.svg"
+ },
+ "seahorse": {
+  "name": "Seahorse",
+  "nodeTitle": "Hippocampus",
+  "attribution": "Kelly",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/1ce0d9a9-c644-4cc6-b4b3-02e2e7aa2266/vector.svg"
+ },
+ "snail": {
+  "name": "Snail",
+  "nodeTitle": "Helix pomatia",
+  "attribution": "Martin R. Smith, from photo by Jürgen Schoner",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/d8f236a7-e36b-4313-9162-8f2dead31a8a/vector.svg"
+ },
+ "frog": {
+  "name": "Frog",
+  "nodeTitle": "Anura",
+  "attribution": "Auckland Museum and T. Michael Keesey",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/01a21193-6599-463c-a5f0-75b6fe03189d/vector.svg"
+ },
+ "hedgehog": {
+  "name": "Hedgehog",
+  "nodeTitle": "Erinaceus europaeus",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/6ecff71e-fcfc-4cb9-b773-9e6e21607587/vector.svg"
+ },
+ "raccoon": {
+  "name": "Raccoon",
+  "nodeTitle": "Procyon lotor",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/52193065-f85e-4e4d-a677-11d08aed8c2e/vector.svg"
+ },
+ "cheetah": {
+  "name": "Cheetah",
+  "nodeTitle": "Acinonyx jubatus",
+  "attribution": "nicubunu",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/6290407d-2193-4d97-a194-2a7afc8f89c6/vector.svg"
+ },
+ "leopard": {
+  "name": "Leopard",
+  "nodeTitle": "Panthera pardus",
+  "attribution": "Lukasiniho",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/5e900306-3a5e-4193-8a94-74cc765f0aaf/vector.svg"
+ },
+ "jaguar": {
+  "name": "Jaguar",
+  "nodeTitle": "Panthera onca",
+  "attribution": "Lukasiniho",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/08d6595a-aaff-4e13-ab6a-5458719194c6/vector.svg"
+ },
+ "hyena": {
+  "name": "Hyena",
+  "nodeTitle": "Crocuta crocuta",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/a160fd31-c6ba-4bd1-b2a1-dbd77014139d/vector.svg"
+ },
+ "wildebeest": {
+  "name": "Wildebeest",
+  "nodeTitle": "Connochaetes",
+  "attribution": "Lukasiniho",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/020a207e-4e91-4939-95b5-6951afae2b69/vector.svg"
+ },
+ "buffalo": {
+  "name": "Buffalo",
+  "nodeTitle": "Syncerus caffer",
+  "attribution": "Jan A. Venter, Herbert H. T. Prins, David A. Balfour & Rob Slotow (vectorized by T. Michael Keesey)",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/414644c7-12c9-4ecd-b336-ac4f8f981b47/vector.svg"
+ },
+ "bison": {
+  "name": "Bison",
+  "nodeTitle": "Bos bison",
+  "attribution": "Tracy A. Heath",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/d44d834e-1c32-4a08-a5d5-f30139de4450/vector.svg"
+ },
+ "walrus": {
+  "name": "Walrus",
+  "nodeTitle": "Odobenus rosmarus",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/16cfde1b-d577-4de8-82b9-62b760aacba5/vector.svg"
+ },
+ "seal": {
+  "name": "Seal",
+  "nodeTitle": "Phocidae",
+  "attribution": "Jakovche",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/64c27f60-ffbf-4ee8-ae1e-726042c477ff/vector.svg"
+ },
+ "otter": {
+  "name": "Otter",
+  "nodeTitle": "Lutra lutra",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/3cdae098-058b-4ce2-8f46-ad3101b624db/vector.svg"
+ },
+ "beaver": {
+  "name": "Beaver",
+  "nodeTitle": "Castor canadensis",
+  "attribution": "PhyloPic contributor",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/b3dd721e-6084-4413-8300-44e10d8fd3ca/vector.svg"
+ },
+ "chipmunk": {
+  "name": "Chipmunk",
+  "nodeTitle": "Tamias striatus",
+  "attribution": "Chloé Schmidt",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/6239499e-114f-4828-bb0c-643351c70b9c/vector.svg"
+ },
+ "mole": {
+  "name": "Mole",
+  "nodeTitle": "Talpidae",
+  "attribution": "PhyloPic contributor",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/09ca6201-fd21-4d68-b0d0-af649c74d3cc/vector.svg"
+ },
+ "armadillo": {
+  "name": "Armadillo",
+  "nodeTitle": "Dasypodidae",
+  "attribution": "Charles R. Knight, vectorized by Zimices",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/3a167b34-82f9-4394-a3b0-4635716ca0eb/vector.svg"
+ },
+ "anteater": {
+  "name": "Anteater",
+  "nodeTitle": "Myrmecophaga tridactyla",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/d52b48fc-be52-46a1-94b7-ac7790b4730c/vector.svg"
+ },
+ "sloth": {
+  "name": "Sloth",
+  "nodeTitle": "Bradypus",
+  "attribution": "Sarah Werning",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/925fa570-10d9-4319-bd8a-e64ad7987900/vector.svg"
+ },
+ "meerkat": {
+  "name": "Meerkat",
+  "nodeTitle": "Suricata suricatta",
+  "attribution": "T. Michael Keesey",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/71cc5f62-d26d-4ea9-8637-c8ac39ea1533/vector.svg"
+ },
+ "mongoose": {
+  "name": "Mongoose",
+  "nodeTitle": "Herpestidae",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/d8d7eb8f-2f0d-429d-9cf3-d63544cb3a7e/vector.svg"
+ },
+ "wombat": {
+  "name": "Wombat",
+  "nodeTitle": "Vombatus ursinus",
+  "attribution": "Sarah Werning",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/35fa51dc-e912-4158-97c4-d2088ea7abbc/vector.svg"
+ },
+ "platypus": {
+  "name": "Platypus",
+  "nodeTitle": "Ornithorhynchus anatinus",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/61932f57-1fd2-49d9-bb86-042d6005581a/vector.svg"
+ },
+ "tapir": {
+  "name": "Tapir",
+  "nodeTitle": "Tapirus",
+  "attribution": "Zimices",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/21142af0-58f1-494d-8b2c-b2d9d0eada4c/vector.svg"
+ },
+ "warthog": {
+  "name": "Warthog",
+  "nodeTitle": "Phacochoerus africanus",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/b1a641cd-25df-4dd0-865f-1a2728bd267e/vector.svg"
+ },
+ "boar": {
+  "name": "Boar",
+  "nodeTitle": "Sus scrofa",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/3d8acaf6-4355-491e-8e86-4a411b53b98b/vector.svg"
+ },
+ "lynx": {
+  "name": "Lynx",
+  "nodeTitle": "Lynx lynx",
+  "attribution": "Gabriela Palomo-Munoz",
+  "license": "https://creativecommons.org/licenses/by-nc/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/24f763a3-accf-44c9-9a08-71e9834047b7/vector.svg"
+ },
+ "bobcat": {
+  "name": "Bobcat",
+  "nodeTitle": "Lynx rufus",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/ab6cfd4f-aef7-40fa-b5a5-1b79b7d112aa/vector.svg"
+ },
+ "pangolin": {
+  "name": "Pangolin",
+  "nodeTitle": "Manis",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/f628f6fe-6e2d-4173-a20f-265dc7d2d04f/vector.svg"
+ },
+ "aardvark": {
+  "name": "Aardvark",
+  "nodeTitle": "Orycteropus afer",
+  "attribution": "Pearson Scott Foresman",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/cfee2dca-3767-46b8-8d03-bd8f46e79e9e/vector.svg"
+ },
+ "okapi": {
+  "name": "Okapi",
+  "nodeTitle": "Okapia johnstoni",
+  "attribution": "T. Michael Keesey",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/44eea793-5a86-4801-ac56-0962e62491d8/vector.svg"
+ },
+ "tarsier": {
+  "name": "Tarsier",
+  "nodeTitle": "Tarsiidae",
+  "attribution": "Yan Wong",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/f598fb39-facf-43ea-a576-1861304b2fe4/vector.svg"
+ },
+ "fossa": {
+  "name": "Fossa",
+  "nodeTitle": "Cryptoprocta ferox",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/7546aa75-8b04-4025-975c-7472c1f7fa5f/vector.svg"
+ },
+ "binturong": {
+  "name": "Binturong",
+  "nodeTitle": "Arctictis binturong",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/d7471762-ce76-45d9-bd25-e422188fb9e3/vector.svg"
+ },
+ "quokka": {
+  "name": "Quokka",
+  "nodeTitle": "Setonix brachyurus",
+  "attribution": "T. Michael Keesey (photo by Sean Mack)",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/abd569c8-126c-4211-9304-5bb58be0666c/vector.svg"
+ },
+ "numbat": {
+  "name": "Numbat",
+  "nodeTitle": "Myrmecobius fasciatus",
+  "attribution": "Sarah Werning",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/decf3474-61e7-4b5c-a3aa-d5adb13d89cb/vector.svg"
+ },
+ "duiker": {
+  "name": "Duiker",
+  "nodeTitle": "Sylvicapra grimmia",
+  "attribution": "PhyloPic contributor",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/c9aaafb0-bbab-43b7-b2a8-077ae0799b96/vector.svg"
+ },
+ "gerenuk": {
+  "name": "Gerenuk",
+  "nodeTitle": "Litocranius walleri",
+  "attribution": "Andrew A. Farke",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/999c5343-2b8f-4277-ae8c-83289f18b644/vector.svg"
+ },
+ "blackbuck": {
+  "name": "Blackbuck",
+  "nodeTitle": "Antilope cervicapra",
+  "attribution": "Kai Caspar",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/6a27e653-72b2-4035-bc26-643ba71cdd22/vector.svg"
+ },
+ "kudu": {
+  "name": "Kudu",
+  "nodeTitle": "Tragelaphus",
+  "attribution": "Robert Hering",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/e590147d-93c5-4d81-bbbf-bd1410cf8135/vector.svg"
+ },
+ "takin": {
+  "name": "Takin",
+  "nodeTitle": "Budorcas taxicolor",
+  "attribution": "Kai Caspar",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/efd552a3-5639-4d6c-a7a0-bab8eb9149da/vector.svg"
+ },
+ "serval": {
+  "name": "Serval",
+  "nodeTitle": "Leptailurus serval",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/01895510-7c27-489d-b441-6f72b1f562d2/vector.svg"
+ },
+ "caracal": {
+  "name": "Caracal",
+  "nodeTitle": "Caracal caracal",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/0495f1b4-f9a0-4ba7-ae8f-bd89aa104c42/vector.svg"
+ },
+ "ocelot": {
+  "name": "Ocelot",
+  "nodeTitle": "Leopardus pardalis",
+  "attribution": "Gabriela Palomo-Munoz",
+  "license": "https://creativecommons.org/licenses/by-nc/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/2fc7bbbf-8ca7-48fb-8495-d351cd3b1f99/vector.svg"
+ },
+ "margay": {
+  "name": "Margay",
+  "nodeTitle": "Leopardus wiedii",
+  "attribution": "Gabriela Palomo-Munoz",
+  "license": "https://creativecommons.org/licenses/by-nc/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/6442f5ad-5a4a-4b54-b14e-94cf4c725f67/vector.svg"
+ },
+ "genet": {
+  "name": "Genet",
+  "nodeTitle": "Genetta",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/dd0ebaad-62b5-44ce-b8bf-2db5d0fb83b5/vector.svg"
+ },
+ "civet": {
+  "name": "Civet",
+  "nodeTitle": "Viverridae",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/621471cc-9e39-4269-8460-ba1f47a1a0f7/vector.svg"
+ },
+ "coati": {
+  "name": "Coati",
+  "nodeTitle": "Nasua",
+  "attribution": "Rebecca Groom",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/ce11c0ef-cc95-4ffd-ae38-9fd57dd1682b/vector.svg"
+ },
+ "kinkajou": {
+  "name": "Kinkajou",
+  "nodeTitle": "Potos flavus",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/1efc1026-6bc4-4a7f-9fe7-a341b83ca38c/vector.svg"
+ },
+ "capybara": {
+  "name": "Capybara",
+  "nodeTitle": "Hydrochoerus hydrochaeris",
+  "attribution": "Steven Traver",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/097336ef-db5f-4edc-a2e4-2c29a10aa512/vector.svg"
+ },
+ "agouti": {
+  "name": "Agouti",
+  "nodeTitle": "Dasyprocta",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/7cd56d09-bc93-4974-9e87-65fa1f04652f/vector.svg"
+ },
+ "paca": {
+  "name": "Paca",
+  "nodeTitle": "Cuniculus paca",
+  "attribution": "Margot Michaud",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/b6c7dab1-a2f8-43f6-98d5-ab6000f58957/vector.svg"
+ },
+ "dhole": {
+  "name": "Dhole",
+  "nodeTitle": "Cuon alpinus",
+  "attribution": "AnAgnosticGod (vectorized by T. Michael Keesey)",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "svgUrl": "https://images.phylopic.org/images/0bdb6532-0fa9-4ae7-992c-5b04a58d04d2/vector.svg"
+ },
+ "owl": {
+  "name": "Owl",
+  "nodeTitle": "Athene noctua",
+  "attribution": "Ferran Sayol",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "svgUrl": "https://images.phylopic.org/images/4e35207e-a75a-4518-8eca-1d574eebfbb4/vector.svg"
+ }
+}

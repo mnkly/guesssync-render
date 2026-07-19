@@ -1,0 +1,106 @@
+GuessSync MUSHROOMS2 - "Guess the Mushroom 2" - Image Attributions
+100 real fungi photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. Files under CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that requirement.
+
+Format:  slug | name | author | license | source
+lobstermushroom | Lobster Mushroom | Sharksbaja | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Hypomyces_lactifluorum.JPG
+splitgill | Split Gill | Bernard Spragg. NZ from Christchurch, New Zealand | CC0 | https://commons.wikimedia.org/wiki/File:Schizophyllum_commune_(Split_gill)_(33389628036).jpg
+commoninkcap | Common Ink Cap | James Lindsey | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Coprinopsis_atramentaria_3_-_Lindsey.jpg
+fairyinkcap | Fairy Inkcap | Alan Rockefeller | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Coprinellus_disseminatus_group.jpg
+dogstinkhorn | Dog Stinkhorn | Holger Krisp | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Gemeine_Hundsrute_Mutinus_caninus.JPG
+winterchanterelle | Winter Chanterelle | Miika Silfverberg from Vantaa, Finland | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Craterellus_tubaeformis_1345904803_69350246bb_o.jpg
+blackmorel | Black Morel | Holger Krisp | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Morchella_elata_Spitzmorchel_Morchella_conica.jpg
+nameko | Nameko | Hillbourne | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pholiota_nameko_culture.JPG
+elmoyster | Elm Oyster | This image was created by user Matt Welter (mattfungus) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hypsizygus_ulmarius_(Bull.)_Redhead_383230.jpg
+falsedeathcap | False Death Cap | Norbert Nagel | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Amanita_citrina_-_Gelber_Knollenbl%C3%A4tterpilz_-_false_death_cap_-_Citron_Amanita_-_Amanita_citrina_-_01.jpg
+whitetruffle | White Truffle | MatthiasKabel | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Truffle_washed_and_cut.jpg
+birchpolypore | Birch Polypore | Captainpixel | Public domain | https://commons.wikimedia.org/wiki/File:Piptoporus_betulinus_55.jpg
+meadowpuffball | Meadow Puffball | bernd gliwa | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Vascellum_pratense_060924a.jpg
+yellowstainer | Yellow Stainer | Velella | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Agaricus_xanthodermus_section.jpg
+falsechanterelle | False Chanterelle | walt sturgeon (Mycowalt) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hygrophoropsis_aurantiaca_241718.jpg
+bitterbolete | Bitter Bolete | Tylopilus_felleus_060914c.jpg: bernd gliwa derivative work: Ak ccm | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:2006-09-14_Tylopilus_felleus_crop.jpg
+foolsmushroom | Fool's Mushroom | Pieria(Uploader and Photographer) | Public domain | https://commons.wikimedia.org/wiki/File:Amanita_verna-02.jpg
+deadlywebcap | Deadly Webcap | Eric Steinert | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cortinarius_rubellus_01.jpg
+deadlydapperling | Deadly Dapperling | User:Strobilomyces | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lepiota_brunneoincarnata_060823w.jpg
+lividpinkgill | Livid Pinkgill | No machine-readable author provided. Archenzo assumed (based on copyright claims). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Entoloma_sinuatum_group.JPG
+commonearthball | Common Earthball | Eric Steinert | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Scleroderma_citrinum.jpg
+magpieinkcap | Magpie Inkcap | George Chernilevsky | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_2024_G1.jpg
+friedchickenmushroom | Fried Chicken | Sui-setz | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lyophyllum_decastes_071012.jpg
+almondmushroom | Almond Mushroom | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Agaricus_subrufescens.jpg
+stumppuffball | Stump Puffball | Sasata | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Lycoperdon_pyriforme_Sasata_scale.jpg
+woollymilkcap | Woolly Milkcap | Tocekas | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lactarius_torminosus_(cropped).jpg
+pepperymilkcap | Peppery Milkcap | This image was created by user Copyright ©2010 Hamilton at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lactarius_piperatus_98569.jpg
+milkwhitebrittlegill | Milk-white Brittlegill | Luridiformis at English Wikipedia | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Russ.del.jpg
+themiller | The Miller | Shmarshall | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Clitopilus_prunulus_-_BC,_2024.jpg
+yellowcrackedbolete | Yellow-cracked Bolete | DavidCiurea28 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Xerocomellus_chrysenteron28.jpg
+chestnutbolete | Chestnut Bolete | Luridiformis at English Wikipedia | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Gyro.cast.jpg
+troopingfunnel | Trooping Funnel | Jean-Pol GRANDMONT | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Clitocybe_geotropa_JPG1.jpg
+sheathedwoodtuft | Sheathed Woodtuft | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Stockschwaemmchen.jpg
+poplarfieldcap | Poplar Fieldcap | Ramiro Barreiro | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Agrocybe_aegerita.jpg
+snowywaxcap | Snowy Waxcap | Andreas Kunze | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:2007-10-20_Cuphophyllus_virgineus.jpg
+goldenwaxcap | Golden Waxcap | Jymm | Public domain | https://commons.wikimedia.org/wiki/File:Hygrocybe_chlorophana.jpg
+weepingwidow | Weeping Widow | This image was created by user Hamilton (ham) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lacrymaria_lacrymabunda_(Bull.)_Pat_173183_crop.jpg
+aniseedfunnel | Aniseed Funnel | Holger Krisp | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Clitocybe-odora.jpg
+yellowfieldcap | Yellow Fieldcap | Lebrac | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Goldmistpilze2.jpg
+ivoryfunnel | Ivory Funnel | Archenzo | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Clitocybe_dealbata_1.jpg
+termitemushroom | Termite Mushroom | Blimeo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Termitomyces_titanicus.jpg
+artistsconk | Artist's Conk | George Chernilevsky | Public domain | https://commons.wikimedia.org/wiki/File:Ganoderma_applanatum_2010_G1.jpg
+oldmanofthewoods | Old Man of the Woods | This image was created by user Patrick Harvey (pg_harvey) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Strobilomyces_floccopus_89374.jpg
+rootingshank | Rooting Shank | James Lindsey | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Xerula.radicata3.-.lindsey.jpg
+commonbonnet | Common Bonnet | Dan Molter (shroomydan) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mycena_60303.jpg
+dungroundhead | Dung Roundhead | Jason Hollinger | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Stropharia_semiglobata_38287.jpg
+blackeningwaxcap | Blackening Waxcap | No machine-readable author provided. Taka assumed (based on copyright claims). | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Hygrocybe_conica_(2005_11_07)_1.jpg
+orangejellyspot | Orange Jelly Spot | This image was created by user Tom (TomRo) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:2011-10-25_Dacrymyces_chrysospermus_Berk._%26_M.A._Curtis_177300.jpg
+chickenfatsuillus | Chicken Fat Suillus | Alan Rockefeller | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Suillus_americanus_Mt_Hood_Oregon.jpg
+deershield | Deer Shield | Reinhold Möller Ermell | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Rehbrauner_Dachpilz_Bruderwald-20251017-RM-164830.jpg
+combtoothfungus | Comb Tooth | This image was created by user Patrick Harvey (pg_harvey) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:2009-09-25_Hericium_coralloides_(Scop.)_Pers_58068_crop.jpg
+blackbulgar | Black Bulgar | Pethan at Dutch Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bulgaria_inquinans_volwassen.jpg
+devilsurn | Devil's Urn | Alan Cressler | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Urnula_craterium_mature.jpg
+jellybabyfungus | Jelly Baby | Holger Krisp | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Gr%C3%BCngelbes_Gallertk%C3%A4ppchen_Leotia_lubrica.JPG
+bleedingfairyhelmet | Bleeding Fairy Helmet | Alan Rockefeller | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Haematopus-on-oak.jpg
+powderypiggyback | Powdery Piggyback | Dan Molter | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Asterophora_lycoperdoides_15966.jpg
+deadlyconecap | Deadly Conecap | Michael (inski) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pholiotina_rugosa_62373.jpg
+ergotfungus | Ergot Fungus | Dominique Jacquin | Public domain | https://commons.wikimedia.org/wiki/File:Claviceps_purpurea.JPG
+elfinsaddle | Elfin Saddle | Kineticcrusher | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Helvella_lacunosa_(south_BC).jpg
+whitesaddle | White Saddle | Jean-Pol GRANDMONT | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:0_Helvella_crispa_-_Havr%C3%A9_(1).JPG
+deadlyparasol | Deadly Parasol | Alan Rockefeller | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Chlorophyllum_molybdites_Guadalajara.jpg
+angelwings | Angel Wings | Strobilomyces | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pleurocybella_050919low.jpg
+sulphurknight | Sulphur Knight | Strobilomyces | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tricholoma_sulphureum_031123w.jpg
+earthtongue | Earth Tongue | This image was created by user Nathan Wilson (nathan) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:2004-07-17_Geoglossum_fallax_E.J._Durand_422.jpg
+beechwoodsickener | Beechwood Sickener | Luridiformis at English Wikipedia | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Russ_nobilis.jpg
+blackfootpolypore | Blackfoot Polypore | Dan Molter | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Polyporus_badius_19482.jpg
+luridbolete | Lurid Bolete | This image was created by user Steinpilz at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:2010-09-13_Boletus_luridus_Schaeff_104527_crop.jpg
+satansbolete | Satan's Bolete | Photo by Archenzo. Northern Apennine Mountains (Appennino piacentino). | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Boletus_satanas.JPG
+tigerknight | Tiger Knight | Eric Steinert | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tricholoma_filamentosum_01.jpg
+bleedingmilkcap | Bleeding Milkcap | Holger Krisp | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Weinroter_Kiefern-Reizker_Lactarius_sanguifluus.jpg
+redbeltedpolypore | Red-belted Polypore | This image was created by user Jason Hollinger (jason) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Fomitopsis_pinicola_109142.jpg
+hairycurtaincrust | Hairy Curtain Crust | Ermell | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Striegeliger_Schichtpilz-Stereum_hirsutum-20191216-RM-150832.jpg
+lilacbonnet | Lilac Bonnet | Thomas Pruß | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Rettichhelmling002.JPG
+shaggybracket | Shaggy Bracket | Björn Appel (= User:Warden) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Inonotus-hispidus01.jpg
+abortedentoloma | Aborted Entoloma | Emmett Collins-Sussman | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Entoloma_abortivum_324197102.jpg
+poisonfirecoral | Poison Fire Coral | Kouchan | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Podostroma_cornu-damae.jpg
+basketstinkhorn | Basket Stinkhorn | Bernard Spragg. NZ from Christchurch, New Zealand | Public domain | https://commons.wikimedia.org/wiki/File:Basket_Fungi._(51221891653).jpg
+squidstinkhorn | Squid Stinkhorn | Jon (watchcat) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pseudocolus_fusiformis_423862.jpg
+deadmansfoot | Dead Man's Foot | Paul venter | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pisolithus_arhizus02.jpg
+earpickfungus | Earpick Fungus | Alan Rockefeller | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Auriscalpium_vulgare_129877.jpg
+cedarapplerust | Cedar-apple Rust | Bbalogh (talk) (Uploads) | Public domain | https://commons.wikimedia.org/wiki/File:Cedar-apple_rust_2.jpg
+cornsmut | Corn Smut | Jamain | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ustilago_maydis_J1b.jpg
+falsetruffle | False Truffle | Lamiot | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:ElaphomycesGranulatus.jpg
+hairyrubbercup | Hairy Rubber Cup | This image was created by user Dan Molter (shroomydan) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Galiella_rufa_87995.jpg
+mazegillfungus | Mazegill Fungus | Dominicus Johannes Bergsma | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Doolhofzwam_(Daedalea_quercina)_30-11-2022._(d.j.b).jpg
+zombieantfungus | Zombie Ant Fungus | walt sturgeon (Mycowalt) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ophiocordyceps_unilateralis_group_346872.jpg
+barometerearthstar | Barometer Earthstar | Richard Sullivan (enchplant) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Astraeus_hygrometricus_122239.jpg
+toothedjellyfungus | Toothed Jelly Fungus | Paul Bowyer | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pseudohydnum_gelatinosum_Abernethy_Forest.jpg
+dryrotfungus | Dry Rot Fungus | User:Gerhard Elsner | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hausschwamm.jpg
+bicolorbolete | Bicolor Bolete | This image was created by user Dan Molter (shroomydan) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Boletus_bicolor_89542.jpg
+silkyrosegill | Silky Rosegill | Alan Rockefeller | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Volvopluteus_SoCal.jpg
+willowbracket | Willow Bracket | George Chernilevsky | Public domain | https://commons.wikimedia.org/wiki/File:Phellinus_igniarius_Oak_2009_G1.jpg
+hareearfungus | Hare's Ear Fungus | Lebrac | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Eselsohren_Otidea_onotica.jpg
+rufousmilkcap | Rufous Milkcap | Zonda Grattus, aka Luridiformis at en.wikipedia (the sole owner and copyright holder of this image) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Lact.ruf.jpg
+lilacoysterling | Lilac Oysterling | Richard Sullivan | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Panus-conchatus.jpg
+lumpybracket | Lumpy Bracket | Jean-Pol GRANDMONT | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Trametes_gibbosa_JPG1.jpg
+rubystinkhorn | Ruby Stinkhorn | This image was created by user John S. Harper (jsharper) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Phallus_rubicundus_44395.jpg
+purpleporebracket | Purplepore Bracket | James Lindsey | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Trichaptum.abietinum.-.lindsey.jpg
+cloudearfungus | Cloud Ear Fungus | This image was created by user Herbario Nacional de Bolivia - Univ. Mayor de San Andrés (LPB.UMSA) at Mushroom Observer, a source for mycological images.You can contact this user here. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:2010-05-10_Auricularia_nigricans_(Fr.-_Fr.)_Birkebak,_Looney,_%26_S%C3%A1nchez-Garc%C3%ADa_202799.jpg
+greenpepe | Green Pepe | self | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mycena_chlorophos.jpg

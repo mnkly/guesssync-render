@@ -1,0 +1,106 @@
+GuessSync SEA2 - "Guess the Sea Creature v2" - Image Attributions
+100 real marine-animal photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. Files under CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that requirement.
+Generated 2026-07-19. Format:  slug | name | author | license | source
+
+gray-whale | Gray Whale | José Eugenio Gómez Rodríguez | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Ballena_gris_adulta_con_su_ballenato.jpg
+blue-whale | Blue Whale | NOAA Photo Library | Public domain | https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg
+sperm-whale | Sperm Whale | Gabriel Barathieu | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Mother_and_baby_sperm_whale.jpg
+fin-whale | Fin Whale | Aqqa Rosing-Asvid - Visit Greenland | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Finhval_(1).jpg
+minke-whale | Minke Whale | National Marine Sanctuaries | Public domain | https://commons.wikimedia.org/wiki/File:SBNMS_-_Minke_Whale_-_Breach_(28670557361).jpg
+right-whale | Right Whale | National Marine Sanctuaries | Public domain | https://commons.wikimedia.org/wiki/File:GRNMS_-_Right_Whales_(31361234602).jpg
+pilot-whale | Pilot Whale | gailhampshire from Cradley, Malvern, U.K | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Pilot_Whale_-_Flickr_-_gailhampshire.jpg
+dugong | Dugong | Gejuni | CC BY-SA 3.0 de | https://commons.wikimedia.org/wiki/File:Dugong.JPG
+elephant-seal | Elephant Seal | Antoine Lamielle | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2020-11_Kerguelen_Islands_-_Southern_elephant_seal_30.jpg
+leopard-seal | Leopard Seal | Godot13 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_(Hydrurga_leptonyx)_04.jpg
+harp-seal | Harp Seal | Brian Gratwicke from DC, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Harp_Seal_(Pagophilus_groenlandicus),_Greenland_Sea_IMG_5075.jpg
+spinner-dolphin | Spinner Dolphin | Chris_huh | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Spinner_dolphin_size.svg
+giant-squid | Giant Squid | Marc Watkins | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Giant_squid,_Spirit_Tour,_Natural_History_Museum,_London_02.JPG
+humboldt-squid | Humboldt Squid | ZoologicalLee | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Humbolt_squid_tentacles_and_beak.jpg
+box-jellyfish | Box Jellyfish | Avispa marina.jpg: Guido Gautsch, Toyota, Japan derivative work: Mithril (talk) | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Avispa_marina_cropped.png
+portuguese-man-o-war | Man O' War | Image courtesy of Islands in the Sea 2002, NOAA/OER. | Public domain | https://commons.wikimedia.org/wiki/File:Portuguese_Man-O-War_(Physalia_physalis).jpg
+coconut-crab | Coconut Crab | fearlessRich | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Birgus_latro_climbing.jpg
+king-crab | King Crab | Dr. Roger Mann, VIMS | Public domain | https://commons.wikimedia.org/wiki/File:Spider_crab.jpg
+spider-crab | Spider Crab | Diego Delso | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Centollo_(Maja_squinado),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2022-07-28,_DD_101-102_FS.jpg
+fiddler-crab | Fiddler Crab | Daderot | CC0 | https://commons.wikimedia.org/wiki/File:Uca_vocans_-_National_Museum_of_Nature_and_Science,_Tokyo_-_DSC07545-002.JPG
+staghorn-coral | Staghorn Coral | Albert Kok at Dutch Wikipedia (Original text: albert kok) | Public domain | https://commons.wikimedia.org/wiki/File:Hertshoon.jpg
+brain-coral | Brain Coral | Unknown | Public domain | https://commons.wikimedia.org/wiki/File:Brain_coral.jpg
+crown-of-thorns-starfish | Crown-of-thorns Star | Matt Wright | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:CrownofThornsStarfish_Fiji_2005-10-12.jpg
+giant-scallop | Giant Scallop | Dann Blackwood, USGS | Public domain | https://commons.wikimedia.org/wiki/File:Placopecten_magellanicus.jpg
+spotted-eagle-ray | Spotted Eagle Ray | the manta ray had a family | Public domain | https://commons.wikimedia.org/wiki/File:Eagle_Ray_Turks_and_Caicos_Dec_15_2006.JPG
+bowhead-whale | Bowhead Whale | Unknown | Public domain | https://commons.wikimedia.org/wiki/File:Bowheads42.jpg
+false-killer-whale | False Killer Whale | Stefan Thiesen Buntrabe | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Pseudoorca_Crassidens_-_False_Killer_Whale.jpg
+rissos-dolphin | Risso's Dolphin | AliceMartinelli8 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Grampo.jpg
+dusky-dolphin | Dusky Dolphin | Unknown | Public domain | https://commons.wikimedia.org/wiki/File:Lagenorhynchus_obscurus.jpg
+weddell-seal | Weddell Seal | This illustration was made by Samuel Blanc. If you plan on using it, an email to samuel @ sblanc.com would be greatly appreciated. | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:B%C3%A9b%C3%A9_Phoque_de_Weddell_-_Baby_Weddell_Seal.jpg
+monk-seal | Monk Seal | E bailey | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hawaiian_monk_seal_close-up_(Neomonachus_schauinslandi).jpg
+ringed-seal | Ringed Seal | NOAA Seal Survey | Public domain | https://commons.wikimedia.org/wiki/File:Pusa_hispida_hispida_NOAA_1.jpg
+vampire-squid | Vampire Squid | National Marine Sanctuaries | Public domain | https://commons.wikimedia.org/wiki/File:MBNMS_juvenile_vampire_squid_(49041024167).jpg
+bigfin-reef-squid | Bigfin Reef Squid | Diego Delso | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Calamar_de_arrecifes_(Sepioteuthis_lessoniana),_Nosy_Iranja,_Madagascar,_2025-09-17,_DD_134.jpg
+dumbo-octopus | Dumbo Octopus | NOAA Okeanos Explorer | Public domain | https://commons.wikimedia.org/wiki/File:Dumbo-hires_(cropped).jpg
+sea-nettle | Sea Nettle Jelly | Jarek Tuszyński | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Washington_DC_Zoo_-_Crysaora_quinquecirrha_9.jpg
+upside-down-jellyfish | Upside-down Jelly | Antonio Sontuoso | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Cassiopea_Jellyfish_(Cotylorhiza_tuberculata)_-_Mar_Jonio,_Italy.jpg
+comb-jelly | Comb Jelly | Steven G. Johnson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Sea_walnut,_Boston_Aquarium.jpg
+ghost-crab | Ghost Crab | Hans Hillewaert | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ocypode_quadrata_(Cahuita).jpg
+sally-lightfoot-crab | Sally Lightfoot Crab | Nosferattus | CC0 | https://commons.wikimedia.org/wiki/File:Sally_Lightfoot_Crab_2019.jpg
+japanese-spider-crab | Japanese Spider Crab | Lycaon (Hans Hillewaert) | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Macrocheira_kaempferi.jpg
+sea-spider | Sea Spider | Hans Hillewaert | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pycnogonum_litorale_(dorsal).jpg
+gooseneck-barnacle | Gooseneck Barnacle | Minette Layne | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Pollicipes_polymerus_3.jpg
+giant-pacific-abalone | Abalone | Southwest Fisheries Science Center, NOAA Fisheries Service | Public domain | https://commons.wikimedia.org/wiki/File:Haliotis_rufescens.jpeg
+garden-eel | Garden Eel | Truth Seeker (fawiki) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Heteroconger_hassi_1.JPG
+conger-eel | Conger Eel | Jouni Kuisma, DiveCodex | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:European_conger_(Conger_conger),_Ferranelles,_Medes_Islands,_Spain.jpg
+snake-eel | Snake Eel | Williams, J. T.; Carpenter, K. E.; Van Tassell, J. L.; Hoetjes, P.; Toller, W.; Etnoyer, P.; Smith, M. | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Aprognathodon_platyventris_-_pone.0010676.g015.png
+fire-urchin | Fire Urchin | Diego Delso | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Falso_erizo_de_fuego_(Astropyga_radiata),_Zanz%C3%ADbar,_Tanzania,_2024-06-01,_DD_99.jpg
+pencil-urchin | Pencil Urchin | Scott Roy Atwood | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Heterocentrotus_mammillatus_in_situ_from_Hawaii.JPG
+tube-anemone | Tube Anemone | Peter Southwood | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cerianthid_at_Long_Beach_PB246741.JPG
+amazon-river-dolphin | Amazon River Dolphin | Oceancetaceen | CC BY-SA 2.0 de | https://commons.wikimedia.org/wiki/File:Amazonas-Flussdelfin_Orinoko3.jpg
+vaquita | Vaquita | Paula Olson, NOAA | Public domain | https://commons.wikimedia.org/wiki/File:Vaquita4_Olson_NOAA.jpg
+striped-dolphin | Striped Dolphin | Wanax01 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Stenella_coeruleoalba_Ligurian_Sea_02_-_brighter.jpg
+irrawaddy-dolphin | Irrawaddy Dolphin | Stefan Brending (2eight) | CC BY-SA 3.0 de | https://commons.wikimedia.org/wiki/File:Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg
+ross-seal | Ross Seal | botheredbybees | CC0 | https://commons.wikimedia.org/wiki/File:Ommatophoca_rossii_(Ross_Seal),_off_Wilkes_Land,_Antarctica_1.jpg
+crabeater-seal | Crabeater Seal | Garrulus.glandarius.l | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sleeping_crabeater_seal_(Lobodon_carcinophaga)_was_found_by_leopard_seal_(Hydrurga_leptonyx).jpg
+bearded-seal | Bearded Seal | Unknown | Public domain | https://commons.wikimedia.org/wiki/File:Bearded_Seal.jpg
+colossal-squid | Colossal Squid | Scotted400 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Colossal_squid_in_Te_Papa.jpg
+firefly-squid | Firefly Squid | ja:user:Dieno | Public domain | https://commons.wikimedia.org/wiki/File:Watasenia_scintillans.jpg
+immortal-jellyfish | Immortal Jellyfish | Dr. Karen J. Osborn | CC0 | https://commons.wikimedia.org/wiki/File:Turritopsisdohrnii.jpeg
+cauliflower-jellyfish | Cauliflower Jelly | Derek Keats | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Cauliflour_Jellyfish,_Cephea_cephea_at_Marsa_Shouna,_Red_Sea,_Egypt_SCUBA.jpg
+yeti-crab | Yeti Crab | Andrew Thurber, Oregon State University | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Yeti_crab.jpg
+tasmanian-giant-crab | Tasmanian Giant Crab | Honguyenseo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cua_Tasmania.jpg
+arrow-crab | Arrow Crab | NOAA | Public domain | https://commons.wikimedia.org/wiki/File:Stenorhynchus_seticornis.jpg
+gulper-eel | Gulper Eel | Alexei Orlov | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Eurypharynx.jpg
+slender-snipe-eel | Snipe Eel | Sandra Raredon/Smithsonian Institution | Public domain | https://commons.wikimedia.org/wiki/File:Nemichthys_scolopaceus_SI.jpg
+thornback-ray | Thornback Ray | Hans Hillewaert | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Raja_clavata_(juv).jpg
+bat-ray | Bat Ray | Martin Holst Friborg Pedersen from Copenhagen S, Denmark | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Myliobatis_californica_monterey_bay_aquarium.jpg
+roughtail-stingray | Roughtail Stingray | NURC/UNCW and NOAA/FGBNMS | Public domain | https://commons.wikimedia.org/wiki/File:Dasyatis_centroura.jpg
+diadem-sea-urchin | Diadem Urchin | Frédéric Ducarme | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Diadema_setosum_Oman.JPG
+flower-hat-jelly | Flower Hat Jelly | Fred Hsu (Wikipedia:User:Fredhsu on en.wikipedia) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Flower_Hat_Jellyfish_1.jpg
+giant-barrel-sponge | Barrel Sponge | Twilight Zone Expedition Team 2007, NOAA-OE . | Public domain | https://commons.wikimedia.org/wiki/File:Reef3860_-_Flickr_-_NOAA_Photo_Library.jpg
+giant-tube-worm | Giant Tube Worm | null | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Campagne_HOT_-_Vers_g%C3%A9ants_(Riftia_pachyptila)_(Ifremer_00530-64223_-_52381).jpg
+giant-chiton | Giant Chiton | Jerry Kirkhart | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Cryptochiton_stelleri.jpg
+sea-hare | Sea Hare | Claire Fackler, CINMS, NOAA | Public domain | https://commons.wikimedia.org/wiki/File:California_sea_hare_(Aplysia_californica).jpg
+cuviers-beaked-whale | Cuvier's Beaked Whale | Jörg Mazur | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ziphius_carvirostris.jpg
+hectors-dolphin | Hector's Dolphin | Avenue | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hector%27s_Dolphins_at_Porpoise_Bay_1999_a_cropped.jpg
+franciscana | Franciscana Dolphin | Rafael Tosi | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Pontoporia_blainvillei_296896096.jpg
+ribbon-seal | Ribbon Seal | Bering Land Bridge National Preserve | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Ribbon-seal-male_Josh_London_NOAAedit_(16086029928)_(cropped).jpg
+royal-starfish | Royal Starfish | TheMargue | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Royal_starfish_(Astropecten_articulatus)_on_the_beach.jpg
+bigfin-squid | Bigfin Squid | Nikivas | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Magnapinna.jpg
+glass-squid | Glass Squid | George Sedberry, NOAA-OE | Public domain | https://commons.wikimedia.org/wiki/File:Teuthowenia_megalops_(high_resolution).jpg
+deepstaria-jellyfish | Deepstaria Jelly | Strange Sounds | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cnido_deepstaria_jellyfish.jpg
+barrel-jellyfish | Barrel Jellyfish | Dario Romeodario@romeopix.comhttp://www.romeopix.com | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Capo_Gallo_Rhizostoma_pulmo.jpg
+box-crab | Box Crab | Hectonichus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Calappidae_-_Calappa_calappa.JPG
+peacock-flounder | Peacock Flounder | Jaro Nemčok | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bothus_lunatus-StCroix.jpg
+pygmy-seahorse | Pygmy Seahorse | Diego Delso | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Caballito_de_mar_pigmeo_(Hippocampus_bargibanti),_Anilao,_Filipinas,_2023-08-25,_DD_27.jpg
+dwarf-lanternshark | Dwarf Lanternshark | J. PFLIGER | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Etmopterus_caudistigmus.jpg
+greenland-shark | Greenland Shark | NOAA Okeanos Explorer Program | Public domain | https://commons.wikimedia.org/wiki/File:Somniosus_microcephalus_okeanos.jpg
+thresher-shark | Thresher Shark | Thomas Alexander | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Thresher.jpg
+basking-shark | Basking Shark | Greg Skomal / NOAA Fisheries Service | Public domain | https://commons.wikimedia.org/wiki/File:Cetorhinus_maximus_by_greg_skomal.JPG
+blue-shark | Blue Shark | Diego Delso | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Tibur%C3%B3n_azul_(Prionace_glauca),_canal_Fayal-Pico,_islas_Azores,_Portugal,_2020-07-27,_DD_31.jpg
+oceanic-whitetip-shark | Oceanic Whitetip | Johan Lantz, Malmö SWEDEN | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Oceanic_Whitetip_Shark_(cropped).jpg
+blanket-octopus | Blanket Octopus | toffner | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Tremoctopus_violaceus_Texas_02.jpg
+sea-pig | Sea Pig | NOAA/MBARI | CC0 | https://commons.wikimedia.org/wiki/File:Scotoplanes_globosa_and_crab_(cropped).jpg
+pompeii-worm | Pompeii Worm | Olivier Dugornay / Ifremer | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Ver_polych%C3%A8te_Alvinella_Pompejana_sur_fond_noir_(Ifremer_00569-68060_-_25239).jpg
+flapjack-octopus | Flapjack Octopus | Ed Bowlby, NOAA/Olympic Coast NMS; NOAA/OAR/Office of Ocean Exploration | Public domain | https://commons.wikimedia.org/wiki/File:Opisthoteuthis_californiana_(white_background).jpg
+sea-lily | Sea Lily | Fossiladder13 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Partial_crinoid_stem_from_Upper_Ordovician_Wisconsin.jpg
+zebra-mantis-shrimp | Zebra Mantis Shrimp | Dan Schofield | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Lysiosquillina_maculata_90550994.jpg
+hairy-squat-lobster | Hairy Squat Lobster | Steve Childs from Lancaster, UK | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Lauriea_siagiani_-_Squat_Lobster_(234705263).jpg

@@ -1,0 +1,106 @@
+GuessSync REPTILES2 - "Guess the Reptile 2" - Image Attributions
+100 real reptile photos sourced from Wikimedia Commons / Wikipedia.
+All images are Public Domain, CC0, CC BY, CC BY-SA, or FAL. Files under CC BY / CC BY-SA / FAL
+require crediting the author + license; the lines below satisfy that requirement.
+Format:  slug | name | author | license | source
+
+asianwatermonitor | Asian Water Monitor | Carlos Delgado | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Varanus_salvator_-_01.jpg
+nilemonitor | Nile Monitor | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nile_monitor_(Varanus_niloticus)_2.jpg
+chinesealligator | Chinese Alligator | Greg Hume | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:ChineseAlligator15.JPG
+cubancrocodile | Cuban Crocodile | Yelles | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Crocodylus_Rhombifer.JPG
+greenanole | Green Anole | Paul Hirst (Phirst) | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Anole_Lizard_Hilo_Hawaii_edit.jpg
+commonchameleon | Common Chameleon | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Mediterranean_chameleon_(Chamaeleo_chamaeleon_recticrista).jpg
+giantdaygecko | Giant Day Gecko | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Madagascar_giant_day_gecko_(Phelsuma_grandis)_Nosy_Komba.jpg
+indianstartortoise | Indian Star Tortoise | Davidvraju | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Indian_star_tortoise_(2016)_7365.jpg
+redfootedtortoise | Red-footed Tortoise | Bjoertvedt | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Geochelone_carbonaria_IMG_4978.jpg
+diamondbackterrapin | Diamondback Terrapin | Ryan Hagerty | Public domain | https://commons.wikimedia.org/wiki/File:Diamond_terrapin_turtle_reptile_malaclemys_terrapin.jpg
+softshellturtle | Softshell Turtle | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Pelodiscus.jpg
+muskturtle | Musk Turtle | Ontley | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Stinkpot_Turtle_(cropped).jpg
+blackcaiman | Black Caiman | Rigelus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Melanosuchus_niger_in_Moscow_zoo.jpg
+siamesecrocodile | Siamese Crocodile | Rigelus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Crocodylus_siamensis_in_moscow_zoo_01.jpg
+dwarfcrocodile | Dwarf Crocodile | Thesupermat | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Crocodile_nain_aquarium_porte_dor%C3%A9e_Paris.JPG
+bengalmonitor | Bengal Monitor | Shantanu Kuveskar | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bengal_monitor_(Varanus_bengalensis)_Photograph_by_Shantanu_Kuveskar.jpg
+fireskink | Fire Skink | User:Haplochromis | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Riopa_fernandi.jpg
+namaquachameleon | Namaqua Chameleon | Yathin S Krishnappa | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chamaeleo_namaquensis_(Walvis_Bay).jpg
+bluetreemonitor | Blue Tree Monitor | Hectonichus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Varanidae_-_Varanus_macraei.JPG
+lacemonitor | Lace Monitor | Bidgee | CC BY-SA 3.0 au | https://commons.wikimedia.org/wiki/File:Lace_monitor_(Varanus_varius),_photographed_in_the_Kindra_State_Forest.jpg
+brownanole | Brown Anole | Nosferattus | CC0 | https://commons.wikimedia.org/wiki/File:Brown_Anole_(Anolis_sagrei).jpg
+yellowfoottortoise | Yellow-foot Tortoise | Casey Klebba | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Yellow-footed_tortoise.jpg
+fattailedgecko | Fat-tailed Gecko | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hemitheconyx_caudicinctus.jpg
+goldengecko | Golden Gecko | Paolo Tonon | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Gekko_Ulikovskii.jpg
+walllizard | Wall Lizard | Mariomassone | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Podarcis_muralis_near_Entella_river_006.jpg
+cuvierdwarfcaiman | Cuvier's Dwarf Caiman | Emőke Dénes | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hul_-_Paleosuchus_palpebrosus_-_2.jpg
+broadsnoutcaiman | Broad-snout Caiman | Miguelrangeljr | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Jacare_de_papo_amarelo_zoo.jpg
+orinococrocodile | Orinoco Crocodile | Chrislorenz9 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Orinoco_Crocodile.jpg
+philippinecrocodile | Philippine Crocodile | Gregg Yan | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Crocodylus_mindorensis_by_Gregg_Yan_01.jpg
+freshwatercrocodile | Freshwater Crocodile | Mark Marathon | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Freshwater_crocodile.jpg
+reevesturtle | Reeves's Turtle | Greg Peterson | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Mauremys_reevesii_Chinese_Pond_Turtle_%E3%82%AF%E3%82%B5%E3%82%AC%E3%83%A1.jpg
+europeanpondturtle | European Pond Turtle | Christian Ursilva from København, Danmark | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Emys_orbicularis_by_Christian_Ursilva.jpg
+mapturtle | Map Turtle | The original uploader was Dawson at English Wikipedia. | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Graptemys_pseudogeographica.jpg
+woodturtle | Wood Turtle | Ltshears | Public domain | https://commons.wikimedia.org/wiki/File:WoodTurtle.jpg
+spottedturtle | Spotted Turtle | hug_78 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Spotted_Turtle_Virginia_March_2023.jpg
+bogturtle | Bog Turtle | U.S. Fish and Wildlife Service Southeast Region | Public domain | https://commons.wikimedia.org/wiki/File:Bog_turtle_(18715348936).jpg
+marginatedtortoise | Marginated Tortoise | Unknown | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Testudo_marginata7.jpg
+spidertortoise | Spider Tortoise | Klaus Rudloff | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pyxis_arachnoides_brygooi.jpg
+gophertortoise | Gopher Tortoise | Judy Gallagher | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Gopher_Tortoise_-_Gopherus_polyphemus,_Lake_June-in-Winter_Scrub_State_Park,_Lake_Placid,_Florida_-_31527638716.jpg
+deserttortoise | Desert Tortoise | Tigerhawkvok | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Gopherus_agassizii.jpg
+oustaletschameleon | Oustalet's Chameleon | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Oustalet%27s_chameleon_(Furcifer_oustaleti)_male_Montagne_d%E2%80%99Ambre.jpg
+carpetchameleon | Carpet Chameleon | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Carpet_Chameleon_(Furcifer_lateralis)_(10292845744).jpg
+mellerschameleon | Meller's Chameleon | Adrian Pingstone | Public domain | https://commons.wikimedia.org/wiki/File:Mellers.chameleon.bristol.zoo.arp.jpg
+newcaledoniangecko | New Caledonian Gecko | Lennart Hudel | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Rhacodactylus_leachianus_33603748.jpg
+moorishgecko | Moorish Gecko | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Common_wall_gecko_(Tarentola_mauritanica)_Huelva.jpg
+standingsdaygecko | Standing's Day Gecko | Hectonichus | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Gekkonidae_-_Phelsuma_standingi.JPG
+electricbluegecko | Electric Blue Gecko | Esther Böck; AnimalBase.info | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lygodactylus-williamsi.jpg
+fivelinedskink | Five-lined Skink | Virginia State Parks staff | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:DO_-_Common_Five-lined_Skink_(Plestiodon_fasciatus)_(4073328823).jpg
+prehensileskink | Prehensile Skink | TimVickers | Public domain | https://commons.wikimedia.org/wiki/File:Corucia_zebrata_(2).jpg
+berberskink | Berber Skink | Ltshears - Trisha M Shears | Public domain | https://commons.wikimedia.org/wiki/File:Schneiders_skink_001.jpg
+anegadaiguana | Anegada Iguana | Original uploader was Mike Searson at en.wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cyclura_pinguis2.jpg
+cubanrockiguana | Cuban Rock Iguana | Panther | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Iguana_at_the_Iguanas_island_near_Cayo_Largo_shot_01.jpg
+antilleaniguana | Antillean Iguana | Postdlf | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Iguana_delicatissima_in_Coulibistrie_e04.jpg
+utilaiguana | Utila Iguana | Magalhães | Public domain | https://commons.wikimedia.org/wiki/File:Ctenosaura_bakeri.jpg
+crocodileskink | Crocodile Skink | Piranhapirate | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Red-Eyed_Crocodile_Skink.jpg
+sandskink | Sand Skink | Wilfried Berns | CC BY-SA 2.0 de | https://commons.wikimedia.org/wiki/File:Apothekerskink01.jpg
+chahouagecko | Chahoua Gecko | Lennart Hudel | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Mniarogekko_chahoua_33663116.jpg
+bandedgecko | Banded Gecko | Joshua Tree National Park | Public domain | https://commons.wikimedia.org/wiki/File:Desert_banded_gecko_(Coleonyx_variegatus_variegatus)_(14473609293).jpg
+wondergecko | Wonder Gecko | Andrew S. Gardner | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Teratoscincus_keyserlingii.jpg
+reticulatedgecko | Reticulated Gecko | sai_shailesh | CC0 | https://commons.wikimedia.org/wiki/File:Hemidactylus_reticulatus2.jpg
+angleheadlizard | Anglehead Lizard | Bernard DUPONT | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Gonocephalus_bellii.jpg
+greencrestedlizard | Green Crested Lizard | Bernard DUPONT | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bronchocela_cristatella_139471981.jpg
+malleedragon | Mallee Dragon | Max Tibby | CC0 | https://commons.wikimedia.org/wiki/File:Ctenophorus_fordi_262324362.jpg
+brownbasilisk | Brown Basilisk | Bernard DUPONT from FRANCE | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Brown_Basilisk_(Basiliscus_vittatus)_(6775707063).jpg
+flatbackturtle | Flatback Turtle | Lyndie Malan | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Natator_depressus00.jpg
+kempsridleyturtle | Kemp's Ridley Turtle | U.S. Fish and Wildlife Service Southeast Region | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Lepidochelys_kempii.jpg
+oliveridleyturtle | Olive Ridley Turtle | Thierry Caro | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lepidochelys-olivacea-K%C3%A9lonia-1.JPG
+rotisnakeneckturtle | Roti Snake-neck Turtle | H. Zell | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Chelodina_mccordi_-_Karlsruhe_Zoo_01.jpg
+chickenturtle | Chicken Turtle | Virginia State Parks staff | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:DSC_0477_(7844387340).jpg
+cooterturtle | Cooter Turtle | NasserHalaweh | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Emydidae_Pseudemys_concinna_concinna_1.jpg
+newguineacrocodile | New Guinea Crocodile | Midori (Wikimedia Commons) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Buaya_Irian_Crocodylus_novaeguineae_Bandung_Zoo.JPG
+schneiderscaiman | Schneider's Caiman | Mokele at en.wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Paleosuchus-trigonatus.jpg
+rankinsdragon | Rankin's Dragon | No machine-readable author provided. Magalhães assumed (based on copyright claims). | Public domain | https://commons.wikimedia.org/wiki/File:Pogona_henrylawsoni.jpg
+sungazerlizard | Sungazer Lizard | Wilfried Berns / www.Tiermotive.de | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Cordylus_giganteus.jpg
+capegirdledlizard | Cape Girdled Lizard | Abu Shawka | CC0 | https://commons.wikimedia.org/wiki/File:Cape_Girdled_Lizard_Cordylus_cordylus_Cape_Town.jpg
+burmesestartortoise | Burmese Star Tortoise | Unknown | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Geochelone_platynota_by_OpenCage.jpg
+speckledtortoise | Speckled Tortoise | Abu Shawka | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Speckled_Padloper_-_Homopus_Signatus_2.jpg
+roundislandgecko | Round Island Gecko | No machine-readable author provided. Jjargoud assumed (based on copyright claims). | Public domain | https://commons.wikimedia.org/wiki/File:Phelsuma_guentheri_IleRonde_8605.jpg
+henkelsleafgecko | Henkel's Leaf Gecko | Diego Delso | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Geco_de_cola_plana_de_Henkel_(Uroplatus_henkeli),_Parque_Nacional_de_Lokobe,_Nosy_Be,_Madagascar,_2025-09-21,_DD_50.jpg
+rainbowagama | Rainbow Agama | Lennart Hudel | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Agama_agama_53140442_(cropped).jpg
+petersbandedskink | Peter's Banded Skink | RatioTile | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Peters%27s_banded_skink.jpg
+galapagoslavalizard | Galapagos Lava Lizard | Diego Delso | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Lagartija_de_lava_de_Gal%C3%A1pagos_(Microlophus_albemarlensis),_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-26,_DD_19.JPG
+turniptailedgecko | Turnip-tailed Gecko | Postdlf | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Thecadactylus_rapicauda_in_Dominica-a03.jpg
+flattailedgecko | Flat-tailed Gecko | Yannick Perret | Public domain | https://commons.wikimedia.org/wiki/File:UroplatusSikoraeSameiti.png
+barkinggecko | Barking Gecko | Roger Culos | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Ptenopus_garrulus_1_MHNT.JPG
+capedwarfgecko | Cape Dwarf Gecko | Marius Burger | CC0 | https://commons.wikimedia.org/wiki/File:Goggia_lineata.jpg
+peninsuladaygecko | Peninsula Day Gecko | Thierry Caro | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Phelsuma-laticauda-Saint-Denis.JPG
+keeledskink | Keeled Skink | NasserHalaweh | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Scincidae_Tropidophorus_grayi_1.jpg
+broadheadedskink | Broad-headed Skink | Ryan Somma | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Eumeces_laticeps_(male).jpg
+greatplainsskink | Great Plains Skink | Unknown | Public domain | https://commons.wikimedia.org/wiki/File:Eumeces_obsoletus1.jpg
+coalskink | Coal Skink | U.S. Army Corps of Engineers | Public domain | https://commons.wikimedia.org/wiki/File:Skink.jpg
+africanstripedskink | African Striped Skink | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:African_striped_skinks_(Trachylepis_striata)_Malolotja.jpg
+egyptianspinylizard | Egyptian Spiny Lizard | איתן פרמן | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Uromastyx_aegyptia_2.jpg
+hicateeriverturtle | Hicatee River Turtle | Matěj Baťha | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Dlouhohl%C3%A1vka_mexick%C3%A1_9243u.jpg
+cantorsgiantturtle | Cantor's Giant Turtle | Dementia | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Pelochelys_cantorii.jpg
+taricayaturtle | Taricaya Turtle | FakirNL | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Podocnemis_unifilis_in_Zoo_Krefeld_(2).JPG
+arrauturtle | Arrau Turtle | Chiranjeev chakroberty | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Central_American_River_Turtle.jpg
+falsegharial | False Gharial | Fritz Geller-Grimm | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Tomistoma_schlegelii_fg01.JPG
+yangtzesoftshell | Yangtze Softshell | Phuongcacanh at Vietnamese Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:R%C3%B9a_%C4%90%E1%BB%93ng_M%C3%B4.jpg
+aldabradaygecko | Aldabra Day Gecko | Marius Burger | CC0 | https://commons.wikimedia.org/wiki/File:Phelsuma_abbotti_chekei_188291768.jpg

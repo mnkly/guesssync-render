@@ -1,0 +1,29 @@
+E91 "Guess the Country on the Map" — base world map attribution
+
+Base map: "BlankMap-World-Compact.svg"
+Source: Wikimedia Commons
+URL: https://commons.wikimedia.org/wiki/File:BlankMap-World-Compact.svg
+Author: Canuckguy et al. (based on BlankMap-World.svg)
+License: Public domain (per Wikimedia Commons file page, LicenseShortName = "Public domain")
+
+Usage in this project:
+- scripts/countrymap-gen.mjs clones the base SVG once per country in src/Quiz/countrymapData.js,
+  recolors every country to a neutral gray (#C9D2DE) via the shared .landxx CSS rule, then overrides
+  the fill of that one country's path(s)/circle-marker to a bright highlight red (#FF4136).
+- Output written to public/countrymap/<slug>.svg (100 files), one country highlighted per file.
+- No modification to the underlying country geometry/borders — only fill colors were changed.
+- Public domain status means no attribution is legally required, but it is credited here per project
+  convention (see other public/ATTRIBUTIONS-*.txt files).
+
+Known cartographic notes (inherited from the base map's own political framing, not introduced by us):
+- Western Sahara ("eh") is drawn as one contiguous, borderless shape with Morocco ("ma") in the source
+  file, so highlighting Morocco also highlights Western Sahara. We did not alter this.
+- Crimea is drawn as part of Ukraine's landmass (contiguous, no separate blob) — standard cartographic
+  treatment, not altered.
+- Taiwan is tagged "limitxx" (limited-recognition) in the source, NOT "landxx"/"circlexx", so it is
+  never highlighted by our generator regardless of which country is targeted (including China).
+- Hong Kong and Macao ride along on China's class in the source file but are explicitly EXCLUDED by
+  scripts/countrymap-gen.mjs's DEPENDENT_EXCLUDE list, likewise French overseas departments (Guadeloupe,
+  Martinique, Réunion, Mayotte, French Guiana) are excluded when highlighting France — this keeps every
+  clue to exactly ONE highlighted landmass instead of several scattered dots across the globe.
+- Israel is not included as an item in COUNTRYMAP per channel policy.

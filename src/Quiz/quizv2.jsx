@@ -6,6 +6,19 @@ import { loadFont as loadMont } from "@remotion/google-fonts/Montserrat";
 const font = loadMont("normal", { weights: ["700", "800", "900"] }).fontFamily;
 
 const GAME = { blue: "#23429E", blueMid: "#122258", blueDeep: "#0A1436", gold: "#FFC53D", magenta: "#F35BD0", green: "#1D9E75", red: "#FF3B3B" };
+// Background theme palette. cfg.theme (0-7) picks one; absent => 0 (ocean, the original look).
+// Assignment rule: NEW episodes rotate color every 10 (E86-95 → theme 1, E96-105 → 2, ...). Old episodes keep theme 0.
+const THEMES = [
+  { b: "#23429E", m: "#122258", d: "#0A1436" }, // 0 ocean (original)
+  { b: "#0E7C86", m: "#08414A", d: "#04262B" }, // 1 teal
+  { b: "#5B2E9E", m: "#331A58", d: "#1C0E36" }, // 2 grape
+  { b: "#B0316F", m: "#58183D", d: "#360E26" }, // 3 berry
+  { b: "#B02E3D", m: "#581822", d: "#360E14" }, // 4 wine
+  { b: "#178E52", m: "#0C5230", d: "#06361E" }, // 5 forest
+  { b: "#3E33B0", m: "#201A58", d: "#120E36" }, // 6 indigo
+  { b: "#B06522", m: "#58330F", d: "#361E08" }, // 7 ember
+];
+const themeOf = (cfg) => THEMES[((cfg && cfg.theme) || 0) % THEMES.length];
 const LVL = {
   easy: { accent: "#FFD23F", label: "EASY" },
   medium: { accent: "#FF9F40", label: "MEDIUM" },
@@ -44,7 +57,7 @@ const buildOptions = (item, all, cfg) => {
   return { opts: opts.slice(0, 4), correctIdx };
 };
 
-const GameBg = () => {
+const GameBg = ({ theme = THEMES[0] }) => {
   const frame = useCurrentFrame();
   const { width, height } = useVideoConfig();
   const parts = [];
@@ -56,7 +69,7 @@ const GameBg = () => {
     parts.push(<div key={i} style={{ position: "absolute", left: x + Math.sin(frame / 30 + i) * 14, top: y, width: sz, height: sz, borderRadius: "50%", background: GAME.gold, opacity: 0.18, boxShadow: `0 0 ${sz * 2}px ${GAME.gold}` }} />);
   }
   return (
-    <AbsoluteFill style={{ background: `radial-gradient(85% 95% at 50% 34%, ${GAME.blue} 0%, ${GAME.blueMid} 52%, ${GAME.blueDeep} 100%)`, overflow: "hidden" }}>
+    <AbsoluteFill style={{ background: `radial-gradient(85% 95% at 50% 34%, ${theme.b} 0%, ${theme.m} 52%, ${theme.d} 100%)`, overflow: "hidden" }}>
       <AbsoluteFill style={{ background: "repeating-conic-gradient(from 90deg at 50% 38%, rgba(255,197,61,0.06) 0deg 4deg, transparent 4deg 13deg)", maskImage: "radial-gradient(circle at 50% 38%, #000 3%, transparent 52%)", WebkitMaskImage: "radial-gradient(circle at 50% 38%, #000 3%, transparent 52%)" }} />
       <AbsoluteFill style={{ background: "radial-gradient(42% 40% at 50% 34%, rgba(255,197,61,0.10), transparent 72%)" }} />
       {parts}
@@ -105,9 +118,9 @@ const TimerBar = ({ accent, revealAt }) => {
   );
 };
 
-const Progress = ({ num, accent }) => (
+const Progress = ({ num, accent, total = 100 }) => (
   <div style={{ position: "absolute", top: 54, left: 60, fontFamily: font, fontWeight: 900, fontSize: 40, color: GAME.blueDeep, background: accent, padding: "8px 24px", borderRadius: 14, boxShadow: `0 0 26px ${accent}` }}>
-    {num}<span style={{ opacity: 0.65, fontSize: 26 }}> / 100</span>
+    {num}<span style={{ opacity: 0.65, fontSize: 26 }}> / {total}</span>
   </div>
 );
 
@@ -221,7 +234,7 @@ const Round = ({ item, num, cfg }) => {
     <AbsoluteFill>
       <TierMeter level={item.level} />
       <div style={{ position: "absolute", top: 84, left: 0, right: 0, textAlign: "center", fontFamily: font, fontWeight: 900, fontSize: 50, color: "#fff", letterSpacing: 1, textShadow: "0 3px 16px rgba(0,0,0,0.4)" }}>GUESS THE {cfg.topicWord}</div>
-      <Progress num={num} accent={accent} />
+      <Progress num={num} accent={accent} total={cfg.items.length} />
       <div style={{ position: "absolute", top: hasOptions ? 166 : 150, left: 0, right: 0, display: "flex", justifyContent: "center", alignItems: "flex-start" }}>
         <div style={{ transform: `scale(${interpolate(enter, [0, 1], [0.4, 1]) * pop}) translateY(${interpolate(enter, [0, 1], [60, 0]) + floatY}px) rotate(${rot}deg)`, opacity: enter, width: cardW, height: cardH, borderRadius: 30, background: "#fff", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: revealed ? `0 0 70px ${accent}` : "0 24px 60px rgba(0,0,0,0.5)", border: `5px solid ${revealed ? accent : "rgba(255,255,255,0.3)"}`, overflow: "hidden" }}>
           {cfg.isEmoji
@@ -301,7 +314,7 @@ const ColdOpen = ({ item, cfg }) => {
       </AbsoluteFill>
       {!revealed && <TimerBar accent={accent} revealAt={rAt} />}
       {revealed && (
-        <div style={{ position: "absolute", bottom: 120, left: 0, right: 0, textAlign: "center", fontFamily: font, fontWeight: 800, fontSize: 44, color: GAME.gold }}>…and 99 more. Can you name them all? 👇</div>
+        <div style={{ position: "absolute", bottom: 120, left: 0, right: 0, textAlign: "center", fontFamily: font, fontWeight: 800, fontSize: 44, color: GAME.gold }}>…and {cfg.items.length - 1} more. Can you name them all? 👇</div>
       )}
       <Sequence from={rAt} durationInFrames={40}><Audio src={staticFile("sfx/ding.wav")} volume={0.8} /></Sequence>
       <Sequence from={rAt + 6} durationInFrames={100}><Audio src={staticFile(`sfx/${cfg.voPrefix}${item[cfg.voKey || "slug"]}.wav`)} volume={1} /></Sequence>
@@ -318,7 +331,7 @@ const Checkpoint = ({ num, cfg }) => {
       <Sequence durationInFrames={30}><Audio src={staticFile("sfx/ding.wav")} volume={0.8} /></Sequence>
       <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", flexDirection: "column", gap: 18 }}>
         <div style={{ fontFamily: font, fontWeight: 800, fontSize: 44, letterSpacing: 8, color: "rgba(255,255,255,0.7)" }}>CHECKPOINT</div>
-        <div style={{ fontFamily: font, fontWeight: 900, fontSize: 200, color: GAME.gold, textShadow: `0 0 60px ${GAME.gold}`, transform: `scale(${interpolate(s, [0, 1], [0.5, 1])})` }}>{num}<span style={{ fontSize: 90, color: "#fff", opacity: 0.7 }}>/100</span></div>
+        <div style={{ fontFamily: font, fontWeight: 900, fontSize: 200, color: GAME.gold, textShadow: `0 0 60px ${GAME.gold}`, transform: `scale(${interpolate(s, [0, 1], [0.5, 1])})` }}>{num}<span style={{ fontSize: 90, color: "#fff", opacity: 0.7 }}>/{cfg.items.length}</span></div>
         <div style={{ fontFamily: font, fontWeight: 900, fontSize: 60, color: "#fff" }}>How many did YOU get right?</div>
         <div style={{ fontFamily: font, fontWeight: 800, fontSize: 40, color: "rgba(255,255,255,0.85)" }}>Keep counting — it only gets harder {cfg.emoji || "🔥"}</div>
       </AbsoluteFill>
@@ -358,7 +371,7 @@ const Intro = ({ cfg }) => {
         <div style={{ fontFamily: font, fontWeight: 900, fontSize: 66, color: "#fff", letterSpacing: 3, opacity: interpolate(frame, [8, 24], [0, 1], { extrapolateRight: "clamp" }) }}>GUESS<span style={{ color: GAME.gold }}>SYNC</span></div>
         <div style={{ fontFamily: font, fontWeight: 900, fontSize: 84, color: "#fff", letterSpacing: 2, textAlign: "center", lineHeight: 1.04 }}>GUESS THE<br /><span style={{ color: GAME.gold }}>{cfg.topicWord}</span></div>
         <div style={{ display: "flex", gap: 16 }}>
-          <span style={{ fontFamily: font, fontWeight: 800, fontSize: 34, color: GAME.blueDeep, background: GAME.gold, padding: "8px 26px", borderRadius: 999 }}>100 {cfg.topicPlural}</span>
+          <span style={{ fontFamily: font, fontWeight: 800, fontSize: 34, color: GAME.blueDeep, background: GAME.gold, padding: "8px 26px", borderRadius: 999 }}>{cfg.items.length} {cfg.topicPlural}</span>
           <span style={{ fontFamily: font, fontWeight: 800, fontSize: 34, color: "#fff", border: `2px solid ${GAME.gold}`, padding: "8px 26px", borderRadius: 999 }}>EASY → IMPOSSIBLE</span>
         </div>
       </AbsoluteFill>
@@ -366,7 +379,7 @@ const Intro = ({ cfg }) => {
   );
 };
 
-const Outro = () => {
+const Outro = ({ total = 100 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const s = spring({ frame, fps, config: { damping: 12 } });
@@ -376,8 +389,8 @@ const Outro = () => {
       <Audio src={staticFile("sfx/vo-outro-guy.wav")} volume={0.95} />
       <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", gap: 24 }}>
         <Img src={staticFile("brand/owl-cheer.png")} style={{ width: 220, height: 220, objectFit: "contain", transform: `translateY(${Math.sin(frame / 10) * 10}px)` }} />
-        <div style={{ fontFamily: font, fontWeight: 900, fontSize: 82, color: "#fff", textAlign: "center", transform: `scale(${interpolate(s, [0, 1], [0.6, 1])})` }}>HOW MANY DID YOU GET? <span style={{ color: GAME.gold }}>/100</span></div>
-        <div style={{ fontFamily: font, fontWeight: 800, fontSize: 44, color: "#fff" }}>Average is <span style={{ color: GAME.gold }}>41/100</span> — can you beat it? 👇</div>
+        <div style={{ fontFamily: font, fontWeight: 900, fontSize: 82, color: "#fff", textAlign: "center", transform: `scale(${interpolate(s, [0, 1], [0.6, 1])})` }}>HOW MANY DID YOU GET? <span style={{ color: GAME.gold }}>/{total}</span></div>
+        <div style={{ fontFamily: font, fontWeight: 800, fontSize: 44, color: "#fff" }}>{total === 100 ? (<>Average is <span style={{ color: GAME.gold }}>41/100</span> — can you beat it? 👇</>) : (<>Most people can't name half — can you beat them? 👇</>)}</div>
         <div style={{ background: "#FF0000", color: "#fff", fontFamily: font, fontWeight: 800, fontSize: 46, padding: "18px 54px", borderRadius: 999, transform: `scale(${pulse})` }}>SUBSCRIBE</div>
       </AbsoluteFill>
     </AbsoluteFill>
@@ -406,9 +419,10 @@ export const quizFrames = (cfg) => build(cfg).total;
 
 export const QuizV2 = ({ config }) => {
   const { segs } = build(config);
+  const theme = themeOf(config);
   return (
-    <AbsoluteFill style={{ backgroundColor: GAME.blueDeep }}>
-      <GameBg />
+    <AbsoluteFill style={{ backgroundColor: theme.d }}>
+      <GameBg theme={theme} />
       <Watermark />
       <Audio loop volume={0.11} src={staticFile("sfx/bed-heartbeat.wav")} />
       {segs.map((s, i) => (
@@ -418,7 +432,7 @@ export const QuizV2 = ({ config }) => {
           {s.t === "level" && <LevelIntro level={s.level} />}
           {s.t === "round" && <Round item={s.item} num={s.num} cfg={config} />}
           {s.t === "check" && <Checkpoint num={s.num} cfg={config} />}
-          {s.t === "outro" && <Outro />}
+          {s.t === "outro" && <Outro total={config.items.length} />}
         </Sequence>
       ))}
     </AbsoluteFill>
