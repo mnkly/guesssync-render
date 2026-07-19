@@ -61,6 +61,7 @@ const ASSET = {
   insects2: { dir: "insects2", ext: "jpg", fit: "cover" },
   cats: { dir: "cats", ext: "jpg", fit: "cover" },
   logos: { dir: "logos", ext: "svg", fit: "contain" },
+  natteams: { dir: "natteams", ext: "svg", fit: "contain" },
   flags: { dir: "flags", ext: "svg", fit: "contain" },
   capitals: { dir: "flags", ext: "svg", fit: "contain" },
   countries: { dir: "flags", ext: "svg", fit: "contain" },

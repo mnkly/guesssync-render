@@ -128,6 +128,7 @@ const zoomScaleOf = (z) => (z && typeof z === "object" && z.scale ? z.scale : 3.
 // no per-mode code needed. Mirrors the dir/ext each normal Clue block already uses.
 const ZOOM_IMG = {
   animals: { dir: "animals", ext: "png" },
+  cars: { dir: "cars", ext: "png" },
   landmarkzoom: { dir: "landmarks", ext: "png" },
   foodzoom: { dir: "foods", ext: "png" },
   animals2: { dir: "animals2", ext: "jpg" },
@@ -135,6 +136,9 @@ const ZOOM_IMG = {
   foods2: { dir: "foods2", ext: "jpg" },
   flags: { dir: "flags", ext: "svg", key: "iso", fit: "contain" },
   logos: { dir: "logos", ext: "svg", fit: "contain" },
+  birds: { dir: "birds", ext: "jpg" },
+  gems: { dir: "gems", ext: "jpg" },
+  reptiles: { dir: "reptiles", ext: "jpg" },
 };
 const zoomImgOf = (mode) => ZOOM_IMG[mode] || { dir: mode, ext: "jpg" };
 

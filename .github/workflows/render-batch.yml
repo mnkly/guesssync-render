@@ -21,6 +21,11 @@ jobs:
         comp: ${{ fromJson(github.event.inputs.compositions) }}
     steps:
       - uses: actions/checkout@v4
+      - name: Free disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet /opt/ghc /usr/local/lib/android /opt/hostedtoolcache/CodeQL || true
+          sudo mkdir -p /mnt/rtmp && sudo chmod 777 /mnt/rtmp
+          df -h /
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -35,6 +40,10 @@ jobs:
       - name: Ensure browser
         run: npx remotion browser ensure
       - name: Render ${{ matrix.comp }}
+        env:
+          TMPDIR: /mnt/rtmp
+          TEMP: /mnt/rtmp
+          TMP: /mnt/rtmp
         run: |
           set -e
           COMP="${{ matrix.comp }}"
