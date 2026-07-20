@@ -40,6 +40,7 @@ jobs:
       - name: Ensure browser
         run: npx remotion browser ensure
       - name: Render ${{ matrix.comp }}
+        id: r
         env:
           TMPDIR: /mnt/rtmp
           TEMP: /mnt/rtmp
@@ -47,21 +48,29 @@ jobs:
         run: |
           set -e
           COMP="${{ matrix.comp }}"
+          # optional "Name@START-END" for chunked frame-range renders
+          NAME="${COMP%@*}"
+          RANGE=""
+          [[ "$COMP" == *@* ]] && RANGE="${COMP#*@}"
+          SAFE="${COMP//@/__}"; SAFE="${SAFE//:/_}"
+          echo "safe=$SAFE" >> "$GITHUB_OUTPUT"
           mkdir -p out
-          if [[ "$COMP" == Thumb* ]]; then
-            echo "=== still: $COMP ==="
-            npx remotion still "$COMP" "out/$COMP.png"
+          if [[ "$NAME" == Thumb* ]]; then
+            echo "=== still: $NAME ==="
+            npx remotion still "$NAME" "out/$SAFE.png"
           else
-            echo "=== video: $COMP ==="
-            time npx remotion render "$COMP" "out/$COMP.mp4" --concurrency=2
+            FR=""
+            [[ -n "$RANGE" ]] && FR="--frames=$RANGE"
+            echo "=== video: $NAME (frames=${RANGE:-all}) ==="
+            time npx remotion render "$NAME" "out/$SAFE.mp4" $FR --concurrency=2
           fi
           ls -la out/
       - name: Upload ${{ matrix.comp }}
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ matrix.comp }}
+          name: ${{ steps.r.outputs.safe }}
           path: |
-            out/${{ matrix.comp }}.mp4
-            out/${{ matrix.comp }}.png
+            out/${{ steps.r.outputs.safe }}.mp4
+            out/${{ steps.r.outputs.safe }}.png
           if-no-files-found: error
           retention-days: 5

@@ -164,9 +164,7 @@ const E101CFG = { items: FISHZOOM, facts: FISH_FACTS, topicWord: "ZOOMED FISH", 
 const E103CFG = { items: FLOWERZOOM, facts: FLOWER_FACTS, topicWord: "ZOOMED FLOWER", topicPlural: "FLOWERS", dir: "flowers", ext: "jpg", fit: "cover", voPrefix: "flz-", nameField: "name", introVo: "vo-intro-flowerzoom", coldSlug: "common-poppy", zoom: { scale: 3.0 }, theme: 2 };
 const E104CFG = { items: INSECTZOOM, facts: INSECT_FACTS, topicWord: "ZOOMED INSECT", topicPlural: "INSECTS", dir: "insects", ext: "jpg", fit: "cover", voPrefix: "inz-", nameField: "name", introVo: "vo-intro-insectzoom", coldSlug: "ladybug", zoom: { scale: 3.0 }, theme: 2 };
 const E105CFG = { items: BUTTERFLYZOOM, facts: BUTTERFLY_FACTS, topicWord: "ZOOMED BUTTERFLY", topicPlural: "BUTTERFLIES", dir: "butterflies", ext: "jpg", fit: "cover", voPrefix: "btz-", nameField: "name", introVo: "vo-intro-butterflyzoom", coldSlug: "blue-morpho", zoom: { scale: 3.0 }, theme: 2 };
-const E108CFG = { items: PRIMATEZOOM, facts: PRIMATE_FACTS, topicWord: "ZOOMED PRIMATE", topicPlural: "PRIMATES", dir: "primates", ext: "jpg", fit: "cover", voPrefix: "prz-", nameField: "name", introVo: "vo-intro-primatezoom", coldSlug: "mandrill", zoom: { scale: 3.0 }, theme: 3 };
 const E110CFG = { items: SPIDERZOOM, facts: SPIDER_FACTS, topicWord: "ZOOMED SPIDER", topicPlural: "SPIDERS", dir: "spiders", ext: "jpg", fit: "cover", voPrefix: "sdz-", nameField: "name", introVo: "vo-intro-spiderzoom", coldSlug: "peacockspider", zoom: { scale: 3.0 }, theme: 3 };
-const E111CFG = { items: SHELLZOOM, facts: SHELL_FACTS, topicWord: "ZOOMED SEASHELL", topicPlural: "SEASHELLS", dir: "shells", ext: "jpg", fit: "cover", voPrefix: "shz-", nameField: "name", introVo: "vo-intro-shellzoom", coldSlug: "tigercowrie", zoom: { scale: 3.0 }, theme: 3 };
 const E112CFG = { items: AMPHIBIANZOOM, facts: AMPHIBIAN_FACTS, topicWord: "ZOOMED AMPHIBIAN", topicPlural: "AMPHIBIANS", dir: "amphibians", ext: "jpg", fit: "cover", voPrefix: "amz-", nameField: "name", introVo: "vo-intro-amphibianzoom", coldSlug: "firesalamander", zoom: { scale: 3.0 }, theme: 3 };
 const E96CFG = { items: NATTEAMS, facts: NATTEAMS_FACTS, topicWord: "TEAM", topicPlural: "TEAMS", dir: "natteams", ext: "svg", fit: "contain", voPrefix: "nt-", nameField: "name", introVo: "vo-intro-natteam", coldSlug: "brazil", theme: 2 };
 const E15CFG = { items: DOGS, facts: DOG_FACTS, topicWord: "DOG BREED", topicPlural: "DOG BREEDS", dir: "dogs", ext: "jpg", fit: "cover", voPrefix: "dog-", nameField: "name", introVo: "vo-intro-dog", coldSlug: "labrador" };
@@ -231,9 +229,7 @@ import { FISHZOOM } from "./Quiz/fishzoomData";
 import { FLOWERZOOM } from "./Quiz/flowerzoomData";
 import { INSECTZOOM } from "./Quiz/insectzoomData";
 import { BUTTERFLYZOOM } from "./Quiz/butterflyzoomData";
-import { PRIMATEZOOM } from "./Quiz/primatezoomData";
 import { SPIDERZOOM } from "./Quiz/spiderzoomData";
-import { SHELLZOOM } from "./Quiz/shellzoomData";
 import { AMPHIBIANZOOM } from "./Quiz/amphibianzoomData";
 import { LANDMARKZOOM } from "./Quiz/landmarkzoomData";
 import { FOODZOOM } from "./Quiz/foodzoomData";
@@ -614,12 +610,8 @@ export const RemotionRoot = () => {
       <Composition id="Thumb104" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "insects", grid: ["ladybug", "monarch-butterfly", "?", "honey-bee", "?", "dragonfly", "?", "wasp", "hornet"], line1: "CAN YOU NAME ALL", word: "ZOOMED INSECT", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E105Quiz" component={QuizV2} durationInFrames={quizFrames(E105CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E105CFG }} />
       <Composition id="Thumb105" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "butterflies", grid: ["monarch", "blue-morpho", "?", "tiger-swallowtail", "?", "peacock-butterfly", "?", "zebra-longwing", "atlas-moth"], line1: "CAN YOU NAME ALL", word: "ZOOMED BUTTERFLY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
-      <Composition id="E108Quiz" component={QuizV2} durationInFrames={quizFrames(E108CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E108CFG }} />
-      <Composition id="Thumb108" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "primates", grid: ["mandrill", "gorilla", "?", "orangutan", "?", "baboon", "?", "ringtailedlemur", "proboscismonkey"], line1: "CAN YOU NAME ALL", word: "ZOOMED PRIMATE", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E110Quiz" component={QuizV2} durationInFrames={quizFrames(E110CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E110CFG }} />
       <Composition id="Thumb110" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "spiders", grid: ["peacockspider", "cobaltbluetarantula", "?", "goldsilkorbweaver", "?", "candystripespider", "?", "wheelspider", "blackwidow"], line1: "CAN YOU NAME ALL", word: "ZOOMED SPIDER", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
-      <Composition id="E111Quiz" component={QuizV2} durationInFrames={quizFrames(E111CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E111CFG }} />
-      <Composition id="Thumb111" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "shells", grid: ["tigercowrie", "goldencowrie", "?", "marbledcone", "?", "bandedtulip", "?", "flamingotongue", "bluemussel"], line1: "CAN YOU NAME ALL", word: "ZOOMED SEASHELL", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E112Quiz" component={QuizV2} durationInFrames={quizFrames(E112CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E112CFG }} />
       <Composition id="Thumb112" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "amphibians", grid: ["firesalamander", "goldenpoisonfrog", "?", "bluespottedsalamander", "?", "goldentoad", "?", "axolotl", "tigersalamander"], line1: "CAN YOU NAME ALL", word: "ZOOMED AMPHIBIAN", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E96Quiz" component={QuizV2} durationInFrames={quizFrames(E96CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E96CFG }} />
@@ -696,9 +688,7 @@ export const RemotionRoot = () => {
         { ep: "E103", items: FLOWERZOOM, mode: "flowers", title: "Guess the Zoomed Flower", v2: true, zoom: { scale: 3.0 }, theme: 2 },
         { ep: "E104", items: INSECTZOOM, mode: "insects", title: "Guess the Zoomed Insect", v2: true, zoom: { scale: 3.0 }, theme: 2 },
         { ep: "E105", items: BUTTERFLYZOOM, mode: "butterflies", title: "Guess the Zoomed Butterfly", v2: true, zoom: { scale: 3.0 }, theme: 2 },
-        { ep: "E108", items: PRIMATEZOOM, mode: "primates", title: "Guess the Zoomed Primate", v2: true, zoom: { scale: 3.0 }, theme: 3 },
         { ep: "E110", items: SPIDERZOOM, mode: "spiders", title: "Guess the Zoomed Spider", v2: true, zoom: { scale: 3.0 }, theme: 3 },
-        { ep: "E111", items: SHELLZOOM, mode: "shells", title: "Guess the Zoomed Seashell", v2: true, zoom: { scale: 3.0 }, theme: 3 },
         { ep: "E112", items: AMPHIBIANZOOM, mode: "amphibians", title: "Guess the Zoomed Amphibian", v2: true, zoom: { scale: 3.0 }, theme: 3 },
         { ep: "E96", items: NATTEAMS, mode: "natteams", title: "Guess the National Team Badge", v2: true, theme: 2 },
         { ep: "E18", items: PAINTINGS, mode: "paintings", title: "Guess the Painting", v2: true },
