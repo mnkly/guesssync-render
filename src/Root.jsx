@@ -118,6 +118,8 @@ const E45CFG = { items: REPTILES, facts: REPTILE_FACTS, topicWord: "REPTILE", to
 const E92CFG = { items: REPTILES2, facts: REPTILES2_FACTS, topicWord: "REPTILE", topicPlural: "REPTILES", dir: "reptiles2", ext: "jpg", fit: "cover", voPrefix: "rp2-", nameField: "name", introVo: "vo-intro-reptiles2", coldSlug: "asianwatermonitor", theme: 1 };
 const E100CFG = { items: REPTILEZOOM, facts: REPTILE_FACTS, topicWord: "ZOOMED REPTILE", topicPlural: "REPTILES", dir: "reptiles", ext: "jpg", fit: "cover", voPrefix: "rz-", nameField: "name", introVo: "vo-intro-reptilezoom", coldSlug: "komododragon", zoom: { scale: 3.0 }, theme: 2 };
 const E90CFG = { items: SILHOUETTES, facts: SILHOUETTE_FACTS, topicWord: "ANIMAL", topicPlural: "ANIMALS", dir: "silhouette", ext: "png", fit: "contain", voPrefix: "sl-", nameField: "name", introVo: "vo-intro-silhouette", coldSlug: "elephant", theme: 1 };
+const E114CFG = { items: DINO_SILHOUETTES, facts: DINO_SILHOUETTES_FACTS, topicWord: "DINOSAUR", topicPlural: "DINOSAURS", dir: "dinosilhouette", ext: "png", fit: "contain", voPrefix: "dz-", nameField: "name", introVo: "vo-intro-dinosilhouette", coldSlug: "trex", theme: 3 };
+const E115CFG = { items: SCRAMBLED, facts: SCRAMBLED_FACTS, topicWord: "COUNTRY", topicPlural: "COUNTRIES", clueType: "text", voPrefix: "scr-", nameField: "name", introVo: "vo-intro-scrambled", coldSlug: "france", theme: 3 };
 const E93CFG = { items: MUSHROOMS2, facts: MUSHROOMS2_FACTS, topicWord: "MUSHROOM", topicPlural: "MUSHROOMS", dir: "mushrooms2", ext: "jpg", fit: "cover", voPrefix: "mu2-", nameField: "name", introVo: "vo-intro-mushroom2", coldSlug: "lobstermushroom", theme: 1 };
 const E66CFG = { items: ROCKS, facts: ROCK_FACTS, topicWord: "ROCK", topicPlural: "ROCKS", dir: "rocks", ext: "jpg", fit: "cover", voPrefix: "rk-", nameField: "name", introVo: "vo-intro-rock", coldSlug: "granite" };
 // MEGA episodes — variable item count (>100, uneven tiers). Engine is tier-size-agnostic; count displays derive from items.length.
@@ -167,6 +169,7 @@ const E105CFG = { items: BUTTERFLYZOOM, facts: BUTTERFLY_FACTS, topicWord: "ZOOM
 const E110CFG = { items: SPIDERZOOM, facts: SPIDER_FACTS, topicWord: "ZOOMED SPIDER", topicPlural: "SPIDERS", dir: "spiders", ext: "jpg", fit: "cover", voPrefix: "sdz-", nameField: "name", introVo: "vo-intro-spiderzoom", coldSlug: "peacockspider", zoom: { scale: 3.0 }, theme: 3 };
 const E112CFG = { items: AMPHIBIANZOOM, facts: AMPHIBIAN_FACTS, topicWord: "ZOOMED AMPHIBIAN", topicPlural: "AMPHIBIANS", dir: "amphibians", ext: "jpg", fit: "cover", voPrefix: "amz-", nameField: "name", introVo: "vo-intro-amphibianzoom", coldSlug: "firesalamander", zoom: { scale: 3.0 }, theme: 3 };
 const E96CFG = { items: NATTEAMS, facts: NATTEAMS_FACTS, topicWord: "TEAM", topicPlural: "TEAMS", dir: "natteams", ext: "svg", fit: "contain", voPrefix: "nt-", nameField: "name", introVo: "vo-intro-natteam", coldSlug: "brazil", theme: 2 };
+const E113CFG = { items: COAT_OF_ARMS, facts: COAT_OF_ARMS_FACTS, topicWord: "COUNTRY", topicPlural: "COUNTRIES", dir: "coatofarms", ext: "svg", fit: "contain", voPrefix: "coa-", nameField: "name", introVo: "vo-intro-coatofarms", coldSlug: "mexico", theme: 3 };
 const E15CFG = { items: DOGS, facts: DOG_FACTS, topicWord: "DOG BREED", topicPlural: "DOG BREEDS", dir: "dogs", ext: "jpg", fit: "cover", voPrefix: "dog-", nameField: "name", introVo: "vo-intro-dog", coldSlug: "labrador" };
 const E81CFG = { items: DOGS2, facts: DOGS2_FACTS, topicWord: "DOG BREED", topicPlural: "DOG BREEDS", dir: "dogs2", ext: "jpg", fit: "cover", voPrefix: "d2-", nameField: "name", introVo: "vo-intro-dogs2", coldSlug: "frenchbulldog" };
 const E19CFG = { items: BIRDS, facts: BIRD_FACTS, topicWord: "BIRD", topicPlural: "BIRDS", dir: "birds", ext: "jpg", fit: "cover", voPrefix: "bd-", nameField: "name", introVo: "vo-intro-bird", coldSlug: "spangled-cotinga" };
@@ -204,6 +207,10 @@ import { REPTILES2 } from "./Quiz/reptiles2Data";
 import { REPTILES2_FACTS } from "./Quiz/reptiles2Facts";
 import { SILHOUETTES } from "./Quiz/silhouetteData";
 import { SILHOUETTE_FACTS } from "./Quiz/silhouetteFacts";
+import { DINO_SILHOUETTES } from "./Quiz/dinosilhouetteData";
+import { DINO_SILHOUETTES_FACTS } from "./Quiz/dinosilhouetteFacts";
+import { SCRAMBLED } from "./Quiz/scrambledData";
+import { SCRAMBLED_FACTS } from "./Quiz/scrambledFacts";
 import { BIRDZOOM } from "./Quiz/birdzoomData";
 import { GEMZOOM } from "./Quiz/gemzoomData";
 import { REPTILEZOOM } from "./Quiz/reptilezoomData";
@@ -258,6 +265,8 @@ import { LOGOS7 } from "./Quiz/logos7Data";
 import { LOGOS7_FACTS } from "./Quiz/logos7Facts";
 import { NATTEAMS } from "./Quiz/natteamsData";
 import { NATTEAMS_FACTS } from "./Quiz/natteamsFacts";
+import { COAT_OF_ARMS } from "./Quiz/coatofarmsData";
+import { COAT_OF_ARMS_FACTS } from "./Quiz/coatofarmsFacts";
 import { FLAGS_MEGA } from "./Quiz/flagsMegaData";
 import { FLAGS_MEGA_FACTS } from "./Quiz/flagsMegaFacts";
 import { LOGOS_MEGA } from "./Quiz/logosMegaData";
@@ -614,6 +623,12 @@ export const RemotionRoot = () => {
       <Composition id="Thumb110" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "spiders", grid: ["peacockspider", "cobaltbluetarantula", "?", "goldsilkorbweaver", "?", "candystripespider", "?", "wheelspider", "blackwidow"], line1: "CAN YOU NAME ALL", word: "ZOOMED SPIDER", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E112Quiz" component={QuizV2} durationInFrames={quizFrames(E112CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E112CFG }} />
       <Composition id="Thumb112" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "amphibians", grid: ["firesalamander", "goldenpoisonfrog", "?", "bluespottedsalamander", "?", "goldentoad", "?", "axolotl", "tigersalamander"], line1: "CAN YOU NAME ALL", word: "ZOOMED AMPHIBIAN", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E114Quiz" component={QuizV2} durationInFrames={quizFrames(E114CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E114CFG }} />
+      <Composition id="Thumb114" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "dinosilhouette", grid: ["trex", "triceratops", "stegosaurus", "?", "ankylosaurus", "?", "spinosaurus", "?", "velociraptor"], line1: "CAN YOU NAME ALL", word: "DINOSAUR", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E115Quiz" component={QuizV2} durationInFrames={quizFrames(E115CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E115CFG }} />
+      <Composition id="Thumb115" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "scrambled", grid: ["RFEACN", "AJAPN", "NHCAI", "?", "ARUISS", "?", "IBZALR", "?", "TPYEG"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E113Quiz" component={QuizV2} durationInFrames={quizFrames(E113CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E113CFG }} />
+      <Composition id="Thumb113" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "coatofarms", grid: ["mexico", "united-kingdom", "?", "united-states", "?", "egypt", "?", "zimbabwe", "india"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E96Quiz" component={QuizV2} durationInFrames={quizFrames(E96CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E96CFG }} />
       <Composition id="Thumb96" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "natteams", grid: ["brazil", "germany", "?", "argentina", "?", "spain", "?", "france", "england"], line1: "CAN YOU NAME ALL", word: "TEAM", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E66Quiz" component={QuizV2} durationInFrames={quizFrames(E66CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E66CFG }} />
@@ -691,6 +706,9 @@ export const RemotionRoot = () => {
         { ep: "E110", items: SPIDERZOOM, mode: "spiders", title: "Guess the Zoomed Spider", v2: true, zoom: { scale: 3.0 }, theme: 3 },
         { ep: "E112", items: AMPHIBIANZOOM, mode: "amphibians", title: "Guess the Zoomed Amphibian", v2: true, zoom: { scale: 3.0 }, theme: 3 },
         { ep: "E96", items: NATTEAMS, mode: "natteams", title: "Guess the National Team Badge", v2: true, theme: 2 },
+        { ep: "E113", items: COAT_OF_ARMS, mode: "coatofarms", title: "Guess the Country by Coat of Arms", v2: true, theme: 3 },
+        { ep: "E114", items: DINO_SILHOUETTES, mode: "dinosilhouette", title: "Guess the Dinosaur by its Shadow", v2: true, theme: 3 },
+        { ep: "E115", items: SCRAMBLED, mode: "scrambled", title: "Guess the Country by Scrambled Name", v2: true, theme: 3 },
         { ep: "E18", items: PAINTINGS, mode: "paintings", title: "Guess the Painting", v2: true },
         { ep: "E19", items: BIRDS, mode: "birds", title: "Guess the Bird", v2: true },
         { ep: "E80", items: BIRDS2, mode: "birds2", title: "Guess the Bird 2", v2: true },

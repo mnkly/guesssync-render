@@ -49,6 +49,7 @@ const ASSET = {
   hats: { dir: "hats", ext: "jpg", fit: "cover" },
   reptiles: { dir: "reptiles", ext: "jpg", fit: "cover" },
   silhouette: { dir: "silhouette", ext: "png", fit: "contain" },
+  dinosilhouette: { dir: "dinosilhouette", ext: "png", fit: "contain" },
   reptiles2: { dir: "reptiles2", ext: "jpg", fit: "cover" },
   animals2: { dir: "animals2", ext: "jpg", fit: "cover" },
   animals3: { dir: "animals3", ext: "jpg", fit: "cover" },
@@ -62,6 +63,7 @@ const ASSET = {
   cats: { dir: "cats", ext: "jpg", fit: "cover" },
   logos: { dir: "logos", ext: "svg", fit: "contain" },
   natteams: { dir: "natteams", ext: "svg", fit: "contain" },
+  coatofarms: { dir: "coatofarms", ext: "svg", fit: "contain" },
   flags: { dir: "flags", ext: "svg", fit: "contain" },
   capitals: { dir: "flags", ext: "svg", fit: "contain" },
   countries: { dir: "flags", ext: "svg", fit: "contain" },
@@ -87,6 +89,10 @@ const ASSET = {
   butterflies2: { dir: "butterflies2", ext: "jpg", fit: "cover" },
   snakes: { dir: "snakes", ext: "jpg", fit: "cover" },
 };
+// modes that show scrambled/plain TEXT tiles instead of an image (E115+). GUARD: only these modes
+// hit the text-tile branch below — every image mode keeps using <Img> exactly as before.
+const TEXT_MODES = new Set(["scrambled"]);
+
 export const GsThumbV2 = ({
   mode = "fruits",
   folder,
@@ -98,6 +104,7 @@ export const GsThumbV2 = ({
   badge = "Only 1% get 100%",
 }) => {
   const TILE = 138, GAP = 9;
+  const isText = TEXT_MODES.has(mode);
   const A = ASSET[mode] || { dir: folder || mode, ext: "jpg", fit: "cover" };
   return (
     <AbsoluteFill style={{ fontFamily: font, backgroundColor: G.blueDeep }}>
@@ -118,6 +125,10 @@ export const GsThumbV2 = ({
           slug === "?" ? (
             <div key={i} style={{ width: TILE, height: TILE, background: G.blueDeep, borderRadius: 18, display: "flex", alignItems: "center", justifyContent: "center", border: `4px solid ${G.gold}`, boxShadow: "0 8px 22px rgba(0,0,0,0.5)" }}>
               <span style={{ fontWeight: 900, fontSize: 90, color: G.gold }}>?</span>
+            </div>
+          ) : isText ? (
+            <div key={i} style={{ width: TILE, height: TILE, background: "#fff", borderRadius: 18, boxShadow: "0 8px 22px rgba(0,0,0,0.5)", display: "flex", alignItems: "center", justifyContent: "center", padding: 6 }}>
+              <span style={{ fontWeight: 900, fontSize: Math.max(14, Math.floor(120 / Math.max(String(slug).length, 3))), letterSpacing: 1, color: G.blueDeep, textAlign: "center", lineHeight: 1 }}>{slug}</span>
             </div>
           ) : (
             <div key={i} style={{ width: TILE, height: TILE, background: "#fff", borderRadius: 18, padding: A.fit === "contain" ? 12 : 6, boxShadow: "0 8px 22px rgba(0,0,0,0.5)" }}>

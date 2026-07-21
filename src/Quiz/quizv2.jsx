@@ -195,6 +195,23 @@ const ItemImg = ({ cfg, slug, w, h, revealed, revealAt }) => {
   return <Img src={staticFile(`${cfg.dir}/${slug}.${cfg.ext}`)} style={{ width: w - pad * 2, height: h - pad * 2, objectFit: cfg.fit, borderRadius: cfg.fit === "contain" ? 12 : 22, transform: `scale(${settle})` }} />;
 };
 
+// عرض لغز نصّي (E115+) — يُظهر السلسلة المبعثرة (cfg.clueType === "text") كنص كبير عريض بدل صورة.
+// GUARD: هذا المسار يُستدعى فقط عندما cfg.clueType === "text" (يتحقّق عند نقطة الاستدعاء أدناه)،
+// فلا يمسّ أي حلقة صور قديمة — نفس مبدأ isEmoji القائم أصلاً.
+const TextClue = ({ text, w, h, revealed, revealAt }) => {
+  const frame = useCurrentFrame();
+  const settle = revealed
+    ? interpolate(frame, [revealAt, revealAt + 10], [1.07, 1.0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })
+    : interpolate(frame, [0, revealAt], [1.0, 1.07], { extrapolateRight: "clamp" });
+  const len = String(text).length;
+  const fs = Math.max(34, Math.min(84, Math.floor((w * 1.55) / Math.max(len, 3))));
+  return (
+    <div style={{ display: "flex", alignItems: "center", justifyContent: "center", width: w, height: h, padding: 16, transform: `scale(${settle})` }}>
+      <div style={{ fontFamily: font, fontWeight: 900, fontSize: fs, letterSpacing: Math.max(2, fs * 0.09), color: GAME.blueDeep, textAlign: "center", lineHeight: 1.1, wordBreak: "break-word" }}>{text}</div>
+    </div>
+  );
+};
+
 // عرض لغز الإيموجي (E26 وما بعده) — كل إيموجي يُجلب كـ OpenMoji SVG بحسب كود يونيكود.
 const emojiHex = (ch) => [...ch].map((c) => c.codePointAt(0).toString(16).toUpperCase()).join("-");
 const EmojiClue = ({ emojis, w, h, revealed, revealAt }) => {
@@ -237,7 +254,9 @@ const Round = ({ item, num, cfg }) => {
       <Progress num={num} accent={accent} total={cfg.items.length} />
       <div style={{ position: "absolute", top: hasOptions ? 166 : 150, left: 0, right: 0, display: "flex", justifyContent: "center", alignItems: "flex-start" }}>
         <div style={{ transform: `scale(${interpolate(enter, [0, 1], [0.4, 1]) * pop}) translateY(${interpolate(enter, [0, 1], [60, 0]) + floatY}px) rotate(${rot}deg)`, opacity: enter, width: cardW, height: cardH, borderRadius: 30, background: "#fff", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: revealed ? `0 0 70px ${accent}` : "0 24px 60px rgba(0,0,0,0.5)", border: `5px solid ${revealed ? accent : "rgba(255,255,255,0.3)"}`, overflow: "hidden" }}>
-          {cfg.isEmoji
+          {cfg.clueType === "text"
+            ? <TextClue text={item.scrambled} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />
+            : cfg.isEmoji
             ? <EmojiClue emojis={item.emojis} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />
             : <ItemImg cfg={cfg} slug={item[cfg.slugKey || "slug"]} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />}
         </div>
@@ -307,7 +326,9 @@ const ColdOpen = ({ item, cfg }) => {
       </div>
       <AbsoluteFill style={{ justifyContent: "center", alignItems: "center" }}>
         <div style={{ width: cardW, height: cardH, borderRadius: 30, background: "#fff", overflow: "hidden", border: `6px solid ${revealed ? "#3BE07A" : accent}`, boxShadow: revealed ? "0 0 80px #3BE07A" : "0 24px 60px rgba(0,0,0,0.55)", transform: `scale(${interpolate(s, [0, 1], [0.6, 1])})`, display: "flex", alignItems: "center", justifyContent: "center" }}>
-          {cfg.isEmoji
+          {cfg.clueType === "text"
+            ? <TextClue text={item.scrambled} w={cardW} h={cardH} revealed={false} revealAt={9999} />
+            : cfg.isEmoji
             ? <EmojiClue emojis={item.emojis} w={cardW} h={cardH} revealed={false} revealAt={9999} />
             : <ItemImg cfg={cfg} slug={item[cfg.slugKey || "slug"]} w={cardW} h={cardH} revealed={false} revealAt={9999} />}
         </div>
