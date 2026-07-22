@@ -91,7 +91,7 @@ const ASSET = {
 };
 // modes that show scrambled/plain TEXT tiles instead of an image (E115+). GUARD: only these modes
 // hit the text-tile branch below — every image mode keeps using <Img> exactly as before.
-const TEXT_MODES = new Set(["scrambled"]);
+const TEXT_MODES = new Set(["scrambled", "novowels"]);
 
 export const GsThumbV2 = ({
   mode = "fruits",
