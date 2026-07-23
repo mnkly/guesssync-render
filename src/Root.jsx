@@ -65,7 +65,8 @@ import { FruitsQuiz, FRUITS_FRAMES } from "./Quiz/fruits";
 import { FRUITS } from "./Quiz/fruitsData";
 import { FRUIT_FACTS } from "./Quiz/fruitFacts";
 import { FLOWER_FACTS } from "./Quiz/flowerFacts";
-import { GsThumbV2 } from "./Quiz/gsthumb2";
+import { GsThumbV2, GsThumbRebus } from "./Quiz/gsthumb2";
+import { RebusDemo } from "./Quiz/rebusdemo";
 import { GsThumbV3 } from "./Quiz/gsthumb3";
 import { GsThumbV4 } from "./Quiz/gsthumb4";
 import { QuizV2, quizFrames } from "./Quiz/quizv2";
@@ -126,6 +127,9 @@ const E118CFG = { items: CAPITAL_SCRAMBLED, facts: CAPITAL_SCRAMBLED_FACTS, topi
 const E119CFG = { items: REVERSED, facts: REVERSED_FACTS, topicWord: "COUNTRY", topicPlural: "COUNTRIES", clueType: "text", clueField: "reversed", voPrefix: "rev-", nameField: "name", introVo: "vo-intro-reversed", coldSlug: "france", theme: 4 };
 const E120CFG = { items: USSTATE_SCRAMBLED, facts: USSTATE_SCRAMBLED_FACTS, topicWord: "STATE", topicPlural: "STATES", clueType: "text", clueField: "scrambled", voPrefix: "ussc-", nameField: "name", introVo: "vo-intro-usstatescrambled", coldSlug: "california", theme: 4 };
 const E121CFG = { items: MISSING_LETTERS, facts: MISSING_LETTERS_FACTS, topicWord: "COUNTRY", topicPlural: "COUNTRIES", clueType: "text", clueField: "blanked", voPrefix: "mis-", nameField: "name", introVo: "vo-intro-missingletters", coldSlug: "france", theme: 4 };
+// E122 «Guess the Word by Emoji» (emoji REBUS) — Fluent-3D emoji SEQUENCE clue. emojiSeq flag guards the new renderer
+// so OpenMoji emoji episodes (isEmoji) are untouched. item.emojis = array of emoji3d slugs; answer = the WORD.
+const E122CFG = { items: EMOJI_WORD, facts: EMOJI_WORD_FACTS, topicWord: "WORD", topicPlural: "WORDS", emojiSeq: true, emojiDir: "emoji3d", emojiExt: "png", nameField: "answer", slugKey: "slug", voKey: "slug", voPrefix: "ew-", introVo: "vo-intro-emojiword", coldSlug: "honeymoon", theme: 4 };
 const E93CFG = { items: MUSHROOMS2, facts: MUSHROOMS2_FACTS, topicWord: "MUSHROOM", topicPlural: "MUSHROOMS", dir: "mushrooms2", ext: "jpg", fit: "cover", voPrefix: "mu2-", nameField: "name", introVo: "vo-intro-mushroom2", coldSlug: "lobstermushroom", theme: 1 };
 const E66CFG = { items: ROCKS, facts: ROCK_FACTS, topicWord: "ROCK", topicPlural: "ROCKS", dir: "rocks", ext: "jpg", fit: "cover", voPrefix: "rk-", nameField: "name", introVo: "vo-intro-rock", coldSlug: "granite" };
 // MEGA episodes — variable item count (>100, uneven tiers). Engine is tier-size-agnostic; count displays derive from items.length.
@@ -367,6 +371,8 @@ import { FASTFOOD } from "./Quiz/fastfoodData";
 import { FASTFOOD_FACTS } from "./Quiz/fastfoodFacts";
 import { CATS } from "./Quiz/catsData";
 import { CAT_FACTS } from "./Quiz/catFacts";
+import { EMOJI_WORD } from "./Quiz/emojiwordData";
+import { EMOJI_WORD_FACTS } from "./Quiz/emojiwordFacts";
 import { ThemePreview } from "./Quiz/themePreview";
 import { FlagQuizGS, FLAG_FRAMES, FlagQuizGSSample, FLAG_SAMPLE_FRAMES } from "./Quiz/flags";
 import { GsThumb } from "./Quiz/gsthumb";
@@ -655,8 +661,14 @@ export const RemotionRoot = () => {
       <Composition id="Thumb119" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "reversed", grid: ["ECNARF", "NAPAJ", "ANIHC", "?", "AISSUR", "?", "LIZARB", "?", "TPYGE"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E120Quiz" component={QuizV2} durationInFrames={quizFrames(E120CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E120CFG }} />
       <Composition id="Thumb120" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "usstatescrambled", grid: ["AXSTE", "IDRFALO", "KLASAA", "?", "WIIHAA", "?", "CIALFNRIOA", "?", "YOK ERNW"], line1: "CAN YOU NAME ALL", word: "STATE", number: "50", year: "2026", badge: "Only 1% get 50/50" }} />
+      <Composition id="ThumbRebusTest" component={GsThumbRebus} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ keyword: "WORD", e1: "1F36F", e2: "1F319", year: "2026", badge: "ONLY 1% CAN!" }} />
+      <Composition id="RebusDemo" component={RebusDemo} durationInFrames={1} fps={30} width={1920} height={1080} defaultProps={{ e1: "sun", e2: "flower", answer: "Sunflower", opts: ["Marigold", "Sunflower", "Daisy", "Tulip"], correct: 1, num: 3 }} />
+      <Composition id="ThumbRebusFluent" component={GsThumbRebus} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ keyword: "WORD", e1: "honey", e2: "moon", edir: "emoji3d", eext: "png", year: "2026", badge: "ONLY 1% CAN!" }} />
+      <Composition id="ThumbRebusTwemoji" component={GsThumbRebus} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ keyword: "WORD", e1: "1F36F", e2: "1F319", edir: "twemoji", eext: "svg", year: "2026", badge: "ONLY 1% CAN!" }} />
       <Composition id="E121Quiz" component={QuizV2} durationInFrames={quizFrames(E121CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E121CFG }} />
       <Composition id="Thumb121" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "missingletters", grid: ["_RANC_", "J__AN", "C_I_A", "?", "RUS_I_", "?", "B_AZI_", "?", "E_YP_"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E122Quiz" component={QuizV2} durationInFrames={quizFrames(E122CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E122CFG }} />
+      <Composition id="Thumb122" component={GsThumbRebus} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ keyword: "WORD", e1: "honey", e2: "moon", edir: "emoji3d", eext: "png", year: "2026", badge: "ONLY 1% CAN!" }} />
       <Composition id="E113Quiz" component={QuizV2} durationInFrames={quizFrames(E113CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E113CFG }} />
       <Composition id="Thumb113" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "coatofarms", grid: ["mexico", "united-kingdom", "?", "united-states", "?", "egypt", "?", "zimbabwe", "india"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E96Quiz" component={QuizV2} durationInFrames={quizFrames(E96CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E96CFG }} />
@@ -745,6 +757,7 @@ export const RemotionRoot = () => {
         { ep: "E119", items: REVERSED, mode: "reversed", title: "Guess the Country by Reversed Name", v2: true, theme: 4 },
         { ep: "E120", items: USSTATE_SCRAMBLED, mode: "usstatescrambled", title: "Guess the US State by Scrambled Name", v2: true, theme: 4 },
         { ep: "E121", items: MISSING_LETTERS, mode: "missingletters", title: "Guess the Country by Missing Letters", v2: true, theme: 4 },
+        { ep: "E122", items: EMOJI_WORD, mode: "emojiword", title: "Guess the Word by Emoji", v2: true, theme: 4 },
         { ep: "E18", items: PAINTINGS, mode: "paintings", title: "Guess the Painting", v2: true },
         { ep: "E19", items: BIRDS, mode: "birds", title: "Guess the Bird", v2: true },
         { ep: "E80", items: BIRDS2, mode: "birds2", title: "Guess the Bird 2", v2: true },

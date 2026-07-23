@@ -232,6 +232,30 @@ const EmojiClue = ({ emojis, w, h, revealed, revealAt }) => {
   );
 };
 
+// عرض لغز الإيموجي-ريبَس (E122) — تسلسل إيموجي Fluent-3D (public/<emojiDir>/<slug>.<ext>) في صفّ أفقي.
+// GUARD: يُستدعى فقط عندما cfg.emojiSeq === true، فلا يمسّ حلقات OpenMoji القائمة (cfg.isEmoji) أبداً.
+// item.emojis هنا = مصفوفة أسماء ملفات (slugs)، وليست سلسلة يونيكود كما في EmojiClue.
+const EmojiSeqClue = ({ emojis, dir, ext, w, h, revealed, revealAt }) => {
+  const frame = useCurrentFrame();
+  const arr = Array.isArray(emojis) ? emojis : [emojis];
+  const n = arr.length;
+  const settle = revealed
+    ? interpolate(frame, [revealAt, revealAt + 10], [1.07, 1.0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })
+    : interpolate(frame, [0, revealAt], [1.0, 1.07], { extrapolateRight: "clamp" });
+  const size = Math.min((w * 0.82) / Math.max(n, 2), h * 0.5);
+  const plus = Math.round(size * 0.42);
+  return (
+    <div style={{ display: "flex", flexWrap: "nowrap", gap: Math.round(size * 0.04), alignItems: "center", justifyContent: "center", width: w, height: h, padding: 10, transform: `scale(${settle})` }}>
+      {arr.map((slug, i) => (
+        <React.Fragment key={i}>
+          {i > 0 && <span style={{ fontFamily: font, fontWeight: 900, fontSize: plus, color: GAME.blue, opacity: 0.55, margin: `0 ${Math.round(size * 0.02)}px` }}>+</span>}
+          <Img src={staticFile(`${dir}/${slug}.${ext}`)} style={{ width: size, height: size, objectFit: "contain", filter: "drop-shadow(0 6px 14px rgba(0,0,0,0.25))" }} />
+        </React.Fragment>
+      ))}
+    </div>
+  );
+};
+
 const Round = ({ item, num, cfg }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -257,6 +281,8 @@ const Round = ({ item, num, cfg }) => {
         <div style={{ transform: `scale(${interpolate(enter, [0, 1], [0.4, 1]) * pop}) translateY(${interpolate(enter, [0, 1], [60, 0]) + floatY}px) rotate(${rot}deg)`, opacity: enter, width: cardW, height: cardH, borderRadius: 30, background: "#fff", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: revealed ? `0 0 70px ${accent}` : "0 24px 60px rgba(0,0,0,0.5)", border: `5px solid ${revealed ? accent : "rgba(255,255,255,0.3)"}`, overflow: "hidden" }}>
           {cfg.clueType === "text"
             ? <TextClue text={item[cfg.clueField || "scrambled"]} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />
+            : cfg.emojiSeq
+            ? <EmojiSeqClue emojis={item.emojis} dir={cfg.emojiDir} ext={cfg.emojiExt} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />
             : cfg.isEmoji
             ? <EmojiClue emojis={item.emojis} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />
             : <ItemImg cfg={cfg} slug={item[cfg.slugKey || "slug"]} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />}
@@ -329,6 +355,8 @@ const ColdOpen = ({ item, cfg }) => {
         <div style={{ width: cardW, height: cardH, borderRadius: 30, background: "#fff", overflow: "hidden", border: `6px solid ${revealed ? "#3BE07A" : accent}`, boxShadow: revealed ? "0 0 80px #3BE07A" : "0 24px 60px rgba(0,0,0,0.55)", transform: `scale(${interpolate(s, [0, 1], [0.6, 1])})`, display: "flex", alignItems: "center", justifyContent: "center" }}>
           {cfg.clueType === "text"
             ? <TextClue text={item[cfg.clueField || "scrambled"]} w={cardW} h={cardH} revealed={false} revealAt={9999} />
+            : cfg.emojiSeq
+            ? <EmojiSeqClue emojis={item.emojis} dir={cfg.emojiDir} ext={cfg.emojiExt} w={cardW} h={cardH} revealed={false} revealAt={9999} />
             : cfg.isEmoji
             ? <EmojiClue emojis={item.emojis} w={cardW} h={cardH} revealed={false} revealAt={9999} />
             : <ItemImg cfg={cfg} slug={item[cfg.slugKey || "slug"]} w={cardW} h={cardH} revealed={false} revealAt={9999} />}

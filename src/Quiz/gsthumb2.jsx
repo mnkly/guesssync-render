@@ -167,3 +167,41 @@ export const GsThumbV2 = ({
     </AbsoluteFill>
   );
 };
+
+// ===== ثمبنيل الإيموجي-ريبَس (نمط QuizDino) — بأصولنا الحقيقية: بومة + إيموجي OpenMoji + Montserrat =====
+// props: keyword ("WORD"/"COUNTRY"...), e1/e2 = رمزا OpenMoji (hex)، year، badge
+export const GsThumbRebus = ({ keyword = "WORD", e1 = "1F36F", e2 = "1F319", edir = "openmoji", eext = "svg", year = "2026", badge = "ONLY 1% CAN!" }) => (
+  <AbsoluteFill style={{ fontFamily: font, backgroundColor: G.blueDeep }}>
+    <Bg />
+
+    {/* بانر أحمر علوي = الكلمة المفتاحية (البطل) */}
+    <div style={{ position: "absolute", top: 30, left: 150, right: 150, height: 128, background: "#FF2A2A", border: `7px solid #fff`, borderRadius: 28, display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 10px 26px rgba(0,0,0,0.45)" }}>
+      <div style={{ fontWeight: 900, fontSize: 78, letterSpacing: 1, color: "#fff", WebkitTextStroke: "2px #7a0000", paintOrder: "stroke fill" }}>
+        GUESS THE <span style={{ color: G.gold }}>{keyword}</span>
+      </div>
+    </div>
+
+    {/* GUESSSYNC (يسار علوي) + سنة (يمين علوي) */}
+    <div style={{ position: "absolute", top: 176, left: 40, display: "flex", alignItems: "center", gap: 8, fontWeight: 900, fontSize: 30, color: "#fff", textShadow: "0 3px 10px rgba(0,0,0,0.6)" }}>
+      <span style={{ width: 15, height: 15, borderRadius: "50%", border: `4px solid ${G.gold}` }} />GUESS<span style={{ color: G.gold }}>SYNC</span>
+    </div>
+    <div style={{ position: "absolute", top: 172, right: 40, background: G.gold, color: G.blueDeep, fontWeight: 900, fontSize: 34, padding: "6px 22px", borderRadius: 14, boxShadow: "0 8px 20px rgba(0,0,0,0.4)" }}>{year}</div>
+
+    {/* معادلة الريبَس الأفقية: إيموجي + إيموجي = ؟ */}
+    <div style={{ position: "absolute", left: 40, right: 40, top: 250, height: 300, display: "flex", alignItems: "center", justifyContent: "center", gap: 18 }}>
+      <Img src={staticFile(`${edir}/${e1}.${eext}`)} style={{ width: 250, height: 250, objectFit: "contain", filter: "drop-shadow(0 12px 20px rgba(0,0,0,0.5))" }} />
+      <span style={{ fontWeight: 900, fontSize: 110, color: "#fff", WebkitTextStroke: "5px #07184f", paintOrder: "stroke fill" }}>+</span>
+      <Img src={staticFile(`${edir}/${e2}.${eext}`)} style={{ width: 250, height: 250, objectFit: "contain", filter: "drop-shadow(0 12px 20px rgba(0,0,0,0.5))" }} />
+      <span style={{ fontWeight: 900, fontSize: 110, color: "#fff", WebkitTextStroke: "5px #07184f", paintOrder: "stroke fill" }}>=</span>
+      <div style={{ width: 176, height: 176, borderRadius: "50%", background: G.gold, border: "8px solid #fff", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 12px 30px rgba(0,0,0,0.5)" }}>
+        <span style={{ fontWeight: 900, fontSize: 130, color: "#FF2A2A" }}>?</span>
+      </div>
+    </div>
+
+    {/* شارة 1% (يسار سفلي) */}
+    <div style={{ position: "absolute", bottom: 42, left: 40, transform: "rotate(-6deg)", background: "#FF2A2A", color: "#fff", fontWeight: 900, fontSize: 40, padding: "12px 30px", borderRadius: 999, border: "5px solid #fff", boxShadow: "0 12px 30px rgba(0,0,0,0.5)" }}>{badge} 🔥</div>
+
+    {/* البومة الحقيقية (يمين سفلي) */}
+    <Img src={staticFile("brand/owl-cheer.png")} style={{ position: "absolute", right: 6, bottom: -6, width: 238, height: 238, objectFit: "contain", filter: "drop-shadow(0 14px 30px rgba(0,0,0,0.55))" }} />
+  </AbsoluteFill>
+);
