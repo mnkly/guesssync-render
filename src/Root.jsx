@@ -121,6 +121,9 @@ const E90CFG = { items: SILHOUETTES, facts: SILHOUETTE_FACTS, topicWord: "ANIMAL
 const E114CFG = { items: DINO_SILHOUETTES, facts: DINO_SILHOUETTES_FACTS, topicWord: "DINOSAUR", topicPlural: "DINOSAURS", dir: "dinosilhouette", ext: "png", fit: "contain", voPrefix: "dz-", nameField: "name", introVo: "vo-intro-dinosilhouette", coldSlug: "trex", theme: 3 };
 const E115CFG = { items: SCRAMBLED, facts: SCRAMBLED_FACTS, topicWord: "COUNTRY", topicPlural: "COUNTRIES", clueType: "text", clueField: "scrambled", voPrefix: "scr-", nameField: "name", introVo: "vo-intro-scrambled", coldSlug: "france", theme: 3 };
 const E116CFG = { items: NO_VOWELS, facts: NO_VOWELS_FACTS, topicWord: "COUNTRY", topicPlural: "COUNTRIES", clueType: "text", clueField: "novowels", voPrefix: "nvw-", nameField: "name", introVo: "vo-intro-novowels", coldSlug: "france", theme: 4 };
+const E117CFG = { items: US_STATES, facts: US_STATES_FACTS, topicWord: "STATE", topicPlural: "STATES", dir: "usstates", ext: "svg", fit: "contain", voPrefix: "usst-", nameField: "name", introVo: "vo-intro-usstates", coldSlug: "california", theme: 4 };
+const E118CFG = { items: CAPITAL_SCRAMBLED, facts: CAPITAL_SCRAMBLED_FACTS, topicWord: "CAPITAL", topicPlural: "CAPITALS", clueType: "text", clueField: "scrambled", voPrefix: "cscr-", nameField: "name", introVo: "vo-intro-capitalscrambled", coldSlug: "paris", theme: 4 };
+const E119CFG = { items: REVERSED, facts: REVERSED_FACTS, topicWord: "COUNTRY", topicPlural: "COUNTRIES", clueType: "text", clueField: "reversed", voPrefix: "rev-", nameField: "name", introVo: "vo-intro-reversed", coldSlug: "france", theme: 4 };
 const E93CFG = { items: MUSHROOMS2, facts: MUSHROOMS2_FACTS, topicWord: "MUSHROOM", topicPlural: "MUSHROOMS", dir: "mushrooms2", ext: "jpg", fit: "cover", voPrefix: "mu2-", nameField: "name", introVo: "vo-intro-mushroom2", coldSlug: "lobstermushroom", theme: 1 };
 const E66CFG = { items: ROCKS, facts: ROCK_FACTS, topicWord: "ROCK", topicPlural: "ROCKS", dir: "rocks", ext: "jpg", fit: "cover", voPrefix: "rk-", nameField: "name", introVo: "vo-intro-rock", coldSlug: "granite" };
 // MEGA episodes — variable item count (>100, uneven tiers). Engine is tier-size-agnostic; count displays derive from items.length.
@@ -214,6 +217,12 @@ import { SCRAMBLED } from "./Quiz/scrambledData";
 import { SCRAMBLED_FACTS } from "./Quiz/scrambledFacts";
 import { NO_VOWELS } from "./Quiz/novowelsData";
 import { NO_VOWELS_FACTS } from "./Quiz/novowelsFacts";
+import { US_STATES } from "./Quiz/usstatesData";
+import { US_STATES_FACTS } from "./Quiz/usstatesFacts";
+import { REVERSED } from "./Quiz/reversedData";
+import { REVERSED_FACTS } from "./Quiz/reversedFacts";
+import { CAPITAL_SCRAMBLED } from "./Quiz/capitalscrambledData";
+import { CAPITAL_SCRAMBLED_FACTS } from "./Quiz/capitalscrambledFacts";
 import { BIRDZOOM } from "./Quiz/birdzoomData";
 import { GEMZOOM } from "./Quiz/gemzoomData";
 import { REPTILEZOOM } from "./Quiz/reptilezoomData";
@@ -632,6 +641,12 @@ export const RemotionRoot = () => {
       <Composition id="Thumb115" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "scrambled", grid: ["RFEACN", "AJAPN", "NHCAI", "?", "ARUISS", "?", "IBZALR", "?", "TPYEG"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E116Quiz" component={QuizV2} durationInFrames={quizFrames(E116CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E116CFG }} />
       <Composition id="Thumb116" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "novowels", grid: ["FRNC", "JPN", "CHN", "?", "RSS", "?", "BRZL", "?", "GYPT"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E117Quiz" component={QuizV2} durationInFrames={quizFrames(E117CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E117CFG }} />
+      <Composition id="Thumb117" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "usstates", grid: ["california", "texas", "?", "florida", "?", "alaska", "?", "hawaii", "new-york"], line1: "CAN YOU NAME ALL", word: "STATE", number: "50", year: "2026", badge: "Only 1% get 50/50" }} />
+      <Composition id="E118Quiz" component={QuizV2} durationInFrames={quizFrames(E118CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E118CFG }} />
+      <Composition id="Thumb118" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "capitalscrambled", grid: ["RSAIP", "OTKOY", "ROEM", "?", "OCMWSO", "?", "RDIMDA", "?", "RICOA"], line1: "CAN YOU NAME ALL", word: "CAPITAL", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E119Quiz" component={QuizV2} durationInFrames={quizFrames(E119CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E119CFG }} />
+      <Composition id="Thumb119" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "reversed", grid: ["ECNARF", "NAPAJ", "ANIHC", "?", "AISSUR", "?", "LIZARB", "?", "TPYGE"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E113Quiz" component={QuizV2} durationInFrames={quizFrames(E113CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E113CFG }} />
       <Composition id="Thumb113" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "coatofarms", grid: ["mexico", "united-kingdom", "?", "united-states", "?", "egypt", "?", "zimbabwe", "india"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E96Quiz" component={QuizV2} durationInFrames={quizFrames(E96CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E96CFG }} />
@@ -715,6 +730,9 @@ export const RemotionRoot = () => {
         { ep: "E114", items: DINO_SILHOUETTES, mode: "dinosilhouette", title: "Guess the Dinosaur by its Shadow", v2: true, theme: 3 },
         { ep: "E115", items: SCRAMBLED, mode: "scrambled", title: "Guess the Country by Scrambled Name", v2: true, theme: 3 },
         { ep: "E116", items: NO_VOWELS, mode: "novowels", title: "Guess the Country Without Vowels", v2: true, theme: 4 },
+        { ep: "E117", items: US_STATES, mode: "usstates", title: "Guess the US State on the Map", v2: true, theme: 4 },
+        { ep: "E118", items: CAPITAL_SCRAMBLED, mode: "capitalscrambled", title: "Guess the Capital by Scrambled Name", v2: true, theme: 4 },
+        { ep: "E119", items: REVERSED, mode: "reversed", title: "Guess the Country by Reversed Name", v2: true, theme: 4 },
         { ep: "E18", items: PAINTINGS, mode: "paintings", title: "Guess the Painting", v2: true },
         { ep: "E19", items: BIRDS, mode: "birds", title: "Guess the Bird", v2: true },
         { ep: "E80", items: BIRDS2, mode: "birds2", title: "Guess the Bird 2", v2: true },

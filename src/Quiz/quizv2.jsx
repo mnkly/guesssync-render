@@ -431,7 +431,7 @@ const build = (cfg) => {
     if (it.level !== last) { segs.push({ t: "level", level: it.level, from: f, dur: LT.level }); f += LT.level; last = it.level; }
     num += 1;
     segs.push({ t: "round", item: it, num, from: f, dur: roundDur(it.level) }); f += roundDur(it.level);
-    if (num === 25 || num === 50 || num === 75) { segs.push({ t: "check", num, from: f, dur: LT.check }); f += LT.check; }
+    if ((num === 25 || num === 50 || num === 75) && num !== items.length) { segs.push({ t: "check", num, from: f, dur: LT.check }); f += LT.check; }
   }
   segs.push({ t: "outro", from: f, dur: LT.outro }); f += LT.outro;
   return { segs, total: f };

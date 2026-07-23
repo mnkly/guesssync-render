@@ -1,0 +1,20 @@
+E117 "Guess the US State on the Map" — base US map attribution
+
+Base map: "Blank US Map, striped.svg"
+Source: Wikimedia Commons
+URL: https://commons.wikimedia.org/wiki/File:Blank_US_Map,_striped.svg
+Author: Lokal_Profil (based on earlier work by User:Theshibboleth)
+License: Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)
+
+Usage in this project:
+- scripts/usstates-gen.mjs reads the state geometry (per-state <path> inside each state's <clipPath>,
+  id="path<ABBR>") and placement (<use id="<ABBR>" transform="...">) from the base SVG, then draws ONE
+  flat, solid-fill <path> per state per output file: neutral gray (#C9D2DE) for the other 49 states,
+  bright highlight red (#FF4136) for the ONE target state named in src/Quiz/usstatesData.js.
+- The original file's striped-pattern rendering (meant for cartogram-style multi-color encoding) is not
+  used — only the underlying state boundary geometry and screen position are reused.
+- Output written to public/usstates/<slug>.svg (50 files), one US state highlighted per file, plus the
+  original Alaska/Hawaii inset divider line for visual clarity.
+- No modification to the underlying state geometry/borders — only fill colors were changed.
+- Attribution required per CC BY-SA 2.5: "Blank US Map, striped.svg" by Lokal_Profil, Wikimedia Commons,
+  CC BY-SA 2.5 — https://commons.wikimedia.org/wiki/File:Blank_US_Map,_striped.svg

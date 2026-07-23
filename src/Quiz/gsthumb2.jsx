@@ -70,6 +70,7 @@ const ASSET = {
   shapes: { dir: "maps", ext: "svg", fit: "contain" },
   countryshapes: { dir: "shapes", ext: "png", fit: "contain" },
   countrymap: { dir: "countrymap", ext: "svg", fit: "contain" },
+  usstates: { dir: "usstates", ext: "svg", fit: "contain" },
   instruments: { dir: "instruments", ext: "jpg", fit: "cover" },
   animals: { dir: "animals", ext: "png", fit: "cover" },
   foods: { dir: "foods", ext: "png", fit: "cover" },
@@ -91,7 +92,7 @@ const ASSET = {
 };
 // modes that show scrambled/plain TEXT tiles instead of an image (E115+). GUARD: only these modes
 // hit the text-tile branch below — every image mode keeps using <Img> exactly as before.
-const TEXT_MODES = new Set(["scrambled", "novowels"]);
+const TEXT_MODES = new Set(["scrambled", "novowels", "reversed", "capitalscrambled"]);
 
 export const GsThumbV2 = ({
   mode = "fruits",
