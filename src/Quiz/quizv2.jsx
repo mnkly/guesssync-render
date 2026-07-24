@@ -199,16 +199,16 @@ const ItemImg = ({ cfg, slug, w, h, revealed, revealAt }) => {
 // GUARD: هذا المسار يُستدعى فقط عندما cfg.clueType === "text" (يتحقّق عند نقطة الاستدعاء أدناه)،
 // فلا يمسّ أي حلقة صور قديمة — نفس مبدأ isEmoji القائم أصلاً. clueField يتيح لأكثر من حلقة نصّية
 // (E115 scrambled, E116 novowels) استخدام نفس المسار دون تعارض.
-const TextClue = ({ text, w, h, revealed, revealAt }) => {
+const TextClue = ({ text, w, h, revealed, revealAt, slogan }) => {
   const frame = useCurrentFrame();
   const settle = revealed
     ? interpolate(frame, [revealAt, revealAt + 10], [1.07, 1.0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })
     : interpolate(frame, [0, revealAt], [1.0, 1.07], { extrapolateRight: "clamp" });
   const len = String(text).length;
-  const fs = Math.max(34, Math.min(84, Math.floor((w * 1.55) / Math.max(len, 3))));
+  const fs = slogan ? Math.max(30, Math.min(72, Math.floor((w * 2.0) / Math.max(len, 6)))) : Math.max(34, Math.min(84, Math.floor((w * 1.55) / Math.max(len, 3))));
   return (
     <div style={{ display: "flex", alignItems: "center", justifyContent: "center", width: w, height: h, padding: 16, transform: `scale(${settle})` }}>
-      <div style={{ fontFamily: font, fontWeight: 900, fontSize: fs, letterSpacing: Math.max(2, fs * 0.09), color: GAME.blueDeep, textAlign: "center", lineHeight: 1.1, wordBreak: "break-word" }}>{text}</div>
+      <div style={{ fontFamily: font, fontWeight: 900, fontStyle: slogan ? "italic" : "normal", fontSize: fs, letterSpacing: slogan ? 0.5 : Math.max(2, fs * 0.09), color: GAME.blueDeep, textAlign: "center", lineHeight: 1.15, wordBreak: "break-word" }}>{slogan ? `“${text}”` : text}</div>
     </div>
   );
 };
@@ -280,7 +280,7 @@ const Round = ({ item, num, cfg }) => {
       <div style={{ position: "absolute", top: hasOptions ? 166 : 150, left: 0, right: 0, display: "flex", justifyContent: "center", alignItems: "flex-start" }}>
         <div style={{ transform: `scale(${interpolate(enter, [0, 1], [0.4, 1]) * pop}) translateY(${interpolate(enter, [0, 1], [60, 0]) + floatY}px) rotate(${rot}deg)`, opacity: enter, width: cardW, height: cardH, borderRadius: 30, background: "#fff", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: revealed ? `0 0 70px ${accent}` : "0 24px 60px rgba(0,0,0,0.5)", border: `5px solid ${revealed ? accent : "rgba(255,255,255,0.3)"}`, overflow: "hidden" }}>
           {cfg.clueType === "text"
-            ? <TextClue text={item[cfg.clueField || "scrambled"]} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />
+            ? <TextClue text={item[cfg.clueField || "scrambled"]} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} slogan={cfg.clueField === "slogan"} />
             : cfg.emojiSeq
             ? <EmojiSeqClue emojis={item.emojis} dir={cfg.emojiDir} ext={cfg.emojiExt} w={cardW} h={cardH} revealed={revealed} revealAt={revealAt} />
             : cfg.isEmoji
@@ -354,7 +354,7 @@ const ColdOpen = ({ item, cfg }) => {
       <AbsoluteFill style={{ justifyContent: "center", alignItems: "center" }}>
         <div style={{ width: cardW, height: cardH, borderRadius: 30, background: "#fff", overflow: "hidden", border: `6px solid ${revealed ? "#3BE07A" : accent}`, boxShadow: revealed ? "0 0 80px #3BE07A" : "0 24px 60px rgba(0,0,0,0.55)", transform: `scale(${interpolate(s, [0, 1], [0.6, 1])})`, display: "flex", alignItems: "center", justifyContent: "center" }}>
           {cfg.clueType === "text"
-            ? <TextClue text={item[cfg.clueField || "scrambled"]} w={cardW} h={cardH} revealed={false} revealAt={9999} />
+            ? <TextClue text={item[cfg.clueField || "scrambled"]} w={cardW} h={cardH} revealed={false} revealAt={9999} slogan={cfg.clueField === "slogan"} />
             : cfg.emojiSeq
             ? <EmojiSeqClue emojis={item.emojis} dir={cfg.emojiDir} ext={cfg.emojiExt} w={cardW} h={cardH} revealed={false} revealAt={9999} />
             : cfg.isEmoji

@@ -162,13 +162,14 @@ const Clue = ({ item, mode, revealed, accent, zoom }) => {
   // item.novowels as big bold letter-spaced text inside the same white card used by every other
   // mode. GUARD: only mode === "scrambled"/"novowels" hits this branch; every existing image mode
   // below is untouched.
-  if (mode === "scrambled" || mode === "novowels" || mode === "reversed" || mode === "capitalscrambled" || mode === "usstatescrambled" || mode === "missingletters") {
-    const text = mode === "novowels" ? item.novowels : mode === "reversed" ? item.reversed : mode === "missingletters" ? item.blanked : item.scrambled;
+  if (mode === "scrambled" || mode === "novowels" || mode === "reversed" || mode === "capitalscrambled" || mode === "usstatescrambled" || mode === "missingletters" || mode === "slogan") {
+    const isSlogan = mode === "slogan";
+    const text = isSlogan ? item.slogan : mode === "novowels" ? item.novowels : mode === "reversed" ? item.reversed : mode === "missingletters" ? item.blanked : item.scrambled;
     const len = String(text || "").length;
-    const fs = Math.max(48, Math.min(120, Math.floor(920 / Math.max(len, 3))));
+    const fs = isSlogan ? Math.max(40, Math.min(96, Math.floor(1400 / Math.max(len, 6)))) : Math.max(48, Math.min(120, Math.floor(920 / Math.max(len, 3))));
     return (
       <div style={{ ...card, width: 900, height: 420, padding: 30 }}>
-        <div style={{ fontFamily: font, fontWeight: 900, fontSize: fs, letterSpacing: Math.max(2, fs * 0.09), color: GAME.blueDeep, textAlign: "center", lineHeight: 1.1, wordBreak: "break-word" }}>{text}</div>
+        <div style={{ fontFamily: font, fontWeight: 900, fontStyle: isSlogan ? "italic" : "normal", fontSize: fs, letterSpacing: isSlogan ? 0.5 : Math.max(2, fs * 0.09), color: GAME.blueDeep, textAlign: "center", lineHeight: 1.15, wordBreak: "break-word" }}>{isSlogan ? `“${text}”` : text}</div>
       </div>
     );
   }

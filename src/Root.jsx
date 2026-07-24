@@ -130,6 +130,7 @@ const E121CFG = { items: MISSING_LETTERS, facts: MISSING_LETTERS_FACTS, topicWor
 // E122 «Guess the Word by Emoji» (emoji REBUS) — Fluent-3D emoji SEQUENCE clue. emojiSeq flag guards the new renderer
 // so OpenMoji emoji episodes (isEmoji) are untouched. item.emojis = array of emoji3d slugs; answer = the WORD.
 const E122CFG = { items: EMOJI_WORD, facts: EMOJI_WORD_FACTS, topicWord: "WORD", topicPlural: "WORDS", emojiSeq: true, emojiDir: "emoji3d", emojiExt: "png", nameField: "answer", slugKey: "slug", voKey: "slug", voPrefix: "ew-", introVo: "vo-intro-emojiword", coldSlug: "honeymoon", theme: 4 };
+const E123CFG = { items: BRAND_SLOGAN, facts: BRAND_SLOGAN_FACTS, topicWord: "BRAND", topicPlural: "BRANDS", clueType: "text", clueField: "slogan", voPrefix: "bs-", nameField: "name", introVo: "vo-intro-slogan", coldSlug: "nike", theme: 4 };
 const E93CFG = { items: MUSHROOMS2, facts: MUSHROOMS2_FACTS, topicWord: "MUSHROOM", topicPlural: "MUSHROOMS", dir: "mushrooms2", ext: "jpg", fit: "cover", voPrefix: "mu2-", nameField: "name", introVo: "vo-intro-mushroom2", coldSlug: "lobstermushroom", theme: 1 };
 const E66CFG = { items: ROCKS, facts: ROCK_FACTS, topicWord: "ROCK", topicPlural: "ROCKS", dir: "rocks", ext: "jpg", fit: "cover", voPrefix: "rk-", nameField: "name", introVo: "vo-intro-rock", coldSlug: "granite" };
 // MEGA episodes — variable item count (>100, uneven tiers). Engine is tier-size-agnostic; count displays derive from items.length.
@@ -373,6 +374,8 @@ import { CATS } from "./Quiz/catsData";
 import { CAT_FACTS } from "./Quiz/catFacts";
 import { EMOJI_WORD } from "./Quiz/emojiwordData";
 import { EMOJI_WORD_FACTS } from "./Quiz/emojiwordFacts";
+import { BRAND_SLOGAN } from "./Quiz/brandSloganData";
+import { BRAND_SLOGAN_FACTS } from "./Quiz/brandSloganFacts";
 import { ThemePreview } from "./Quiz/themePreview";
 import { FlagQuizGS, FLAG_FRAMES, FlagQuizGSSample, FLAG_SAMPLE_FRAMES } from "./Quiz/flags";
 import { GsThumb } from "./Quiz/gsthumb";
@@ -669,6 +672,8 @@ export const RemotionRoot = () => {
       <Composition id="Thumb121" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "missingletters", grid: ["_RANC_", "J__AN", "C_I_A", "?", "RUS_I_", "?", "B_AZI_", "?", "E_YP_"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E122Quiz" component={QuizV2} durationInFrames={quizFrames(E122CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E122CFG }} />
       <Composition id="Thumb122" component={GsThumbRebus} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ keyword: "WORD", e1: "honey", e2: "moon", edir: "emoji3d", eext: "png", year: "2026", badge: "ONLY 1% CAN!" }} />
+      <Composition id="E123Quiz" component={QuizV2} durationInFrames={quizFrames(E123CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E123CFG }} />
+      <Composition id="Thumb123" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "scrambled", grid: ["JUST DO IT", "THINK", "GOT MILK?", "?", "I'M LOVIN' IT", "?", "EAT FRESH", "?", "ZOOM-ZOOM"], line1: "CAN YOU NAME THE", word: "BRAND", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E113Quiz" component={QuizV2} durationInFrames={quizFrames(E113CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E113CFG }} />
       <Composition id="Thumb113" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "coatofarms", grid: ["mexico", "united-kingdom", "?", "united-states", "?", "egypt", "?", "zimbabwe", "india"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E96Quiz" component={QuizV2} durationInFrames={quizFrames(E96CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E96CFG }} />
@@ -758,6 +763,7 @@ export const RemotionRoot = () => {
         { ep: "E120", items: USSTATE_SCRAMBLED, mode: "usstatescrambled", title: "Guess the US State by Scrambled Name", v2: true, theme: 4 },
         { ep: "E121", items: MISSING_LETTERS, mode: "missingletters", title: "Guess the Country by Missing Letters", v2: true, theme: 4 },
         { ep: "E122", items: EMOJI_WORD, mode: "emojiword", title: "Guess the Word by Emoji", v2: true, theme: 4 },
+        { ep: "E123", items: BRAND_SLOGAN, mode: "slogan", title: "Guess the Brand by its Slogan", v2: true, theme: 4 },
         { ep: "E18", items: PAINTINGS, mode: "paintings", title: "Guess the Painting", v2: true },
         { ep: "E19", items: BIRDS, mode: "birds", title: "Guess the Bird", v2: true },
         { ep: "E80", items: BIRDS2, mode: "birds2", title: "Guess the Bird 2", v2: true },
