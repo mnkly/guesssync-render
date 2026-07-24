@@ -1,4 +1,4 @@
-// E124 «Guess the Song by Emoji 2» — 100 songs · 25/tier · clue via OpenMoji · VO: sfx/se2-<id>.wav
+// E124 «Guess the Song by Emoji 2» — 100 songs · 25/tier · clue via OpenMoji · VO: sfx/esg2-<id>.wav
 // Distinct from E28 (emojiSongsData.js) — no title overlap with that episode's 100 songs.
 export const EMOJI_SONGS_2 = [
   // ===== EASY (25) =====
