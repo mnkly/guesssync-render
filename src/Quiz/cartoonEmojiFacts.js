@@ -17,7 +17,7 @@ export const CARTOON_EMOJI_FACTS = {
   "shrek": "Green ogre from DreamWorks' 2001 animated film Shrek.",
   "po": "Panda kung fu master from DreamWorks' Kung Fu Panda (2008).",
   "goku": "Dragon Ball's Saiyan hero, created by Akira Toriyama in 1984.",
-  "naruto": "Ninja from Masashi Kishimoto's manga, debuted in 1997.",
+  "naruto": "Ninja from Masashi Kishimoto's manga, debuted in 1999.",
   "pink-panther": "Suave pink cartoon cat who debuted on screen in 1963.",
   "woody-woodpecker": "Laughing red-headed woodpecker, debuted in 1940.",
   "donkey-kong": "Giant ape who debuted in Nintendo's 1981 arcade game.",

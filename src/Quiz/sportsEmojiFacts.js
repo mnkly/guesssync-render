@@ -45,7 +45,7 @@ export const SPORTS_EMOJI_FACTS = {
   "triathlon": "A single race combining swimming, cycling, and running.",
   "marathon": "A long-distance run covering 42.195 kilometers.",
   "squash": "Players hit a small ball against a wall inside a court.",
-  "snooker": "A cue sport played on a large table with 22 colored balls.",
+  "snooker": "A cue sport played on a large table with 22 balls.",
   "beach-volleyball": "Played on sand, usually with two players per team.",
   "polo": "Players on horseback use long mallets to hit a ball into a goal.",
   "diving": "Athletes perform acrobatic jumps into water from a board or platform.",
