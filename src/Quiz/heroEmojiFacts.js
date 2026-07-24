@@ -84,7 +84,7 @@ export const HERO_EMOJI_FACTS = {
   // IMPOSSIBLE
   "moon-girl": "Genius Lunella Lafayette teams up with a Devil Dinosaur.",
   "squirrel-girl": "Marvel hero famed for defeating Thanos and Doctor Doom.",
-  "big-barda": "Warrior of Apokolips, wife of Mister Miracle.",
+  "darkseid": "Tyrant god of Apokolips seeking the Anti-Life Equation.",
   "mister-miracle": "Scott Free, the New Gods' greatest escape artist.",
   "martian-manhunter": "J'onn J'onzz, last son of Mars, joins the Justice League.",
   "plastic-man": "Former crook Eel O'Brian can stretch into any shape.",
@@ -106,5 +106,5 @@ export const HERO_EMOJI_FACTS = {
   "john-constantine": "Streetwise British occult detective and con man.",
   "red-hood": "Jason Todd returned from death as a ruthless vigilante.",
   "azrael": "A vengeful knight who briefly replaced Batman.",
-  "mongul": "A tyrannical alien warlord who conquers whole worlds.",
+  "ultron": "Genocidal artificial intelligence and the Avengers' robotic foe.",
 };

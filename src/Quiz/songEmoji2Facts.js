@@ -93,7 +93,7 @@ export const EMOJI_SONG_FACTS_2 = {
   "shine-on-you-crazy-diamond": "1975 Pink Floyd epic tribute to Syd Barrett.",
   "dazed-and-confused": "1969 Led Zeppelin song famed for its bowed guitar.",
   "in-the-air-tonight": "1981 Phil Collins hit famed for its drum fill.",
-  "sussudio": "1985 Phil Collins hit, a US No. 1 with a made-up title.",
+  "another-day-in-paradise": "1989 Phil Collins hit and his final US No. 1 single.",
   "old-time-rock-and-roll": "1979 Bob Seger hit revived by the film Risky Business.",
   "werewolves-of-london": "1978 Warren Zevon hit famed for its piano riff.",
   "schools-out": "1972 Alice Cooper hit, a US and UK top-ten smash.",

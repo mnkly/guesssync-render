@@ -56,7 +56,7 @@ export const DISNEY_EMOJI_FACTS = {
 
   // HARD
   "cruella-de-vil": "Fur-obsessed villain of 101 Dalmatians (1961).",
-  "pongo": "Dalmatian father who rescues the puppies in 1961.",
+  "dumbo": "Big-eared baby elephant who learns to fly, 1941 film.",
   "aurora": "Princess cursed to sleep in Sleeping Beauty (1959).",
   "prince-phillip": "Prince who battles Maleficent's dragon in 1959.",
   "merida": "Archer princess who changes her fate in Brave (2012).",
@@ -79,7 +79,7 @@ export const DISNEY_EMOJI_FACTS = {
   "white-rabbit": "Always-late rabbit who leads Alice down the hole, 1951.",
   "alice": "Curious girl who falls into Wonderland in 1951.",
   "robin-hood": "Fox outlaw who robs from the rich in Robin Hood (1973).",
-  "little-john": "Robin Hood's bear companion in Robin Hood (1973).",
+  "pinocchio": "Wooden puppet whose nose grows when he lies, 1940 film.",
 
   // IMPOSSIBLE
   "sulley": "Top scarer at Monsters, Inc. in the 2001 Pixar film.",
