@@ -151,6 +151,9 @@ const E140CFG = { items: FRUIT_EMOJI, facts: FRUIT_EMOJI_FACTS, topicWord: "FRUI
 const E141CFG = { items: BOARDGAME_EMOJI, facts: BOARDGAME_EMOJI_FACTS, topicWord: "BOARD GAME", topicPlural: "BOARD GAMES", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e141-", introVo: "vo-intro-boardgame", coldSlug: "", theme: 6 };
 const E142CFG = { items: VEHICLE_EMOJI, facts: VEHICLE_EMOJI_FACTS, topicWord: "VEHICLE", topicPlural: "VEHICLES", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e142-", introVo: "vo-intro-vehicle", coldSlug: "", theme: 6 };
 const E143CFG = { items: HOLIDAY_EMOJI, facts: HOLIDAY_EMOJI_FACTS, topicWord: "HOLIDAY", topicPlural: "HOLIDAYS", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e143-", introVo: "vo-intro-holiday", coldSlug: "", theme: 6 };
+const E144CFG = { items: MYTHCREATURE_EMOJI, facts: MYTHCREATURE_EMOJI_FACTS, topicWord: "MYTHICAL CREATURE", topicPlural: "MYTHICAL CREATURES", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e144-", introVo: "vo-intro-mythcreature", coldSlug: "", theme: 6 };
+const E145CFG = { items: WEATHER_EMOJI, facts: WEATHER_EMOJI_FACTS, topicWord: "WEATHER", topicPlural: "PHENOMENA", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e145-", introVo: "vo-intro-weather", coldSlug: "", theme: 6 };
+const E146CFG = { items: MYTHGOD_EMOJI, facts: MYTHGOD_EMOJI_FACTS, topicWord: "ANCIENT GOD", topicPlural: "ANCIENT GODS", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e146-", introVo: "vo-intro-ancientgod", coldSlug: "", theme: 6 };
 const E93CFG = { items: MUSHROOMS2, facts: MUSHROOMS2_FACTS, topicWord: "MUSHROOM", topicPlural: "MUSHROOMS", dir: "mushrooms2", ext: "jpg", fit: "cover", voPrefix: "mu2-", nameField: "name", introVo: "vo-intro-mushroom2", coldSlug: "lobstermushroom", theme: 1 };
 const E66CFG = { items: ROCKS, facts: ROCK_FACTS, topicWord: "ROCK", topicPlural: "ROCKS", dir: "rocks", ext: "jpg", fit: "cover", voPrefix: "rk-", nameField: "name", introVo: "vo-intro-rock", coldSlug: "granite" };
 // MEGA episodes — variable item count (>100, uneven tiers). Engine is tier-size-agnostic; count displays derive from items.length.
@@ -436,6 +439,12 @@ import { VEHICLE_EMOJI } from "./Quiz/vehicleEmojiData";
 import { VEHICLE_EMOJI_FACTS } from "./Quiz/vehicleEmojiFacts";
 import { HOLIDAY_EMOJI } from "./Quiz/holidayEmojiData";
 import { HOLIDAY_EMOJI_FACTS } from "./Quiz/holidayEmojiFacts";
+import { MYTHCREATURE_EMOJI } from "./Quiz/mythcreatureEmojiData";
+import { MYTHCREATURE_EMOJI_FACTS } from "./Quiz/mythcreatureEmojiFacts";
+import { WEATHER_EMOJI } from "./Quiz/weatherEmojiData";
+import { WEATHER_EMOJI_FACTS } from "./Quiz/weatherEmojiFacts";
+import { MYTHGOD_EMOJI } from "./Quiz/mythgodEmojiData";
+import { MYTHGOD_EMOJI_FACTS } from "./Quiz/mythgodEmojiFacts";
 import { ThemePreview } from "./Quiz/themePreview";
 import { FlagQuizGS, FLAG_FRAMES, FlagQuizGSSample, FLAG_SAMPLE_FRAMES } from "./Quiz/flags";
 import { GsThumb } from "./Quiz/gsthumb";
@@ -774,6 +783,12 @@ export const RemotionRoot = () => {
       <Composition id="Thumb142" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F697", "1F695", "?", "1F68C", "2708", "?", "1F681", "?", "1F680"], line1: "CAN YOU NAME THE", word: "VEHICLE?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E143Quiz" component={QuizV2} durationInFrames={quizFrames(E143CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E143CFG }} />
       <Composition id="Thumb143" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F384", "1F383", "?", "1F498", "1F430", "?", "1F983", "?", "1F386"], line1: "CAN YOU NAME THE", word: "HOLIDAY?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E144Quiz" component={QuizV2} durationInFrames={quizFrames(E144CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E144CFG }} />
+      <Composition id="Thumb144" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F409", "1F984", "?", "1F9DB", "1F43A", "?", "1F47B", "?", "1F9D9"], line1: "CAN YOU NAME THE", word: "MYTHICAL CREATURE?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E145Quiz" component={QuizV2} durationInFrames={quizFrames(E145CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E145CFG }} />
+      <Composition id="Thumb145" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F327", "2600", "?", "26C8", "2744", "?", "1F308", "?", "1F32A"], line1: "CAN YOU NAME THE", word: "WEATHER?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E146Quiz" component={QuizV2} durationInFrames={quizFrames(E146CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E146CFG }} />
+      <Composition id="Thumb146" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["26A1", "1F531", "?", "1F480", "2694", "?", "1F989", "?", "1F415"], line1: "CAN YOU NAME THE", word: "ANCIENT GOD?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E113Quiz" component={QuizV2} durationInFrames={quizFrames(E113CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E113CFG }} />
       <Composition id="Thumb113" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "coatofarms", grid: ["mexico", "united-kingdom", "?", "united-states", "?", "egypt", "?", "zimbabwe", "india"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E96Quiz" component={QuizV2} durationInFrames={quizFrames(E96CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E96CFG }} />
@@ -884,6 +899,9 @@ export const RemotionRoot = () => {
         { ep: "E141", items: BOARDGAME_EMOJI, mode: "eboardgame", title: "Guess the Board Game by Emoji", v2: true, theme: 6 },
         { ep: "E142", items: VEHICLE_EMOJI, mode: "evehicle", title: "Guess the Vehicle by Emoji", v2: true, theme: 6 },
         { ep: "E143", items: HOLIDAY_EMOJI, mode: "eholiday", title: "Guess the Holiday by Emoji", v2: true, theme: 6 },
+        { ep: "E144", items: MYTHCREATURE_EMOJI, mode: "emythcreature", title: "Guess the Mythical Creature by Emoji", v2: true, theme: 6 },
+        { ep: "E145", items: WEATHER_EMOJI, mode: "eweather", title: "Guess the Weather or Nature Phenomenon by Emoji", v2: true, theme: 6 },
+        { ep: "E146", items: MYTHGOD_EMOJI, mode: "eancientgod", title: "Guess the Ancient God by Emoji", v2: true, theme: 6 },
         { ep: "E18", items: PAINTINGS, mode: "paintings", title: "Guess the Painting", v2: true },
         { ep: "E19", items: BIRDS, mode: "birds", title: "Guess the Bird", v2: true },
         { ep: "E80", items: BIRDS2, mode: "birds2", title: "Guess the Bird 2", v2: true },
