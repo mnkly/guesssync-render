@@ -59,7 +59,7 @@ export const INVENTION_EMOJI_FACTS = {
   "world-wide-web": "Tim Berners-Lee invented the Web in 1989.",
   "gunpowder": "Invented by Chinese alchemists around the 9th century.",
   "pacemaker": "First implantable one was fitted in 1958.",
-  "velcro": "George de Mestral patented it in 1955.",
+  "velcro": "Georges de Mestral patented it in 1955.",
   "braille": "Louis Braille created his reading system in 1824.",
   "anesthesia": "Ether anesthesia was first shown publicly in 1846.",
   "dishwasher": "Josephine Cochrane patented it in 1886.",
