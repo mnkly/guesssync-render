@@ -154,6 +154,9 @@ const E143CFG = { items: HOLIDAY_EMOJI, facts: HOLIDAY_EMOJI_FACTS, topicWord: "
 const E144CFG = { items: MYTHCREATURE_EMOJI, facts: MYTHCREATURE_EMOJI_FACTS, topicWord: "MYTHICAL CREATURE", topicPlural: "MYTHICAL CREATURES", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e144-", introVo: "vo-intro-mythcreature", coldSlug: "", theme: 6 };
 const E145CFG = { items: WEATHER_EMOJI, facts: WEATHER_EMOJI_FACTS, topicWord: "WEATHER", topicPlural: "PHENOMENA", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e145-", introVo: "vo-intro-weather", coldSlug: "", theme: 6 };
 const E146CFG = { items: MYTHGOD_EMOJI, facts: MYTHGOD_EMOJI_FACTS, topicWord: "ANCIENT GOD", topicPlural: "ANCIENT GODS", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e146-", introVo: "vo-intro-ancientgod", coldSlug: "", theme: 6 };
+const E147CFG = { items: HOBBY_EMOJI, facts: HOBBY_EMOJI_FACTS, topicWord: "HOBBY", topicPlural: "HOBBIES", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e147-", introVo: "vo-intro-hobby", coldSlug: "", theme: 6 };
+const E148CFG = { items: CITY_EMOJI, facts: CITY_EMOJI_FACTS, topicWord: "CITY", topicPlural: "CITIES", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e148-", introVo: "vo-intro-city", coldSlug: "", theme: 6 };
+const E149CFG = { items: DANCE_EMOJI, facts: DANCE_EMOJI_FACTS, topicWord: "DANCE", topicPlural: "DANCES", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e149-", introVo: "vo-intro-dance", coldSlug: "", theme: 6 };
 const E93CFG = { items: MUSHROOMS2, facts: MUSHROOMS2_FACTS, topicWord: "MUSHROOM", topicPlural: "MUSHROOMS", dir: "mushrooms2", ext: "jpg", fit: "cover", voPrefix: "mu2-", nameField: "name", introVo: "vo-intro-mushroom2", coldSlug: "lobstermushroom", theme: 1 };
 const E66CFG = { items: ROCKS, facts: ROCK_FACTS, topicWord: "ROCK", topicPlural: "ROCKS", dir: "rocks", ext: "jpg", fit: "cover", voPrefix: "rk-", nameField: "name", introVo: "vo-intro-rock", coldSlug: "granite" };
 // MEGA episodes — variable item count (>100, uneven tiers). Engine is tier-size-agnostic; count displays derive from items.length.
@@ -445,6 +448,12 @@ import { WEATHER_EMOJI } from "./Quiz/weatherEmojiData";
 import { WEATHER_EMOJI_FACTS } from "./Quiz/weatherEmojiFacts";
 import { MYTHGOD_EMOJI } from "./Quiz/mythgodEmojiData";
 import { MYTHGOD_EMOJI_FACTS } from "./Quiz/mythgodEmojiFacts";
+import { HOBBY_EMOJI } from "./Quiz/hobbyEmojiData";
+import { HOBBY_EMOJI_FACTS } from "./Quiz/hobbyEmojiFacts";
+import { CITY_EMOJI } from "./Quiz/cityEmojiData";
+import { CITY_EMOJI_FACTS } from "./Quiz/cityEmojiFacts";
+import { DANCE_EMOJI } from "./Quiz/danceEmojiData";
+import { DANCE_EMOJI_FACTS } from "./Quiz/danceEmojiFacts";
 import { ThemePreview } from "./Quiz/themePreview";
 import { FlagQuizGS, FLAG_FRAMES, FlagQuizGSSample, FLAG_SAMPLE_FRAMES } from "./Quiz/flags";
 import { GsThumb } from "./Quiz/gsthumb";
@@ -789,6 +798,12 @@ export const RemotionRoot = () => {
       <Composition id="Thumb145" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F327", "2600", "?", "26C8", "2744", "?", "1F308", "?", "1F32A"], line1: "CAN YOU NAME THE", word: "WEATHER?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E146Quiz" component={QuizV2} durationInFrames={quizFrames(E146CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E146CFG }} />
       <Composition id="Thumb146" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["26A1", "1F531", "?", "1F480", "2694", "?", "1F989", "?", "1F415"], line1: "CAN YOU NAME THE", word: "ANCIENT GOD?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E147Quiz" component={QuizV2} durationInFrames={quizFrames(E147CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E147CFG }} />
+      <Composition id="Thumb147" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F3A8", "1F3A3", "?", "1F373", "1F4F7", "?", "1F3AE", "?", "1F3B8"], line1: "CAN YOU NAME THE", word: "HOBBY?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E148Quiz" component={QuizV2} durationInFrames={quizFrames(E148CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E148CFG }} />
+      <Composition id="Thumb148" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F5FC", "1F5FD", "?", "1F3DB", "1F42B", "?", "1F3A1", "?", "1F54C"], line1: "CAN YOU NAME THE", word: "CITY?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="E149Quiz" component={QuizV2} durationInFrames={quizFrames(E149CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E149CFG }} />
+      <Composition id="Thumb149" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1FA70", "1F483", "?", "1F57A", "1F941", "?", "1F339", "?", "1FAAD"], line1: "CAN YOU NAME THE", word: "DANCE?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E113Quiz" component={QuizV2} durationInFrames={quizFrames(E113CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E113CFG }} />
       <Composition id="Thumb113" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "coatofarms", grid: ["mexico", "united-kingdom", "?", "united-states", "?", "egypt", "?", "zimbabwe", "india"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E96Quiz" component={QuizV2} durationInFrames={quizFrames(E96CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E96CFG }} />
@@ -902,6 +917,9 @@ export const RemotionRoot = () => {
         { ep: "E144", items: MYTHCREATURE_EMOJI, mode: "emythcreature", title: "Guess the Mythical Creature by Emoji", v2: true, theme: 6 },
         { ep: "E145", items: WEATHER_EMOJI, mode: "eweather", title: "Guess the Weather or Nature Phenomenon by Emoji", v2: true, theme: 6 },
         { ep: "E146", items: MYTHGOD_EMOJI, mode: "eancientgod", title: "Guess the Ancient God by Emoji", v2: true, theme: 6 },
+        { ep: "E147", items: HOBBY_EMOJI, mode: "ehobby", title: "Guess the Hobby by Emoji", v2: true, theme: 6 },
+        { ep: "E148", items: CITY_EMOJI, mode: "ecity", title: "Guess the City by Emoji", v2: true, theme: 6 },
+        { ep: "E149", items: DANCE_EMOJI, mode: "edance", title: "Guess the Dance by Emoji", v2: true, theme: 6 },
         { ep: "E18", items: PAINTINGS, mode: "paintings", title: "Guess the Painting", v2: true },
         { ep: "E19", items: BIRDS, mode: "birds", title: "Guess the Bird", v2: true },
         { ep: "E80", items: BIRDS2, mode: "birds2", title: "Guess the Bird 2", v2: true },
