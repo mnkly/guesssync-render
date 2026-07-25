@@ -102,7 +102,7 @@ export const ARTIFACT_EMOJI_FACTS = {
   "kladenets": "A self-swinging magic sword of Slavic folklore.",
   "tizona": "One of the two famed swords of Spain's El Cid.",
   "wallace-sword": "The great sword attributed to Scotland's William Wallace.",
-  "seven-branched-sword": "An ancient ceremonial Japanese sword with six side branches.",
+  "seven-branched-sword": "Ancient ceremonial sword of Korea's Baekje with six branches.",
   "hrunting": "The sword lent to Beowulf to fight Grendel's mother.",
   "naegling": "Beowulf's own sword that shatters against the dragon.",
   "mistilteinn": "A magic 'Mistletoe' sword from Norse saga.",
