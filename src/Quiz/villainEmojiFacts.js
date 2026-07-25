@@ -84,7 +84,7 @@ export const VILLAIN_EMOJI_FACTS = {
   // IMPOSSIBLE
   "galactus": "Planet-devouring cosmic being in Marvel Comics.",
   "darth-maul": "Horned, double-saber Sith of The Phantom Menace.",
-  "kylo-ren": "Masked Sith of the Star Wars sequel trilogy.",
+  "kylo-ren": "Masked dark-side warrior of the Star Wars sequels.",
   "jabba-the-hutt": "Sluglike crime lord in Return of the Jedi.",
   "the-balrog": "Fiery demon Gandalf fights in Lord of the Rings.",
   "bellatrix-lestrange": "Deranged Death Eater in Harry Potter.",
