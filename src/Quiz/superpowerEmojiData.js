@@ -80,7 +80,7 @@ export const SUPERPOWER_EMOJI = [
   { id: "healing-touch", title: "Healing Touch", emojis: "✋✨", level: "hard" },
   { id: "energy-blast", title: "Energy Blast", emojis: "💥✨", level: "hard" },
   // ===== IMPOSSIBLE =====
-  { id: "ergokinesis", title: "Ergokinesis", emojis: "⚛✨", level: "impossible" },
+  { id: "ergokinesis", title: "Ergokinesis", emojis: "💫✋", level: "impossible" },
   { id: "vibration-manipulation", title: "Vibration Manipulation", emojis: "📳✋", level: "impossible" },
   { id: "telumkinesis", title: "Weapon Manipulation", emojis: "⚔✋", level: "impossible" },
   { id: "osteokinesis", title: "Bone Manipulation", emojis: "🦴✋", level: "impossible" },
