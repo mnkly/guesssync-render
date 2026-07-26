@@ -61,7 +61,7 @@ export const MASCOT_EMOJI_FACTS = {
   "elmer-the-bull": "The bull mascot for Elmer's Glue.",
   "mr-zip": "Mr. ZIP promoted U.S. Postal ZIP codes.",
   "punchy": "The mascot for Hawaiian Punch fruit drink.",
-  "quaker-man": "Larry, the Quaker mascot of Quaker Oats.",
+  "quaker-man": "The bearded Quaker mascot of Quaker Oats cereals.",
   "gerber-baby": "The baby-face logo of Gerber baby food.",
   "mr-bubble": "The pink mascot of Mr. Bubble bubble bath.",
   "chef-boyardee": "The chef mascot of Chef Boyardee canned pasta.",
