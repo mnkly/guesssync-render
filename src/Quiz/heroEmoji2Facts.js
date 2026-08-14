@@ -95,7 +95,7 @@ export const HERO_EMOJI_2_FACTS = {
   "sleepwalker": "Marvel alien guardian of the dream realm.",
   "aurora": "Marvel's Alpha Flight light-speed heroine.",
   "guardian": "Marvel's James Hudson leads Alpha Flight.",
-  "puck": "Marvel's acrobatic Alpha Flight strongman.",
+  "puck": "Marvel's acrobatic Alpha Flight brawler.",
   "lightray": "DC New God who wields solar light.",
   "shadowman": "Valiant hero channeling loa spirit power.",
   "jack-hawksmoor": "Wildstorm hero powered by living cities.",
