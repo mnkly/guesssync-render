@@ -1,7 +1,7 @@
 // E190 food-emoji facts — one true <=70-char fact per dish, shown on reveal.
 export const FOOD_EMOJI_4_FACTS = {
   // EASY
-  "chicken-shawarma": "Spit-roasted marinated chicken shaved into a wrap, a Levantine classic.",
+  "chicken-shawarma": "Spit-roasted marinated chicken shaved into a wrap, Levantine classic.",
   "margherita-pizza": "A Naples pizza topped with tomato, mozzarella, and basil leaves.",
   "peking-duck": "A Beijing dish of roasted duck with crackling skin, sliced tableside.",
   "chicken-katsu": "A Japanese breaded, deep-fried chicken cutlet served sliced.",
