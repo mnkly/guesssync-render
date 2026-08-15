@@ -48,7 +48,7 @@ export const HERO_EMOJI_3 = [
   { id: "boom-boom", title: "Boom-Boom", emojis: "💣💥", level: "medium" },
   { id: "chamber", title: "Chamber", emojis: "💥👄", level: "medium" },
   { id: "thunderbird", title: "Thunderbird", emojis: "🦅⛈", level: "medium" },
-  { id: "sabra", title: "Sabra", emojis: "🛡🐫", level: "medium" },
+  { id: "gladiator", title: "Gladiator", emojis: "👽⚔", level: "medium" },
   { id: "living-lightning", title: "Living Lightning", emojis: "⚡👻", level: "medium" },
   { id: "darkstar", title: "Darkstar", emojis: "🌑✨", level: "medium" },
   { id: "justice", title: "Justice", emojis: "⚖💪", level: "medium" },

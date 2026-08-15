@@ -47,7 +47,7 @@ export const HERO_EMOJI_3_FACTS = {
   "boom-boom": "Tabitha Smith, an X-Force mutant who throws explosive time bombs.",
   "chamber": "Jonothon Starsmore, a mutant with a plasma-blast chest.",
   "thunderbird": "John Proudstar, an original X-Men hero, strong and fast.",
-  "sabra": "Ruth Bat-Seraph, Marvel's Israeli super-soldier and agent.",
+  "gladiator": "Kallark, superpowered praetor of the Shi'ar Imperial Guard.",
   "living-lightning": "Miguel Santos, an Avenger who becomes living electricity.",
   "darkstar": "Laynia Petrovna, a Soviet hero wielding darkforce energy.",
   "justice": "Vance Astrovik, a young Avenger with telekinetic powers.",
