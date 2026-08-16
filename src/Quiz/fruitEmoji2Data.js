@@ -33,7 +33,7 @@ export const FRUIT_EMOJI_2 = [
   { id: "wasabi", title: "Wasabi", emojis: "🍣🌶", level: "medium" },
   { id: "taro", title: "Taro", emojis: "🐘👂", level: "medium" },
   { id: "cassava", title: "Cassava", emojis: "🌍🥔", level: "medium" },
-  { id: "jerusalem-artichoke", title: "Jerusalem Artichoke", emojis: "🌻🥔", level: "medium" },
+  { id: "fava-bean", title: "Fava Bean", emojis: "🫘🌿", level: "medium" },
   { id: "rutabaga", title: "Rutabaga", emojis: "🥬🥔", level: "medium" },
   { id: "watercress", title: "Watercress", emojis: "💧🥬", level: "medium" },
   { id: "arugula", title: "Arugula", emojis: "🚀🥬", level: "medium" },

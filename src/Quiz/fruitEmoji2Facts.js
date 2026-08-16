@@ -31,7 +31,7 @@ export const FRUIT_EMOJI_2_FACTS = {
   "wasabi": "A Japanese root famous for its intense, fleeting heat.",
   "taro": "A starchy tropical root with large, heart-shaped leaves.",
   "cassava": "A starchy tropical root, staple food across Africa and Asia.",
-  "jerusalem-artichoke": "A sunflower-family tuber also called the sunchoke.",
+  "fava-bean": "A large flat broad bean eaten fresh or dried worldwide.",
   "rutabaga": "A root cross between cabbage and turnip, called swede in the UK.",
   "watercress": "A peppery aquatic leafy green grown in flowing water.",
   "arugula": "A peppery salad green also known as rocket.",
