@@ -208,6 +208,9 @@ const E197CFG = { items: ANIME_EMOJI_3, facts: ANIME_EMOJI_3_FACTS, topicWord: "
 const E198CFG = { items: DISNEY_EMOJI_3, facts: DISNEY_EMOJI_3_FACTS, topicWord: "DISNEY", topicPlural: "Disney characters", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e198-", introVo: "vo-intro-edisney3", coldSlug: "", theme: 6 };
 const E199CFG = { items: CARTOON_EMOJI_3, facts: CARTOON_EMOJI_3_FACTS, topicWord: "CARTOON", topicPlural: "cartoon characters", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e199-", introVo: "vo-intro-ecartoon3", coldSlug: "", theme: 6 };
 const E200CFG = { items: BOOK_EMOJI_4, facts: BOOK_EMOJI_4_FACTS, topicWord: "BOOK", topicPlural: "books", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e200-", introVo: "vo-intro-ebook4", coldSlug: "", theme: 6 };
+const E201CFG = { items: LANDMARK_EMOJI_2, facts: LANDMARK_EMOJI_2_FACTS, topicWord: "LANDMARK", topicPlural: "landmarks", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e201-", introVo: "vo-intro-elandmark2", coldSlug: "", theme: 6 };
+const E202CFG = { items: SPORTS_EMOJI_3, facts: SPORTS_EMOJI_3_FACTS, topicWord: "SPORT", topicPlural: "sports", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e202-", introVo: "vo-intro-esport3", coldSlug: "", theme: 6 };
+const E203CFG = { items: JOBS_EMOJI_3, facts: JOBS_EMOJI_3_FACTS, topicWord: "JOB", topicPlural: "jobs", isEmoji: true, nameField: "title", slugKey: "id", voKey: "id", voPrefix: "e203-", introVo: "vo-intro-ejobs3", coldSlug: "", theme: 6 };
 const E93CFG = { items: MUSHROOMS2, facts: MUSHROOMS2_FACTS, topicWord: "MUSHROOM", topicPlural: "MUSHROOMS", dir: "mushrooms2", ext: "jpg", fit: "cover", voPrefix: "mu2-", nameField: "name", introVo: "vo-intro-mushroom2", coldSlug: "lobstermushroom", theme: 1 };
 const E66CFG = { items: ROCKS, facts: ROCK_FACTS, topicWord: "ROCK", topicPlural: "ROCKS", dir: "rocks", ext: "jpg", fit: "cover", voPrefix: "rk-", nameField: "name", introVo: "vo-intro-rock", coldSlug: "granite" };
 // MEGA episodes — variable item count (>100, uneven tiers). Engine is tier-size-agnostic; count displays derive from items.length.
@@ -607,6 +610,12 @@ import { CARTOON_EMOJI_3 } from "./Quiz/cartoonEmoji3Data";
 import { CARTOON_EMOJI_3_FACTS } from "./Quiz/cartoonEmoji3Facts";
 import { BOOK_EMOJI_4 } from "./Quiz/bookEmoji4Data";
 import { BOOK_EMOJI_4_FACTS } from "./Quiz/bookEmoji4Facts";
+import { LANDMARK_EMOJI_2 } from "./Quiz/landmarkEmoji2Data";
+import { LANDMARK_EMOJI_2_FACTS } from "./Quiz/landmarkEmoji2Facts";
+import { SPORTS_EMOJI_3 } from "./Quiz/sportsEmoji3Data";
+import { SPORTS_EMOJI_3_FACTS } from "./Quiz/sportsEmoji3Facts";
+import { JOBS_EMOJI_3 } from "./Quiz/jobsEmoji3Data";
+import { JOBS_EMOJI_3_FACTS } from "./Quiz/jobsEmoji3Facts";
 import { ThemePreview } from "./Quiz/themePreview";
 import { FlagQuizGS, FLAG_FRAMES, FlagQuizGSSample, FLAG_SAMPLE_FRAMES } from "./Quiz/flags";
 import { GsThumb } from "./Quiz/gsthumb";
@@ -1055,10 +1064,16 @@ export const RemotionRoot = () => {
       <Composition id="E198Quiz" component={QuizV2} durationInFrames={quizFrames(E198CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E198CFG }} />
       <Composition id="E199Quiz" component={QuizV2} durationInFrames={quizFrames(E199CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E199CFG }} />
       <Composition id="E200Quiz" component={QuizV2} durationInFrames={quizFrames(E200CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E200CFG }} />
+      <Composition id="E201Quiz" component={QuizV2} durationInFrames={quizFrames(E201CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E201CFG }} />
+      <Composition id="E202Quiz" component={QuizV2} durationInFrames={quizFrames(E202CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E202CFG }} />
+      <Composition id="E203Quiz" component={QuizV2} durationInFrames={quizFrames(E203CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E203CFG }} />
       <Composition id="Thumb197" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F977", "1F409", "?", "2694", "1F338", "?", "1F47A", "?", "1F365"], line1: "CAN YOU NAME THE", word: "ANIME?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="Thumb198" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F3F0", "1F42D", "1F478", "1F981", "1F9DC", "2728", "?", "?", "?"], line1: "CAN YOU NAME THE", word: "DISNEY?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="Thumb199" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F9FD", "1F4FA", "1F430", "1F369", "2B50", "1F3A8", "?", "?", "?"], line1: "CAN YOU NAME THE", word: "CARTOON?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="Thumb200" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F4DA", "1F4D6", "270D", "1F40B", "26A1", "1F577", "?", "?", "?"], line1: "CAN YOU NAME THE", word: "BOOK?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="Thumb201" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1F5FC", "1F5FD", "1F3F0", "1F54C", "26E9", "1F309", "?", "?", "?"], line1: "CAN YOU NAME THE", word: "LANDMARK?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="Thumb202" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["26BD", "1F3C0", "1F3BE", "1F3C8", "26BE", "1F3D3", "?", "?", "?"], line1: "CAN YOU NAME THE", word: "SPORT?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
+      <Composition id="Thumb203" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "emoji", grid: ["1FA7A", "1F527", "1F3A8", "1F692", "1F33E", "1F4F7", "?", "?", "?"], line1: "CAN YOU NAME THE", word: "JOB?", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E113Quiz" component={QuizV2} durationInFrames={quizFrames(E113CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E113CFG }} />
       <Composition id="Thumb113" component={GsThumbV2} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ mode: "coatofarms", grid: ["mexico", "united-kingdom", "?", "united-states", "?", "egypt", "?", "zimbabwe", "india"], line1: "CAN YOU NAME ALL", word: "COUNTRY", number: "100", year: "2026", badge: "Only 1% get 100%" }} />
       <Composition id="E96Quiz" component={QuizV2} durationInFrames={quizFrames(E96CFG)} fps={30} width={1920} height={1080} defaultProps={{ config: E96CFG }} />
@@ -1226,6 +1241,9 @@ export const RemotionRoot = () => {
         { ep: "E198", items: DISNEY_EMOJI_3, mode: "edisney3", title: "Guess the Disney Character by Emoji 3", v2: true, theme: 6 },
         { ep: "E199", items: CARTOON_EMOJI_3, mode: "ecartoon3", title: "Guess the Cartoon Character by Emoji 3", v2: true, theme: 6 },
         { ep: "E200", items: BOOK_EMOJI_4, mode: "ebook4", title: "Guess the Book by Emoji 4", v2: true, theme: 6 },
+        { ep: "E201", items: LANDMARK_EMOJI_2, mode: "elandmark2", title: "Guess the Landmark by Emoji 2", v2: true, theme: 6 },
+        { ep: "E202", items: SPORTS_EMOJI_3, mode: "esport3", title: "Guess the Sport by Emoji 3", v2: true, theme: 6 },
+        { ep: "E203", items: JOBS_EMOJI_3, mode: "ejobs3", title: "Guess the Job by Emoji 3", v2: true, theme: 6 },
         { ep: "E18", items: PAINTINGS, mode: "paintings", title: "Guess the Painting", v2: true },
         { ep: "E19", items: BIRDS, mode: "birds", title: "Guess the Bird", v2: true },
         { ep: "E80", items: BIRDS2, mode: "birds2", title: "Guess the Bird 2", v2: true },
