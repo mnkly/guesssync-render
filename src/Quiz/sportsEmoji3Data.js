@@ -104,7 +104,7 @@ export const SPORTS_EMOJI_3 = [
   { id: "drone-soccer", title: "Drone Soccer", emojis: "🚁⚽", level: "impossible" },
   { id: "savate", title: "Savate", emojis: "🥊👞", level: "impossible" },
   { id: "pencak-silat", title: "Pencak Silat", emojis: "🥋🌴", level: "impossible" },
-  { id: "krav-maga", title: "Krav Maga", emojis: "🥋🛡", level: "impossible" },
+  { id: "hapkido", title: "Hapkido", emojis: "🥋💫", level: "impossible" },
   { id: "ice-swimming", title: "Ice Swimming", emojis: "🏊❄", level: "impossible" },
   { id: "combat-robotics", title: "Combat Robotics", emojis: "🤖⚔", level: "impossible" },
   { id: "wing-chun", title: "Wing Chun", emojis: "🥋✊", level: "impossible" },

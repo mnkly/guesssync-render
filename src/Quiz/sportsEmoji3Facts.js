@@ -100,7 +100,7 @@ export const SPORTS_EMOJI_3_FACTS = {
   "drone-soccer": "Pilots race drones through hoops in a caged arena like soccer.",
   "savate": "French kickboxing where fighters wear shoes and use precise kicks.",
   "pencak-silat": "A Southeast Asian martial art blending strikes, weapons, and dance.",
-  "krav-maga": "An Israeli self-defense system built for real-world combat use.",
+  "hapkido": "A Korean martial art blending joint locks, kicks, and throws.",
   "ice-swimming": "Swimmers race in icy open water below 5°C, often without wetsuits.",
   "combat-robotics": "Remote-controlled robots battle to disable each other in an arena.",
   "wing-chun": "A close-range Chinese martial art made famous by Bruce Lee's training.",
