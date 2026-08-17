@@ -88,7 +88,7 @@ export const MOVIE_EMOJI_6_FACTS = {
   "the-amityville-horror": "1979 film was based on a family's claimed haunted-house ordeal.",
   "paranormal-activity": "2007 found-footage film captured a couple haunted by a demon at night.",
   "annabelle": "2014 spin-off traced the origin of the Warrens' haunted doll.",
-  "munich": "2005 Spielberg film followed agents avenging the 1972 Olympics attack.",
+  "the-master": "A 2012 Paul Thomas Anderson drama about a cult leader and a drifter.",
   "bridge-of-spies": "2015 Spielberg film had a lawyer negotiate a Cold War spy swap.",
   "lincoln": "2012 Spielberg film had Daniel Day-Lewis pass the 13th Amendment.",
   "the-post": "2017 film had The Washington Post publish the leaked Pentagon Papers.",

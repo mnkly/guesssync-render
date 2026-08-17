@@ -92,7 +92,7 @@ export const MOVIE_EMOJI_6 = [
   { id: "the-amityville-horror", title: "The Amityville Horror", emojis: "🏚😱", level: "impossible" },
   { id: "paranormal-activity", title: "Paranormal Activity", emojis: "📹🛏", level: "impossible" },
   { id: "annabelle", title: "Annabelle", emojis: "🪆😈", level: "impossible" },
-  { id: "munich", title: "Munich", emojis: "🎽💣", level: "impossible" },
+  { id: "the-master", title: "The Master", emojis: "🌊🧠", level: "impossible" },
   { id: "bridge-of-spies", title: "Bridge of Spies", emojis: "🌉🕵", level: "impossible" },
   { id: "lincoln", title: "Lincoln", emojis: "🎩📜", level: "impossible" },
   { id: "the-post", title: "The Post", emojis: "📰🖨", level: "impossible" },
