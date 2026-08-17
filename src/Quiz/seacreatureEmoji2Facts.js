@@ -19,7 +19,7 @@ export const SEACREATURE_EMOJI_2_FACTS = {
   "leopard-seal": "A spotted Antarctic predator that hunts penguins.",
   "bull-shark": "Can survive in both salt water and freshwater rivers.",
   "nurse-shark": "A slow, bottom-dwelling shark that rests on the seafloor.",
-  "giant-squid": "Has the largest eyes in the animal kingdom, size of a plate.",
+  "giant-squid": "A deep-sea giant with plate-sized eyes and ten long arms.",
   "triggerfish": "Locks its dorsal spine upright to wedge into coral cracks.",
   "sea-bass": "A firm-fleshed reef and coastal fish prized by anglers.",
   "sawfish": "Uses its long toothed snout to slash and stun prey.",
