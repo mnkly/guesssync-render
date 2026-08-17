@@ -70,7 +70,7 @@ export const CARTOON_EMOJI4_FACTS = {
   "pingu-show": "Swiss claymation penguin show that debuted in 1986.",
   "adventures-of-tintin": "1991 French-Canadian series adapting Herge's comics.",
   "franklin-show": "Canadian show based on the Franklin the Turtle books, debuted 1997.",
-  "caillou-show": "Canadian preschool show based on books, debuted on PBS Kids 1997.",
+  "caillou-show": "Canadian preschool show based on books, first aired in 1997.",
   "berenstain-bears": "Based on Stan & Jan Berenstain's books; TV series since 1985.",
   "dragon-tales": "PBS Kids show co-created by Jim Coane and Ron Rodecker, debuted 1999.",
   "doug-show": "Nickelodeon's first original show; created by Jim Jinkins, 1991.",
