@@ -80,7 +80,7 @@ export const DISNEY_EMOJI4 = [
   { id: "flotsam-and-jetsam", title: "Flotsam and Jetsam", emojis: "🐡⚡", level: "hard" },
   { id: "horned-king", title: "Horned King", emojis: "💀⚡", level: "hard" },
   // ===== IMPOSSIBLE (25) =====
-  { id: "gideon", title: "Gideon", emojis: "🦊🤐", level: "impossible" },
+  { id: "gideon", title: "Gideon", emojis: "🐱🤐", level: "impossible" },
   { id: "the-coachman", title: "The Coachman", emojis: "🐴🎩", level: "impossible" },
   { id: "madame-leota", title: "Madame Leota", emojis: "🔮👻", level: "impossible" },
   { id: "the-hitchhiking-ghosts", title: "The Hitchhiking Ghosts", emojis: "👻🎩", level: "impossible" },
