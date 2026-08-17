@@ -96,7 +96,7 @@ export const ANIMAL_EMOJI5_FACTS = {
   "giant-forest-hog": "The giant forest hog is Africa's largest wild pig species.",
   "pygmy-hippopotamus": "Pygmy hippos are mostly solitary, unlike their river-dwelling cousins.",
   "falanouc": "The falanouc is a rare Madagascar carnivore that mainly eats worms.",
-  "ring-tailed-vontsira": "The ring-tailed vontsira is Madagascar's national animal.",
+  "ring-tailed-vontsira": "The ring-tailed vontsira is a cat-sized carnivore native to Madagascar.",
   "giant-otter-shrew": "The giant otter shrew swims using its long, flattened tail.",
   "cape-golden-mole": "Cape golden moles have iridescent fur and no visible eyes.",
   "marsupial-mole": "The marsupial mole swims through sand and is almost blind.",
