@@ -46,7 +46,7 @@ export const SPORTS_EMOJI4_FACTS = {
   "catch-wrestling": "A grappling style once performed at carnivals and fairs.",
   "schwingen": "Swiss wrestlers grip canvas shorts and fight in a sawdust ring.",
   "laamb": "Traditional Senegalese wrestling, often fought on sand.",
-  "water-jousting": "A standing jouster lances his rival off a high platform into the water.",
+  "water-jousting": "A standing jouster lances his rival off a platform into the water.",
   "ulama": "An ancient Mesoamerican ball game still played in Mexico today.",
   "chinlone": "A flowing, noncompetitive cane-ball game from Myanmar.",
   "torball": "A bell inside the ball lets blind athletes play by sound.",
