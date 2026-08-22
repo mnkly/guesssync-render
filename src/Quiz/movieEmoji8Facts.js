@@ -32,7 +32,7 @@ export const MOVIE_EMOJI8_FACTS = {
   "howls-moving-castle": "Studio Ghibli's 2004 film is based on a Diana Wynne Jones novel",
   "princess-mononoke": "Studio Ghibli's 1997 epic centers on a forest war",
   "akira": "1988 anime film based on Katsuhiro Otomo's own manga",
-  "your-name": "2016 anime film became Japan's highest-grossing anime at release",
+  "your-name": "Makoto Shinkai's 2016 body-swap anime became a global smash hit",
   "run-lola-run": "1998 German film replays 20 minutes three different ways",
   "the-intouchables": "2011 French film is based on a real friendship story",
   "leon-professional": "1994 film starred Jean Reno as a hitman who shelters a girl",
