@@ -74,7 +74,7 @@ export const VIDEOGAME_EMOJI7_FACTS = {
   "left-4-dead-2": "Valve's 2009 cooperative zombie shooter sequel.",
   "payday-3": "Starbreeze's 2023 heist shooter sequel.",
   "hunt-showdown": "Crytek's 2019 bounty-hunter survival shooter.",
-  "diablo-ii": "Blizzard's 1997 dungeon-crawler, hugely influential.",
+  "diablo-ii": "Blizzard's 2000 dungeon-crawler, hugely influential.",
   "chrono-cross": "Square's 1999 spiritual successor to Chrono Trigger.",
   "divinity-original-sin-ii": "Larian Studios' 2017 acclaimed party RPG.",
   "ori-and-the-will-of-the-wisps": "Moon Studios' 2020 metroidvania sequel.",
