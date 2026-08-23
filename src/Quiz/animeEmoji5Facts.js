@@ -22,7 +22,7 @@ export const ANIME_EMOJI5_FACTS = {
   "mobile-suit-gundam-wing": "Five teen pilots fight in Gundams called Mobile Suits.",
   "the-saga-of-tanya-the-evil": "A ruthless man is reborn as a girl in a magic-war world.",
   "say-i-love-you": "A guarded loner slowly opens up to a popular classmate.",
-  "grendizer": "A giant robot launches from a volcano hangar to fight invaders.",
+  "grendizer": "A giant robot launches from a hidden underground base.",
   "future-boy-conan": "A boy survives on an island after civilization's collapse.",
   "devilman": "A gentle boy merges with a demon to fight other demons.",
   "idolmaster": "Producers train idols for stardom in this game-based franchise.",
@@ -105,6 +105,6 @@ export const ANIME_EMOJI5_FACTS = {
   "cinderella-monogatari": "A Nippon Animation retelling of the classic Cinderella tale.",
   "little-match-girl": "Based on Hans Christian Andersen's classic fairy tale.",
   "kaiketsu-zorro": "A masked swordsman defends the people from a corrupt governor.",
-  "the-snow-queen-1957": "Toei's 1957 film was Japan's first full-color feature anime.",
+  "gigantor": "A boy controls a giant flying robot by remote in this 1960s anime.",
   "alakazam-the-great": "A vain monkey king learns humility on a long journey.",
 };

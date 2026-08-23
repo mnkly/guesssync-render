@@ -106,6 +106,6 @@ export const ANIME_EMOJI5 = [
   { id: "cinderella-monogatari", title: "Cinderella Monogatari", emojis: "👠🎃", level: "impossible" },
   { id: "little-match-girl", title: "The Little Match Girl", emojis: "🔥🕯", level: "impossible" },
   { id: "kaiketsu-zorro", title: "Kaiketsu Zorro", emojis: "🗡🖤", level: "impossible" },
-  { id: "the-snow-queen-1957", title: "The Snow Queen", emojis: "❄👸", level: "impossible" },
+  { id: "gigantor", title: "Gigantor", emojis: "🤖📡", level: "impossible" },
   { id: "alakazam-the-great", title: "Alakazam the Great", emojis: "🐒🌪", level: "impossible" },
 ];

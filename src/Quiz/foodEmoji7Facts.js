@@ -5,7 +5,7 @@ export const FOOD_EMOJI7_FACTS = {
   "meat-pie": "Meat pies date back to ancient Egyptian and Roman cooking.",
   "roast-beef": "Roast beef became England's Sunday roast tradition.",
   "cheese-toastie": "A cheese toastie is grilled bread with melted cheese inside.",
-  "veggie-burger": "The first veggie burger patent dates to 1982 in the US.",
+  "veggie-burger": "The VegeBurger launched in 1982 in London, UK.",
   "fish-burger": "The Filet-O-Fish was created for Catholic Fridays in 1962.",
   "shrimp-tacos": "Baja shrimp tacos originated on Mexico's Pacific coast.",
   "steak-tacos": "Tacos de carne asada use grilled, chopped steak.",
